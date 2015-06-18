@@ -1,0 +1,55 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift meta W" />
+  </action>
+  <action id="CopyElement" />
+  <action id="Macro.vsplit">
+    <keyboard-shortcut first-keystroke="shift meta D" />
+  </action>
+  <action id="MarkExcludeRoot">
+    <keyboard-shortcut first-keystroke="shift meta E" />
+  </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="control S" second-keystroke="M" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="control meta LEFT" />
+    <keyboard-shortcut first-keystroke="control W" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="control meta RIGHT" />
+  </action>
+  <action id="RecentChangedFiles" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="control T" />
+    <keyboard-shortcut first-keystroke="meta T" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="control S" second-keystroke="H" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="control S" second-keystroke="V" />
+  </action>
+  <action id="StructuralSearchPlugin.StructuralSearchAction" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+  <action id="UML.ApplyCurrentLayout" />
+  <action id="Uml.ShowDiff" />
+  <action id="Vcs.UpdateProject" />
+  <action id="com.jetbrains.python.console.RunPythonConsoleAction">
+    <keyboard-shortcut first-keystroke="F5" />
+  </action>
+</keymap>

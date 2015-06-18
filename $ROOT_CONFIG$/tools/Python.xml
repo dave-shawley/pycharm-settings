@@ -1,0 +1,14 @@
+<toolSet name="Python">
+  <tool name="flake8" description="Python style linter" showInMainMenu="false" showInEditor="false" showInProject="true" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Source/flaskenv/bin/flake8" />
+      <option name="PARAMETERS" value="--ignore=W293,W391,E128 --exit-zero $FilePathRelativeToProjectRoot$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+    <filter>
+      <option name="NAME" value="Flake output" />
+      <option name="DESCRIPTION" />
+      <option name="REGEXP" value="$FILE_PATH$:$LINE$:$COLUMN$:.*" />
+    </filter>
+  </tool>
+</toolSet>

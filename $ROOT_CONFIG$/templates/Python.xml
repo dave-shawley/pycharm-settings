@@ -1,0 +1,20 @@
+<templateSet group="Python">
+  <template name="fltest" value="class When$DoingSomething$(TestCase):&#10;&#10;    @classmethod&#10;    def arrange(cls):&#10;        pass&#10;&#10;    @classmethod&#10;    def act(cls):&#10;        $END$&#10;" description="Insert a FluentTest test case" toReformat="false" toShortenFQNames="true">
+    <variable name="DoingSomething" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="Python" value="true" />
+      <option name="Django" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+</templateSet>

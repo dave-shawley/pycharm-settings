@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="TextMateSettings">
+    <option name="themesMapping">
+      <map>
+        <entry key="Darcula" value="Darcula" />
+        <entry key="Default" value="Mac Classic" />
+        <entry key="Github" value="Mac Classic" />
+        <entry key="Monokai" value="Monokai" />
+        <entry key="Moonlight" value="Mac Classic" />
+        <entry key="My Scheme" value="Mac Classic" />
+        <entry key="Neon2" value="Mac Classic" />
+        <entry key="Twilight" value="Twilight" />
+        <entry key="Usable Neon" value="Mac Classic" />
+        <entry key="WarmNeon" value="Mac Classic" />
+      </map>
+    </option>
+  </component>
+</application>
+

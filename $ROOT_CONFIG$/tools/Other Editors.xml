@@ -1,0 +1,9 @@
+<toolSet name="Other Editors">
+  <tool name="Edit with Sublime..." description="Edit this file in Sublime Text" showInMainMenu="false" showInEditor="false" showInProject="true" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" />
+      <option name="PARAMETERS" value="$FileRelativePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
