@@ -370,11 +370,11 @@
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/testing.py" timestamp="1434075680219">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/marley/marley.py" timestamp="1434656986470">
-        <mark key="[" line="35" column="28" />
-        <mark key="]" line="36" column="19" />
-        <mark key="." line="36" column="19" />
-        <mark key="^" line="36" column="19" />
+      <file name="$USER_HOME$/Source/platform/marley/marley.py" timestamp="1434658111312">
+        <mark key="[" line="36" column="45" />
+        <mark key="]" line="37" column="65" />
+        <mark key="^" line="37" column="65" />
+        <mark key="." line="37" column="65" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/tests/unit/source_tests.py" timestamp="1404575197435">
         <mark key="'" line="1" column="13" />
