@@ -454,12 +454,9 @@
         <mark key="^" line="42" column="18" />
         <mark key="." line="42" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1434725388132">
-        <mark key="'" line="125" column="0" />
-        <mark key="[" line="137" column="11" />
-        <mark key="]" line="137" column="15" />
-        <mark key="^" line="137" column="15" />
-        <mark key="." line="137" column="15" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1434727555509">
+        <mark key="'" line="148" column="0" />
+        <mark key="[" line="139" column="59" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
@@ -693,11 +690,12 @@
       <file name="$USER_HOME$/Source/python/glinda/docs/conf.py" timestamp="1431950408054">
         <mark key="'" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/avro-schemas/rpc/send.smtp.v1.avsc" timestamp="1434726186346">
-        <mark key="[" line="30" column="21" />
-        <mark key="]" line="36" column="31" />
-        <mark key="." line="36" column="31" />
-        <mark key="^" line="36" column="31" />
+      <file name="$USER_HOME$/Source/platform/avro-schemas/rpc/send.smtp.v1.avsc" timestamp="1434727225404">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="43" column="9" />
+        <mark key="]" line="43" column="9" />
+        <mark key="." line="43" column="9" />
+        <mark key="^" line="43" column="9" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-janitor/env/lib/python3.4/site-packages/setuptools/__init__.py" timestamp="1416145393021">
         <mark key="'" line="57" column="23" />
@@ -886,11 +884,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="90" column="36" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="118" column="17" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/bson/objectid.py" />
       <jump line="180" column="8" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/bson/objectid.py" />
@@ -986,13 +979,18 @@
       <jump line="153" column="11" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="133" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="125" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="9" column="31" filename="$USER_HOME$/Source/platform/avro-schemas/rpc/send.smtp.v1.avsc" />
+      <jump line="22" column="0" filename="$USER_HOME$/Source/platform/avro-schemas/rpc/send.smtp.v1.avsc" />
+      <jump line="160" column="11" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="161" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="148" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CgpjbGFzcyBXaGVuUGFyc2luZ0xpc3RIZWFkZXIodW5pdHRlc3QuVGVzdENhc2UpOgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3118,7 +3116,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>have_attachments</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>logging</text>
@@ -3127,25 +3125,25 @@
         <text encoding="base64">ICAgICAgICAjIG5vaW5zcGVjdGlvbiBQeUFyZ3VtZW50TGlzdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4oaW5wdXRfbWVzc2FnZS5nZXQoJ2F0dGFjaG1lbnRzJywgW10pKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm5hbWUiOiAiYXR0YWNobWVudHMiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWltZV9tZXNzYWdlID0gbXVsdGlwYXJ0Lk1JTUVNdWx0aXBhcnQoJ2FsdGVybmF0aXZlJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>have_attachments</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWltZV9tZXNzYWdlID0gbXVsdGlwYXJ0Lk1JTUVNdWx0aXBhcnQoJ21peGVkJykK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4788,16 +4786,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWltZV9tZXNzYWdlID0gbXVsdGlwYXJ0Lk1JTUVNdWx0aXBhcnQoJ21peGVkJykK</text>
+        <text encoding="base64">ICAgICAgICBpZiBGYWxzZToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBoYXZlX2F0dGFjaG1lbnRzOgo=</text>
+        <text encoding="base64">ICAgICAgICBsZiAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>,</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -4833,7 +4831,6 @@
         <entry>logging</entry>
       </history-search>
       <history-cmd>
-        <entry>22</entry>
         <entry>26</entry>
         <entry>24</entry>
         <entry>75</entry>
@@ -4851,8 +4848,9 @@
         <entry>76</entry>
         <entry>90</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
