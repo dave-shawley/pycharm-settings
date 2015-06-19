@@ -25,9 +25,6 @@
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/httpclient.py" timestamp="1434320606809">
         <mark key="'" line="361" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1432562500758">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/flaskenv/src/readit/tests/testing.py" timestamp="1359217455814">
         <mark key="'" line="212" column="0" />
         <mark key="[" line="226" column="7" />
@@ -41,6 +38,14 @@
         <mark key="]" line="43" column="15" />
         <mark key="^" line="43" column="15" />
         <mark key="." line="43" column="15" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" timestamp="1434729835364">
+        <mark key="a" line="380" column="46" />
+        <mark key="'" line="387" column="0" />
+        <mark key="[" line="381" column="0" />
+        <mark key="]" line="381" column="0" />
+        <mark key="." line="381" column="0" />
+        <mark key="^" line="380" column="60" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/haregel/application.py" timestamp="1424434445035">
         <mark key="'" line="30" column="38" />
@@ -103,9 +108,8 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/auth.py" timestamp="1434365814941">
-        <mark key="a" line="606" column="28" />
-        <mark key="'" line="791" column="4" />
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/mime/text.py" timestamp="1434728833832">
+        <mark key="'" line="13" column="15" />
       </file>
       <file name="$USER_HOME$/Source/python/ietfparse/docs/urls.rst" timestamp="1411922099037">
         <mark key="'" line="51" column="0" />
@@ -177,9 +181,6 @@
         <mark key="]" line="31" column="21" />
         <mark key="^" line="31" column="21" />
         <mark key="." line="31" column="21" />
-      </file>
-      <file name="/" timestamp="1431259129752">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/json/decoder.py" timestamp="1432989858806">
         <mark key="'" line="334" column="45" />
@@ -262,9 +263,6 @@
         <mark key="^" line="91" column="51" />
         <mark key="." line="91" column="51" />
       </file>
-      <file name="/fragment.py" timestamp="1434248643024">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/python/ietfparse/docs/conf.py" timestamp="1411266927643">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="30" column="39" />
@@ -305,8 +303,12 @@
         <mark key="^" line="139" column="7" />
         <mark key="." line="127" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/avrohelpers.py" timestamp="1434736113337" />
       <file name="$USER_HOME$/opt/lib/python3.4/selectors.py" timestamp="1423406565674">
         <mark key="'" line="169" column="8" />
+      </file>
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/mime/base.py" timestamp="1434735159417">
+        <mark key="'" line="22" column="24" />
       </file>
       <file name="$USER_HOME$/Source/python/ietfparse/docs/header-processing.rst" timestamp="1411303158226">
         <mark key="'" line="18" column="0" />
@@ -407,10 +409,6 @@
         <mark key="^" line="82" column="43" />
         <mark key="." line="82" column="43" />
       </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/web.py" timestamp="1434323421799">
-        <mark key="a" line="3056" column="4" />
-        <mark key="'" line="3195" column="4" />
-      </file>
       <file name="$USER_HOME$/Source/family-tree/doc/internals.rst" timestamp="1405283727374">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="11" column="0" />
@@ -454,9 +452,13 @@
         <mark key="^" line="42" column="18" />
         <mark key="." line="42" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1434727555509">
-        <mark key="'" line="148" column="0" />
-        <mark key="[" line="139" column="59" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1434735894346">
+        <mark key="a" line="164" column="15" />
+        <mark key="'" line="151" column="41" />
+        <mark key="[" line="141" column="59" />
+        <mark key="]" line="144" column="59" />
+        <mark key="." line="144" column="59" />
+        <mark key="^" line="144" column="59" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
@@ -485,10 +487,6 @@
         <mark key="]" line="11" column="22" />
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/http1connection.py" timestamp="1434106533400">
-        <mark key="a" line="184" column="41" />
-        <mark key="'" line="150" column="20" />
       </file>
       <file name="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/helper/config.py" timestamp="1434664356176">
         <mark key="'" line="25" column="42" />
@@ -599,6 +597,9 @@
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/tcpserver.py" timestamp="1431173123597">
         <mark key="'" line="124" column="18" />
       </file>
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/mime/nonmultipart.py" timestamp="1434728842305">
+        <mark key="'" line="13" column="23" />
+      </file>
       <file name="$USER_HOME$/Source/python/readit2/readit/compat.py" timestamp="1433157548498">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="28" column="22" />
@@ -690,7 +691,7 @@
       <file name="$USER_HOME$/Source/python/glinda/docs/conf.py" timestamp="1431950408054">
         <mark key="'" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/avro-schemas/rpc/send.smtp.v1.avsc" timestamp="1434727225404">
+      <file name="$USER_HOME$/Source/platform/avro-schemas/rpc/send.smtp.v1.avsc" timestamp="1434735632615">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="43" column="9" />
         <mark key="]" line="43" column="9" />
@@ -726,6 +727,9 @@
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/distutils/core.py" timestamp="1416700912892">
         <mark key="'" line="98" column="16" />
+      </file>
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/mime/multipart.py" timestamp="1434735137409">
+        <mark key="'" line="12" column="20" />
       </file>
       <file name="$USER_HOME$/Source/python/messages/messages/compat.py" timestamp="1430964438621">
         <mark key="'" line="6" column="0" />
@@ -884,41 +888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="36" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="118" column="17" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/bson/objectid.py" />
-      <jump line="180" column="8" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/bson/objectid.py" />
-      <jump line="120" column="17" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/bson/objectid.py" />
-      <jump line="202" column="8" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/bson/objectid.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="25" column="53" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="41" column="8" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="20" column="4" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="2120" column="6" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/web.py" />
-      <jump line="32" column="39" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
-      <jump line="2111" column="6" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/web.py" />
-      <jump line="54" column="11" filename="$USER_HOME$/Source/platform/marley/marley.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/Source/platform/marley/marley.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/Source/platform/marley/marley.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/Source/platform/marley/marley.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Source/platform/marley/marley.py" />
-      <jump line="573" column="35" filename="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="369" column="0" filename="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="375" column="0" filename="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="380" column="0" filename="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="383" column="0" filename="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="388" column="0" filename="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="393" column="0" filename="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="400" column="0" filename="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="408" column="0" filename="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="415" column="0" filename="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="419" column="0" filename="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/rejected/process.py" />
       <jump line="756" column="30" filename="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/rejected/process.py" />
       <jump line="14" column="8" filename="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/rejected/stats.py" />
       <jump line="126" column="8" filename="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/rejected/process.py" />
@@ -965,7 +934,6 @@
       <jump line="15" column="34" filename="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/helper/config.py" />
       <jump line="19" column="9" filename="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/helper/config.py" />
       <jump line="25" column="42" filename="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/helper/config.py" />
-      <jump line="150" column="12" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="116" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="115" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="113" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
@@ -976,21 +944,57 @@
       <jump line="85" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="80" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="111" column="36" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="153" column="11" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="133" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="125" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="9" column="31" filename="$USER_HOME$/Source/platform/avro-schemas/rpc/send.smtp.v1.avsc" />
       <jump line="22" column="0" filename="$USER_HOME$/Source/platform/avro-schemas/rpc/send.smtp.v1.avsc" />
-      <jump line="160" column="11" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="161" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="148" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="138" column="30" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="141" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="1" column="28" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="162" column="24" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="13" column="15" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/mime/text.py" />
+      <jump line="13" column="23" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/mime/nonmultipart.py" />
+      <jump line="12" column="6" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/mime/base.py" />
+      <jump line="169" column="38" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="168" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="156" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="154" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="153" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="166" column="23" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="160" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="145" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="158" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="151" column="31" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="164" column="19" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="163" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="136" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="150" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="146" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="139" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="119" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="395" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="394" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="388" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="382" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="371" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="355" column="16" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="100" column="36" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="124" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="114" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="385" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="387" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="147" column="41" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="12" column="20" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/mime/multipart.py" />
+      <jump line="22" column="24" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/mime/base.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CgpjbGFzcyBXaGVuUGFyc2luZ0xpc3RIZWFkZXIodW5pdHRlc3QuVGVzdENhc2UpOgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3116,34 +3120,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>logging</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIG5vaW5zcGVjdGlvbiBQeUFyZ3VtZW50TGlzdAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihtc2cuZ2V0X3BheWxvYWQoKSksIDEpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+      <register name="1" type="4">
+        <text />
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4oaW5wdXRfbWVzc2FnZS5nZXQoJ2F0dGFjaG1lbnRzJywgW10pKToK</text>
+      <register name="2" type="4">
+        <text />
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text />
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWltZV9tZXNzYWdlID0gbXVsdGlwYXJ0Lk1JTUVNdWx0aXBhcnQoJ2FsdGVybmF0aXZlJykK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWltZV9tZXNzYWdlID0gbXVsdGlwYXJ0Lk1JTUVNdWx0aXBhcnQoJ21peGVkJykK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4785,17 +4789,17 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBGYWxzZToK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZiAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihtc2cuZ2V0X3BheWxvYWQoKSksIDEpCg==</text>
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text>), 1)</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -4848,9 +4852,9 @@
         <entry>76</entry>
         <entry>90</entry>
         <entry>q</entry>
-        <entry>1</entry>
-        <entry>w</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
