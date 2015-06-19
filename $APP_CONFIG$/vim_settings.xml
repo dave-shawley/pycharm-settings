@@ -454,12 +454,12 @@
         <mark key="^" line="42" column="18" />
         <mark key="." line="42" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1434717751808">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1434725388132">
         <mark key="'" line="125" column="0" />
-        <mark key="[" line="140" column="16" />
-        <mark key="]" line="146" column="62" />
-        <mark key="^" line="146" column="62" />
-        <mark key="." line="146" column="62" />
+        <mark key="[" line="137" column="11" />
+        <mark key="]" line="137" column="15" />
+        <mark key="^" line="137" column="15" />
+        <mark key="." line="137" column="15" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
@@ -692,6 +692,12 @@
       </file>
       <file name="$USER_HOME$/Source/python/glinda/docs/conf.py" timestamp="1431950408054">
         <mark key="'" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/avro-schemas/rpc/send.smtp.v1.avsc" timestamp="1434726186346">
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="36" column="31" />
+        <mark key="." line="36" column="31" />
+        <mark key="^" line="36" column="31" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-janitor/env/lib/python3.4/site-packages/setuptools/__init__.py" timestamp="1416145393021">
         <mark key="'" line="57" column="23" />
@@ -985,8 +991,8 @@
       <register name="a" type="2">
         <text encoding="base64">CgpjbGFzcyBXaGVuUGFyc2luZ0xpc3RIZWFkZXIodW5pdHRlc3QuVGVzdENhc2UpOgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>attachments.append(alternative)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3112,7 +3118,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>attachments.append(alternative)</text>
+        <text>have_attachments</text>
       </register>
       <register name="/" type="4">
         <text>logging</text>
@@ -3120,26 +3126,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIG5vaW5zcGVjdGlvbiBQeUFyZ3VtZW50TGlzdAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>attachments.append(alternative)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>attachments = []</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcHJpbnQocm9vdCwgc3RyZWFtPW91dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvdXQgPSBTdHJpbmdJTygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm5hbWUiOiAiYXR0YWNobWVudHMiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHBwcmludCBpbXBvcnQgcHByaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGNTdHJpbmdJTyBpbXBvcnQgU3RyaW5nSU8K</text>
+      <register name="6" type="4">
+        <text>have_attachments</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4782,13 +4788,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWltZV9tZXNzYWdlID0gbXVsdGlwYXJ0Lk1JTUVNdWx0aXBhcnQoJ21peGVkJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByb290ID0gbG9nZ2luZy5nZXRMb2dnZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBoYXZlX2F0dGFjaG1lbnRzOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmdldExvZ2dlcigncmVqZWN0ZWQubWNwJykuY3JpdGljYWwoJyVzJywgb3V0LmdldHZhbHVlKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
