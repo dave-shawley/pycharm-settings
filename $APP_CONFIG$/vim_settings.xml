@@ -39,12 +39,12 @@
         <mark key="^" line="43" column="15" />
         <mark key="." line="43" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" timestamp="1434739863270">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" timestamp="1434747672795">
         <mark key="a" line="389" column="46" />
         <mark key="'" line="44" column="30" />
-        <mark key="[" line="497" column="35" />
-        <mark key="]" line="498" column="17" />
-        <mark key="." line="498" column="17" />
+        <mark key="[" line="44" column="31" />
+        <mark key="]" line="44" column="31" />
+        <mark key="." line="44" column="31" />
         <mark key="^" line="498" column="17" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/haregel/application.py" timestamp="1424434445035">
@@ -994,7 +994,7 @@
         <text encoding="base64">CgpjbGFzcyBXaGVuUGFyc2luZ0xpc3RIZWFkZXIodW5pdHRlc3QuVGVzdENhc2UpOgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3120,7 +3120,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>prepare</text>
@@ -3129,25 +3129,25 @@
         <text encoding="base64">ICAgIHBhcnNlX3NjaGVtYSgnc2VuZC5zbXRwJykK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>1</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>v</text>
+        <text>1</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>v</text>
       </register>
       <register name="6" type="4">
-        <text>'</text>
+        <text>.</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4790,13 +4790,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="8" type="4">
-        <text>+</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>+</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
