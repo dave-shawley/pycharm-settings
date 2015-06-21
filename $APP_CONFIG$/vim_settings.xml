@@ -20,12 +20,12 @@
         <mark key="." line="12" column="9" />
         <mark key="[" line="12" column="8" />
       </file>
-      <file name="$USER_HOME$/Source/python/readit2/static/js/app.js" timestamp="1434903926187">
-        <mark key="'" line="27" column="0" />
-        <mark key="]" line="60" column="61" />
-        <mark key="^" line="60" column="61" />
-        <mark key="." line="60" column="61" />
-        <mark key="[" line="60" column="61" />
+      <file name="$USER_HOME$/Source/python/readit2/static/js/app.js" timestamp="1434905282007">
+        <mark key="'" line="35" column="0" />
+        <mark key="]" line="73" column="65" />
+        <mark key="^" line="73" column="69" />
+        <mark key="." line="73" column="64" />
+        <mark key="[" line="73" column="64" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/source.py" timestamp="1404575111376">
         <mark key="'" line="22" column="0" />
@@ -865,8 +865,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2120" column="6" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/web.py" />
-      <jump line="32" column="39" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
       <jump line="2111" column="6" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/web.py" />
       <jump line="29" column="4" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="13" column="9" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
@@ -964,11 +962,13 @@
       <jump line="58" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="63" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="49" column="24" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
+      <jump line="58" column="8" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
+      <jump line="37" column="18" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
       <jump line="27" column="0" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>location.</text>
+        <text>6</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">CgpjbGFzcyBXaGVuUGFyc2luZ0xpc3RIZWFkZXIodW5pdHRlc3QuVGVzdENhc2UpOgo=</text>
@@ -3100,7 +3100,7 @@
         <text>edit-controls</text>
       </register>
       <register name="-" type="4">
-        <text>location.</text>
+        <text>6</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4742,41 +4742,41 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="4">
-        <text>error</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZ29ubmEgcmVkaXJlY3QiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXJndW1lbnRzKTsK</text>
+        <text encoding="base64">ICAgICAgdmFyIGN1cnJlbnRMb2MgPSB3aW5kb3cubG9jYXRpb24udG9TdHJpbmcoKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>location.</text>
+        <text>6</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiAiTGF0byIsICJwcm94aW1hLW5vdmEiLCAiSGVsdmV0aWNhIE5ldWUiLCBBcmlhbCwgc2Fucy1zZXJpZjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnJlcXVlc3QuaG9zdCkpCg==</text>
+        <text encoding="base64">ICAgICAgd2luZG93LmxvY2F0aW9uLmFzc2lnbigK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRpY191cmwoJ2luZGV4Lmh0bWwnKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24udG9TdHJpbmcoKS5yZXBsYWNlKC9eKGh0dHA6XC9cL1teXC9dKlwvKS4qJC8sICIkMSIpKTsK</text>
       </register>
       <register name="5" type="4">
-        <text>jqxhr</text>
+        <text>})</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXJndW1lbnRzKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnMK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjICd7MH06Ly97MX0vc3RhdGljL2luZGV4Lmh0bWwnLmZvcm1hdChzZWxmLnJlcXVlc3QucHJvdG9jb2wsCg==</text>
+        <text encoding="base64">ICAgIH0pLmVycm9yKGZ1bmN0aW9uICgpIHsK</text>
       </register>
     </registers>
     <search>
@@ -4830,8 +4830,8 @@
         <entry>.,+4s/'/&quot;/g</entry>
         <entry>s/'/&quot;/g</entry>
         <entry>sp</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
