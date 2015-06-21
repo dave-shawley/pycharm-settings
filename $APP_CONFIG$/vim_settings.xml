@@ -412,12 +412,12 @@
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/base_connection.py" timestamp="1430073332187">
         <mark key="'" line="123" column="25" />
       </file>
-      <file name="$USER_HOME$/Source/python/readit2/readit/handlers.py" timestamp="1434903631957">
-        <mark key="'" line="63" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="78" column="58" />
-        <mark key="." line="78" column="0" />
-        <mark key="[" line="78" column="0" />
+      <file name="$USER_HOME$/Source/python/readit2/readit/handlers.py" timestamp="1434918792821">
+        <mark key="'" line="185" column="0" />
+        <mark key="]" line="203" column="43" />
+        <mark key="^" line="203" column="43" />
+        <mark key="." line="203" column="43" />
+        <mark key="[" line="199" column="64" />
       </file>
       <file name="$USER_HOME$/Source/python/glinda/tests/testing_tests.py" timestamp="1432035277941">
         <mark key="'" line="127" column="0" />
@@ -865,50 +865,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2111" column="6" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/web.py" />
-      <jump line="29" column="4" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="13" column="9" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="143" column="0" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
-      <jump line="11" column="4" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
-      <jump line="9" column="11" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
-      <jump line="128" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="116" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
-      <jump line="165" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="154" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="139" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="134" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="137" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="24" column="6" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
-      <jump line="606" column="28" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/auth.py" />
-      <jump line="575" column="8" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/auth.py" />
-      <jump line="374" column="49" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/auth.py" />
-      <jump line="367" column="25" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/auth.py" />
-      <jump line="322" column="8" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/auth.py" />
-      <jump line="859" column="4" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/auth.py" />
-      <jump line="176" column="23" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="172" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="161" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="146" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="141" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="130" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="117" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
-      <jump line="126" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="123" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="121" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="118" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="105" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="99" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="91" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="81" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="51" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
@@ -947,9 +903,6 @@
       <jump line="96" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="102" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="132" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="136" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="138" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="145" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="28" column="63" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
@@ -965,10 +918,57 @@
       <jump line="58" column="8" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
       <jump line="37" column="18" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
       <jump line="27" column="0" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
+      <jump line="130" column="24" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="120" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="141" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="135" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="112" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="108" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="154" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="143" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="136" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="160" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="156" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="148" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="146" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="145" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="138" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="118" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="109" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="139" column="8" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="144" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="149" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="162" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="167" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="189" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="242" column="12" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="238" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="227" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="212" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="207" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="196" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="194" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="762" column="0" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/auth.py" />
+      <jump line="245" column="28" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="241" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="230" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="215" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="210" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="199" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="197" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="186" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="173" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="185" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>https://accounts.google.com/.../auth</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">CgpjbGFzcyBXaGVuUGFyc2luZ0xpc3RIZWFkZXIodW5pdHRlc3QuVGVzdENhc2UpOgo=</text>
@@ -3100,7 +3100,7 @@
         <text>edit-controls</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>https://accounts.google.com/.../auth</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4743,40 +4743,40 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZ29ubmEgcmVkaXJlY3QiKTsK</text>
+        <text encoding="base64">ICAgICAgICAtICoqbGluayoqCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGN1cnJlbnRMb2MgPSB3aW5kb3cubG9jYXRpb24udG9TdHJpbmcoKTsK</text>
+      <register name="2" type="4">
+        <text>www</text>
       </register>
       <register name="1" type="4">
-        <text>6</text>
+        <text>https://accounts.google.com/.../auth</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiAiTGF0byIsICJwcm94aW1hLW5vdmEiLCAiSGVsdmV0aWNhIE5ldWUiLCBBcmlhbCwgc2Fucy1zZXJpZjsK</text>
+        <text encoding="base64">ICAgICAgICAtICoqdGl0bGUqKiB0aGUgdGl0bGUgb2YgdGhlIGFydGljbGUKICAgICAgICAtICoqbGluayoqIGxpbmsgdG8gdGhlIGFydGljbGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LmxvY2F0aW9uLmFzc2lnbigK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gb2JqZWN0X2lkOiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5kb3cubG9jYXRpb24udG9TdHJpbmcoKS5yZXBsYWNlKC9eKGh0dHA6XC9cL1teXC9dKlwvKS4qJC8sICIkMSIpKTsK</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>})</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAtICoqdGFncyoqCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXJndW1lbnRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAtICoqdGl0bGUqKgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pLmVycm9yKGZ1bmN0aW9uICgpIHsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">YSByZWFkaW5nIA==</text>
       </register>
     </registers>
     <search>
