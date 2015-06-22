@@ -21,11 +21,10 @@
         <mark key="[" line="12" column="8" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/static/js/app.js" timestamp="1434905282007">
-        <mark key="'" line="35" column="0" />
-        <mark key="]" line="73" column="65" />
-        <mark key="^" line="73" column="69" />
-        <mark key="." line="73" column="64" />
-        <mark key="[" line="73" column="64" />
+        <mark key="]" line="13" column="65" />
+        <mark key="^" line="13" column="69" />
+        <mark key="." line="13" column="64" />
+        <mark key="[" line="13" column="64" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/source.py" timestamp="1404575111376">
         <mark key="'" line="22" column="0" />
@@ -311,6 +310,9 @@
         <mark key="." line="97" column="77" />
         <mark key="[" line="97" column="68" />
       </file>
+      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/uri_parser.py" timestamp="1434970823770">
+        <mark key="'" line="291" column="23" />
+      </file>
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/simple_httpclient.py" timestamp="1434107116390">
         <mark key="'" line="409" column="28" />
         <mark key="]" line="502" column="0" />
@@ -320,6 +322,9 @@
       </file>
       <file name="$USER_HOME$/opt/lib/python2.7/distutils/dist.py" timestamp="1419858091830">
         <mark key="'" line="163" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/mongo_client.py" timestamp="1434971316208">
+        <mark key="'" line="289" column="40" />
       </file>
       <file name="$USER_HOME$/Source/python/ietfparse/tests/generic_parsing_tests.py" timestamp="1432563703836">
         <mark key="'" line="18" column="18" />
@@ -485,8 +490,8 @@
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/httpclient.py" timestamp="1431946804467">
         <mark key="'" line="227" column="22" />
       </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/motor/__init__.py" timestamp="1433090318216">
-        <mark key="'" line="1086" column="20" />
+      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/motor/__init__.py" timestamp="1434970697534">
+        <mark key="'" line="1032" column="46" />
       </file>
       <file name="$USER_HOME$/Source/python/sampson/bah.py" timestamp="1419598697139">
         <mark key="'" line="91" column="0" />
@@ -545,6 +550,9 @@
         <mark key="^" line="49" column="40" />
         <mark key="." line="49" column="40" />
         <mark key="[" line="49" column="26" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/common.py" timestamp="1434971322950">
+        <mark key="'" line="346" column="16" />
       </file>
       <file name="$USER_HOME$/Source/python/glinda/docs/conf.py" timestamp="1431950408054">
         <mark key="'" line="7" column="0" />
@@ -700,7 +708,8 @@
         <mark key="." line="26" column="50" />
         <mark key="[" line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/python/readit2/readit/__main__.py" timestamp="1434903169404">
+      <file name="$USER_HOME$/Source/python/readit2/readit/__main__.py" timestamp="1434970688878">
+        <mark key="'" line="19" column="19" />
         <mark key="]" line="42" column="0" />
         <mark key="^" line="32" column="46" />
         <mark key="." line="42" column="0" />
@@ -865,25 +874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="53" column="48" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="77" column="28" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
       <jump line="33" column="0" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
       <jump line="15" column="21" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
@@ -965,6 +955,25 @@
       <jump line="186" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="173" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="185" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="1058" column="34" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/motor/__init__.py" />
+      <jump line="929" column="31" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/motor/__init__.py" />
+      <jump line="988" column="24" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/motor/__init__.py" />
+      <jump line="19" column="19" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
+      <jump line="1032" column="46" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/motor/__init__.py" />
+      <jump line="256" column="37" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/mongo_client.py" />
+      <jump line="317" column="0" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/uri_parser.py" />
+      <jump line="308" column="0" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/uri_parser.py" />
+      <jump line="305" column="0" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/uri_parser.py" />
+      <jump line="298" column="0" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/uri_parser.py" />
+      <jump line="296" column="0" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/uri_parser.py" />
+      <jump line="291" column="23" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/uri_parser.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/uri_parser.py" />
+      <jump line="263" column="20" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/mongo_client.py" />
+      <jump line="262" column="0" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/mongo_client.py" />
+      <jump line="247" column="0" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/mongo_client.py" />
+      <jump line="289" column="40" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/mongo_client.py" />
+      <jump line="346" column="16" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/common.py" />
+      <jump line="292" column="0" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/common.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3097,7 +3106,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>edit-controls</text>
+        <text encoding="base64">XDxfX2RlbGVnYXRlX2NsYXNzX19cPg==</text>
       </register>
       <register name="-" type="4">
         <text>https://accounts.google.com/.../auth</text>
@@ -4770,7 +4779,7 @@
         <text encoding="base64">ICAgICAgICAtICoqdGl0bGUqKgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -4780,9 +4789,9 @@
       </register>
     </registers>
     <search>
-      <last-search>edit-controls</last-search>
+      <last-search encoding="base64">XDxfX2RlbGVnYXRlX2NsYXNzX19cPg==</last-search>
       <last-offset />
-      <last-pattern>edit-controls</last-pattern>
+      <last-pattern encoding="base64">XDxfX2RlbGVnYXRlX2NsYXNzX19cPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -4790,7 +4799,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxodHRwY2xpZW50XD4=</entry>
         <entry encoding="base64">XDxwcmludFw+</entry>
         <entry>full_</entry>
         <entry>HTTPRespons</entry>
@@ -4810,10 +4818,9 @@
         <entry encoding="base64">XDxfT0FVVEhfQVVUSE9SSVpFX1VSTFw+</entry>
         <entry>edit-link</entry>
         <entry>edit-controls</entry>
+        <entry encoding="base64">XDxfX2RlbGVnYXRlX2NsYXNzX19cPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>26</entry>
-        <entry>24</entry>
         <entry>75</entry>
         <entry>18</entry>
         <entry>65</entry>
@@ -4830,8 +4837,10 @@
         <entry>.,+4s/'/&quot;/g</entry>
         <entry>s/'/&quot;/g</entry>
         <entry>sp</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>239</entry>
+        <entry>904</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
