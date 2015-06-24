@@ -179,6 +179,9 @@
       <file name="$USER_HOME$/opt/lib/python3.4/json/decoder.py" timestamp="1432989858806">
         <mark key="'" line="334" column="45" />
       </file>
+      <file name="$APP_CONFIG$/vim_settings.xml" timestamp="1435150823172">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/python/ietfparse/tests/generic_parsing_tests.py" timestamp="1432563703836">
         <mark key="'" line="18" column="18" />
         <mark key="[" line="18" column="12" />
@@ -429,12 +432,8 @@
         <mark key="." line="42" column="18" />
       </file>
       <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1435085704994">
-        <mark key="a" line="498" column="4" />
-        <mark key="'" line="388" column="46" />
-        <mark key="[" line="239" column="27" />
-        <mark key="]" line="239" column="27" />
-        <mark key="." line="239" column="35" />
-        <mark key="^" line="183" column="42" />
+        <mark key="a" line="499" column="4" />
+        <mark key="'" line="389" column="46" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
