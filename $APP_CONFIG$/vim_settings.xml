@@ -431,9 +431,9 @@
         <mark key="^" line="42" column="18" />
         <mark key="." line="42" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1435160650850">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1435161607410">
         <mark key="a" line="392" column="52" />
-        <mark key="'" line="115" column="23" />
+        <mark key="'" line="303" column="34" />
         <mark key="[" line="399" column="29" />
         <mark key="]" line="399" column="45" />
         <mark key="." line="399" column="45" />
@@ -946,12 +946,12 @@
       <jump line="135" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="86" column="16" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="113" column="38" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="303" column="34" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="397" column="34" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="110" column="38" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="275" column="38" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="115" column="23" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="265" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="303" column="34" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -4763,7 +4763,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name=":" type="4">
-        <text>399</text>
+        <text>308</text>
       </register>
     </registers>
     <search>
@@ -4799,7 +4799,6 @@
         <entry>CID</entry>
       </history-search>
       <history-cmd>
-        <entry>vsp</entry>
         <entry>145</entry>
         <entry>169</entry>
         <entry>146</entry>
@@ -4819,6 +4818,7 @@
         <entry>:1</entry>
         <entry>1</entry>
         <entry>399</entry>
+        <entry>308</entry>
       </history-cmd>
       <history-expr />
       <history-input />
