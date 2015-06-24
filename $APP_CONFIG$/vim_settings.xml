@@ -20,11 +20,12 @@
         <mark key="." line="12" column="9" />
         <mark key="[" line="12" column="8" />
       </file>
-      <file name="$USER_HOME$/Source/python/readit2/static/js/app.js" timestamp="1434905282007">
-        <mark key="]" line="13" column="65" />
-        <mark key="^" line="13" column="69" />
-        <mark key="." line="13" column="64" />
-        <mark key="[" line="13" column="64" />
+      <file name="$USER_HOME$/Source/python/readit2/static/js/app.js" timestamp="1435184210951">
+        <mark key="'" line="39" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="69" column="22" />
+        <mark key="." line="20" column="0" />
+        <mark key="[" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/source.py" timestamp="1404575111376">
         <mark key="'" line="22" column="0" />
@@ -420,12 +421,8 @@
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/base_connection.py" timestamp="1430073332187">
         <mark key="'" line="123" column="25" />
       </file>
-      <file name="$USER_HOME$/Source/python/readit2/readit/handlers.py" timestamp="1435146079867">
-        <mark key="'" line="62" column="0" />
-        <mark key="]" line="150" column="21" />
-        <mark key="^" line="210" column="20" />
-        <mark key="." line="150" column="0" />
-        <mark key="[" line="150" column="0" />
+      <file name="$USER_HOME$/Source/python/readit2/readit/handlers.py" timestamp="1435183715751">
+        <mark key="'" line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/glinda/tests/testing_tests.py" timestamp="1432035277941">
         <mark key="'" line="127" column="0" />
@@ -711,13 +708,8 @@
         <mark key="." line="26" column="50" />
         <mark key="[" line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/python/readit2/readit/__main__.py" timestamp="1435146342437">
-        <mark key="'" line="32" column="20" />
-        <mark key="a" line="20" column="17" />
-        <mark key="]" line="20" column="49" />
-        <mark key="^" line="20" column="49" />
-        <mark key="." line="20" column="49" />
-        <mark key="[" line="20" column="18" />
+      <file name="$USER_HOME$/Source/python/readit2/readit/__main__.py" timestamp="1435183586000">
+        <mark key="'" line="32" column="34" />
       </file>
       <file name="$USER_HOME$/Source/python/messages/tests/__init__.py" timestamp="1431000063425">
         <mark key="'" line="23" column="53" />
@@ -878,13 +870,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="242" column="12" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="238" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="227" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="212" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="207" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="196" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="194" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="762" column="0" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/auth.py" />
       <jump line="245" column="28" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
@@ -924,15 +909,7 @@
       <jump line="52" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="57" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="66" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="78" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="92" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="96" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="109" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="113" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="118" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="123" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="128" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
@@ -977,11 +954,26 @@
       <jump line="20" column="19" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
       <jump line="1058" column="33" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/motor/__init__.py" />
       <jump line="1022" column="0" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/motor/__init__.py" />
-      <jump line="32" column="20" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
+      <jump line="32" column="34" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="114" column="8" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="109" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="92" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
+      <jump line="55" column="2" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
+      <jump line="61" column="14" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEB3ZWIuYXN5bmNocm9ub3VzCg==</text>
+        <text encoding="base64">ICAgICAgZGF0YVR5cGU6ICJqc29uIgo=</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">CgpjbGFzcyBXaGVuUGFyc2luZ0xpc3RIZWFkZXIodW5pdHRlc3QuVGVzdENhc2UpOgo=</text>
@@ -3113,7 +3105,7 @@
         <text>find_one</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eWllbGQg</text>
+        <text>jqxhr</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4756,40 +4748,40 @@
         </keys>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>jqxhr</text>
       </register>
-      <register name="2" type="4">
-        <text>result</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgZGF0YVR5cGU6ICJqc29uIgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">eWllbGQg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgZGF0YVR5cGU6ICJqc29uIgo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEB3ZWIuYXN5bmNocm9ub3VzCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coanF4aHIpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">eWllbGQg</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLy8gIHdpbmRvdy5sb2NhdGlvbi5hc3NpZ24ocm9vdFVSTCk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>result</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLy99Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>coro</text>
+        <text>})</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="4">
-        <text encoding="base64">eWllbGQg</text>
+        <text>jqxhr</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>ioloop.IOLoop.instance().add_timeout,</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH0pLmVycm9yKGZ1bmN0aW9uICgpIHsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLy9pZiAod2luZG93LmxvY2F0aW9uLnBhdGhuYW1lICE9PSAiIikgewo=</text>
       </register>
     </registers>
     <search>
