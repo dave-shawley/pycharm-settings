@@ -42,14 +42,13 @@
         <mark key="^" line="43" column="15" />
         <mark key="." line="43" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" timestamp="1435256297323">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" timestamp="1435261177449">
         <mark key="a" line="542" column="0" />
         <mark key="e" line="542" column="8" />
         <mark key="'" line="632" column="0" />
-        <mark key="[" line="578" column="25" />
-        <mark key="]" line="578" column="45" />
-        <mark key="." line="578" column="55" />
-        <mark key="^" line="578" column="45" />
+        <mark key="[" line="649" column="0" />
+        <mark key="]" line="649" column="0" />
+        <mark key="." line="649" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/haregel/application.py" timestamp="1424434445035">
         <mark key="'" line="30" column="38" />
@@ -959,7 +958,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG1lc3NhZ2VbJ0Zyb20nXSwgJyJEYXZlIFNoYXdsZXkiIDxkYXZlc0Bhd2ViZXIuY29tPicpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChtZXNzYWdlWydUbyddLCAnIkRhbiBUcmFjeSIgPGRhbnRAYXdlYmVyLmNvbT4nKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobWVzc2FnZVsnU3ViamVjdCddLCB1Jz0/dXRmLTg/cT9NPUQwPUI1aD89JykK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvbi5xdWl0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3094,25 +3093,25 @@
         <text encoding="base64">ICAgICAgICBtaW1lX3R5cGUsIF8sIF8gPSBwYXJ0Wydjb250ZW50X3R5cGUnXS5wYXJ0aXRpb24oJzsnKQogICAgICAgIHByaW1hcnksIF8sIHN1Yl90eXBlID0gbWltZV90eXBlLnBhcnRpdGlvbignLycpCiAgICAgICAgbWltZV9wYXJ0ID0gYmFzZS5NSU1FQmFzZShwcmltYXJ5LCBzdWJfdHlwZSkKICAgICAgICBfYWRkX21pbWVfaGVhZGVyKG1pbWVfcGFydCwgJ0NvbnRlbnQtVHJhbnNmZXItRW5jb2RpbmcnLCAnYmFzZTY0JykKICAgICAgICBtaW1lX3BhcnQuc2V0X3BheWxvYWQocGFydFsnYm9keSddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvbi5xdWl0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBkZWYgX2dldF9zbXRwX2Nvbm5lY3Rpb24oc2VsZiwgYWRkcmVzcywgcG9ydCk6CiAgICAgICAgaG9zdF9rZXkgPSBhZGRyZXNzLCBwb3J0CiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXR1cm4gc2VsZi5fc210cF9jb25uZWN0aW9uX2NhY2hlW2hvc3Rfa2V5XQogICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ3NtdHAuY29ubmVjdGlvbicpOgogICAgICAgICAgICAgICAgY29ubiA9IHNtdHBsaWIuU01UUChhZGRyZXNzLCBwb3J0LCB0aW1lb3V0PXNlbGYudGltZW91dCkKICAgICAgICAgICAgICAgIHNlbGYuX3NtdHBfY29ubmVjdGlvbl9jYWNoZVtob3N0X2tleV0gPSBjb25uCiAgICAgICAgICAgICAgICByZXR1cm4gY29ubgo=</text>
+        <text encoding="base64">CgpjbGFzcyBTbXRwQ29ubmVjdGlvbkNhY2hlVGVzdHMoQ29uc3VtZXJUZXN0cyk6CiAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm5lY3Rpb24gPSBzbXRwbGliLlNNVFAoYWRkciwgcG9ydCwgdGltZW91dD1zZWxmLnRpbWVvdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvbi5xdWl0KCkK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CiAgICBkZWYgX2dldF9zbXRwX2Nvbm5lY3Rpb24oc2VsZiwgYWRkcmVzcywgcG9ydCk6CiAgICAgICAgaG9zdF9rZXkgPSBhZGRyZXNzLCBwb3J0CiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXR1cm4gc2VsZi5fc210cF9jb25uZWN0aW9uX2NhY2hlW2hvc3Rfa2V5XQogICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ3NtdHAuY29ubmVjdGlvbicpOgogICAgICAgICAgICAgICAgY29ubiA9IHNtdHBsaWIuU01UUChhZGRyZXNzLCBwb3J0LCB0aW1lb3V0PXNlbGYudGltZW91dCkKICAgICAgICAgICAgICAgIHNlbGYuX3NtdHBfY29ubmVjdGlvbl9jYWNoZVtob3N0X2tleV0gPSBjb25uCiAgICAgICAgICAgICAgICByZXR1cm4gY29ubgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm5lY3Rpb24gPSBzbXRwbGliLlNNVFAoYWRkciwgcG9ydCwgdGltZW91dD1zZWxmLnRpbWVvdXQpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ3NtdHAuY29ubmVjdGlvbicpOgo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>return</text>
-      </register>
-      <register name="6" type="4">
-        <text>port</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4755,13 +4754,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>return</text>
       </register>
       <register name="8" type="4">
-        <text>address</text>
+        <text>port</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBob3N0X2tleSBpbiBzZWxmLl9zbXRwX2Nvbm5lY3Rpb25fY2FjaGU6Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
