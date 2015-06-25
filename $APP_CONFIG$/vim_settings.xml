@@ -163,8 +163,8 @@
         <mark key="^" line="66" column="40" />
         <mark key="." line="66" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1435085839719">
-        <mark key="'" line="230" column="26" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1435236618925">
+        <mark key="'" line="232" column="8" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/source.py" timestamp="1404575111376">
         <mark key="'" line="22" column="0" />
@@ -396,6 +396,9 @@
         <mark key="^" line="82" column="43" />
         <mark key="." line="82" column="43" />
       </file>
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/simple_httpclient.py" timestamp="1435236703276">
+        <mark key="'" line="235" column="50" />
+      </file>
       <file name="$USER_HOME$/Source/family-tree/doc/internals.rst" timestamp="1405283727374">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="11" column="0" />
@@ -431,9 +434,9 @@
         <mark key="^" line="42" column="18" />
         <mark key="." line="42" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1435175753823">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1435236595489">
         <mark key="a" line="392" column="52" />
-        <mark key="'" line="26" column="0" />
+        <mark key="'" line="394" column="46" />
         <mark key="[" line="399" column="29" />
         <mark key="]" line="399" column="45" />
         <mark key="." line="399" column="45" />
@@ -852,12 +855,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/smtplib.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="98" column="12" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
@@ -945,13 +942,19 @@
       <jump line="115" column="23" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="265" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="303" column="34" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="385" column="19" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="102" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/geturl.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="5" column="7" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="72" column="23" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="89" column="13" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="385" column="19" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="112" column="12" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/geturl.py" />
+      <jump line="394" column="46" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="232" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/httpclient.py" />
+      <jump line="150" column="15" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/simple_httpclient.py" />
+      <jump line="235" column="50" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/simple_httpclient.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3087,7 +3090,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>timeout</text>
+        <text>get_service</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB5aWVsZCBzZWxmLndvcmtlci5wcm9jZXNzKCkKICAgICAgICBtZXNzYWdlID0gc2VsZi5zbXRwLm1lc3NhZ2VzWzBdCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMobWVzc2FnZVsnWC1CaW5kaW5nR3JvdXAnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnNtdHAuc210cF9zZXJ2ZXJfYWRkcmVzc1swXSkK</text>
@@ -4763,13 +4766,13 @@
         <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>vsp config.yml</text>
       </register>
     </registers>
     <search>
-      <last-search>timeout</last-search>
+      <last-search>get_service</last-search>
       <last-offset />
-      <last-pattern>timeout</last-pattern>
+      <last-pattern>get_service</last-pattern>
       <last-replace encoding="base64">XDEgPSBfZG9fcmVxdWVzdDxMRj4=</last-replace>
       <last-substitute encoding="base64">IFwoW14gXSpcKQ==</last-substitute>
       <last-dir>1</last-dir>
@@ -4777,7 +4780,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfY3JlYXRlX21pbWVfbWl4ZWRfbWVzc2FnZVw+</entry>
         <entry>def add_header</entry>
         <entry encoding="base64">XDxfYWRkX21pbWVfaGVhZGVyXD4=</entry>
         <entry encoding="base64">XDxfY3JlYXRlX21pbWVfcGFydFw+</entry>
@@ -4797,11 +4799,9 @@
         <entry>smtp</entry>
         <entry encoding="base64">XDxERUZBVUxUX1NPQ0tFVF9USU1FT1VUXD4=</entry>
         <entry>timeout</entry>
+        <entry>get_service</entry>
       </history-search>
       <history-cmd>
-        <entry>145</entry>
-        <entry>169</entry>
-        <entry>146</entry>
         <entry>159</entry>
         <entry>q</entry>
         <entry>452</entry>
@@ -4819,6 +4819,9 @@
         <entry>399</entry>
         <entry>308</entry>
         <entry>1</entry>
+        <entry>vsp</entry>
+        <entry>vsp config.yaml</entry>
+        <entry>vsp config.yml</entry>
       </history-cmd>
       <history-expr />
       <history-input />
