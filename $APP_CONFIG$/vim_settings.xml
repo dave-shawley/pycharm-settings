@@ -42,9 +42,14 @@
         <mark key="^" line="43" column="15" />
         <mark key="." line="43" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" timestamp="1435264380878">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" timestamp="1435325546183">
         <mark key="a" line="539" column="0" />
         <mark key="e" line="539" column="8" />
+        <mark key="'" line="654" column="0" />
+        <mark key="[" line="675" column="22" />
+        <mark key="]" line="675" column="25" />
+        <mark key="^" line="675" column="25" />
+        <mark key="." line="675" column="26" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/haregel/application.py" timestamp="1424434445035">
         <mark key="'" line="30" column="38" />
@@ -849,7 +854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="269" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="278" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="283" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="287" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
@@ -949,13 +953,14 @@
       <jump line="450" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="467" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="472" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="654" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBAdGVzdGluZy5nZW5fdGVzdAogICAgZGVmIHRlc3RfdGhhdF9zbXRwX2Nvbm5lY3Rpb25faXNfY2FjaGVkKHNlbGYpOgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKHNlbGYud29ya2VyLl9zbXRwX2Nvbm5lY3Rpb25fY2FjaGUpLCAwKQogICAgICAgIHlpZWxkIHNlbGYud29ya2VyLnByb2Nlc3MoKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKHNlbGYud29ya2VyLl9zbXRwX2Nvbm5lY3Rpb25fY2FjaGUpLCAxKQoKICAgIEB0ZXN0aW5nLmdlbl90ZXN0CiAgICBkZWYgdGVzdF90aGF0X3NtdHBfZmFpbHVyZXNfcmVtb3ZlX2Nvbm5lY3Rpb25fZnJvbV9jYWNoZShzZWxmKToKICAgICAgICBkZWYgY2xvc2Vfc29ja2V0KGNvbm5lY3Rpb24sICppZ25vcmVkKToKICAgICAgICAgICAgY29ubmVjdGlvbi5zdHJlYW0uY2xvc2UoKQoKICAgICAgICBzZWxmLnNtdHAuaW52b2tlX2NhbGxiYWNrKCdEQVRBJywgY2xvc2Vfc29ja2V0KQogICAgICAgIHRyeToKICAgICAgICAgICAgeWllbGQgc2VsZi53b3JrZXIucHJvY2VzcygpCiAgICAgICAgZXhjZXB0IHJlamVjdGVkLmNvbnN1bWVyLk1lc3NhZ2VFeGNlcHRpb246CiAgICAgICAgICAgIHBhc3MgICMgZXhwZWN0ZWQKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlbGYud29ya2VyLl9zbXRwX2Nvbm5lY3Rpb25fY2FjaGUsIHt9KQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihzZWxmLndvcmtlci5fc210cF9jb25uZWN0aW9uX2NhY2hlKSwgMSkK</text>
+      <register name="&quot;" type="4">
+        <text>self.smtp.smtp_server_address,</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3081,7 +3086,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>self.smtp.smtp_server_address,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0X3NtdHBfY29ubmVjdGlvblw+</text>
@@ -3089,26 +3094,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmhhbmRsZV9zdHJlYW1fY291bnRlciA9IDAK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihzZWxmLndvcmtlci5fc210cF9jb25uZWN0aW9uX2NhY2hlKSwgMSkK</text>
+      <register name="1" type="4">
+        <text>self.smtp.smtp_server_address,</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihzZWxmLndvcmtlci5fc210cF9jb25uZWN0aW9uX2NhY2hlKSwgMSkK</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="4">
         <text>)</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>.assertEqual(self.worker._smtp_connection_cache)</text>
-      </register>
       <register name="6" type="4">
-        <text>[</text>
+        <text>.assertEqual(self.worker._smtp_connection_cache)</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4751,13 +4756,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>]</text>
+        <text>[</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>]</text>
       </register>
       <register name="9" type="4">
-        <text>stream_counter</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
