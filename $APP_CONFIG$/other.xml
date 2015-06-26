@@ -81,6 +81,7 @@
         <entry key="$USER_HOME$/Source/python/tokenauth/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/python/zender/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Temporary/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Temporary/miming/env/bin/python" value="true" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
