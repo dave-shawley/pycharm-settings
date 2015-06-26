@@ -45,11 +45,6 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" timestamp="1435264380878">
         <mark key="a" line="539" column="0" />
         <mark key="e" line="539" column="8" />
-        <mark key="'" line="673" column="18" />
-        <mark key="[" line="673" column="68" />
-        <mark key="]" line="673" column="68" />
-        <mark key="." line="673" column="68" />
-        <mark key="^" line="673" column="68" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/haregel/application.py" timestamp="1424434445035">
         <mark key="'" line="30" column="38" />
@@ -278,13 +273,6 @@
         <mark key="^" line="64" column="40" />
         <mark key="." line="64" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/smtpserver.py" timestamp="1435264193938">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="113" column="8" />
-        <mark key="]" line="113" column="23" />
-        <mark key="^" line="113" column="23" />
-        <mark key="." line="113" column="23" />
-      </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/cli/console.py" timestamp="1407192703039">
         <mark key="'" line="102" column="11" />
         <mark key="[" line="97" column="68" />
@@ -444,9 +432,6 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1435324529762">
         <mark key="'" line="472" column="0" />
         <mark key="[" line="512" column="75" />
-        <mark key="]" line="514" column="60" />
-        <mark key="." line="514" column="60" />
-        <mark key="^" line="514" column="60" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
