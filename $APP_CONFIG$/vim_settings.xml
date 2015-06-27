@@ -162,6 +162,9 @@
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/tcpserver.py" timestamp="1431173123597">
         <mark key="'" line="124" column="18" />
       </file>
+      <file name="_mac/$APP_CONFIG$/keymap.xml" timestamp="1435431960820">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1431285143532">
         <mark key="'" line="98" column="14" />
       </file>
@@ -171,6 +174,9 @@
         <mark key="^" line="27" column="32" />
         <mark key="." line="28" column="0" />
         <mark key="[" line="28" column="0" />
+      </file>
+      <file name="$APP_CONFIG$/packages.xml" timestamp="1435431998415">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/proactor_events.py" timestamp="1423403274631">
         <mark key="'" line="5" column="0" />
@@ -421,11 +427,12 @@
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/base_connection.py" timestamp="1430073332187">
         <mark key="'" line="123" column="25" />
       </file>
-      <file name="$USER_HOME$/Source/python/readit2/readit/handlers.py" timestamp="1435233635263">
+      <file name="$USER_HOME$/Source/python/readit2/readit/handlers.py" timestamp="1435432347311">
         <mark key="'" line="11" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="[" line="20" column="0" />
+        <mark key="]" line="26" column="65" />
+        <mark key="^" line="26" column="65" />
+        <mark key="." line="26" column="65" />
+        <mark key="[" line="25" column="16" />
       </file>
       <file name="$USER_HOME$/Source/python/glinda/tests/testing_tests.py" timestamp="1432035277941">
         <mark key="'" line="127" column="0" />
@@ -591,7 +598,7 @@
         <mark key="." line="14" column="0" />
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="$APP_CONFIG$/vim_settings.xml" timestamp="1434800553739">
+      <file name="$APP_CONFIG$/vim_settings.xml" timestamp="1435432129961">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/tests/unit/urls_tests.py" timestamp="1403228247057">
@@ -985,8 +992,8 @@
       <jump line="20" column="0" filename="$USER_HOME$/Temporary/miming/tests.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuX21lc3NhZ2UuYWRkX2hlYWRlcihuYW1lLCB2YWx1ZSwgKiphdHRyaWJ1dGVzKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">CgpjbGFzcyBXaGVuUGFyc2luZ0xpc3RIZWFkZXIodW5pdHRlc3QuVGVzdENhc2UpOgo=</text>
@@ -4761,40 +4768,40 @@
         </keys>
       </register>
       <register name="3" type="4">
+        <text>,</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cgPSBNZXNzYWdlKCd0ZXh0L3BsYWluJykK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuX21lc3NhZ2UuYWRkX2hlYWRlcihuYW1lLCB2YWx1ZSwgKiphdHRyaWJ1dGVzKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coanF4aHIpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>b</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
-        <text>d</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtc2cgPSBNZXNzYWdlKCd0ZXh0L3BsYWluJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRvOiBLZWxkIErDuHJuIFNpbW9uc2VuIDxrZWxkQGRrdXVnLmRrPgo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuX21lc3NhZ2UuYWRkX2hlYWRlcihuYW1lLCB2YWx1ZSwgKiphdHRyaWJ1dGVzKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChtc2cuYXNfc3RyaW5nKCkpCg==</text>
+      <register name="4" type="4">
+        <text>pass</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
       </register>
-      <register name="9" type="4">
-        <text>.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRvOiBLZWxkIErDuHJuIFNpbW9uc2VuIDxrZWxkQGRrdXVnLmRrPgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChtc2cuYXNfc3RyaW5nKCkpCg==</text>
       </register>
     </registers>
     <search>
