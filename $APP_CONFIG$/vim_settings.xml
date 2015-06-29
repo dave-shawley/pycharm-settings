@@ -446,11 +446,12 @@
         <mark key="^" line="42" column="18" />
         <mark key="." line="42" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1435590102539">
-        <mark key="[" line="470" column="0" />
-        <mark key="]" line="470" column="20" />
-        <mark key="." line="470" column="20" />
-        <mark key="^" line="469" column="55" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1435599248227">
+        <mark key="'" line="143" column="24" />
+        <mark key="[" line="492" column="0" />
+        <mark key="]" line="492" column="0" />
+        <mark key="." line="492" column="0" />
+        <mark key="^" line="240" column="53" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
@@ -877,10 +878,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="603" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="592" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="591" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="519" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="522" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="532" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="580" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
@@ -940,7 +937,6 @@
       <jump line="112" column="42" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="277" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="114" column="42" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="143" column="24" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="481" column="24" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="195" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="526" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
@@ -977,13 +973,18 @@
       <jump line="465" column="21" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="465" column="20" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/smtplib.py" />
       <jump line="385" column="20" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/smtplib.py" />
+      <jump line="191" column="12" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="171" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="168" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="162" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="143" column="24" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBAdGVzdGluZy5nZW5fdGVzdAogICAgZGVmIHRlc3RfdGhhdF9zbXRwX2Nvbm5lY3Rpb25faXNfY2FjaGVkKHNlbGYpOgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKHNlbGYud29ya2VyLl9zbXRwX2Nvbm5lY3Rpb25fY2FjaGUpLCAwKQogICAgICAgIHlpZWxkIHNlbGYud29ya2VyLnByb2Nlc3MoKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKHNlbGYud29ya2VyLl9zbXRwX2Nvbm5lY3Rpb25fY2FjaGUpLCAxKQoKICAgIEB0ZXN0aW5nLmdlbl90ZXN0CiAgICBkZWYgdGVzdF90aGF0X3NtdHBfZmFpbHVyZXNfcmVtb3ZlX2Nvbm5lY3Rpb25fZnJvbV9jYWNoZShzZWxmKToKICAgICAgICBkZWYgY2xvc2Vfc29ja2V0KGNvbm5lY3Rpb24sICppZ25vcmVkKToKICAgICAgICAgICAgY29ubmVjdGlvbi5zdHJlYW0uY2xvc2UoKQoKICAgICAgICBzZWxmLnNtdHAuaW52b2tlX2NhbGxiYWNrKCdEQVRBJywgY2xvc2Vfc29ja2V0KQogICAgICAgIHRyeToKICAgICAgICAgICAgeWllbGQgc2VsZi53b3JrZXIucHJvY2VzcygpCiAgICAgICAgZXhjZXB0IHJlamVjdGVkLmNvbnN1bWVyLk1lc3NhZ2VFeGNlcHRpb246CiAgICAgICAgICAgIHBhc3MgICMgZXhwZWN0ZWQKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlbGYud29ya2VyLl9zbXRwX2Nvbm5lY3Rpb25fY2FjaGUsIHt9KQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgc210cGxpYi5TTVRQU2VydmVyRGlzY29ubmVjdGVkOgo=</text>
+        <text encoding="base64">ICAgICAgICBfYWRkX21pbWVfaGVhZGVyKG1pbWVfcGFydCwgJ0NvbnRlbnQtVHJhbnNmZXItRW5jb2RpbmcnLCAncXVvdGVkLXByaW50YWJsZScpCg==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3109,7 +3110,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>generic</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>signal</text>
@@ -3118,25 +3119,25 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdGF0c2RfaW5jcignZXJyb3JzLnNtdHAuZ2VuZXJpYycpCiAgICAgICAgICAgIExPR0dFUi5leGNlcHRpb24oJ3VuZXhwZWN0ZWQgU01UUCBmYWlsdXJlIG9uICVzIC0gJXIge0NJRCAlc30nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNtdHBfZW5kcG9pbnQsIGVycm9yLCBzZWxmLl9jb3JyZWxhdGlvbl9pZCkKICAgICAgICAgICAgc2VsZi5fc210cF9jb25uZWN0aW9uX2NhY2hlLnBvcCgoYWRkciwgcG9ydCksIE5vbmUpCiAgICAgICAgICAgIHJhaXNlIGNvbnN1bWVyLk1lc3NhZ2VFeGNlcHRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgc210cGxpYi5TTVRQU2VydmVyRGlzY29ubmVjdGVkOgo=</text>
+        <text encoding="base64">ICAgICAgICBfYWRkX21pbWVfaGVhZGVyKG1pbWVfcGFydCwgJ0NvbnRlbnQtVHJhbnNmZXItRW5jb2RpbmcnLCAncXVvdGVkLXByaW50YWJsZScpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubi5jb25uZWN0KCkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc3RhdHNkX2luY3IoJ3NtdHAuY2FjaGUubWlzcycpCg==</text>
+      <register name="3" type="4">
+        <text>-</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdGF0c2RfaW5jcignc210cC5jYWNoZS5yZWNvbm5lY3QnKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgY29ubi5ub29wKCkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ciA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm4uY29ubmVjdCgpCg==</text>
+      <register name="6" type="4">
+        <text>%</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4778,14 +4779,14 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>generic</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgc210cGxpYi5TTVRQU2VydmVyRGlzY29ubmVjdGVkOgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29ubi5jb25uZWN0KCkK</text>
       </register>
-      <register name="9" type="4">
-        <text>error</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc3RhdHNkX2luY3IoJ3NtdHAuY2FjaGUubWlzcycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
