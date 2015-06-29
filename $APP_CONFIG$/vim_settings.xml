@@ -440,13 +440,13 @@
         <mark key="^" line="42" column="18" />
         <mark key="." line="42" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1435583502014">
-        <mark key="a" line="524" column="35" />
-        <mark key="'" line="383" column="19" />
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="525" column="76" />
-        <mark key="." line="0" column="18" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1435585441745">
+        <mark key="a" line="548" column="25" />
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="549" column="13" />
+        <mark key="]" line="549" column="13" />
+        <mark key="." line="549" column="13" />
+        <mark key="^" line="550" column="56" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
@@ -870,12 +870,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="579" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="4" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="582" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="586" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="627" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="516" column="26" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="6" column="0" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/utils.py" />
       <jump line="9" column="5" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/utils.py" />
       <jump line="306" column="43" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/utils.py" />
@@ -970,13 +964,19 @@
       <jump line="195" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="526" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="383" column="19" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="232" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="223" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="217" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="6" column="12" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBAdGVzdGluZy5nZW5fdGVzdAogICAgZGVmIHRlc3RfdGhhdF9zbXRwX2Nvbm5lY3Rpb25faXNfY2FjaGVkKHNlbGYpOgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKHNlbGYud29ya2VyLl9zbXRwX2Nvbm5lY3Rpb25fY2FjaGUpLCAwKQogICAgICAgIHlpZWxkIHNlbGYud29ya2VyLnByb2Nlc3MoKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKHNlbGYud29ya2VyLl9zbXRwX2Nvbm5lY3Rpb25fY2FjaGUpLCAxKQoKICAgIEB0ZXN0aW5nLmdlbl90ZXN0CiAgICBkZWYgdGVzdF90aGF0X3NtdHBfZmFpbHVyZXNfcmVtb3ZlX2Nvbm5lY3Rpb25fZnJvbV9jYWNoZShzZWxmKToKICAgICAgICBkZWYgY2xvc2Vfc29ja2V0KGNvbm5lY3Rpb24sICppZ25vcmVkKToKICAgICAgICAgICAgY29ubmVjdGlvbi5zdHJlYW0uY2xvc2UoKQoKICAgICAgICBzZWxmLnNtdHAuaW52b2tlX2NhbGxiYWNrKCdEQVRBJywgY2xvc2Vfc29ja2V0KQogICAgICAgIHRyeToKICAgICAgICAgICAgeWllbGQgc2VsZi53b3JrZXIucHJvY2VzcygpCiAgICAgICAgZXhjZXB0IHJlamVjdGVkLmNvbnN1bWVyLk1lc3NhZ2VFeGNlcHRpb246CiAgICAgICAgICAgIHBhc3MgICMgZXhwZWN0ZWQKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlbGYud29ya2VyLl9zbXRwX2Nvbm5lY3Rpb25fY2FjaGUsIHt9KQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Ç</text>
+        <text>n</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3102,7 +3102,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Ç</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0X3NtdHBfY29ubmVjdGlvblw+</text>
@@ -3111,25 +3111,25 @@
         <text encoding="base64">ICAgICAgICB5aWVsZCBzZWxmLndvcmtlci5wcm9jZXNzKCkKICAgICAgICBtZXNzYWdlID0gc2VsZi5wYXJ0c1sxXQo=</text>
       </register>
       <register name="1" type="4">
-        <text>Ç</text>
+        <text>n</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>ƒ</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmdldExvZ2dlcihfX25hbWVfXykK</text>
       </register>
       <register name="3" type="4">
-        <text>®</text>
+        <text>pass</text>
       </register>
       <register name="4" type="4">
-        <text>u'not\u011B',</text>
+        <text>o</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">LCA=</text>
+        <text encoding="base64">Ynl0ZSA=</text>
       </register>
       <register name="6" type="4">
-        <text>charset</text>
+        <text encoding="base64">cyA=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4772,13 +4772,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>ENCODEDNAME</text>
+        <text>%</text>
       </register>
       <register name="8" type="4">
-        <text>ENCODEDNAME</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>p</text>
+        <text>error</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
