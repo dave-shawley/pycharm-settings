@@ -446,11 +446,11 @@
         <mark key="^" line="42" column="18" />
         <mark key="." line="42" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1435587927393">
-        <mark key="'" line="46" column="32" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1435590102539">
+        <mark key="[" line="470" column="0" />
+        <mark key="]" line="470" column="20" />
+        <mark key="." line="470" column="20" />
+        <mark key="^" line="469" column="55" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
@@ -791,8 +791,8 @@
       <file name="$USER_HOME$/Source/python/sampson/decode.py" timestamp="1419647211311">
         <mark key="'" line="66" column="0" />
       </file>
-      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/smtplib.py" timestamp="1435247323468">
-        <mark key="'" line="662" column="60" />
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/smtplib.py" timestamp="1435589983542">
+        <mark key="'" line="465" column="20" />
       </file>
       <file name="$USER_HOME$/Source/python/zender/tests/lifecycle_tests.py" timestamp="1422883126045">
         <mark key="'" line="20" column="27" />
@@ -877,10 +877,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/samples.rst" />
-      <jump line="78" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/samples.rst" />
-      <jump line="615" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="607" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="603" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="592" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="591" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
@@ -977,13 +973,17 @@
       <jump line="7" column="7" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/helper/controller.py" />
       <jump line="39" column="31" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/helper/controller.py" />
       <jump line="53" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/helper/controller.py" />
+      <jump line="179" column="30" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="465" column="21" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="465" column="20" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/smtplib.py" />
+      <jump line="385" column="20" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/smtplib.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBAdGVzdGluZy5nZW5fdGVzdAogICAgZGVmIHRlc3RfdGhhdF9zbXRwX2Nvbm5lY3Rpb25faXNfY2FjaGVkKHNlbGYpOgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKHNlbGYud29ya2VyLl9zbXRwX2Nvbm5lY3Rpb25fY2FjaGUpLCAwKQogICAgICAgIHlpZWxkIHNlbGYud29ya2VyLnByb2Nlc3MoKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKHNlbGYud29ya2VyLl9zbXRwX2Nvbm5lY3Rpb25fY2FjaGUpLCAxKQoKICAgIEB0ZXN0aW5nLmdlbl90ZXN0CiAgICBkZWYgdGVzdF90aGF0X3NtdHBfZmFpbHVyZXNfcmVtb3ZlX2Nvbm5lY3Rpb25fZnJvbV9jYWNoZShzZWxmKToKICAgICAgICBkZWYgY2xvc2Vfc29ja2V0KGNvbm5lY3Rpb24sICppZ25vcmVkKToKICAgICAgICAgICAgY29ubmVjdGlvbi5zdHJlYW0uY2xvc2UoKQoKICAgICAgICBzZWxmLnNtdHAuaW52b2tlX2NhbGxiYWNrKCdEQVRBJywgY2xvc2Vfc29ja2V0KQogICAgICAgIHRyeToKICAgICAgICAgICAgeWllbGQgc2VsZi53b3JrZXIucHJvY2VzcygpCiAgICAgICAgZXhjZXB0IHJlamVjdGVkLmNvbnN1bWVyLk1lc3NhZ2VFeGNlcHRpb246CiAgICAgICAgICAgIHBhc3MgICMgZXhwZWN0ZWQKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlbGYud29ya2VyLl9zbXRwX2Nvbm5lY3Rpb25fY2FjaGUsIHt9KQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBfaW5zdGFsbF9zaWduYWxfaGFuZGxlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgc210cGxpYi5TTVRQU2VydmVyRGlzY29ubmVjdGVkOgo=</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3109,34 +3109,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>increasing</text>
+        <text>generic</text>
       </register>
       <register name="/" type="4">
         <text>signal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygnaW5jcmVhc2luZyBsb2cgbGV2ZWwgdG8gREVCVUcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdGF0c2RfaW5jcignZXJyb3JzLnNtdHAuZ2VuZXJpYycpCiAgICAgICAgICAgIExPR0dFUi5leGNlcHRpb24oJ3VuZXhwZWN0ZWQgU01UUCBmYWlsdXJlIG9uICVzIC0gJXIge0NJRCAlc30nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNtdHBfZW5kcG9pbnQsIGVycm9yLCBzZWxmLl9jb3JyZWxhdGlvbl9pZCkKICAgICAgICAgICAgc2VsZi5fc210cF9jb25uZWN0aW9uX2NhY2hlLnBvcCgoYWRkciwgcG9ydCksIE5vbmUpCiAgICAgICAgICAgIHJhaXNlIGNvbnN1bWVyLk1lc3NhZ2VFeGNlcHRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBfaW5zdGFsbF9zaWduYWxfaGFuZGxlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgc210cGxpYi5TTVRQU2VydmVyRGlzY29ubmVjdGVkOgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNpZ25hbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubi5jb25uZWN0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc3RhdHNkX2luY3IoJ3NtdHAuY2FjaGUubWlzcycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgpkZWYgX2xvZ2dpbmdfc2lnbmFsX2hhbmRsZXIoc2lnbnVtLCBfKToKICAgIGlmIHNpZ251bSA9PSBzaWduYWwuU0lHVVNSMToKICAgICAgICBMT0dHRVIuaW5mbygnc2V0dGluZyBsb2cgbGV2ZWwgdG8gREVCVUcnKQogICAgICAgIGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKS5zZXRMZXZlbChsb2dnaW5nLkRFQlVHKQogICAgZWxpZiBzaWdudW0gPT0gc2lnbmFsLlNJR1VTUjI6CiAgICAgICAgTE9HR0VSLmluZm8oJ3NldHRpbmcgbG9nIGxldmVsIHRvIElORk8nKQogICAgICAgIGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKS5zZXRMZXZlbChsb2dnaW5nLklORk8pCgoKZGVmIF9pbnN0YWxsX3NpZ25hbF9oYW5kbGVyKCk6CiAgICBpZiBzaWduYWwuZ2V0c2lnbmFsKHNpZ25hbC5TSUdVU1IxKSA9PSBzaWduYWwuU0lHX0RGTDoKICAgICAgICBzaWduYWwuc2lnbmFsKHNpZ25hbC5TSUdVU1IxLCBfbG9nZ2luZ19zaWduYWxfaGFuZGxlcikKICAgIGlmIHNpZ25hbC5nZXRzaWduYWwoc2lnbmFsLlNJR1VTUjIpID09IHNpZ25hbC5TSUdfREZMOgogICAgICAgIHNpZ25hbC5zaWduYWwoc2lnbmFsLlNJR1VTUjIsIF9sb2dnaW5nX3NpZ25hbF9oYW5kbGVyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdGF0c2RfaW5jcignc210cC5jYWNoZS5yZWNvbm5lY3QnKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>increasing</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgY29ubi5ub29wKCkK</text>
       </register>
-      <register name="6" type="4">
-        <text>DEBUG</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm4uY29ubmVjdCgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4779,13 +4779,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>increasing</text>
+        <text>generic</text>
       </register>
       <register name="8" type="4">
-        <text>pass</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>error</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
