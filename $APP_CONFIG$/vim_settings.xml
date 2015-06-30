@@ -169,6 +169,9 @@
         <mark key="^" line="66" column="40" />
         <mark key="." line="66" column="40" />
       </file>
+      <file name="$USER_HOME$/Source/communicator/communicator/workers/coi_worker.py" timestamp="1435620736058">
+        <mark key="'" line="261" column="31" />
+      </file>
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1435236618925">
         <mark key="'" line="232" column="8" />
       </file>
@@ -878,8 +881,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="522" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="532" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="580" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="594" column="7" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="577" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
@@ -978,6 +979,8 @@
       <jump line="162" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="143" column="24" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="203" column="27" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="277" column="25" filename="$USER_HOME$/Source/communicator/communicator/workers/coi_worker.py" />
+      <jump line="261" column="31" filename="$USER_HOME$/Source/communicator/communicator/workers/coi_worker.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3113,7 +3116,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>qmail</text>
+        <text encoding="base64">XDxmcm9tX2FkZHJlc3NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdGF0c2RfaW5jcignZXJyb3JzLnNtdHAuZ2VuZXJpYycpCiAgICAgICAgICAgIExPR0dFUi5leGNlcHRpb24oJ3VuZXhwZWN0ZWQgU01UUCBmYWlsdXJlIG9uICVzIC0gJXIge0NJRCAlc30nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNtdHBfZW5kcG9pbnQsIGVycm9yLCBzZWxmLl9jb3JyZWxhdGlvbl9pZCkKICAgICAgICAgICAgc2VsZi5fc210cF9jb25uZWN0aW9uX2NhY2hlLnBvcCgoYWRkciwgcG9ydCksIE5vbmUpCiAgICAgICAgICAgIHJhaXNlIGNvbnN1bWVyLk1lc3NhZ2VFeGNlcHRpb24K</text>
@@ -4793,17 +4796,16 @@
       </register>
     </registers>
     <search>
-      <last-search>qmail</last-search>
+      <last-search encoding="base64">XDxmcm9tX2FkZHJlc3NcPg==</last-search>
       <last-offset />
-      <last-pattern>qmail</last-pattern>
+      <last-pattern encoding="base64">XDxmcm9tX2FkZHJlc3NcPg==</last-pattern>
       <last-replace encoding="base64">XDEgPSBfZG9fcmVxdWVzdDxMRj4=</last-replace>
       <last-substitute encoding="base64">IFwoW14gXSpcKQ==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQQVNTX1RIUk9VR0hfQVRUUklCVVRFU1w+</entry>
         <entry>CID</entry>
         <entry>smtp</entry>
         <entry encoding="base64">XDxERUZBVUxUX1NPQ0tFVF9USU1FT1VUXD4=</entry>
@@ -4823,6 +4825,7 @@
         <entry>USR</entry>
         <entry>signal</entry>
         <entry>qmail</entry>
+        <entry encoding="base64">XDxmcm9tX2FkZHJlc3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>452</entry>
