@@ -172,8 +172,8 @@
       <file name="$USER_HOME$/Source/communicator/communicator/workers/coi_worker.py" timestamp="1435673320045">
         <mark key="'" line="261" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1435236618925">
-        <mark key="'" line="232" column="8" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1435841195096">
+        <mark key="'" line="183" column="0" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/source.py" timestamp="1404575111376">
         <mark key="'" line="22" column="0" />
@@ -411,8 +411,8 @@
         <mark key="^" line="82" column="43" />
         <mark key="." line="82" column="43" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/simple_httpclient.py" timestamp="1435236703276">
-        <mark key="'" line="235" column="50" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/simple_httpclient.py" timestamp="1435841218432">
+        <mark key="'" line="150" column="21" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/doc/internals.rst" timestamp="1405283727374">
         <mark key="'" line="23" column="0" />
@@ -449,9 +449,9 @@
         <mark key="^" line="42" column="18" />
         <mark key="." line="42" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1435840404195">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1435841041076">
         <mark key="a" line="555" column="0" />
-        <mark key="'" line="399" column="19" />
+        <mark key="'" line="408" column="46" />
         <mark key="[" line="556" column="66" />
         <mark key="]" line="557" column="32" />
         <mark key="." line="557" column="32" />
@@ -886,21 +886,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="526" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="383" column="19" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="232" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="223" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="217" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="201" column="12" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="105" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="46" column="32" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="718" column="30" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="541" column="20" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
       <jump line="340" column="12" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/process.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/process.py" />
       <jump line="20" column="7" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/process.py" />
@@ -986,6 +971,21 @@
       <jump line="221" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="210" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="207" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="408" column="46" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="254" column="13" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/httpclient.py" />
+      <jump line="184" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/httpclient.py" />
+      <jump line="186" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/httpclient.py" />
+      <jump line="192" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/httpclient.py" />
+      <jump line="195" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/httpclient.py" />
+      <jump line="204" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/httpclient.py" />
+      <jump line="207" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/httpclient.py" />
+      <jump line="247" column="16" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/httpclient.py" />
+      <jump line="147" column="21" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/simple_httpclient.py" />
+      <jump line="182" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/httpclient.py" />
+      <jump line="176" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/httpclient.py" />
+      <jump line="183" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/httpclient.py" />
+      <jump line="150" column="21" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/simple_httpclient.py" />
+      <jump line="232" column="31" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/simple_httpclient.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3121,7 +3121,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b19hZGRyXD4=</text>
+        <text>HTTPConnec</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtZXNzYWdlID0gc2VsZi5zbXRwLm1lc3NhZ2VzWzBdCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMobWVzc2FnZVsnWC1CaW5kaW5nR3JvdXAnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnNtdHAuc210cF9zZXJ2ZXJfYWRkcmVzc1swXSkK</text>
@@ -4801,18 +4801,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b19hZGRyXD4=</last-search>
+      <last-search>HTTPConnec</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b19hZGRyXD4=</last-pattern>
+      <last-pattern>HTTPConnec</last-pattern>
       <last-replace encoding="base64">XDEgPSBfZG9fcmVxdWVzdDxMRj4=</last-replace>
       <last-substitute encoding="base64">IFwoW14gXSpcKQ==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>smtp</entry>
-        <entry encoding="base64">XDxERUZBVUxUX1NPQ0tFVF9USU1FT1VUXD4=</entry>
         <entry>timeout</entry>
         <entry>get_service</entry>
         <entry encoding="base64">XDxfY3JlYXRlX21pbWVfcGFydFw+</entry>
@@ -4831,6 +4829,8 @@
         <entry>qmail</entry>
         <entry encoding="base64">XDxmcm9tX2FkZHJlc3NcPg==</entry>
         <entry encoding="base64">XDx0b19hZGRyXD4=</entry>
+        <entry>_connection_class</entry>
+        <entry>HTTPConnec</entry>
       </history-search>
       <history-cmd>
         <entry>452</entry>
