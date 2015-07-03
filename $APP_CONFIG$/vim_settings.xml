@@ -239,12 +239,12 @@
         <mark key="." line="46" column="52" />
         <mark key="[" line="46" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/magician/wire.py" timestamp="1435957950034">
-        <mark key="'" line="60" column="0" />
-        <mark key="]" line="52" column="15" />
-        <mark key="^" line="52" column="15" />
-        <mark key="." line="52" column="15" />
-        <mark key="[" line="50" column="45" />
+      <file name="$USER_HOME$/Source/python/magician/magician/wire.py" timestamp="1435959786295">
+        <mark key="'" line="30" column="0" />
+        <mark key="]" line="26" column="35" />
+        <mark key="^" line="26" column="35" />
+        <mark key="." line="26" column="35" />
+        <mark key="[" line="25" column="24" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/tests/unit/source_tests.py" timestamp="1404575197435">
         <mark key="'" line="1" column="13" />
@@ -845,12 +845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
       <jump line="108" column="49" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="76" column="2" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
       <jump line="82" column="0" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
@@ -924,13 +918,8 @@
       <jump line="41" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="36" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="25" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="29" column="12" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="60" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="77" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
@@ -945,10 +934,21 @@
       <jump line="10" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
+        <text encoding="base64">ICAgIGRlZiBfZGVjb2RlX21ldGhvZChzZWxmKToK</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">CgpjbGFzcyBXaGVuUGFyc2luZ0xpc3RIZWFkZXIodW5pdHRlc3QuVGVzdENhc2UpOgo=</text>
@@ -4723,31 +4723,31 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBmcmFtZV9oZWFkZXIgPSB5aWVsZCBmcm9tIHNlbGYucmVhZGVyLnJlYWQoNykKICAgICAgICAjIHNlbGYubG9nZ2VyLmRlYnVnKCdyZWNlaXZlZCAlcicsIGZyYW1lX2hlYWRlcikKICAgICAgICAjCiAgICAgICAgIyBmcmFtZV90eXBlLCBjaGFubmVsLCBmcmFtZV9zaXplID0gc3RydWN0LnVucGFjaygnPkJISScsIGZyYW1lX2hlYWRlcikKICAgICAgICAjIGZyYW1lX2JvZHkgPSB5aWVsZCBmcm9tIHNlbGYucmVhZGVyLnJlYWQoZnJhbWVfc2l6ZSkKICAgICAgICAjIGZyYW1lX2VuZCA9IHlpZWxkIGZyb20gc2VsZi5yZWFkZXIucmVhZCgxKQogICAgICAgICMKICAgICAgICAjIGZyYW1lX2VuZCA9IGZyYW1lX2VuZFswXQogICAgICAgICMgaWYgZnJhbWVfZW5kICE9IDB4Q0U6CiAgICAgICAgIyAgICAgc2VsZi5sb2dnZXIuY3JpdGljYWwoJ2ludmFsaWQgZnJhbWUgZW5kIGJ5dGUgJTAyeCcsIGZyYW1lX2VuZCkKICAgICAgICAjICAgICBzZWxmLmNsb3NlKCkKICAgICAgICAjICAgICB5aWVsZCBmcm9tIHNlbGYud2FpdF9jbG9zZWQoKQogICAgICAgICMgICAgIHJhaXNlIGVycm9ycy5Qcm90b2NvbEZhaWx1cmUoJ2ludmFsaWQgZnJhbWUgZW5kICh7MDowMnh9KSAnCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncmVjZWl2ZWQnLCBmcmFtZV9lbmQpCiAgICAgICAgIwogICAgICAgICMgaWYgZnJhbWVfdHlwZSA9PSAxOiAgIyBNRVRIT0QKICAgICAgICAjICAgICBwYXNzCiAgICAgICAgIyBlbGlmIGZyYW1lX3R5cGUgPT0gMjogICMgSEVBREVSCiAgICAgICAgIyAgICAgcGFzcwogICAgICAgICMgZWxpZiBmcmFtZV90eXBlID09IDM6ICAjIEJPRFkKICAgICAgICAjICAgICBwYXNzCiAgICAgICAgIyBlbGlmIGZyYW1lX3R5cGUgPT0gNDogICMgSEVBUlRCRUFUCiAgICAgICAgIyAgICAgcGFzcwogICAgICAgICMgZWxzZToKICAgICAgICAjICAgICBzZWxmLmxvZ2dlci5jcml0aWNhbCgnaW52YWxpZCBmcmFtZSB0eXBlICVkIHJlY2VpdmVkJywgZnJhbWVfdHlwZSkKICAgICAgICAjICAgICBzZWxmLmNsb3NlKCkKICAgICAgICAjICAgICB5aWVsZCBmcm9tIHNlbGYud2FpdF9jbG9zZWQoKQogICAgICAgICMgICAgIHJhaXNlIGVycm9ycy5Qcm90b2NvbEZhaWx1cmUoJ2ludmFsaWQgZnJhbWUgdHlwZSAoezB9KSByZWNlaXZlZCcsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcmFtZV90eXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0cnVjdAo=</text>
+        <text encoding="base64">ICAgIGRlZiBfZGVjb2RlX21ldGhvZChzZWxmKToK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByYWlzZSBlcnJvcnMuUHJvdG9jb2xGYWlsdXJlKCdpbnZhbGlkIGZyYW1lIHR5cGUgKHswfSkgcmVjZWl2ZWQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZnJhbWVfdHlwZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRnJhbWUoZnJhbWVfdHlwZSwgY2hhbm5lbCwgZnJhbWVfYm9keSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBjaGFubmVsICE9IDA6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsaWYgZnJhbWVfdHlwZSA9PSA0OiAgIyBIRUFSVEJFQVQK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRnJhbWUoZnJhbWVfdHlwZSwgY2hhbm5lbCwgZnJhbWVfYm9keSkKICAgIGVsc2U6CiAgICAgICAgcmFpc2UgZXJyb3JzLlByb3RvY29sRmFpbHVyZSgnaW52YWxpZCBmcmFtZSB0eXBlICh7MH0pIHJlY2VpdmVkJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZyYW1lX3R5cGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjaGFubmVsICE9IDA6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRnJhbWUoZnJhbWVfdHlwZSwgY2hhbm5lbCwgZnJhbWVfYm9keSkKICAgIGVsc2U6CiAgICAgICAgcmFpc2UgZXJyb3JzLlByb3RvY29sRmFpbHVyZSgnaW52YWxpZCBmcmFtZSB0eXBlICh7MH0pIHJlY2VpdmVkJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZyYW1lX3R5cGUpCg==</text>
+        <text encoding="base64">CiAgICAgICAgIyBmcmFtZV9oZWFkZXIgPSB5aWVsZCBmcm9tIHNlbGYucmVhZGVyLnJlYWQoNykKICAgICAgICAjIHNlbGYubG9nZ2VyLmRlYnVnKCdyZWNlaXZlZCAlcicsIGZyYW1lX2hlYWRlcikKICAgICAgICAjCiAgICAgICAgIyBmcmFtZV90eXBlLCBjaGFubmVsLCBmcmFtZV9zaXplID0gc3RydWN0LnVucGFjaygnPkJISScsIGZyYW1lX2hlYWRlcikKICAgICAgICAjIGZyYW1lX2JvZHkgPSB5aWVsZCBmcm9tIHNlbGYucmVhZGVyLnJlYWQoZnJhbWVfc2l6ZSkKICAgICAgICAjIGZyYW1lX2VuZCA9IHlpZWxkIGZyb20gc2VsZi5yZWFkZXIucmVhZCgxKQogICAgICAgICMKICAgICAgICAjIGZyYW1lX2VuZCA9IGZyYW1lX2VuZFswXQogICAgICAgICMgaWYgZnJhbWVfZW5kICE9IDB4Q0U6CiAgICAgICAgIyAgICAgc2VsZi5sb2dnZXIuY3JpdGljYWwoJ2ludmFsaWQgZnJhbWUgZW5kIGJ5dGUgJTAyeCcsIGZyYW1lX2VuZCkKICAgICAgICAjICAgICBzZWxmLmNsb3NlKCkKICAgICAgICAjICAgICB5aWVsZCBmcm9tIHNlbGYud2FpdF9jbG9zZWQoKQogICAgICAgICMgICAgIHJhaXNlIGVycm9ycy5Qcm90b2NvbEZhaWx1cmUoJ2ludmFsaWQgZnJhbWUgZW5kICh7MDowMnh9KSAnCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncmVjZWl2ZWQnLCBmcmFtZV9lbmQpCiAgICAgICAgIwogICAgICAgICMgaWYgZnJhbWVfdHlwZSA9PSAxOiAgIyBNRVRIT0QKICAgICAgICAjICAgICBwYXNzCiAgICAgICAgIyBlbGlmIGZyYW1lX3R5cGUgPT0gMjogICMgSEVBREVSCiAgICAgICAgIyAgICAgcGFzcwogICAgICAgICMgZWxpZiBmcmFtZV90eXBlID09IDM6ICAjIEJPRFkKICAgICAgICAjICAgICBwYXNzCiAgICAgICAgIyBlbGlmIGZyYW1lX3R5cGUgPT0gNDogICMgSEVBUlRCRUFUCiAgICAgICAgIyAgICAgcGFzcwogICAgICAgICMgZWxzZToKICAgICAgICAjICAgICBzZWxmLmxvZ2dlci5jcml0aWNhbCgnaW52YWxpZCBmcmFtZSB0eXBlICVkIHJlY2VpdmVkJywgZnJhbWVfdHlwZSkKICAgICAgICAjICAgICBzZWxmLmNsb3NlKCkKICAgICAgICAjICAgICB5aWVsZCBmcm9tIHNlbGYud2FpdF9jbG9zZWQoKQogICAgICAgICMgICAgIHJhaXNlIGVycm9ycy5Qcm90b2NvbEZhaWx1cmUoJ2ludmFsaWQgZnJhbWUgdHlwZSAoezB9KSByZWNlaXZlZCcsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcmFtZV90eXBlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4756,7 +4756,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gRnJhbWUoZnJhbWVfdHlwZSwgY2hhbm5lbCwgZnJhbWVfYm9keSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsaWYgZnJhbWVfdHlwZSA9PSAzOiAgIyBCT0RZCg==</text>
+        <text encoding="base64">ICAgIGVsaWYgZnJhbWVfdHlwZSA9PSA0OiAgIyBIRUFSVEJFQVQK</text>
       </register>
     </registers>
     <search>
