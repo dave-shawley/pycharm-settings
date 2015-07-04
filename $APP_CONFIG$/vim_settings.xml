@@ -85,6 +85,13 @@
         <mark key="." line="82" column="28" />
         <mark key="[" line="81" column="51" />
       </file>
+      <file name="$USER_HOME$/Source/python/magician/tests/wire_tests.py" timestamp="1436014791614">
+        <mark key="'" line="10" column="5" />
+        <mark key="]" line="22" column="10" />
+        <mark key="^" line="37" column="29" />
+        <mark key="." line="22" column="10" />
+        <mark key="[" line="22" column="9" />
+      </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/channel.py" timestamp="1430058303912">
         <mark key="'" line="1056" column="24" />
       </file>
@@ -164,7 +171,7 @@
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/proactor_events.py" timestamp="1423403274631">
         <mark key="'" line="5" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1435497845871">
+      <file name="/Python Console" timestamp="1436014513262">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/tests.py" timestamp="1435499501580">
@@ -239,12 +246,12 @@
         <mark key="." line="46" column="52" />
         <mark key="[" line="46" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/magician/wire.py" timestamp="1435977510911">
+      <file name="$USER_HOME$/Source/python/magician/magician/wire.py" timestamp="1436014775549">
         <mark key="'" line="24" column="0" />
-        <mark key="]" line="58" column="70" />
-        <mark key="^" line="58" column="70" />
-        <mark key="." line="58" column="70" />
-        <mark key="[" line="58" column="68" />
+        <mark key="]" line="36" column="36" />
+        <mark key="^" line="36" column="28" />
+        <mark key="." line="36" column="0" />
+        <mark key="[" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/tests/unit/source_tests.py" timestamp="1404575197435">
         <mark key="'" line="1" column="13" />
@@ -760,13 +767,6 @@
         <mark key="." line="23" column="39" />
         <mark key="[" line="23" column="20" />
       </file>
-      <file name="$USER_HOME$/Temporary/miming/tests.py" timestamp="1435279218629">
-        <mark key="'" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="29" column="12" />
-        <mark key="." line="20" column="0" />
-        <mark key="[" line="32" column="74" />
-      </file>
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/httputil.py" timestamp="1432331985726">
         <mark key="'" line="437" column="8" />
       </file>
@@ -845,9 +845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="21" column="11" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="27" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="25" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="40" column="11" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
@@ -945,10 +942,13 @@
       <jump line="49" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="1" column="35" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
+      <jump line="2" column="24" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
+      <jump line="10" column="5" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBmaWVsZF90eXBlID09IAo=</text>
+        <text encoding="base64">ICAgIGVuZF9vZmZzZXQgPSBvZmZzZXQgKyB0YWJsZV9zaXplCg==</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">CgpjbGFzcyBXaGVuUGFyc2luZ0xpc3RIZWFkZXIodW5pdHRlc3QuVGVzdENhc2UpOgo=</text>
@@ -3077,10 +3077,10 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>create_conn</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>(offset + table_size)</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4723,22 +4723,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGVuZF9vZmZzZXQgPSBvZmZzZXQgKyB0YWJsZV9zaXplCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>(offset + table_size)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBmaWVsZF90eXBlID09IAo=</text>
+        <text encoding="base64">ICAgIGVuZF9vZmZzZXQgPSBvZmZzZXQgKyB0YWJsZV9zaXplCg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByYWlzZSBlcnJvcnMuUHJvdG9jb2xGYWlsdXJlKCdpbnZhbGlkIGZyYW1lIHR5cGUgKHswfSkgcmVjZWl2ZWQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZnJhbWVfdHlwZSkK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ZmllbGRfbmFtZSA=</text>
+        <text>n</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text>'</text>
       </register>
       <register name="5" type="4">
         <text>pass</text>
@@ -4746,31 +4746,30 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="4">
-        <text>e</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmcmFtZSA9IHdpcmUuRnJhbWUoMTAsIDApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmVyX3Byb3BlcnRpZXMgPSBzZWxmLl9kZWNvZGVfdGFibGUoZGF0YVs4OjgrdGFibGVfc2l6ZV0pCg==</text>
+      <register name="9" type="4">
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>, string_data</text>
+        <text>5</text>
       </register>
     </registers>
     <search>
       <last-search>create_conn</last-search>
       <last-offset />
-      <last-pattern>create_conn</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>class LogRecord</entry>
         <entry>'</entry>
         <entry encoding="base64">XDxfT0FVVEhfQVVUSE9SSVpFX1VSTFw+</entry>
         <entry>edit-link</entry>
@@ -4790,9 +4789,9 @@
         <entry>console</entry>
         <entry>def conn</entry>
         <entry>create_conn</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>.,+4s/'/&quot;/g</entry>
         <entry>s/'/&quot;/g</entry>
         <entry>239</entry>
         <entry>904</entry>
@@ -4810,6 +4809,7 @@
         <entry>sp</entry>
         <entry>32</entry>
         <entry>54</entry>
+        <entry>%s/&quot;/'/g</entry>
         <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
