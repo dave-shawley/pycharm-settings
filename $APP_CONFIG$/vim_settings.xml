@@ -284,8 +284,8 @@
         <mark key="." line="46" column="52" />
         <mark key="[" line="46" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/magician/wire.py" timestamp="1436135997583">
-        <mark key="'" line="345" column="66" />
+      <file name="$USER_HOME$/Source/python/magician/magician/wire.py" timestamp="1436138112614">
+        <mark key="'" line="361" column="0" />
         <mark key="a" line="333" column="10" />
         <mark key="]" line="340" column="50" />
         <mark key="^" line="340" column="50" />
@@ -931,10 +931,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="343" column="4" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
@@ -1031,6 +1027,10 @@
       <jump line="151" column="8" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
       <jump line="345" column="66" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="298" column="8" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="374" column="4" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="372" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="365" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="361" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4836,7 +4836,7 @@
         <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>368</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -4878,7 +4878,6 @@
         <entry>construct_start</entry>
       </history-search>
       <history-cmd>
-        <entry>39</entry>
         <entry>64</entry>
         <entry>101</entry>
         <entry>276</entry>
@@ -4898,6 +4897,7 @@
         <entry>245</entry>
         <entry>w</entry>
         <entry>1</entry>
+        <entry>368</entry>
       </history-cmd>
       <history-expr />
       <history-input />
