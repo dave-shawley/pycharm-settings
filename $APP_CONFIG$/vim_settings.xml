@@ -101,13 +101,13 @@
         <mark key="." line="82" column="28" />
         <mark key="[" line="81" column="51" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/tests/wire_tests.py" timestamp="1436130259307">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Source/python/magician/tests/wire_tests.py" timestamp="1436136077380">
+        <mark key="'" line="151" column="8" />
         <mark key="a" line="122" column="25" />
-        <mark key="]" line="167" column="51" />
-        <mark key="^" line="167" column="51" />
-        <mark key="." line="167" column="51" />
-        <mark key="[" line="163" column="48" />
+        <mark key="]" line="182" column="29" />
+        <mark key="^" line="182" column="29" />
+        <mark key="." line="182" column="29" />
+        <mark key="[" line="182" column="29" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/channel.py" timestamp="1430058303912">
         <mark key="'" line="1056" column="24" />
@@ -284,8 +284,8 @@
         <mark key="." line="46" column="52" />
         <mark key="[" line="46" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/magician/wire.py" timestamp="1436134308827">
-        <mark key="'" line="56" column="19" />
+      <file name="$USER_HOME$/Source/python/magician/magician/wire.py" timestamp="1436135997583">
+        <mark key="'" line="345" column="66" />
         <mark key="a" line="333" column="10" />
         <mark key="]" line="340" column="50" />
         <mark key="^" line="340" column="50" />
@@ -931,9 +931,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="210" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="207" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="343" column="4" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="25" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
@@ -1031,10 +1028,13 @@
       <jump line="8" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="28" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="56" column="19" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="151" column="8" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
+      <jump line="345" column="66" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="298" column="8" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>C</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">CgpjbGFzcyBCdWZmZXJMb2dBZGFwdGVyKG9iamVjdCk6CgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGJ1ZmZlcik6CiAgICAgICAgc2VsZi5idWZmZXIgPSBidWZmZXIKICAgICAgICBzZWxmLmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCdCdWZmZXJMb2dBZGFwdGVyJykKCiAgICBkZWYgd3JpdGUoc2VsZiwgZGF0YSk6CiAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoJ3dyaXRpbmcgJXInLCBkYXRhKQogICAgICAgIHJldHVybiBzZWxmLmJ1ZmZlci53cml0ZShkYXRhKQoKICAgIGRlZiBnZXRidWZmZXIoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuYnVmZmVyLmdldGJ1ZmZlcigpCgogICAgZGVmIHRlbGwoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuYnVmZmVyLnRlbGwoKQogICAgCiAgICBkZWYgc2Vla2FibGUoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuYnVmZmVyLnNlZWthYmxlKCkK</text>
@@ -3166,7 +3166,7 @@
         <text>construct_start</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>C</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4808,14 +4808,14 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text>1F</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+      <register name="2" type="4">
+        <text>00</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>C</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3aXJlLmVuY29kZV9sb25nX3N0cmluZyhzZWxmLlVURjhfVkFMVUUsIHNlbGYud3JpdGVyKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoc3RydWN0LnVucGFjaygnPkknLCBzZWxmLndyaXR0ZW5bMDo0XSlbMF0sCiAgICAgICAgICAgICAgICAgICAgICAgICBsZW4oc2VsZi5VVEY4X1ZBTFVFKSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlbGYud3JpdHRlbls0Ol0sIHNlbGYuVVRGOF9WQUxVRSkK</text>
@@ -4823,26 +4823,26 @@
       <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QSAqd3JpdGVyKiBpcyBhbnl0aGluZyB0aGF0IGltcGxlbWVudHMgYSBgYHdyaXRlYGAgbWV0aG9kIHRoYXQKYWNjZXB0cyBhIGJ5dGUgc3RyaW5nIHN1Y2ggYXMgYSA6Y2xhc3M6YGlvLkJ5dGVzSU9gIG9yCjpjbGFzczpgYXN5bmNpby5TdHJlYW1Xcml0ZXJgIGluc3RhbmNlLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
     </registers>
     <search>
