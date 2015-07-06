@@ -45,12 +45,11 @@
         <mark key="^" line="43" column="15" />
         <mark key="." line="43" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" timestamp="1436205079062">
-        <mark key="a" line="297" column="0" />
-        <mark key="e" line="520" column="8" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" timestamp="1436206298250">
+        <mark key="e" line="493" column="8" />
+        <mark key="[" line="656" column="0" />
+        <mark key="]" line="656" column="0" />
+        <mark key="." line="656" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/haregel/application.py" timestamp="1424434445035">
         <mark key="'" line="30" column="38" />
@@ -889,17 +888,9 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/bonzo/server.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="96" column="18" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="92" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="106" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="102" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="75" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="61" column="30" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="129" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="128" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="125" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
@@ -989,13 +980,21 @@
       <jump line="300" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="121" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="134" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="78" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="658" column="15" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="321" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="311" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBAdGVzdGluZy5nZW5fdGVzdAogICAgZGVmIHRlc3RfdGhhdF9zbXRwX2Nvbm5lY3Rpb25faXNfY2FjaGVkKHNlbGYpOgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKHNlbGYud29ya2VyLl9zbXRwX2Nvbm5lY3Rpb25fY2FjaGUpLCAwKQogICAgICAgIHlpZWxkIHNlbGYud29ya2VyLnByb2Nlc3MoKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKHNlbGYud29ya2VyLl9zbXRwX2Nvbm5lY3Rpb25fY2FjaGUpLCAxKQoKICAgIEB0ZXN0aW5nLmdlbl90ZXN0CiAgICBkZWYgdGVzdF90aGF0X3NtdHBfZmFpbHVyZXNfcmVtb3ZlX2Nvbm5lY3Rpb25fZnJvbV9jYWNoZShzZWxmKToKICAgICAgICBkZWYgY2xvc2Vfc29ja2V0KGNvbm5lY3Rpb24sICppZ25vcmVkKToKICAgICAgICAgICAgY29ubmVjdGlvbi5zdHJlYW0uY2xvc2UoKQoKICAgICAgICBzZWxmLnNtdHAuaW52b2tlX2NhbGxiYWNrKCdEQVRBJywgY2xvc2Vfc29ja2V0KQogICAgICAgIHRyeToKICAgICAgICAgICAgeWllbGQgc2VsZi53b3JrZXIucHJvY2VzcygpCiAgICAgICAgZXhjZXB0IHJlamVjdGVkLmNvbnN1bWVyLk1lc3NhZ2VFeGNlcHRpb246CiAgICAgICAgICAgIHBhc3MgICMgZXhwZWN0ZWQKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlbGYud29ya2VyLl9zbXRwX2Nvbm5lY3Rpb25fY2FjaGUsIHt9KQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuaW5zdGFsbF9zZXJ2aWNlKCdyb3V0aW5nJykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3124,31 +3123,31 @@
         <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>Attachment</text>
+        <text encoding="base64">XDxjcmVhdGVfbWVzc2FnZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9lbnZfY2FjaGUuc2V0ZGVmYXVsdChuYW1lLCBvcy5lbnZpcm9uLmdldChuYW1lLCBOb25lKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuaW5zdGFsbF9zZXJ2aWNlKCdyb3V0aW5nJykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAjIEB0ZXN0aW5nLmdlbl90ZXN0CiAgICAjIGRlZiB0ZXN0X3RoYXRfdmFsaWRhdGlvbl9zZXJ2aWNlX2Nhbl9iZV9jb25maWd1cmVkKHNlbGYpOgogICAgIyAgICAgc2VsZi51bnNldGVudignVkFMSURBVElPTl9IT1NUJykKICAgICMgICAgIG5ldGxvYyA9IHNlbGYuc2VydmljZXMuZ2V0X3NlcnZpY2VfaG9zdCgndmFsaWRhdGlvbicpCiAgICAjICAgICBzZWxmLndvcmtlci5zZXR0aW5nc1snc2VydmljZXMnXSA9IHsKICAgICMgICAgICAgICAndmFsaWRhdGlvbic6ICdodHRwOi8vezB9Jy5mb3JtYXQobmV0bG9jKSwKICAgICMgICAgIH0KICAgICMKICAgICMgICAgIHlpZWxkIHNlbGYud29ya2VyLnByb2Nlc3MoKQogICAgIwogICAgIyAgICAgZm9yIHJlcXVlc3QgaW4gc2VsZi5zZXJ2aWNlcy5nZXRfcmVxdWVzdHMoJ3ZhbGlkYXRpb24nKToKICAgICMgICAgICAgICBpZiByZXF1ZXN0LnJlc291cmNlID09ICcvZW1haWwvZGFudCU0MGF3ZWJlci5jb20nOgogICAgIyAgICAgICAgICAgICBicmVhawogICAgIyAgICAgZWxzZToKICAgICMgICAgICAgICBzZWxmLmZhaWwoJ0NvbnN1bWVyIGRpZCBub3QgdmFsaWRhdGUgcmVjaXBpZW50JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuaW5zdGFsbF9zZXJ2aWNlKCd2YWxpZGF0aW9uJykK</text>
+        <text encoding="base64">CiAgICAjIEB0ZXN0aW5nLmdlbl90ZXN0CiAgICAjIGRlZiB0ZXN0X3RoYXRfcm91dGluZ19zZXJ2aWNlX2Nhbl9iZV9jb25maWd1cmVkKHNlbGYpOgogICAgIyAgICAgc2VsZi51bnNldGVudignUk9VVElOR19IT1NUJykKICAgICMgICAgIG5ldGxvYyA9IHNlbGYuc2VydmljZXMuZ2V0X3NlcnZpY2VfaG9zdCgncm91dGluZycpCiAgICAjICAgICBzZWxmLndvcmtlci5zZXR0aW5nc1snc2VydmljZXMnXSA9IHsKICAgICMgICAgICAgICAncm91dGluZyc6ICdodHRwOi8vezB9Jy5mb3JtYXQobmV0bG9jKSwKICAgICMgICAgIH0KICAgICMKICAgICMgICAgIHlpZWxkIHNlbGYud29ya2VyLnByb2Nlc3MoKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBzZWxmLnNtdHAgPSBzbXRwc2VydmVyLlNNVFBSZWNvcmRlcigpCiAgICAgICAgIyBzbXRwX2hvc3QsIHNtdHBfcG9ydCA9IHNlbGYuc210cC5zbXRwX3NlcnZlcl9hZGRyZXNzCiAgICAgICAgIyByZXNwb25zZSA9IHJlcXVlc3RzLnB1dCgKICAgICAgICAjICAgICAnaHR0cDovL3swfTp7MX0vdjEva3Yvc2VydmljZXMvcm91dGluZy9yb3V0aW5nX3RhYmxlJy5mb3JtYXQoCiAgICAgICAgIyAgICAgICAgIG9zLmVudmlyb25bJ0NPTlNVTF9IT1NUJ10sIG9zLmVudmlyb25bJ0NPTlNVTF9QT1JUJ10pLAogICAgICAgICMgICAgIGpzb249W3sKICAgICAgICAjICAgICAgICAgImhvc3RzIjogWwogICAgICAgICMgICAgICAgICAgICAgeyJzY29yZSI6IDEwMCwgImhvc3RuYW1lIjogc210cF9ob3N0LCAicG9ydCI6IHNtdHBfcG9ydH0KICAgICAgICAjICAgICAgICAgXQogICAgICAgICMgICAgIH1dCiAgICAgICAgIyApCiAgICAgICAgIyByZXNwb25zZS5yYWlzZV9mb3Jfc3RhdHVzKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuaW5zdGFsbF9zZXJ2aWNlKCdyb3V0aW5nJykK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4791,22 +4790,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAjIEB0ZXN0aW5nLmdlbl90ZXN0CiAgICAjIGRlZiB0ZXN0X3RoYXRfc210cF9oZWFkZXJzX2FyZV9jb3JyZWN0bHlfcXVvdGVkKHNlbGYpOgogICAgIyAgICAgeWllbGQgc2VsZi53b3JrZXIucHJvY2VzcygpCiAgICAjICAgICBfLCBtc2cgPSBzZWxmLmdldF9yb3V0aW5nX21lc3NhZ2UoKQogICAgIyAgICAgc2VsZi5hc3NlcnRFcXVhbChtc2dbJ1N1YmplY3QnXSwgdSc9P3V0Zi04P3E/TT1EMD1CNWg/PScpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuaW5zdGFsbF9zZXJ2aWNlKCd2YWxpZGF0aW9uJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAjIEB0ZXN0aW5nLmdlbl90ZXN0CiAgICAjIGRlZiB0ZXN0X3RoYXRfY29uc3VtZXJfc2VuZHNfdmFsaWRfcm91dGluZ19yZXF1ZXN0KHNlbGYpOgogICAgIyAgICAgeWllbGQgc2VsZi53b3JrZXIucHJvY2VzcygpCiAgICAjICAgICBodHRwX3JlcSwgbWltZV9tc2cgPSBzZWxmLmdldF9yb3V0aW5nX21lc3NhZ2UoKQogICAgIyAgICAgc2VsZi5hc3NlcnRFcXVhbChodHRwX3JlcS5oZWFkZXJzWydDb3JyZWxhdGlvbi1JRCddLCAnQ09SUkVMQVRJT04tSUQnKQogICAgIyAgICAgc2VsZi5hc3NlcnROb3RFcXVhbChtaW1lX21zZy5rZXlzKCksIFtdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAjIEB0ZXN0aW5nLmdlbl90ZXN0CiAgICAjIGRlZiB0ZXN0X3RoYXRfcmVjaXBpZW50X3dhc192YWxpZGF0ZWQoc2VsZik6CiAgICAjICAgICB5aWVsZCBzZWxmLndvcmtlci5wcm9jZXNzKCkKICAgICMgICAgIGZvciByZXF1ZXN0IGluIHNlbGYuc2VydmljZXMuZ2V0X3JlcXVlc3RzKCd2YWxpZGF0aW9uJyk6CiAgICAjICAgICAgICAgaWYgcmVxdWVzdC5yZXNvdXJjZSA9PSAnL2VtYWlsL2RhbnQlNDBhd2ViZXIuY29tJzoKICAgICMgICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXF1ZXN0LmhlYWRlcnNbJ0NvcnJlbGF0aW9uLUlEJ10sCiAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0NPUlJFTEFUSU9OLUlEJykKICAgICMgICAgICAgICAgICAgYnJlYWsKICAgICMgICAgIGVsc2U6CiAgICAjICAgICAgICAgc2VsZi5mYWlsKCdDb25zdW1lciBkaWQgbm90IHZhbGlkYXRlIHJlY2lwaWVudCcpCg==</text>
+        <text encoding="base64">CiAgICAgICAgIyBzZWxmLnNtdHAgPSBzbXRwc2VydmVyLlNNVFBSZWNvcmRlcigpCiAgICAgICAgIyBzbXRwX2hvc3QsIHNtdHBfcG9ydCA9IHNlbGYuc210cC5zbXRwX3NlcnZlcl9hZGRyZXNzCiAgICAgICAgIyByZXNwb25zZSA9IHJlcXVlc3RzLnB1dCgKICAgICAgICAjICAgICAnaHR0cDovL3swfTp7MX0vdjEva3Yvc2VydmljZXMvcm91dGluZy9yb3V0aW5nX3RhYmxlJy5mb3JtYXQoCiAgICAgICAgIyAgICAgICAgIG9zLmVudmlyb25bJ0NPTlNVTF9IT1NUJ10sIG9zLmVudmlyb25bJ0NPTlNVTF9QT1JUJ10pLAogICAgICAgICMgICAgIGpzb249W3sKICAgICAgICAjICAgICAgICAgImhvc3RzIjogWwogICAgICAgICMgICAgICAgICAgICAgeyJzY29yZSI6IDEwMCwgImhvc3RuYW1lIjogc210cF9ob3N0LCAicG9ydCI6IHNtdHBfcG9ydH0KICAgICAgICAjICAgICAgICAgXQogICAgICAgICMgICAgIH1dCiAgICAgICAgIyApCiAgICAgICAgIyByZXNwb25zZS5yYWlzZV9mb3Jfc3RhdHVzKCkK</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>Attachment</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVfbWVzc2FnZVw+</last-search>
       <last-offset />
-      <last-pattern>Attachment</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVfbWVzc2FnZVw+</last-pattern>
       <last-replace encoding="base64">XDEgPSBfZG9fcmVxdWVzdDxMRj4=</last-replace>
       <last-substitute encoding="base64">IFwoW14gXSpcKQ==</last-substitute>
       <last-dir>1</last-dir>
@@ -4814,7 +4813,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_service</entry>
         <entry encoding="base64">XDxfY3JlYXRlX21pbWVfcGFydFw+</entry>
         <entry encoding="base64">XDxfYWRkX21pbWVfaGVhZGVyXD4=</entry>
         <entry>8BIT</entry>
@@ -4834,6 +4832,7 @@
         <entry>_connection_class</entry>
         <entry>HTTPConnec</entry>
         <entry>Attachment</entry>
+        <entry encoding="base64">XDxjcmVhdGVfbWVzc2FnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
