@@ -85,12 +85,13 @@
         <mark key="." line="82" column="28" />
         <mark key="[" line="81" column="51" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/tests/wire_tests.py" timestamp="1436142200552">
-        <mark key="'" line="67" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="^" line="83" column="26" />
-        <mark key="." line="84" column="0" />
-        <mark key="[" line="84" column="0" />
+      <file name="$USER_HOME$/Source/python/magician/tests/wire_tests.py" timestamp="1436184031737">
+        <mark key="'" line="81" column="0" />
+        <mark key="a" line="83" column="30" />
+        <mark key="]" line="94" column="54" />
+        <mark key="^" line="94" column="54" />
+        <mark key="." line="94" column="54" />
+        <mark key="[" line="94" column="54" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/channel.py" timestamp="1430058303912">
         <mark key="'" line="1056" column="24" />
@@ -170,7 +171,7 @@
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/proactor_events.py" timestamp="1423403274631">
         <mark key="'" line="5" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1436014513262">
+      <file name="/Python Console" timestamp="1436183968107">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/tests.py" timestamp="1435499501580">
@@ -251,13 +252,13 @@
         <mark key="." line="46" column="52" />
         <mark key="[" line="46" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/magician/wire.py" timestamp="1436138112614">
-        <mark key="'" line="361" column="0" />
+      <file name="$USER_HOME$/Source/python/magician/magician/wire.py" timestamp="1436183980122">
+        <mark key="'" line="380" column="16" />
         <mark key="a" line="333" column="10" />
-        <mark key="]" line="340" column="50" />
-        <mark key="^" line="340" column="50" />
-        <mark key="." line="340" column="50" />
-        <mark key="[" line="340" column="26" />
+        <mark key="]" line="377" column="60" />
+        <mark key="^" line="377" column="60" />
+        <mark key="." line="377" column="60" />
+        <mark key="[" line="377" column="59" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/tests/unit/source_tests.py" timestamp="1404575197435">
         <mark key="'" line="1" column="13" />
@@ -850,27 +851,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="231" column="7" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="249" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="252" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="258" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="263" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="320" column="5" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="319" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="310" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="271" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="276" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="279" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
@@ -894,7 +874,6 @@
       <jump line="128" column="41" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="110" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="103" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="100" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="99" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="92" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="70" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
@@ -948,12 +927,34 @@
       <jump line="45" column="0" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
       <jump line="76" column="8" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
       <jump line="72" column="0" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
+      <jump line="132" column="12" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="108" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="100" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="69" column="0" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
       <jump line="67" column="0" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
+      <jump line="58" column="23" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
+      <jump line="46" column="8" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
+      <jump line="5" column="27" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
+      <jump line="49" column="17" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
+      <jump line="17" column="8" filename="$USER_HOME$/Source/python/magician/magician/errors.py" />
+      <jump line="377" column="21" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="266" column="12" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="380" column="16" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="261" column="16" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">CgpjbGFzcyBCdWZmZXJMb2dBZGFwdGVyKG9iamVjdCk6CgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGJ1ZmZlcik6CiAgICAgICAgc2VsZi5idWZmZXIgPSBidWZmZXIKICAgICAgICBzZWxmLmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCdCdWZmZXJMb2dBZGFwdGVyJykKCiAgICBkZWYgd3JpdGUoc2VsZiwgZGF0YSk6CiAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoJ3dyaXRpbmcgJXInLCBkYXRhKQogICAgICAgIHJldHVybiBzZWxmLmJ1ZmZlci53cml0ZShkYXRhKQoKICAgIGRlZiBnZXRidWZmZXIoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuYnVmZmVyLmdldGJ1ZmZlcigpCgogICAgZGVmIHRlbGwoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuYnVmZmVyLnRlbGwoKQogICAgCiAgICBkZWYgc2Vla2FibGUoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuYnVmZmVyLnNlZWthYmxlKCkK</text>
@@ -3085,7 +3086,7 @@
         <text>construct_start</text>
       </register>
       <register name="-" type="4">
-        <text>server_properties</text>
+        <text>0</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4728,40 +4729,40 @@
         </keys>
       </register>
       <register name="3" type="4">
-        <text>frame</text>
+        <text>!</text>
       </register>
       <register name="2" type="4">
-        <text>server_properties</text>
+        <text>0</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aXJlLmVuY29kZV9sb25nX3N0cmluZyhzZWxmLlVURjhfVkFMVUUsIHNlbGYud3JpdGVyKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoc3RydWN0LnVucGFjaygnPkknLCBzZWxmLndyaXR0ZW5bMDo0XSlbMF0sCiAgICAgICAgICAgICAgICAgICAgICAgICBsZW4oc2VsZi5VVEY4X1ZBTFVFKSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlbGYud3JpdHRlbls0Ol0sIHNlbGYuVVRGOF9WQUxVRSkK</text>
+        <text encoding="base64">ICAgICAgICBidWZmZXIgPSBpby5CeXRlc0lPKCkKICAgICAgICBidWZmZXIud3JpdGUoc3RydWN0LnBhY2soJz5CSEknLCBmcmFtZV90eXBlLCBjaGFubmVsLCBsZW4oZnJhbWVfYm9keSkpKQogICAgICAgIGJ1ZmZlci53cml0ZShmcmFtZV9ib2R5KQogICAgICAgIGJ1ZmZlci53cml0ZSh3aXJlLkZyYW1lLkVORF9CWVRFKQogICAgICAgIHJlYWRlciA9IEFzeW5jQnVmZmVyUmVhZGVyKGJ1ZmZlci5nZXR2YWx1ZSgpKQogICAgICAgIHJldHVybiBzZWxmLmxvb3AucnVuX3VudGlsX2NvbXBsZXRlKHdpcmUucmVhZF9mcmFtZShyZWFkZXIpKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>frame</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>frame</text>
+        <text>:</text>
       </register>
       <register name="5" type="4">
-        <text>frame</text>
+        <text>r</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="4">
-        <text>frame</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXJfcHJvcGVydGllcywgXyA9IHdpcmUuZGVjb2RlX3RhYmxlKENPTk5FQ1RJT05fU1RBUlQsIDYpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">b3Ig</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>None</text>
       </register>
     </registers>
     <search>
@@ -4797,9 +4798,6 @@
         <entry>construct_start</entry>
       </history-search>
       <history-cmd>
-        <entry>64</entry>
-        <entry>101</entry>
-        <entry>276</entry>
         <entry>vspl</entry>
         <entry>32</entry>
         <entry>54</entry>
@@ -4815,8 +4813,11 @@
         <entry>77</entry>
         <entry>245</entry>
         <entry>368</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>75</entry>
+        <entry>103</entry>
+        <entry>133</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
