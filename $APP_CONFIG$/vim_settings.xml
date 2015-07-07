@@ -4793,7 +4793,7 @@
         <text encoding="base64">ICAgICAgICBtc2dfYm9keSA9IGNvcHkuZGVlcGNvcHkoc2VsZi5NRVNTQUdFX0JPRFkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -4829,7 +4829,6 @@
         <entry encoding="base64">XDxhZGRfY2FsbGJhY2tcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>185</entry>
         <entry>455</entry>
         <entry>sp</entry>
         <entry>381</entry>
@@ -4849,6 +4848,7 @@
         <entry>csp</entry>
         <entry>vsp</entry>
         <entry>1</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
