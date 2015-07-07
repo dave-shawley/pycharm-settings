@@ -453,12 +453,12 @@
         <mark key="^" line="42" column="18" />
         <mark key="." line="42" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1436288082439">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1436290326827">
         <mark key="'" line="459" column="24" />
-        <mark key="[" line="459" column="24" />
-        <mark key="]" line="459" column="39" />
-        <mark key="." line="459" column="39" />
-        <mark key="^" line="459" column="39" />
+        <mark key="[" line="79" column="40" />
+        <mark key="]" line="79" column="40" />
+        <mark key="." line="79" column="40" />
+        <mark key="^" line="79" column="40" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
