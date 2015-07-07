@@ -2,6 +2,10 @@
   <action id="MarkExcludeRoot">
     <keyboard-shortcut first-keystroke="shift control E" />
   </action>
+  <action id="MinimizeCurrentWindow" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="meta M" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta T" />
   </action>
