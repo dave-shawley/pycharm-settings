@@ -191,9 +191,6 @@
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/proactor_events.py" timestamp="1423403274631">
         <mark key="'" line="5" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1436183968107">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/python/readit2/tests.py" timestamp="1435499501580">
         <mark key="'" line="161" column="32" />
         <mark key="]" line="158" column="0" />
@@ -907,13 +904,13 @@
       <file name="$USER_HOME$/Source/python/zender/setup.py" timestamp="1416699635907">
         <mark key="'" line="35" column="11" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" timestamp="1436316929270">
-        <mark key="'" line="25" column="0" />
-        <mark key="a" line="37" column="22" />
-        <mark key="]" line="40" column="33" />
-        <mark key="^" line="40" column="33" />
-        <mark key="." line="40" column="33" />
-        <mark key="[" line="40" column="33" />
+      <file name="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" timestamp="1436318940587">
+        <mark key="'" line="30" column="0" />
+        <mark key="a" line="47" column="0" />
+        <mark key="]" line="45" column="73" />
+        <mark key="^" line="45" column="73" />
+        <mark key="." line="45" column="73" />
+        <mark key="[" line="45" column="46" />
       </file>
       <file name="$USER_HOME$/Source/python/zender/env/lib/python3.4/site-packages/setuptools/__init__.py" timestamp="1416699639114">
         <mark key="'" line="57" column="23" />
@@ -944,9 +941,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
       <jump line="58" column="23" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
       <jump line="46" column="8" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Source/python/magician/tests/wire_tests.py" />
@@ -1044,10 +1038,13 @@
       <jump line="202" column="6" filename="$USER_HOME$/opt/lib/python3.4/asyncio/streams.py" />
       <jump line="40" column="25" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="0" column="0" filename="$USER_HOME$/opt/lib/python3.4/asyncio/streams.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sockname</text>
+        <text>rabbit_info.user, rabbit_info.password))</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">CgpjbGFzcyBCdWZmZXJMb2dBZGFwdGVyKG9iamVjdCk6CgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGJ1ZmZlcik6CiAgICAgICAgc2VsZi5idWZmZXIgPSBidWZmZXIKICAgICAgICBzZWxmLmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCdCdWZmZXJMb2dBZGFwdGVyJykKCiAgICBkZWYgd3JpdGUoc2VsZiwgZGF0YSk6CiAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoJ3dyaXRpbmcgJXInLCBkYXRhKQogICAgICAgIHJldHVybiBzZWxmLmJ1ZmZlci53cml0ZShkYXRhKQoKICAgIGRlZiBnZXRidWZmZXIoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuYnVmZmVyLmdldGJ1ZmZlcigpCgogICAgZGVmIHRlbGwoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuYnVmZmVyLnRlbGwoKQogICAgCiAgICBkZWYgc2Vla2FibGUoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuYnVmZmVyLnNlZWthYmxlKCkK</text>
@@ -3179,7 +3176,7 @@
         <text>Transport</text>
       </register>
       <register name="-" type="4">
-        <text>sockname</text>
+        <text>rabbit_info.user, rabbit_info.password))</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4822,25 +4819,25 @@
         </keys>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>w</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
-        <text>sockname</text>
+        <text>rabbit_info.user, rabbit_info.password))</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29ubi50cmFuc3BvcnQuZ2V0X2V4dHJhX2luZm8oJ3NvY2tuYW1lJyksCg==</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text encoding="base64">ID09IHNvY2tpbmZvWzBd</text>
       </register>
       <register name="6" type="4">
-        <text>o</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text>n</text>
+        <text>fomr url</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -4851,11 +4848,11 @@
       <register name=":" type="4">
         <text>1</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOiAgIyBsZW4oKT09NCA9PiBJUHY2Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgMCwgMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvbl9uYW1lID0gJ1t7MH1dOnsxfScuZm9ybWF0KHNvY2tpbmZvWzBdLCBzb2NraW5mb1sxXSkK</text>
       </register>
     </registers>
     <search>
