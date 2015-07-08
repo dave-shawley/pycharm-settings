@@ -355,8 +355,8 @@
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/mongo_client.py" timestamp="1434971316208">
         <mark key="'" line="289" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/magician/amqp.py" timestamp="1436269028783">
-        <mark key="'" line="60" column="0" />
+      <file name="$USER_HOME$/Source/python/magician/magician/amqp.py" timestamp="1436269387031">
+        <mark key="'" line="48" column="0" />
         <mark key="a" line="115" column="47" />
         <mark key="]" line="96" column="33" />
         <mark key="^" line="96" column="33" />
@@ -894,13 +894,13 @@
       <file name="$USER_HOME$/Source/python/zender/setup.py" timestamp="1416699635907">
         <mark key="'" line="35" column="11" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" timestamp="1436269198789">
+      <file name="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" timestamp="1436269479208">
         <mark key="'" line="20" column="0" />
         <mark key="a" line="20" column="29" />
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-        <mark key="[" line="7" column="0" />
+        <mark key="]" line="36" column="82" />
+        <mark key="^" line="37" column="11" />
+        <mark key="." line="36" column="82" />
+        <mark key="[" line="36" column="82" />
       </file>
       <file name="$USER_HOME$/Source/python/zender/env/lib/python3.4/site-packages/setuptools/__init__.py" timestamp="1416699639114">
         <mark key="'" line="57" column="23" />
@@ -931,7 +931,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="79" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="72" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
@@ -1031,10 +1030,11 @@
       <jump line="31" column="30" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
       <jump line="27" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBkZWYgc2V0VXAoc2VsZik6CiAgICAgICAgc3VwZXIoQ29ubmVjdFRvVGVzdHMsIHNlbGYpLnNldFVwKCkKICAgICAgICBzZWxmLmxvb3AgPSBGYWtlRXZlbnRMb29wKCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">CgpjbGFzcyBCdWZmZXJMb2dBZGFwdGVyKG9iamVjdCk6CgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGJ1ZmZlcik6CiAgICAgICAgc2VsZi5idWZmZXIgPSBidWZmZXIKICAgICAgICBzZWxmLmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCdCdWZmZXJMb2dBZGFwdGVyJykKCiAgICBkZWYgd3JpdGUoc2VsZiwgZGF0YSk6CiAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoJ3dyaXRpbmcgJXInLCBkYXRhKQogICAgICAgIHJldHVybiBzZWxmLmJ1ZmZlci53cml0ZShkYXRhKQoKICAgIGRlZiBnZXRidWZmZXIoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuYnVmZmVyLmdldGJ1ZmZlcigpCgogICAgZGVmIHRlbGwoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuYnVmZmVyLnRlbGwoKQogICAgCiAgICBkZWYgc2Vla2FibGUoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuYnVmZmVyLnNlZWthYmxlKCkK</text>
@@ -3166,7 +3166,7 @@
         <text>construct_start</text>
       </register>
       <register name="-" type="4">
-        <text>loop</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4808,41 +4808,41 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="4">
-        <text>.</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>loop</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICBkZWYgc2V0VXAoc2VsZik6CiAgICAgICAgc3VwZXIoQ29ubmVjdFRvVGVzdHMsIHNlbGYpLnNldFVwKCkKICAgICAgICBzZWxmLmxvb3AgPSBGYWtlRXZlbnRMb29wKCkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBfLCBwcm90b2NvbCA9IHlpZWxkIGFtcXAuY29ubmVjdF90bygKICAgICAgICAgICAgJ2FtcXA6Ly91c2VyJTJkbmFtZTpwJTQwc3MlM2F3b3JkQHJhYmJpdC5ob3N0Lm5hbWU6MzY4MTMvJTJGZGV2JywKICAgICAgICAgICAgbG9vcD1zZWxmLmxvb3ApCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">eWllbGQg</text>
       </register>
       <register name="6" type="4">
-        <text>self</text>
+        <text encoding="base64">Y29ubiA=</text>
       </register>
       <register name="5" type="4">
-        <text>.loop</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="4">
-        <text>self</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhbXFwLmNvbm5lY3RfdG8ob3MuZW52aXJvblsnUkFCQklUTVFfVVJMJ10pCg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3RoYXQK</text>
+      <register name="9" type="4">
+        <text>protocol</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBhc3luY2lvLmNvcm91dGluZQo=</text>
       </register>
     </registers>
     <search>
