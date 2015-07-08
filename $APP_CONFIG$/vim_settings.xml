@@ -165,14 +165,14 @@
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/motor/__init__.py" timestamp="1433090318216">
         <mark key="'" line="1086" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1436363356166">
-        <mark key="'" line="333" column="31" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1436388695807">
+        <mark key="'" line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/simple_httpclient.py" timestamp="1435841218432">
         <mark key="'" line="150" column="21" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1436385283733">
-        <mark key="'" line="411" column="19" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1436388634864">
+        <mark key="'" line="81" column="33" />
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="42" />
         <mark key="." line="81" column="0" />
@@ -333,16 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="419" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="430" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="435" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="440" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="461" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="466" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="470" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="499" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="504" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="515" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="20" column="5" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="305" column="40" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="161" column="48" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
@@ -433,6 +423,16 @@
       <jump line="240" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="242" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="245" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="81" column="33" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="460" column="13" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" />
+      <jump line="422" column="14" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" />
+      <jump line="421" column="12" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" />
+      <jump line="420" column="62" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" />
+      <jump line="419" column="15" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" />
+      <jump line="392" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" />
+      <jump line="190" column="24" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" />
+      <jump line="195" column="16" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2568,7 +2568,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>__version</text>
+        <text encoding="base64">XDx0aW1lb3V0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi53b3JrZXIuZmluaXNoKCkKICAgICAgICAgICAgc2VsZi53b3JrZXIucHJvY2VzcygpCg==</text>
@@ -4244,13 +4244,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYud29ya2VyLnByb2Nlc3MoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>__version</last-search>
+      <last-search encoding="base64">XDx0aW1lb3V0XD4=</last-search>
       <last-offset />
-      <last-pattern>__version</last-pattern>
+      <last-pattern encoding="base64">XDx0aW1lb3V0XD4=</last-pattern>
       <last-replace encoding="base64">XDEgPSBfZG9fcmVxdWVzdDxMRj4=</last-replace>
       <last-substitute encoding="base64">IFwoW14gXSpcKQ==</last-substitute>
       <last-dir>1</last-dir>
@@ -4258,7 +4258,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2V0X3NtdHBfY29ubmVjdGlvblw+</entry>
         <entry>email</entry>
         <entry encoding="base64">XDxzbXRwX3NlcnZlclw+</entry>
         <entry encoding="base64">XDxfY2xpZW50XD4=</entry>
@@ -4278,6 +4277,7 @@
         <entry encoding="base64">eWllbGQg</entry>
         <entry encoding="base64">XDxzcG9vbGNvbnN1bWVyXD4=</entry>
         <entry>__version</entry>
+        <entry encoding="base64">XDx0aW1lb3V0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>455</entry>
@@ -4298,8 +4298,8 @@
         <entry>csp</entry>
         <entry>vsp</entry>
         <entry>vs</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
