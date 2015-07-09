@@ -75,7 +75,7 @@
         <mark key="." line="20" column="7" />
         <mark key="[" line="16" column="28" />
       </file>
-      <file name="/fragment.py" timestamp="1435496780215">
+      <file name="/fragment.py" timestamp="1436440434086">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-janitor/README.rst" timestamp="1416452331069">
@@ -175,7 +175,7 @@
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/proactor_events.py" timestamp="1423403274631">
         <mark key="'" line="5" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1436355499844">
+      <file name="/Python Console" timestamp="1436440342329">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/tests.py" timestamp="1435499501580">
@@ -256,8 +256,8 @@
         <mark key="." line="46" column="52" />
         <mark key="[" line="46" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/magician/wire.py" timestamp="1436439825723">
-        <mark key="'" line="78" column="0" />
+      <file name="$USER_HOME$/Source/python/magician/magician/wire.py" timestamp="1436440533014">
+        <mark key="'" line="447" column="13" />
         <mark key="a" line="344" column="10" />
         <mark key="]" line="447" column="32" />
         <mark key="^" line="447" column="32" />
@@ -643,8 +643,8 @@
         <mark key="." line="33" column="0" />
         <mark key="[" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" timestamp="1436406834713">
-        <mark key="'" line="1775" column="15" />
+      <file name="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" timestamp="1436440791201">
+        <mark key="'" line="934" column="20" />
         <mark key="]" line="1364" column="37" />
         <mark key="^" line="1364" column="37" />
         <mark key="." line="1364" column="37" />
@@ -820,7 +820,8 @@
       <file name="$USER_HOME$/opt/lib/python3.4/distutils/cmd.py" timestamp="1416188567247">
         <mark key="'" line="93" column="43" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/magician/utils.py" timestamp="1436439812102">
+      <file name="$USER_HOME$/Source/python/magician/magician/utils.py" timestamp="1436439870348">
+        <mark key="'" line="10" column="16" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="25" column="37" />
         <mark key="." line="25" column="0" />
@@ -862,13 +863,13 @@
       <file name="$USER_HOME$/Source/python/zender/setup.py" timestamp="1416699635907">
         <mark key="'" line="35" column="11" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" timestamp="1436355647758">
+      <file name="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" timestamp="1436440007038">
         <mark key="'" line="9" column="32" />
         <mark key="a" line="17" column="42" />
-        <mark key="]" line="33" column="64" />
-        <mark key="^" line="33" column="64" />
-        <mark key="." line="33" column="64" />
-        <mark key="[" line="32" column="72" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="0" />
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/zender/env/lib/python3.4/site-packages/setuptools/__init__.py" timestamp="1416699639114">
         <mark key="'" line="57" column="23" />
@@ -890,6 +891,12 @@
         <mark key="." line="26" column="20" />
         <mark key="[" line="25" column="25" />
       </file>
+      <file name="$USER_HOME$/Source/python/magician/tests/__init__.py" timestamp="1436440829156">
+        <mark key="]" line="9" column="51" />
+        <mark key="^" line="9" column="51" />
+        <mark key="." line="9" column="51" />
+        <mark key="[" line="7" column="1" />
+      </file>
       <file name="$USER_HOME$/Source/python/hypermedia/docs/conf.py" timestamp="1411646723089">
         <mark key="'" line="6" column="0" />
         <mark key="]" line="30" column="40" />
@@ -899,25 +906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="17" column="28" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="10" column="24" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
-      <jump line="62" column="8" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
-      <jump line="9" column="32" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
-      <jump line="81" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="148" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="76" column="8" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="91" column="12" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="131" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="137" column="21" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="17" column="8" filename="$USER_HOME$/Source/python/magician/magician/errors.py" />
       <jump line="127" column="12" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="115" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="112" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
@@ -999,10 +987,29 @@
       <jump line="86" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="82" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="78" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="58" column="15" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="10" column="16" filename="$USER_HOME$/Source/python/magician/magician/utils.py" />
+      <jump line="1514" column="29" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="1503" column="0" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="447" column="13" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
+      <jump line="8" column="19" filename="$USER_HOME$/Source/python/magician/tests/__init__.py" />
+      <jump line="1662" column="7" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="1142" column="28" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="1122" column="13" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="1664" column="17" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="1144" column="34" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="1066" column="6" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="1246" column="4" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="1678" column="41" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="1686" column="38" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="1696" column="57" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="1706" column="20" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="1741" column="24" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="934" column="20" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZSA9IFtvcmQoYikgZm9yIGIgaW4gYnVmZmVyW29mZnNldDpvZmZzZXQrMTZdXQo=</text>
+      <register name="&quot;" type="4">
+        <text>pass</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgdGVzdF90aGF0X3Byb3RvY29sX2Nsb3Nlc19vbl9zZXJ2ZXJfdmVyc2lvbl9taXNtYXRjaChzZWxmKToKICAgICAgICBfLCBwcm90b2NvbCA9IHlpZWxkIGFtcXAuY29ubmVjdF90bygnYW1xcDovL2xvY2FsaG9zdC8nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvb3A9aGVscGVycy5GYWtlRXZlbnRMb29wKCkpCg==</text>
@@ -3131,10 +3138,10 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDT05ORUNUSU9OX1NUQVJUXD4=</text>
+        <text>StreamHandler</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>pass</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4777,54 +4784,53 @@
         </keys>
       </register>
       <register name="3" type="4">
-        <text>(</text>
+        <text>pass</text>
       </register>
-      <register name="2" type="4">
-        <text>)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZSA9IFtvcmQoYikgZm9yIGIgaW4gYnVmZmVyW29mZnNldDpvZmZzZXQrMTZdXQo=</text>
+      <register name="1" type="4">
+        <text>pass</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmlyc3Rfb2N0b2J5dGUgPSAnICcuam9pbignezA6Mnh9Jy5mb3JtYXQoYikgZm9yIGIgaW4gY3VycmVudFs6OF0pCg==</text>
       </register>
       <register name="7" type="4">
-        <text>len(buffer))</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFR5cGVFcnJvcjoK</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKaW1wb3J0IHN5cwoKbG9nZ2luZy5iYXNpY0NvbmZpZygKICAgIGxldmVsPTEsIGZvcm1hdD0nJShsZXZlbG5hbWUpMS4xcyAtICUobmFtZSlzOiAlKG1lc3NhZ2UpcycsCiAgICBzdHJlYW09c3lzLnN0ZGVyciwKKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">cHJpbnQocmVwcihsb2dnaW5nLnJvb3QpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
-      <register name="9" type="4">
-        <text>trace</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIudHJhY2UoJ3JlYWQgJWQgYnl0ZXMnLCBsZW4oYnVmZmVyKSkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDT05ORUNUSU9OX1NUQVJUXD4=</last-search>
+      <last-search>StreamHandler</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDT05ORUNUSU9OX1NUQVJUXD4=</last-pattern>
+      <last-pattern>StreamHandler</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>next</entry>
         <entry>set_cookie</entry>
         <entry>add_cookie</entry>
         <entry>cookie</entry>
@@ -4844,6 +4850,7 @@
         <entry>Transport</entry>
         <entry>helpers</entry>
         <entry encoding="base64">XDxDT05ORUNUSU9OX1NUQVJUXD4=</entry>
+        <entry>StreamHandler</entry>
       </history-search>
       <history-cmd>
         <entry>54</entry>
