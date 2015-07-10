@@ -479,13 +479,13 @@
         <mark key="^" line="42" column="18" />
         <mark key="." line="42" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1436531775359">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1436542225025">
         <mark key="a" line="148" column="12" />
-        <mark key="'" line="439" column="0" />
-        <mark key="[" line="432" column="72" />
-        <mark key="]" line="433" column="16" />
-        <mark key="." line="433" column="16" />
-        <mark key="^" line="433" column="16" />
+        <mark key="'" line="380" column="8" />
+        <mark key="[" line="422" column="0" />
+        <mark key="]" line="422" column="0" />
+        <mark key="^" line="423" column="50" />
+        <mark key="." line="422" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
@@ -927,7 +927,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="575" column="15" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/packages/urllib3/connectionpool.py" />
       <jump line="35" column="6" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/packages/urllib3/exceptions.py" />
       <jump line="583" column="30" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/packages/urllib3/connectionpool.py" />
       <jump line="1212" column="6" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py" />
@@ -1027,13 +1026,14 @@
       <jump line="420" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="428" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="433" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="380" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CgpjbGFzcyBGYWtlU210cENvbm5lY3Rpb24ob2JqZWN0KToKCiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5fbWVzc2FnZXMgPSBbXQogICAgICAgIHNlbGYuX3Jlc3BvbnNlcyA9IHt9CiAgICAgICAgc2VsZi5fY2FsbGJhY2tzID0ge30KICAgICAgICBzZWxmLmNvbm5lY3Rpb25fY291bnQgPSAwCgogICAgZGVmIGdldF9pbnN0YW5jZShzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHNlbGYuY29ubmVjdCgpCiAgICAgICAgcmV0dXJuIHNlbGYKCiAgICBkZWYgYWRkX2V4Y2VwdGlvbihzZWxmLCBtZXRob2QsIGV4Y2VwdGlvbik6CiAgICAgICAgc2VsZi5fcmVzcG9uc2VzW21ldGhvZF0gPSBleGNlcHRpb24KCiAgICBkZWYgX3J1bl9maXh0dXJlcyhzZWxmLCBtZXRob2RfbmFtZSk6CiAgICAgICAgaWYgbWV0aG9kX25hbWUgaW4gc2VsZi5fcmVzcG9uc2VzOgogICAgICAgICAgICByYWlzZSBzZWxmLl9yZXNwb25zZXNbbWV0aG9kX25hbWVdCgogICAgZGVmIG5vb3Aoc2VsZik6CiAgICAgICAgc2VsZi5fcnVuX2ZpeHR1cmVzKCdub29wJykKCiAgICBkZWYgY29ubmVjdChzZWxmKToKICAgICAgICBzZWxmLmNvbm5lY3Rpb25fY291bnQgKz0gMQogICAgICAgIHNlbGYuX3J1bl9maXh0dXJlcygnY29ubmVjdCcpCgogICAgZGVmIHNlbmRtYWlsKHNlbGYsIGZyb21fYWRkciwgdG9fYWRkcnMsIG1zZywgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICBzZWxmLl9ydW5fZml4dHVyZXMoJ3NlbmRtYWlsJykKICAgICAgICBzZWxmLl9tZXNzYWdlcy5hcHBlbmQoZW1haWwubWVzc2FnZV9mcm9tX3N0cmluZyhtc2cpKQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIG1lc3NhZ2VzKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9tZXNzYWdlc1s6XQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuX2NvcnJlbGF0aW9uX2lkLCBleGNfaW5mbz0xKQo=</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3162,31 +3162,31 @@
         <text encoding="base64">cyA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2V0X3NtdHBfY29ubmVjdGlvblw+</text>
+        <text encoding="base64">XDxfY2FsbF9odHRwX3NlcnZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Li4gXzEuMS4wOiBodHRwczovL2dpdGh1Yi1lbnRlcnByaXNlLmNvbG8ubGFpci9QbGF0Zm9ybS9zcG9vbGVyL2NvbXBhcmUvMS4xLjAuLi4xLjIuMAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cyA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuX2NvcnJlbGF0aW9uX2lkLCBleGNfaW5mbz0xKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>%</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmVycm9yKCclcyB0byAlcyBmYWlsZWQge0NJRCAlc30nLCBtZXRob2QsIHVybCwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">dG8g</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29kZSA9IGVycm9yLnJlc3BvbnNlLnN0YXR1c19jb2RlIGlmIGVycm9yLnJlc3BvbnNlIGVsc2UgJ3Vua25vd24nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgcmV1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdGF0c2RfaW5jcigKICAgICAgICAgICAgICAgICdlcnJvcnMuaHR0cC57MH0uezF9Jy5mb3JtYXQoZnVuY3Rpb24sIGNvZGUpKQo=</text>
       </register>
       <register name="5" type="4">
-        <text>'</text>
+        <text encoding="base64">cyA=</text>
       </register>
       <register name="6" type="4">
-        <text>u</text>
+        <text>%</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4829,22 +4829,22 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">dG8g</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgcmV1Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2V0X3NtdHBfY29ubmVjdGlvblw+</last-search>
+      <last-search encoding="base64">XDxfY2FsbF9odHRwX3NlcnZpY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2V0X3NtdHBfY29ubmVjdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxfY2FsbF9odHRwX3NlcnZpY2VcPg==</last-pattern>
       <last-replace encoding="base64">XDEgPSBfZG9fcmVxdWVzdDxMRj4=</last-replace>
       <last-substitute encoding="base64">IFwoW14gXSpcKQ==</last-substitute>
       <last-dir>-1</last-dir>
@@ -4852,7 +4852,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzbXRwX3NlcnZlclw+</entry>
         <entry encoding="base64">XDxfY2xpZW50XD4=</entry>
         <entry encoding="base64">XDxmdXR1cmVzXD4=</entry>
         <entry>iol</entry>
@@ -4872,6 +4871,7 @@
         <entry>__version</entry>
         <entry encoding="base64">XDx0aW1lb3V0XD4=</entry>
         <entry encoding="base64">XDxfZ2V0X3NtdHBfY29ubmVjdGlvblw+</entry>
+        <entry encoding="base64">XDxfY2FsbF9odHRwX3NlcnZpY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
