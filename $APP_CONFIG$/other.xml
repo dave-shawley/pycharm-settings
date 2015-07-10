@@ -51,6 +51,7 @@
         <entry key="$USER_HOME$/Source/python/glinda/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/python/ietfparse/env/bin/pypy" value="false" />
         <entry key="$USER_HOME$/Source/python/ietfparse/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Source/python/magician/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/python/messages/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/python/setupext-janitor/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/python/setupext-pip/env/bin/python" value="true" />
@@ -62,10 +63,7 @@
     <option name="SDK_TO_NOSETEST">
       <map>
         <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
-        <entry key="$USER_HOME$/Source/communicator/env/bin/python" value="true" />
-        <entry key="$USER_HOME$/Source/core-api/consumers/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/family-tree/env/bin/python" value="false" />
-        <entry key="$USER_HOME$/Source/platform/marley/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/platform/spoolconsumer/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/python/family-tree/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/python/fluent-test/env/bin/python" value="true" />
@@ -75,6 +73,7 @@
         <entry key="$USER_HOME$/Source/python/ietfparse/env/bin/pypy" value="true" />
         <entry key="$USER_HOME$/Source/python/ietfparse/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/python/jester/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Source/python/magician/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/python/messages/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/python/readit2/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/python/sampson/env/bin/python" value="true" />
@@ -94,6 +93,7 @@
         <entry key="$USER_HOME$/Source/python/family-tree/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/python/ietfparse/env/bin/pypy" value="false" />
         <entry key="$USER_HOME$/Source/python/ietfparse/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Source/python/magician/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/python/messages/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/python/setupext-janitor/env/bin/python" value="false" />
       </map>
