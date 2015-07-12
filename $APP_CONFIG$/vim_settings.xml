@@ -849,13 +849,13 @@
       <file name="$USER_HOME$/Source/python/zender/setup.py" timestamp="1416699635907">
         <mark key="'" line="35" column="11" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" timestamp="1436704974329">
-        <mark key="'" line="41" column="0" />
+      <file name="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" timestamp="1436715143712">
+        <mark key="'" line="0" column="0" />
         <mark key="a" line="17" column="42" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="13" />
-        <mark key="." line="3" column="0" />
-        <mark key="[" line="3" column="0" />
+        <mark key="]" line="34" column="29" />
+        <mark key="^" line="34" column="29" />
+        <mark key="." line="34" column="29" />
+        <mark key="[" line="33" column="35" />
       </file>
       <file name="$USER_HOME$/Source/python/zender/env/lib/python3.4/site-packages/setuptools/__init__.py" timestamp="1416699639114">
         <mark key="'" line="57" column="23" />
@@ -893,33 +893,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Source/python/magician/magician/utils.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Source/python/magician/magician/utils.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Source/python/magician/magician/utils.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Source/python/magician/magician/utils.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Source/python/magician/magician/utils.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/python/magician/docs/api.rst" />
-      <jump line="95" column="7" filename="$USER_HOME$/Source/python/magician/magician/utils.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/Source/python/magician/magician/utils.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/Source/python/magician/magician/utils.py" />
-      <jump line="87" column="7" filename="$USER_HOME$/Source/python/magician/magician/utils.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/Source/python/magician/magician/utils.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/Source/python/magician/magician/utils.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/Source/python/magician/magician/utils.py" />
-      <jump line="61" column="49" filename="$USER_HOME$/Source/python/magician/magician/utils.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/Source/python/magician/magician/utils.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
@@ -993,10 +966,37 @@
       <jump line="15" column="0" filename="$USER_HOME$/Source/python/magician/tests/helpers.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Source/python/magician/tests/helpers.py" />
       <jump line="0" column="30" filename="$USER_HOME$/Source/python/magician/tests/helpers.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="28" column="8" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="57" column="8" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="663" column="8" filename="$USER_HOME$/Library/Caches/PyCharm40/python_stubs/516270897/_socket.py" />
+      <jump line="20" column="23" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="56" column="14" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="109" column="4" filename="$USER_HOME$/opt/lib/python3.4/unittest/case.py" />
+      <jump line="3" column="13" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="2" column="15" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>transports</text>
+        <text>return</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">CgpkZWYgaGV4ZHVtcChsb2dnZXIsIGJ1ZmZlcik6CiAgICAiIiIKICAgIEhleCBkdW1wIGEgYnVmZmVyIHRvIGEgbG9nZ2VyLgoKICAgIDpwYXJhbSBsb2dnaW5nLkxvZ2dlciBsb2dnZXI6IHRoZSBsb2dnZXIgdG8gZHVtcCBieXRlcyB0bwogICAgOnBhcmFtIGJ1ZmZlcjogdGhlIGJ1ZmZlciB0byBkdW1wCgogICAgIiIiCiAgICBpZiBub3QgbG9nZ2VyLmlzRW5hYmxlZEZvcihsb2dnaW5nLkRFQlVHKToKICAgICAgICByZXR1cm4KCiAgICB0cnk6CiAgICAgICAgdmlldyA9IG1lbW9yeXZpZXcoYnVmZmVyKQogICAgZXhjZXB0IFR5cGVFcnJvcjoKICAgICAgICByYXdfYnl0ZXMgPSBieXRlYXJyYXkoKQogICAgICAgIGZvciB2YWx1ZSBpbiAob3JkKGNoKSBmb3IgY2ggaW4gYnVmZmVyKToKICAgICAgICAgICAgY2FwdHVyZSA9IEZhbHNlCiAgICAgICAgICAgIGZvciBzaGlmdCwgY2hlY2sgaW4gX0NIRUNLUzoKICAgICAgICAgICAgICAgIGNhcHR1cmUgPSBjYXB0dXJlIG9yIHZhbHVlID4gY2hlY2sKICAgICAgICAgICAgICAgIGlmIGNhcHR1cmU6CiAgICAgICAgICAgICAgICAgICAgcmF3X2J5dGVzLmFwcGVuZCgodmFsdWUgPj4gc2hpZnQpICYgMHhGRikKICAgICAgICB2aWV3ID0gbWVtb3J5dmlldyhyYXdfYnl0ZXMpCgogICAgZm9yIG9mZnNldCBpbiByYW5nZSgwLCBsZW4odmlldyksIDE2KToKICAgICAgICBsaW5lID0gdmlld1tvZmZzZXQ6b2Zmc2V0KzE2XQogICAgICAgIGZpcnN0X29jdG9ieXRlID0gJyAnLmpvaW4oJ3swOjAyeH0nLmZvcm1hdChiKSBmb3IgYiBpbiBsaW5lWzo4XSkKICAgICAgICBuZXh0X29jdG9ieXRlID0gJyAnLmpvaW4oJ3swOjAyeH0nLmZvcm1hdChiKSBmb3IgYiBpbiBsaW5lWzg6XSkKICAgICAgICBwcmludGFibGUgPSAnJy5qb2luKGNocihiKSBpZiAweDIwIDw9IGIgPD0gMHg3ZSBlbHNlICcuJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIGIgaW4gbGluZSkKICAgICAgICBsb2dnZXIuZGVidWcoJyUwOHggfCAlLTIzLjIzcyAgJS0yMy4yM3MgfCAlLTE2LjE2c3wnLAogICAgICAgICAgICAgICAgICAgICBvZmZzZXQsIGZpcnN0X29jdG9ieXRlLCBuZXh0X29jdG9ieXRlLCBwcmludGFibGUpCg==</text>
@@ -3128,7 +3128,7 @@
         <text>TraceAda</text>
       </register>
       <register name="-" type="4">
-        <text>transports</text>
+        <text>return</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4771,40 +4771,40 @@
         </keys>
       </register>
       <register name="3" type="4">
-        <text>base_event_loop</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="2" type="4">
-        <text>, transports</text>
+        <text>return</text>
       </register>
       <register name="1" type="4">
-        <text>transports</text>
+        <text>return</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSAuIGltcG9ydCBlcnJvcnMsIHV0aWxzLCB3aXJlLCBfX3ZlcnNpb25fXwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">QGZ1bmN0b29scy4K</text>
       </register>
-      <register name="5" type="4">
-        <text>)</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGZ1bmN0b29scwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="4">
-        <text>base_event_loop</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
