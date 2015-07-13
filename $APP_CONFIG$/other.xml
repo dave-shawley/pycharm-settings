@@ -66,6 +66,7 @@
         <entry key="$USER_HOME$/Source/communicator/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/family-tree/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/platform/spoolconsumer/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/python/family-tree/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/python/fluent-test/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/python/glinda/env/bin/python" value="true" />
