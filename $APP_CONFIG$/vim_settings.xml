@@ -44,14 +44,14 @@
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/mime/text.py" timestamp="1434983662768">
         <mark key="'" line="27" column="25" />
       </file>
-      <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" timestamp="1436801509684">
-        <mark key="a" line="66" column="0" />
-        <mark key="'" line="108" column="50" />
+      <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" timestamp="1436802811305">
+        <mark key="a" line="73" column="18" />
+        <mark key="'" line="10" column="0" />
         <mark key="j" line="99" column="14" />
-        <mark key="[" line="89" column="51" />
-        <mark key="]" line="90" column="15" />
-        <mark key="^" line="90" column="15" />
-        <mark key="." line="90" column="15" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="81" column="31" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" timestamp="1433698947375">
         <mark key="'" line="536" column="27" />
@@ -197,6 +197,9 @@
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/motor/__init__.py" timestamp="1433090318216">
         <mark key="'" line="1086" column="20" />
       </file>
+      <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/processors.py" timestamp="1436802107207">
+        <mark key="'" line="124" column="26" />
+      </file>
       <file name="$USER_HOME$/Source/communicator/communicator/default_config.json" timestamp="1436558387952">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -338,11 +341,11 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" timestamp="1436801497236">
+      <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" timestamp="1436802869584">
         <mark key="a" line="31" column="0" />
         <mark key="'" line="37" column="30" />
-        <mark key="[" line="37" column="61" />
-        <mark key="]" line="37" column="61" />
+        <mark key="[" line="69" column="53" />
+        <mark key="]" line="72" column="0" />
         <mark key="^" line="37" column="61" />
         <mark key="." line="37" column="61" />
       </file>
@@ -385,8 +388,8 @@
       <file name="$USER_HOME$/Source/python/glinda/docs/conf.py" timestamp="1431950408054">
         <mark key="'" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/base.py" timestamp="1436800557657">
-        <mark key="'" line="658" column="20" />
+      <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/base.py" timestamp="1436802729274">
+        <mark key="'" line="587" column="23" />
       </file>
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1431883634285">
         <mark key="'" line="146" column="13" />
@@ -441,8 +444,8 @@
         <mark key="^" line="70" column="58" />
         <mark key="." line="70" column="58" />
       </file>
-      <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/contrib/tornado/__init__.py" timestamp="1436799129748">
-        <mark key="'" line="143" column="32" />
+      <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/contrib/tornado/__init__.py" timestamp="1436801876461">
+        <mark key="'" line="34" column="20" />
       </file>
       <file name="$USER_HOME$/opt/lib/python2.7/subprocess.py" timestamp="1419812079829">
         <mark key="'" line="797" column="20" />
@@ -640,7 +643,7 @@
         <mark key="^" line="151" column="11" />
         <mark key="." line="174" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1436801513647">
+      <file name="/Python Console" timestamp="1436802752870">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1436552212417">
@@ -715,11 +718,6 @@
         <mark key="^" line="33" column="19" />
         <mark key="." line="33" column="19" />
       </file>
-      <file name="$USER_HOME$/Source/communicator/tests/integration/__init__.py" timestamp="1436558639301">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/tornado/web.py" timestamp="1436797199646">
         <mark key="'" line="1370" column="17" />
       </file>
@@ -784,6 +782,12 @@
       </file>
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/testing.py" timestamp="1431946796420">
         <mark key="'" line="379" column="25" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sample.json" timestamp="1436801635409">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="30930" />
+        <mark key="^" line="0" column="30930" />
+        <mark key="." line="0" column="30930" />
       </file>
       <file name="$USER_HOME$/Source/python/zender/docs/content-type.rst" timestamp="1422827426642">
         <mark key="'" line="158" column="0" />
@@ -1005,23 +1009,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="379" column="36" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/tornado/testing.py" />
-      <jump line="401" column="36" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/tornado/testing.py" />
-      <jump line="7" column="4" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
-      <jump line="27" column="38" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
-      <jump line="380" column="20" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/tornado/testing.py" />
-      <jump line="280" column="8" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/tornado/testing.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
-      <jump line="81" column="8" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
-      <jump line="35" column="27" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
-      <jump line="86" column="8" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
-      <jump line="77" column="28" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
       <jump line="83" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
       <jump line="43" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
@@ -1091,9 +1078,6 @@
       <jump line="31" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
       <jump line="52" column="4" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
       <jump line="56" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
       <jump line="15" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
@@ -1105,13 +1089,33 @@
       <jump line="108" column="50" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
       <jump line="37" column="30" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" />
       <jump line="124" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/base.py" />
+      <jump line="280" column="25" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/base.py" />
+      <jump line="212" column="23" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/base.py" />
+      <jump line="239" column="20" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/base.py" />
+      <jump line="163" column="28" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/base.py" />
+      <jump line="43" column="6" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/base.py" />
+      <jump line="34" column="20" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/contrib/tornado/__init__.py" />
+      <jump line="288" column="25" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/base.py" />
+      <jump line="26" column="8" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/events.py" />
+      <jump line="281" column="25" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/base.py" />
+      <jump line="85" column="16" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/events.py" />
+      <jump line="363" column="30" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/base.py" />
+      <jump line="34" column="17" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/processors.py" />
+      <jump line="124" column="26" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/processors.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/utils/__init__.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
+      <jump line="591" column="8" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/base.py" />
+      <jump line="587" column="23" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/base.py" />
+      <jump line="622" column="8" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/base.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CgpjbGFzcyBGYWtlU210cENvbm5lY3Rpb24ob2JqZWN0KToKCiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5fbWVzc2FnZXMgPSBbXQogICAgICAgIHNlbGYuX3Jlc3BvbnNlcyA9IHt9CiAgICAgICAgc2VsZi5fY2FsbGJhY2tzID0ge30KICAgICAgICBzZWxmLmNvbm5lY3Rpb25fY291bnQgPSAwCgogICAgZGVmIGdldF9pbnN0YW5jZShzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHNlbGYuY29ubmVjdCgpCiAgICAgICAgcmV0dXJuIHNlbGYKCiAgICBkZWYgYWRkX2V4Y2VwdGlvbihzZWxmLCBtZXRob2QsIGV4Y2VwdGlvbik6CiAgICAgICAgc2VsZi5fcmVzcG9uc2VzW21ldGhvZF0gPSBleGNlcHRpb24KCiAgICBkZWYgX3J1bl9maXh0dXJlcyhzZWxmLCBtZXRob2RfbmFtZSk6CiAgICAgICAgaWYgbWV0aG9kX25hbWUgaW4gc2VsZi5fcmVzcG9uc2VzOgogICAgICAgICAgICByYWlzZSBzZWxmLl9yZXNwb25zZXNbbWV0aG9kX25hbWVdCgogICAgZGVmIG5vb3Aoc2VsZik6CiAgICAgICAgc2VsZi5fcnVuX2ZpeHR1cmVzKCdub29wJykKCiAgICBkZWYgY29ubmVjdChzZWxmKToKICAgICAgICBzZWxmLmNvbm5lY3Rpb25fY291bnQgKz0gMQogICAgICAgIHNlbGYuX3J1bl9maXh0dXJlcygnY29ubmVjdCcpCgogICAgZGVmIHNlbmRtYWlsKHNlbGYsIGZyb21fYWRkciwgdG9fYWRkcnMsIG1zZywgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICBzZWxmLl9ydW5fZml4dHVyZXMoJ3NlbmRtYWlsJykKICAgICAgICBzZWxmLl9tZXNzYWdlcy5hcHBlbmQoZW1haWwubWVzc2FnZV9mcm9tX3N0cmluZyhtc2cpKQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIG1lc3NhZ2VzKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9tZXNzYWdlc1s6XQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEZhbHNlKHNlbGYuc2VudHJ5X2NsaWVudC5jYXB0dXJlRXhjZXB0aW9uLmNhbGxlZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3237,34 +3241,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>kwargs</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
-        <text>[\S]</text>
+        <text encoding="base64">XDxzZW5kX2VuY29kZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydElzTm9uZShzZWxmLmdldF9zZW50cnlfbWVzc2FnZSgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEZhbHNlKHNlbGYuc2VudHJ5X2NsaWVudC5jYXB0dXJlRXhjZXB0aW9uLmNhbGxlZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvby53cml0ZShtZXNzYWdlWydkYXRhJ10pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEZhbHNlKHNlbGYuc2VudHJ5X2NsaWVudC5jYXB0dXJlRXhjZXB0aW9uLmNhbGxlZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBvcGVuKCcvdG1wL21zZzInLCAnd2InKSBhcyBmb286Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>kwargs</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhID0gbWVzc2FnZVsnZGF0YSddCg==</text>
       </register>
       <register name="4" type="4">
-        <text>kwargs</text>
+        <text>data</text>
       </register>
       <register name="5" type="4">
-        <text>kwargs</text>
+        <text>data</text>
       </register>
       <register name="6" type="4">
-        <text>kwargs</text>
+        <text>data</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4907,22 +4911,22 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>kwargs</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>_</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
-        <text>s/[\S]/0/g</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW50cnlfdGFnc1w+</last-search>
+      <last-search encoding="base64">XDxzZW5kX2VuY29kZWRcPg==</last-search>
       <last-offset />
-      <last-pattern>[\S]</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5kX2VuY29kZWRcPg==</last-pattern>
       <last-replace>0</last-replace>
       <last-substitute>[\S]</last-substitute>
       <last-dir>-1</last-dir>
@@ -4930,8 +4934,6 @@
     </search>
     <history>
       <history-search>
-        <entry>skip</entry>
-        <entry encoding="base64">XDxhZGRfY2FsbGJhY2tcPg==</entry>
         <entry>smtpserver</entry>
         <entry>self.worker.process_message</entry>
         <entry>self.worker.process</entry>
@@ -4950,6 +4952,8 @@
         <entry>_handle_request_exception</entry>
         <entry encoding="base64">XDxzZW50cnlfdGFnc1w+</entry>
         <entry>[\S]</entry>
+        <entry encoding="base64">XDxtb2R1bGVfY2FjaGVcPg==</entry>
+        <entry encoding="base64">XDxzZW5kX2VuY29kZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>537</entry>
@@ -4969,9 +4973,9 @@
         <entry>19</entry>
         <entry>49</entry>
         <entry>72</entry>
+        <entry>s/[\S]/0/g</entry>
         <entry>w</entry>
         <entry>1</entry>
-        <entry>s/[\S]/0/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
