@@ -750,14 +750,6 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1436388695807">
         <mark key="'" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1436789289223">
-        <mark key="a" line="146" column="12" />
-        <mark key="'" line="437" column="17" />
-        <mark key="[" line="294" column="44" />
-        <mark key="]" line="294" column="66" />
-        <mark key="^" line="294" column="66" />
-        <mark key="." line="294" column="66" />
-      </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
         <mark key="[" line="46" column="38" />
@@ -954,6 +946,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="41" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/requires/installation.txt" timestamp="1436814243397">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="12" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-janitor/README.rst" timestamp="1416452331069">
         <mark key="'" line="7" column="0" />
