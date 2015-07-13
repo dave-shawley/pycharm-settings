@@ -44,14 +44,14 @@
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/mime/text.py" timestamp="1434983662768">
         <mark key="'" line="27" column="25" />
       </file>
-      <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" timestamp="1436806936799">
+      <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" timestamp="1436813239712">
         <mark key="a" line="73" column="18" />
-        <mark key="'" line="10" column="0" />
+        <mark key="'" line="90" column="0" />
         <mark key="j" line="99" column="14" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="81" column="31" />
-        <mark key="." line="72" column="0" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="93" column="43" />
+        <mark key="^" line="91" column="45" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" timestamp="1433698947375">
         <mark key="'" line="536" column="27" />
@@ -340,12 +340,6 @@
         <mark key="]" line="25" column="8" />
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="20" />
-      </file>
-      <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" timestamp="1436811038612">
-        <mark key="'" line="80" column="12" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/blocking_connection.py" timestamp="1423053523371">
         <mark key="'" line="305" column="28" />
@@ -1027,10 +1021,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" />
@@ -1127,13 +1117,17 @@
       <jump line="22" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/README.rst" />
       <jump line="25" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/README.rst" />
       <jump line="29" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/README.rst" />
+      <jump line="81" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
+      <jump line="83" column="26" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CgpjbGFzcyBGYWtlU210cENvbm5lY3Rpb24ob2JqZWN0KToKCiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5fbWVzc2FnZXMgPSBbXQogICAgICAgIHNlbGYuX3Jlc3BvbnNlcyA9IHt9CiAgICAgICAgc2VsZi5fY2FsbGJhY2tzID0ge30KICAgICAgICBzZWxmLmNvbm5lY3Rpb25fY291bnQgPSAwCgogICAgZGVmIGdldF9pbnN0YW5jZShzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHNlbGYuY29ubmVjdCgpCiAgICAgICAgcmV0dXJuIHNlbGYKCiAgICBkZWYgYWRkX2V4Y2VwdGlvbihzZWxmLCBtZXRob2QsIGV4Y2VwdGlvbik6CiAgICAgICAgc2VsZi5fcmVzcG9uc2VzW21ldGhvZF0gPSBleGNlcHRpb24KCiAgICBkZWYgX3J1bl9maXh0dXJlcyhzZWxmLCBtZXRob2RfbmFtZSk6CiAgICAgICAgaWYgbWV0aG9kX25hbWUgaW4gc2VsZi5fcmVzcG9uc2VzOgogICAgICAgICAgICByYWlzZSBzZWxmLl9yZXNwb25zZXNbbWV0aG9kX25hbWVdCgogICAgZGVmIG5vb3Aoc2VsZik6CiAgICAgICAgc2VsZi5fcnVuX2ZpeHR1cmVzKCdub29wJykKCiAgICBkZWYgY29ubmVjdChzZWxmKToKICAgICAgICBzZWxmLmNvbm5lY3Rpb25fY291bnQgKz0gMQogICAgICAgIHNlbGYuX3J1bl9maXh0dXJlcygnY29ubmVjdCcpCgogICAgZGVmIHNlbmRtYWlsKHNlbGYsIGZyb21fYWRkciwgdG9fYWRkcnMsIG1zZywgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICBzZWxmLl9ydW5fZml4dHVyZXMoJ3NlbmRtYWlsJykKICAgICAgICBzZWxmLl9tZXNzYWdlcy5hcHBlbmQoZW1haWwubWVzc2FnZV9mcm9tX3N0cmluZyhtc2cpKQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIG1lc3NhZ2VzKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9tZXNzYWdlc1s6XQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>history.html</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmZldGNoKCcvZmFpbCcpCiAgICAgICAgbWVzc2FnZSA9IHNlbGYuZ2V0X3NlbnRyeV9tZXNzYWdlKCkK</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3259,34 +3253,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>history.html</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>include_paths</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50ID0gcmF2ZW4uQ2xpZW50KHNlbnRyeV9kc24sIGluY2x1ZGVfcGF0aHM9bW9kdWxlcykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZldGNoKCcvZmFpbCcpCiAgICAgICAgbWVzc2FnZSA9IHNlbGYuZ2V0X3NlbnRyeV9tZXNzYWdlKCkK</text>
       </register>
-      <register name="1" type="4">
-        <text>history.html</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG1lc3NhZ2VbJ3RpbWVfc3BlbnQnXSwgMSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiA=</text>
+      <register name="2" type="4">
+        <text>1</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Li4gY29kZTo6IGJhc2gK</text>
+      <register name="3" type="4">
+        <text>E</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>q</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">c3Byb2NrZXRzIDxodHRwczovL2dpdGh1Yi5jb20vc3Byb2NrZXRzL3Nwcm9ja2V0cz5gXw==</text>
+        <text>u</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50ID0gcmF2ZW4uQ2xpZW50KHNlbnRyeV9kc24pCg==</text>
+      <register name="6" type="4">
+        <text>a</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4929,13 +4923,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>, include_paths=modules)</text>
+        <text>l</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>history.html</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="9" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
