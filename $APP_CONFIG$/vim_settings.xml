@@ -134,8 +134,8 @@
       <file name="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/rejected/consumer.py" timestamp="1434631853198">
         <mark key="'" line="419" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/avrohelpers.py" timestamp="1435001403551">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/avrohelpers.py" timestamp="1437081071596">
+        <mark key="'" line="67" column="14" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/selectors.py" timestamp="1423406565674">
         <mark key="'" line="169" column="8" />
@@ -404,8 +404,8 @@
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/httpserver.py" timestamp="1434105755040">
         <mark key="'" line="304" column="23" />
       </file>
-      <file name="$USER_HOME$/Source/communicator/communicator/helpers.py" timestamp="1436558750359">
-        <mark key="'" line="96" column="25" />
+      <file name="$USER_HOME$/Source/communicator/communicator/helpers.py" timestamp="1437080462753">
+        <mark key="'" line="154" column="20" />
       </file>
       <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/README.rst" timestamp="1436811186254">
         <mark key="'" line="29" column="0" />
@@ -585,7 +585,7 @@
         <mark key="^" line="31" column="24" />
         <mark key="." line="31" column="24" />
       </file>
-      <file name="$USER_HOME$/Source/communicator/communicator/workers/coi_worker.py" timestamp="1436559241157">
+      <file name="$USER_HOME$/Source/communicator/communicator/workers/coi_worker.py" timestamp="1437080433386">
         <mark key="'" line="71" column="33" />
         <mark key="[" line="332" column="33" />
         <mark key="]" line="326" column="37" />
@@ -744,13 +744,13 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1436986337106">
         <mark key="'" line="572" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1437079185943">
-        <mark key="a" line="98" column="0" />
-        <mark key="'" line="7" column="8" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1437081805356">
+        <mark key="a" line="99" column="0" />
+        <mark key="'" line="117" column="0" />
         <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-        <mark key="^" line="100" column="9" />
+        <mark key="]" line="101" column="12" />
+        <mark key="." line="101" column="12" />
+        <mark key="^" line="98" column="29" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
@@ -1024,55 +1024,10 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="65" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="62" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="78" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="75" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="72" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="69" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="66" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="63" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="58" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="54" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="102" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" />
-      <jump line="80" column="12" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/sprockets/mixins/sentry/__init__.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/README.rst" />
-      <jump line="11" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/README.rst" />
-      <jump line="28" column="71" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="28" column="3" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/README.rst" />
-      <jump line="15" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/README.rst" />
-      <jump line="38" column="2" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="37" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="33" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="31" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="25" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="20" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="15" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="17" column="12" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/README.rst" />
-      <jump line="19" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/README.rst" />
-      <jump line="22" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/README.rst" />
-      <jump line="25" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/README.rst" />
-      <jump line="29" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/README.rst" />
-      <jump line="81" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
-      <jump line="91" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
-      <jump line="83" column="26" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/tests.py" />
-      <jump line="160" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="166" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="171" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="174" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="176" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="180" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="132" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="588" column="35" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="35" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
@@ -1116,7 +1071,6 @@
       <jump line="446" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="441" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="435" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="87" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="86" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="77" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="97" column="27" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
@@ -1124,6 +1078,52 @@
       <jump line="10" column="9" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="7" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="71" column="33" filename="$USER_HOME$/Source/communicator/communicator/workers/coi_worker.py" />
+      <jump line="125" column="12" filename="$USER_HOME$/Source/communicator/communicator/helpers.py" />
+      <jump line="126" column="0" filename="$USER_HOME$/Source/communicator/communicator/helpers.py" />
+      <jump line="131" column="0" filename="$USER_HOME$/Source/communicator/communicator/helpers.py" />
+      <jump line="135" column="0" filename="$USER_HOME$/Source/communicator/communicator/helpers.py" />
+      <jump line="154" column="20" filename="$USER_HOME$/Source/communicator/communicator/helpers.py" />
+      <jump line="77" column="16" filename="$USER_HOME$/Source/communicator/communicator/helpers.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="143" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="804" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
+      <jump line="381" column="22" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="477" column="22" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="383" column="39" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="68" column="16" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/avrohelpers.py" />
+      <jump line="67" column="14" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/avrohelpers.py" />
+      <jump line="485" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avro/io.py" />
+      <jump line="250" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="249" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="243" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="235" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="216" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="193" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="190" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="184" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="180" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="159" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="164" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="170" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="175" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="178" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="157" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="152" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="385" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="151" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="150" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="135" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="131" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="112" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
