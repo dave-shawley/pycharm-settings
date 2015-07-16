@@ -744,11 +744,13 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1436986337106">
         <mark key="'" line="572" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1437071004634">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1437079185943">
+        <mark key="a" line="98" column="0" />
+        <mark key="'" line="7" column="8" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+        <mark key="^" line="100" column="9" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
@@ -1022,11 +1024,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="45" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="41" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="34" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
-      <jump line="71" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
       <jump line="68" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
       <jump line="65" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
       <jump line="62" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.sentry/docs/index.rst" />
@@ -1122,13 +1119,18 @@
       <jump line="87" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="86" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="77" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="97" column="27" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="457" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/raven/base.py" />
+      <jump line="10" column="9" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="7" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CgpjbGFzcyBGYWtlU210cENvbm5lY3Rpb24ob2JqZWN0KToKCiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5fbWVzc2FnZXMgPSBbXQogICAgICAgIHNlbGYuX3Jlc3BvbnNlcyA9IHt9CiAgICAgICAgc2VsZi5fY2FsbGJhY2tzID0ge30KICAgICAgICBzZWxmLmNvbm5lY3Rpb25fY291bnQgPSAwCgogICAgZGVmIGdldF9pbnN0YW5jZShzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHNlbGYuY29ubmVjdCgpCiAgICAgICAgcmV0dXJuIHNlbGYKCiAgICBkZWYgYWRkX2V4Y2VwdGlvbihzZWxmLCBtZXRob2QsIGV4Y2VwdGlvbik6CiAgICAgICAgc2VsZi5fcmVzcG9uc2VzW21ldGhvZF0gPSBleGNlcHRpb24KCiAgICBkZWYgX3J1bl9maXh0dXJlcyhzZWxmLCBtZXRob2RfbmFtZSk6CiAgICAgICAgaWYgbWV0aG9kX25hbWUgaW4gc2VsZi5fcmVzcG9uc2VzOgogICAgICAgICAgICByYWlzZSBzZWxmLl9yZXNwb25zZXNbbWV0aG9kX25hbWVdCgogICAgZGVmIG5vb3Aoc2VsZik6CiAgICAgICAgc2VsZi5fcnVuX2ZpeHR1cmVzKCdub29wJykKCiAgICBkZWYgY29ubmVjdChzZWxmKToKICAgICAgICBzZWxmLmNvbm5lY3Rpb25fY291bnQgKz0gMQogICAgICAgIHNlbGYuX3J1bl9maXh0dXJlcygnY29ubmVjdCcpCgogICAgZGVmIHNlbmRtYWlsKHNlbGYsIGZyb21fYWRkciwgdG9fYWRkcnMsIG1zZywgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICBzZWxmLl9ydW5fZml4dHVyZXMoJ3NlbmRtYWlsJykKICAgICAgICBzZWxmLl9tZXNzYWdlcy5hcHBlbmQoZW1haWwubWVzc2FnZV9mcm9tX3N0cmluZyhtc2cpKQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIG1lc3NhZ2VzKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9tZXNzYWdlc1s6XQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3254,34 +3256,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>formataddr</text>
+        <text>environ</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmZldGNoKCcvZmFpbCcpCiAgICAgICAgbWVzc2FnZSA9IHNlbGYuZ2V0X3NlbnRyeV9tZXNzYWdlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG1lc3NhZ2VbJ3RpbWVfc3BlbnQnXSwgMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="4">
-        <text>E</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3MuZW52aXJvbi5nZXQoJ0VOVklST05NRU5UJywgJ2RldmVsb3BtZW50JykK</text>
       </register>
-      <register name="5" type="4">
-        <text>q</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>u</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3lzLmVudgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4923,23 +4925,23 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>a</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>l</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG1lc3NhZ2VbJ3RpbWVfc3BlbnQnXSwgMSkK</text>
       </register>
       <register name="9" type="4">
-        <text>history.html</text>
+        <text>1</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>formataddr</last-search>
+      <last-search>environ</last-search>
       <last-offset />
-      <last-pattern>formataddr</last-pattern>
+      <last-pattern>environ</last-pattern>
       <last-replace>0</last-replace>
       <last-substitute>[\S]</last-substitute>
       <last-dir>1</last-dir>
@@ -4947,7 +4949,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcG9vbGNvbnN1bWVyXD4=</entry>
         <entry>__version</entry>
         <entry encoding="base64">XDx0aW1lb3V0XD4=</entry>
         <entry encoding="base64">XDxfZ2V0X3NtdHBfY29ubmVjdGlvblw+</entry>
@@ -4967,6 +4968,7 @@
         <entry encoding="base64">XDxfZ2V0X3ZlcnNpb25cPg==</entry>
         <entry>include_paths</entry>
         <entry>formataddr</entry>
+        <entry>environ</entry>
       </history-search>
       <history-cmd>
         <entry>537</entry>
@@ -4987,8 +4989,8 @@
         <entry>49</entry>
         <entry>72</entry>
         <entry>s/[\S]/0/g</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
