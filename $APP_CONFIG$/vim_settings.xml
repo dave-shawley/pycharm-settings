@@ -344,8 +344,8 @@
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/mongo_client.py" timestamp="1434971316208">
         <mark key="'" line="289" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/magician/amqp.py" timestamp="1437228507767">
-        <mark key="'" line="95" column="0" />
+      <file name="$USER_HOME$/Source/python/magician/magician/amqp.py" timestamp="1437250146494">
+        <mark key="'" line="111" column="0" />
         <mark key="a" line="114" column="27" />
         <mark key="]" line="137" column="53" />
         <mark key="^" line="137" column="53" />
@@ -970,9 +970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="366" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="142" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="157" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="160" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="176" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
@@ -1052,10 +1049,8 @@
       <jump line="139" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="135" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="124" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="111" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="323" column="29" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="189" column="4" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
-      <jump line="122" column="54" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="373" column="14" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="173" column="4" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="121" column="17" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
@@ -1068,8 +1063,13 @@
       <jump line="55" column="0" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="56" column="26" filename="$USER_HOME$/Source/python/magician/magician/wire.py" />
       <jump line="105" column="8" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="104" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
+      <jump line="117" column="36" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="95" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
+      <jump line="125" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
+      <jump line="122" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
+      <jump line="111" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
