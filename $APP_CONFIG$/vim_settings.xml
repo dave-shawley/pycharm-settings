@@ -19,7 +19,7 @@
         <mark key="^" line="31" column="64" />
         <mark key="." line="31" column="64" />
       </file>
-      <file name="/a.dummy" timestamp="1436797957446">
+      <file name="/a.dummy" timestamp="1437501284900">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/header.py" timestamp="1435338901903">
@@ -458,6 +458,13 @@
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/httpclient.py" timestamp="1434320606809">
         <mark key="'" line="361" column="27" />
       </file>
+      <file name="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" timestamp="1437501758785">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="63" column="59" />
+        <mark key="]" line="64" column="60" />
+        <mark key="." line="64" column="60" />
+        <mark key="^" line="64" column="60" />
+      </file>
       <file name="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" timestamp="1436551318153">
         <mark key="'" line="73" column="0" />
         <mark key="[" line="40" column="32" />
@@ -634,7 +641,7 @@
         <mark key="^" line="151" column="11" />
         <mark key="." line="174" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1437135459034">
+      <file name="/Python Console" timestamp="1437501154384">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1436552212417">
@@ -966,6 +973,14 @@
       <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/tornado/httpclient.py" timestamp="1436798162930">
         <mark key="'" line="226" column="22" />
       </file>
+      <file name="$USER_HOME$/Source/platform/sprockets.mixins.auth/tests.py" timestamp="1437502008802">
+        <mark key="a" line="97" column="24" />
+        <mark key="'" line="90" column="25" />
+        <mark key="[" line="87" column="41" />
+        <mark key="]" line="87" column="54" />
+        <mark key="." line="87" column="54" />
+        <mark key="^" line="87" column="54" />
+      </file>
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/adapters.py" timestamp="1436986482675">
         <mark key="'" line="359" column="28" />
       </file>
@@ -1012,29 +1027,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="216" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="193" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="190" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="184" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="180" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="159" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="164" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="170" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="175" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="178" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="152" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="385" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="150" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="135" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="131" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="112" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="102" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="94" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="59" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="117" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="150" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
@@ -1112,13 +1104,36 @@
       <jump line="13" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="22" column="27" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
+      <jump line="76" column="12" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/tests.py" />
+      <jump line="3" column="35" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/tests.py" />
+      <jump line="94" column="11" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/tests.py" />
+      <jump line="54" column="4" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
+      <jump line="79" column="12" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
+      <jump line="78" column="30" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
+      <jump line="94" column="8" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/env/lib/python2.7/site-packages/geturl.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
+      <jump line="83" column="12" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
+      <jump line="90" column="25" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/tests.py" />
+      <jump line="141" column="8" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/env/lib/python2.7/site-packages/glinda/testing/services.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CgpjbGFzcyBGYWtlU210cENvbm5lY3Rpb24ob2JqZWN0KToKCiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5fbWVzc2FnZXMgPSBbXQogICAgICAgIHNlbGYuX3Jlc3BvbnNlcyA9IHt9CiAgICAgICAgc2VsZi5fY2FsbGJhY2tzID0ge30KICAgICAgICBzZWxmLmNvbm5lY3Rpb25fY291bnQgPSAwCgogICAgZGVmIGdldF9pbnN0YW5jZShzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHNlbGYuY29ubmVjdCgpCiAgICAgICAgcmV0dXJuIHNlbGYKCiAgICBkZWYgYWRkX2V4Y2VwdGlvbihzZWxmLCBtZXRob2QsIGV4Y2VwdGlvbik6CiAgICAgICAgc2VsZi5fcmVzcG9uc2VzW21ldGhvZF0gPSBleGNlcHRpb24KCiAgICBkZWYgX3J1bl9maXh0dXJlcyhzZWxmLCBtZXRob2RfbmFtZSk6CiAgICAgICAgaWYgbWV0aG9kX25hbWUgaW4gc2VsZi5fcmVzcG9uc2VzOgogICAgICAgICAgICByYWlzZSBzZWxmLl9yZXNwb25zZXNbbWV0aG9kX25hbWVdCgogICAgZGVmIG5vb3Aoc2VsZik6CiAgICAgICAgc2VsZi5fcnVuX2ZpeHR1cmVzKCdub29wJykKCiAgICBkZWYgY29ubmVjdChzZWxmKToKICAgICAgICBzZWxmLmNvbm5lY3Rpb25fY291bnQgKz0gMQogICAgICAgIHNlbGYuX3J1bl9maXh0dXJlcygnY29ubmVjdCcpCgogICAgZGVmIHNlbmRtYWlsKHNlbGYsIGZyb21fYWRkciwgdG9fYWRkcnMsIG1zZywgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICBzZWxmLl9ydW5fZml4dHVyZXMoJ3NlbmRtYWlsJykKICAgICAgICBzZWxmLl9tZXNzYWdlcy5hcHBlbmQoZW1haWwubWVzc2FnZV9mcm9tX3N0cmluZyhtc2cpKQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIG1lc3NhZ2VzKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9tZXNzYWdlc1s6XQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>validation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgOmRhdGE6YEZhbHNlYCBvdGhlcndpc2UK</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3244,7 +3259,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>validation</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text>drop</text>
@@ -3252,26 +3267,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnJlamVjdGVkX3Byb2Nlc3Muc2VudHJ5X2NsaWVudC50YWdzX2NvbnRleHQuYXNzZXJ0X2NhbGxlZF93aXRoKAogICAgICAgICAgICB7J3NlcnZpY2VfaW52b2tlZCc6ICd2YWxpZGF0aW9uJ30pCiAgICAgICAgc2VsZi5yZWplY3RlZF9wcm9jZXNzLnNlbnRyeV9jbGllbnQudGFncy5wb3AuYXNzZXJ0X2NhbGxlZF93aXRoKAogICAgICAgICAgICAnc2VydmljZV9pbnZva2VkJywgTm9uZSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>validation</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgOmRhdGE6YEZhbHNlYCBvdGhlcndpc2UK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuczogOmRhdGE6YFRydWVgIGlmIHRoZSBhY2Nlc3MgaXMgYWxsb3dlZCwK</text>
       </register>
       <register name="3" type="4">
-        <text>responsible_service</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cmVzcG9uc2Ug</text>
       </register>
-      <register name="5" type="4">
-        <text>service_request</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>{'tags': }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgZ2VuLlJldHVybihUcnVlKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4913,11 +4928,11 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYud29ya2VyLmluaXRpYWxpemUoKQo=</text>
+      <register name="7" type="4">
+        <text>request.headers.get)</text>
       </register>
-      <register name="8" type="4">
-        <text>_</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="4">
         <text encoding="base64">IA==</text>
@@ -4959,7 +4974,6 @@
         <entry>drop</entry>
       </history-search>
       <history-cmd>
-        <entry>537</entry>
         <entry>csp</entry>
         <entry>wq</entry>
         <entry>vsp</entry>
@@ -4977,6 +4991,7 @@
         <entry>49</entry>
         <entry>72</entry>
         <entry>s/[\S]/0/g</entry>
+        <entry>vspl</entry>
         <entry>w</entry>
         <entry>1</entry>
       </history-cmd>
