@@ -663,9 +663,9 @@
         <mark key="^" line="30" column="40" />
         <mark key="." line="30" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/platform/authorization/authorization/runner.py" timestamp="1437580740444">
+      <file name="$USER_HOME$/Source/platform/authorization/authorization/runner.py" timestamp="1437584663833">
         <mark key="a" line="138" column="66" />
-        <mark key="'" line="144" column="0" />
+        <mark key="'" line="61" column="0" />
         <mark key="[" line="146" column="0" />
         <mark key="]" line="146" column="0" />
         <mark key="^" line="143" column="51" />
@@ -714,8 +714,8 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/models.py" timestamp="1436208441988">
         <mark key="'" line="850" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/authorization/authorization/app.py" timestamp="1437580779907">
-        <mark key="'" line="11" column="0" />
+      <file name="$USER_HOME$/Source/platform/authorization/authorization/app.py" timestamp="1437584714415">
+        <mark key="'" line="52" column="11" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="48" column="18" />
@@ -1045,8 +1045,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/env/lib/python2.7/site-packages/tornado/web.py" />
-      <jump line="83" column="32" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
       <jump line="89" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
       <jump line="65" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
       <jump line="69" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
@@ -1145,6 +1143,8 @@
       <jump line="146" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="138" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="144" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="52" column="11" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
