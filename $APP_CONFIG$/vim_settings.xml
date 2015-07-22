@@ -663,13 +663,13 @@
         <mark key="^" line="30" column="40" />
         <mark key="." line="30" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/platform/authorization/authorization/runner.py" timestamp="1437577493043">
+      <file name="$USER_HOME$/Source/platform/authorization/authorization/runner.py" timestamp="1437580740444">
         <mark key="a" line="138" column="66" />
-        <mark key="'" line="97" column="0" />
-        <mark key="[" line="118" column="15" />
-        <mark key="]" line="122" column="51" />
-        <mark key="^" line="122" column="51" />
-        <mark key="." line="122" column="51" />
+        <mark key="'" line="144" column="0" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="^" line="143" column="51" />
+        <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/ietfparse/setup.py" timestamp="1411309267031">
         <mark key="'" line="11" column="0" />
@@ -714,11 +714,12 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/models.py" timestamp="1436208441988">
         <mark key="'" line="850" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/authorization/authorization/app.py" timestamp="1437576910797">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="54" column="32" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Source/platform/authorization/authorization/app.py" timestamp="1437580779907">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="48" column="18" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/toto/env/lib/python3.4/site-packages/tornado/testing.py" timestamp="1431474626140">
         <mark key="'" line="336" column="16" />
@@ -1044,35 +1045,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="22" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="22" column="27" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
-      <jump line="76" column="12" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/tests.py" />
-      <jump line="3" column="35" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/tests.py" />
-      <jump line="94" column="11" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/tests.py" />
-      <jump line="54" column="4" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
-      <jump line="79" column="12" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
-      <jump line="78" column="30" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
-      <jump line="94" column="8" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/env/lib/python2.7/site-packages/geturl.py" />
-      <jump line="90" column="25" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/tests.py" />
-      <jump line="141" column="8" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/env/lib/python2.7/site-packages/glinda/testing/services.py" />
-      <jump line="93" column="22" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
-      <jump line="2023" column="6" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/env/lib/python2.7/site-packages/tornado/web.py" />
-      <jump line="1667" column="18" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/env/lib/python2.7/site-packages/tornado/web.py" />
-      <jump line="1646" column="22" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/env/lib/python2.7/site-packages/tornado/web.py" />
-      <jump line="1487" column="29" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/env/lib/python2.7/site-packages/tornado/web.py" />
-      <jump line="1480" column="38" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/env/lib/python2.7/site-packages/tornado/web.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/env/lib/python2.7/site-packages/tornado/web.py" />
       <jump line="83" column="32" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
       <jump line="89" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
@@ -1086,15 +1058,11 @@
       <jump line="85" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
       <jump line="70" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/sprockets/mixins/auth/mixin.py" />
       <jump line="92" column="25" filename="$USER_HOME$/Source/platform/sprockets.mixins.auth/tests.py" />
-      <jump line="6" column="10" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="8" column="8" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="98" column="13" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="108" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="70" column="12" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
-      <jump line="106" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="142" column="0" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/sprockets/logging.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/sprockets/logging.py" />
       <jump line="147" column="8" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
@@ -1104,9 +1072,7 @@
       <jump line="163" column="17" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="150" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="153" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
-      <jump line="104" column="17" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="50" column="8" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
-      <jump line="105" column="17" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="159" column="4" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="109" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="101" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
@@ -1129,28 +1095,63 @@
       <jump line="30" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="77" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
-      <jump line="115" column="4" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
-      <jump line="125" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
-      <jump line="107" column="7" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="24" column="4" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="171" column="4" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="170" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
-      <jump line="124" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="122" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="121" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
-      <jump line="116" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="110" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="102" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="136" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="133" column="40" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="131" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="125" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="123" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="111" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="106" column="3" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="107" column="3" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="92" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
       <jump line="97" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="103" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="112" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="118" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="124" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="126" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="132" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="188" column="4" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="187" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="141" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="139" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="135" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="193" column="4" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="192" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="146" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="138" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
+      <jump line="144" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/runner.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CgpjbGFzcyBGYWtlU210cENvbm5lY3Rpb24ob2JqZWN0KToKCiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5fbWVzc2FnZXMgPSBbXQogICAgICAgIHNlbGYuX3Jlc3BvbnNlcyA9IHt9CiAgICAgICAgc2VsZi5fY2FsbGJhY2tzID0ge30KICAgICAgICBzZWxmLmNvbm5lY3Rpb25fY291bnQgPSAwCgogICAgZGVmIGdldF9pbnN0YW5jZShzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHNlbGYuY29ubmVjdCgpCiAgICAgICAgcmV0dXJuIHNlbGYKCiAgICBkZWYgYWRkX2V4Y2VwdGlvbihzZWxmLCBtZXRob2QsIGV4Y2VwdGlvbik6CiAgICAgICAgc2VsZi5fcmVzcG9uc2VzW21ldGhvZF0gPSBleGNlcHRpb24KCiAgICBkZWYgX3J1bl9maXh0dXJlcyhzZWxmLCBtZXRob2RfbmFtZSk6CiAgICAgICAgaWYgbWV0aG9kX25hbWUgaW4gc2VsZi5fcmVzcG9uc2VzOgogICAgICAgICAgICByYWlzZSBzZWxmLl9yZXNwb25zZXNbbWV0aG9kX25hbWVdCgogICAgZGVmIG5vb3Aoc2VsZik6CiAgICAgICAgc2VsZi5fcnVuX2ZpeHR1cmVzKCdub29wJykKCiAgICBkZWYgY29ubmVjdChzZWxmKToKICAgICAgICBzZWxmLmNvbm5lY3Rpb25fY291bnQgKz0gMQogICAgICAgIHNlbGYuX3J1bl9maXh0dXJlcygnY29ubmVjdCcpCgogICAgZGVmIHNlbmRtYWlsKHNlbGYsIGZyb21fYWRkciwgdG9fYWRkcnMsIG1zZywgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICBzZWxmLl9ydW5fZml4dHVyZXMoJ3NlbmRtYWlsJykKICAgICAgICBzZWxmLl9tZXNzYWdlcy5hcHBlbmQoZW1haWwubWVzc2FnZV9mcm9tX3N0cmluZyhtc2cpKQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIG1lc3NhZ2VzKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9tZXNzYWdlc1s6XQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cG9ydGAgcGFyYW1ldGVyIGlzIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3276,7 +3277,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cG9ydGAgcGFyYW1ldGVyIGlzIA==</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGlzXD4=</text>
@@ -3284,26 +3285,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIGFwcF9zZXR0aW5ncy5nZXQoJ2RlYnVnJywgaW50KG9zLmVudmlyb24uZ2V0KCdERUJVRycsIDApKSAhPSAwKToK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cG9ydGAgcGFyYW1ldGVyIGlzIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGZ1bmN0b29scwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>package</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgSW1wb3J0RXJyb3I6Cg==</text>
+        <text encoding="base64">CmRlZiBydW4oY3JlYXRlX2FwcGxpY2F0aW9uLCBzZXR0aW5ncz1Ob25lKToKICAgICIiIgogICAgUnVuIGEgVG9ybmFkbyBjcmVhdGVfYXBwbGljYXRpb24uCgogICAgOnBhcmFtIGNyZWF0ZV9hcHBsaWNhdGlvbjogZnVuY3Rpb24gdG8gY2FsbCB0byBjcmVhdGUgYSBuZXcKICAgICAgICBhcHBsaWNhdGlvbiBpbnN0YW5jZQogICAgOnBhcmFtIGRpY3R8Tm9uZSBzZXR0aW5nczogb3B0aW9uYWwgY29uZmlndXJhdGlvbiBkaWN0aW9uYXJ5CiAgICAgICAgdGhhdCB3aWxsIGJlIHBhc3NlZCB0aHJvdWdoIHRvIGBgY3JlYXRlX2FwcGxpY2F0aW9uYGAKICAgICAgICBhcyBrd2FyZ3MuCgogICAgLi4gcnVicmljOjogc2V0dGluZ3NbJ2RlYnVnJ10KCiAgICBJZiB0aGUgYHNldHRpbmdzYCBwYXJhbWV0ZXIgaW5jbHVkZXMgYSB2YWx1ZSBmb3IgdGhlIGBgZGVidWdgYAogICAga2V5LCB0aGVuIHRoZSBhcHBsaWNhdGlvbiB3aWxsIGJlIHJ1biBpbiBUb3JuYWRvIGRlYnVnIG1vZGUuCiAgICBUaGlzIHNldHRpbmcgYWxzbyBjaGFuZ2VzIGhvdyB0aGUgbG9nZ2luZyBsYXllciBpcyBjb25maWd1cmVkLgogICAgV2hlbiBydW5uaW5nIGluICJkZWJ1ZyIgbW9kZSwgbG9ncyBhcmUgd3JpdHRlbiB0byBzdGFuZGFyZCBvdXQKICAgIHVzaW5nIGEgaHVtYW4tcmVhZGFibGUgZm9ybWF0IGluc3RlYWQgb2YgdGhlIHN0YW5kYXJkIEpTT04KICAgIHBheWxvYWQuCgogICAgSWYgdGhlIGBzZXR0aW5nc2AgcGFyYW1ldGVyIGRvZXMgbm90IGluY2x1ZGUgYSBgYGRlYnVnYGAga2V5LAogICAgdGhlbiBkZWJ1ZyBtb2RlIHdpbGwgYmUgZW5hYmxlZCBiYXNlZCBvbiB0aGUgOmVudnZhcjpgREVCVUdgCiAgICBlbnZpcm9ubWVudCB2YXJpYWJsZS4KCiAgICAuLiBydWJyaWM6OiBzZXR0aW5nc1sncG9ydCddCgogICAgSWYgdGhlIGBzZXR0aW5nc2AgcGFyYW1ldGVyIGluY2x1ZGVzIGEgdmFsdWUgZm9yIHRoZSBgYHBvcnRgYAogICAga2V5LCB0aGVuIHRoZSBhcHBsaWNhdGlvbiB3aWxsIGJlIGNvbmZpZ3VyZWQgdG8gbGlzdGVuIG9uIHRoZQogICAgc3BlY2lmaWVkIHBvcnQuICBJZiB0aGlzIGtleSBpcyBub3QgcHJlc2VudCwgdGhlbiB0aGUgOmVudnZhcjpgUE9SVGAKICAgIGVudmlyb25tZW50IHZhcmlhYmxlIGRldGVybWluZXMgd2hpY2ggcG9ydCB0byBiaW5kIHRvLiAgVGhlCiAgICBkZWZhdWx0IHBvcnQgaXMgODAwMCBpZiBub3RoaW5nIG92ZXJyaWRlcyBpdC4KCiAgICAiIiIKCiAgICBhcHBfc2V0dGluZ3MgPSB7fSBpZiBzZXR0aW5ncyBpcyBOb25lIGVsc2Ugc2V0dGluZ3MuY29weSgpCiAgICBkZWJ1Z19tb2RlID0gYm9vbChhcHBfc2V0dGluZ3MuZ2V0KCdkZWJ1ZycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGludChvcy5lbnZpcm9uLmdldCgnREVCVUcnLCAwKSkgIT0gMCkpCiAgICBhcHBfc2V0dGluZ3NbJ2RlYnVnJ10gPSBkZWJ1Z19tb2RlCiAgICBjb25maWd1cmVfbG9nZ2luZyhkZWJ1Z19tb2RlKQoKICAgIHBvcnRfbnVtYmVyID0gaW50KGFwcF9zZXR0aW5ncy5wb3AoJ1BPUlQnLCBvcy5lbnZpcm9uLmdldCgnUE9SVCcsIDgwMDApKSkKICAgIHNlcnZlciA9IFJ1bm5lcihjcmVhdGVfYXBwbGljYXRpb24oKiphcHBfc2V0dGluZ3MpKQogICAgc2VydmVyLnN0YXJ0X3NlcnZlcihwb3J0X251bWJlcikKICAgIGlvbG9vcC5JT0xvb3AuaW5zdGFuY2UoKS5zdGFydCgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4945,14 +4946,14 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nX2NvbmZpZy51cGRhdGUoanNvbi5sb2Fkcyhsb2dfb3ZlcnJpZGVzKSkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">YSA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdsb2dnaW5nLmpzb24nKQo=</text>
+      <register name="8" type="4">
+        <text>takes</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nX292ZXJyaWRlcyA9IHBrZ19yZXNvdXJjZXMucmVzb3VyY2Vfc3RyaW5nKHBhY2thZ2UsCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">cnVucyA=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
@@ -4991,7 +4992,6 @@
         <entry encoding="base64">XDxUaGlzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>csp</entry>
         <entry>wq</entry>
         <entry>201</entry>
         <entry>254</entry>
@@ -5009,6 +5009,7 @@
         <entry>s/[\S]/0/g</entry>
         <entry>vspl</entry>
         <entry>vsp</entry>
+        <entry>2</entry>
         <entry>w</entry>
         <entry>1</entry>
       </history-cmd>
