@@ -431,6 +431,9 @@
       <file name="$USER_HOME$/Source/communicator/communicator/helpers.py" timestamp="1437080462753">
         <mark key="'" line="154" column="20" />
       </file>
+      <file name="$APP_CONFIG$/packages.xml" timestamp="1437679142040">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/README.rst" timestamp="1436811186254">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="48" column="69" />
@@ -636,7 +639,7 @@
       <file name="$USER_HOME$/opt/lib/python3.4/json/decoder.py" timestamp="1432989858806">
         <mark key="'" line="334" column="45" />
       </file>
-      <file name="$APP_CONFIG$/vim_settings.xml" timestamp="1436548060321">
+      <file name="$APP_CONFIG$/vim_settings.xml" timestamp="1437679054001">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/spec.py" timestamp="1429967841484">
@@ -742,8 +745,8 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/models.py" timestamp="1436208441988">
         <mark key="'" line="850" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/authorization/authorization/app.py" timestamp="1437673784136">
-        <mark key="'" line="55" column="0" />
+      <file name="$USER_HOME$/Source/platform/authorization/authorization/app.py" timestamp="1437679236319">
+        <mark key="'" line="62" column="15" />
         <mark key="[" line="58" column="62" />
         <mark key="]" line="58" column="63" />
         <mark key="." line="58" column="62" />
@@ -1046,6 +1049,9 @@
       <file name="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/helper/controller.py" timestamp="1434664275658">
         <mark key="'" line="91" column="37" />
       </file>
+      <file name="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" timestamp="1437679246865">
+        <mark key="'" line="621" column="15" />
+      </file>
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/utils.py" timestamp="1435330777071">
         <mark key="'" line="10" column="5" />
       </file>
@@ -1083,11 +1089,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="218" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="225" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="231" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="239" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="98" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="102" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="132" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
@@ -1177,12 +1178,17 @@
       <jump line="6" column="9" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="72" column="19" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="45" column="11" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/sprockets/http/__init__.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="73" column="31" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="67" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="56" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="51" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="55" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="62" column="15" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
+      <jump line="131" column="57" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
+      <jump line="597" column="35" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
+      <jump line="601" column="8" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
+      <jump line="621" column="15" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3318,7 +3324,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>sprockets.logging</text>
+        <text>create_signed_value</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CiAgICBkZWYgdGVzdF90aGF0X2FjY2Vzc19lbmRwb2ludF9nZW5lcmF0ZXNfY29ycmVsYXRpb25faWQoc2VsZik6CiAgICAgICAgcmVzcG9uc2UgPSBzZWxmLmZldGNoKCcvYWNjZXNzL3doYXRldmVyJykKICAgICAgICBzZWxmLmFzc2VydElzTm90Tm9uZShyZXNwb25zZS5oZWFkZXJzLmdldCgnQ29ycmVsYXRpb24tSUQnKSkK</text>
@@ -4994,13 +5000,13 @@
         <text>)</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>sprockets.logging</last-search>
+      <last-search>create_signed_value</last-search>
       <last-offset />
-      <last-pattern>sprockets.logging</last-pattern>
+      <last-pattern>create_signed_value</last-pattern>
       <last-replace>0</last-replace>
       <last-substitute>[\S]</last-substitute>
       <last-dir>1</last-dir>
@@ -5008,7 +5014,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZW50cnlfY2xpZW50XD4=</entry>
         <entry encoding="base64">XDxTRU5UUllfQ0xJRU5UXD4=</entry>
         <entry>_handle_request_exceptoin</entry>
         <entry>_handle_request_exception</entry>
@@ -5028,6 +5033,7 @@
         <entry>LOGGER</entry>
         <entry>subscriber</entry>
         <entry>sprockets.logging</entry>
+        <entry>create_signed_value</entry>
       </history-search>
       <history-cmd>
         <entry>201</entry>
@@ -5048,8 +5054,8 @@
         <entry>vspl</entry>
         <entry>wq</entry>
         <entry>vs</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
