@@ -151,8 +151,8 @@
         <mark key="^" line="52" column="41" />
         <mark key="." line="52" column="41" />
       </file>
-      <file name="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1437753069796">
-        <mark key="'" line="409" column="17" />
+      <file name="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1437763432255">
+        <mark key="'" line="226" column="22" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/simple_httpclient.py" timestamp="1434107116390">
         <mark key="'" line="409" column="28" />
@@ -200,13 +200,13 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/authorization/tests.py" timestamp="1437753043885">
-        <mark key="a" line="114" column="0" />
-        <mark key="'" line="89" column="24" />
-        <mark key="[" line="89" column="48" />
-        <mark key="]" line="90" column="62" />
-        <mark key="." line="90" column="62" />
-        <mark key="^" line="90" column="62" />
+      <file name="$USER_HOME$/Source/platform/authorization/tests.py" timestamp="1437764614575">
+        <mark key="a" line="91" column="0" />
+        <mark key="'" line="98" column="25" />
+        <mark key="[" line="98" column="63" />
+        <mark key="]" line="98" column="64" />
+        <mark key="." line="98" column="64" />
+        <mark key="^" line="98" column="64" />
       </file>
       <file name="$USER_HOME$/Source/platform/sprockets.http/requires/installation.txt" timestamp="1437587717586">
         <mark key="[" line="0" column="0" />
@@ -758,12 +758,13 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/models.py" timestamp="1436208441988">
         <mark key="'" line="850" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/authorization/authorization/app.py" timestamp="1437759409590">
-        <mark key="a" line="83" column="16" />
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Source/platform/authorization/authorization/app.py" timestamp="1437764484789">
+        <mark key="a" line="42" column="33" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="44" column="63" />
+        <mark key="]" line="44" column="63" />
+        <mark key="." line="44" column="63" />
+        <mark key="^" line="44" column="62" />
       </file>
       <file name="$USER_HOME$/Source/python/toto/env/lib/python3.4/site-packages/tornado/testing.py" timestamp="1431474626140">
         <mark key="'" line="336" column="16" />
@@ -834,7 +835,7 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
       </file>
-      <file name="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1437753047887">
+      <file name="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1437763429615">
         <mark key="'" line="379" column="25" />
       </file>
       <file name="$USER_HOME$/Source/python/messages/env/lib/python3.4/site-packages/dns/resolver.py" timestamp="1431000085030">
@@ -892,6 +893,9 @@
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/tcpserver.py" timestamp="1431173123597">
         <mark key="'" line="124" column="18" />
       </file>
+      <file name="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/itsdangerous.py" timestamp="1437764424211">
+        <mark key="'" line="673" column="22" />
+      </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/callback.py" timestamp="1430306850912">
         <mark key="'" line="153" column="40" />
       </file>
@@ -907,6 +911,12 @@
         <mark key="]" line="26" column="20" />
         <mark key="^" line="26" column="20" />
         <mark key="." line="26" column="20" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/authorization/requires/development.txt" timestamp="1437762766870">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="5" column="10" />
       </file>
       <file name="$USER_HOME$/Source/python/ietfparse/docs/header-parsing.rst" timestamp="1432641185616">
         <mark key="'" line="91" column="0" />
@@ -1054,6 +1064,14 @@
       <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/tornado/httpclient.py" timestamp="1436798162930">
         <mark key="'" line="226" column="22" />
       </file>
+      <file name="$USER_HOME$/Source/platform/sprockets.mixins.auth/tests.py" timestamp="1437502832038">
+        <mark key="a" line="97" column="24" />
+        <mark key="'" line="92" column="25" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="12" />
+        <mark key="." line="15" column="12" />
+        <mark key="^" line="14" column="31" />
+      </file>
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/adapters.py" timestamp="1436986482675">
         <mark key="'" line="359" column="28" />
       </file>
@@ -1063,8 +1081,8 @@
       <file name="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/helper/controller.py" timestamp="1434664275658">
         <mark key="'" line="91" column="37" />
       </file>
-      <file name="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" timestamp="1437751880894">
-        <mark key="'" line="168" column="13" />
+      <file name="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" timestamp="1437764213545">
+        <mark key="'" line="1040" column="26" />
       </file>
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/utils.py" timestamp="1435330777071">
         <mark key="'" line="10" column="5" />
@@ -1107,113 +1125,113 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="87" column="8" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="93" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="81" column="27" filename="$USER_HOME$/Source/core-api/voyager/voyager/api/views/subscribers.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/Source/core-api/voyager/voyager/api/views/subscribers.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/Source/core-api/voyager/voyager/api/views/subscribers.py" />
-      <jump line="136" column="26" filename="$USER_HOME$/Source/core-api/voyager/voyager/api/views/subscribers.py" />
-      <jump line="286" column="19" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/views/subscribers.py" />
-      <jump line="145" column="11" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/subscriber.py" />
-      <jump line="148" column="13" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/db.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="0" column="14" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="113" column="0" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/consulate/api/kv.py" />
-      <jump line="68" column="14" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="4" column="10" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="88" column="18" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="85" column="15" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="102" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="107" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="0" column="12" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="34" column="12" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="81" column="17" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="93" column="8" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/consulate/api/kv.py" />
-      <jump line="87" column="26" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="328" column="0" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/consulate/api/kv.py" />
-      <jump line="363" column="8" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/consulate/api/kv.py" />
-      <jump line="268" column="13" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/consulate/api/kv.py" />
-      <jump line="377" column="21" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/consulate/api/kv.py" />
-      <jump line="322" column="21" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/consulate/api/kv.py" />
-      <jump line="6" column="1" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="86" column="30" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="124" column="39" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="111" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="125" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="97" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="96" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="91" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="891" column="34" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
-      <jump line="869" column="34" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
-      <jump line="168" column="13" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
-      <jump line="122" column="31" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="67" column="23" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="121" column="13" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="75" column="28" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="258" column="20" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/consulate/api/kv.py" />
       <jump line="29" column="12" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="92" column="23" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="59" column="4" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/base64.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="15" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="61" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="57" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="49" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="94" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="117" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="109" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="104" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="100" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="89" column="24" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="379" column="25" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/testing.py" />
-      <jump line="226" column="22" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/httpclient.py" />
       <jump line="433" column="13" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/httpclient.py" />
       <jump line="409" column="17" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/httpclient.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="5" column="13" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="8" column="18" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="93" column="25" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="739" column="22" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/itsdangerous.py" />
+      <jump line="731" column="22" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/itsdangerous.py" />
+      <jump line="100" column="43" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="5" column="10" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="141" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="153" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="155" column="24" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="73" column="20" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="53" column="42" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="118" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="158" column="24" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="379" column="25" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/testing.py" />
+      <jump line="226" column="22" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/httpclient.py" />
+      <jump line="1" column="13" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="69" column="12" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="130" column="8" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="175" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="169" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="5" column="18" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="137" column="8" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="134" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="125" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="120" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="111" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="167" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="825" column="0" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
+      <jump line="849" column="45" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
+      <jump line="1010" column="34" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
+      <jump line="1011" column="41" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
+      <jump line="1019" column="36" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
+      <jump line="1029" column="12" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
+      <jump line="1030" column="67" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
+      <jump line="1040" column="26" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
+      <jump line="135" column="4" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="143" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="150" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="156" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="161" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="166" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="168" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="43" column="46" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="673" column="22" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/itsdangerous.py" />
+      <jump line="42" column="46" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="95" column="44" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="107" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="98" column="25" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="734" column="8" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/itsdangerous.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CkFQSSBEb2N1bWVudGF0aW9uCi0tLS0tLS0tLS0tLS0tLS0tCi4uIGF1dG9tb2R1bGU6OiBzcHJvY2tldHMuaHR0cAogICA6bWVtYmVyczoKCkludGVybmFscwpeXl5eXl5eXl4KLi4gYXV0b21vZHVsZTo6IHNwcm9ja2V0cy5odHRwLnJ1bm5lcgogICA6bWVtYmVyczoK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+      <register name="&quot;" type="4">
+        <text>en</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3339,34 +3357,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Authenticate</text>
+        <text>en</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdXRoX21vZGVcPg==</text>
+        <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldF9rdihhcHAuQVVUSE9SSVpBVElPTl9LRVlfUEFUSCwgTm9uZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dpbmcuaW5mbygnbWUgJXInLCBzZWxmLnJlcXVlc3QuX19kaWN0X18pCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+      <register name="1" type="4">
+        <text>en</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQo=</text>
+      <register name="3" type="4">
+        <text>logging.</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihBY2Nlc3NFbmRwb2ludCwgc2VsZikuaW5pdGlhbGl6ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5jdXJyZW50X3VzZXI6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbml0aWFsaXplKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5jdXJyZW50X3VzZXI6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpbmlzaCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5009,31 +5027,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldF9zdGF0dXMoNDAxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFkZF9oZWFkZXIoJ1dXVy1BdXRoZW50aWNhdGUnLCAnRGlnZXN0IHJlYWxtPUFXZWJlciwgbm9uY2U9MTInKQo=</text>
+      <register name="8" type="4">
+        <text>return self._fail_auth()</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygnYXV0aCAlcycsIHNlbGYucmVxdWVzdC5oZWFkZXJzLmdldCgnQXV0aG9yaXphdGlvbicpKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">PSA=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdXRoX21vZGVcPg==</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRoX21vZGVcPg==</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace>0</last-replace>
       <last-substitute>[\S]</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_handle_request_exception</entry>
-        <entry encoding="base64">XDxzZW50cnlfdGFnc1w+</entry>
         <entry>[\S]</entry>
         <entry encoding="base64">XDxtb2R1bGVfY2FjaGVcPg==</entry>
         <entry encoding="base64">XDxzZW5kX2VuY29kZWRcPg==</entry>
@@ -5052,6 +5068,8 @@
         <entry>create_signed_value</entry>
         <entry encoding="base64">XDxfdHJhbnNmb3Jtc1w+</entry>
         <entry encoding="base64">XDxhdXRoX21vZGVcPg==</entry>
+        <entry>set_user</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry>201</entry>
