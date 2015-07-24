@@ -185,6 +185,9 @@
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/motor/__init__.py" timestamp="1433090318216">
         <mark key="'" line="1086" column="20" />
       </file>
+      <file name="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/subscriber.py" timestamp="1437743034328">
+        <mark key="'" line="145" column="11" />
+      </file>
       <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/processors.py" timestamp="1436802107207">
         <mark key="'" line="124" column="26" />
       </file>
@@ -262,6 +265,9 @@
       </file>
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py" timestamp="1436364266305">
         <mark key="'" line="828" column="13" />
+      </file>
+      <file name="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/views/subscribers.py" timestamp="1437743012905">
+        <mark key="'" line="286" column="19" />
       </file>
       <file name="$USER_HOME$/Source/work/test-helpers/docs/http-services.rst" timestamp="1431307514605">
         <mark key="'" line="7" column="0" />
@@ -652,6 +658,9 @@
         <mark key="]" line="60" column="40" />
         <mark key="^" line="60" column="40" />
         <mark key="." line="60" column="40" />
+      </file>
+      <file name="$USER_HOME$/Source/core-api/voyager/voyager/api/views/subscribers.py" timestamp="1437742935067">
+        <mark key="'" line="136" column="26" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/distutils/command/sdist.py" timestamp="1416145958363">
         <mark key="'" line="115" column="13" />
@@ -1090,13 +1099,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="54" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="20" column="48" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="37" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="17" column="28" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
@@ -1190,6 +1192,13 @@
       <jump line="93" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="98" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="102" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="81" column="27" filename="$USER_HOME$/Source/core-api/voyager/voyager/api/views/subscribers.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/Source/core-api/voyager/voyager/api/views/subscribers.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/Source/core-api/voyager/voyager/api/views/subscribers.py" />
+      <jump line="136" column="26" filename="$USER_HOME$/Source/core-api/voyager/voyager/api/views/subscribers.py" />
+      <jump line="286" column="19" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/views/subscribers.py" />
+      <jump line="145" column="11" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/subscriber.py" />
+      <jump line="148" column="13" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/db.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
