@@ -755,13 +755,13 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/models.py" timestamp="1436208441988">
         <mark key="'" line="850" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/authorization/authorization/app.py" timestamp="1437745549317">
-        <mark key="a" line="62" column="7" />
-        <mark key="'" line="3" column="15" />
-        <mark key="[" line="64" column="61" />
-        <mark key="]" line="64" column="53" />
-        <mark key="." line="64" column="53" />
-        <mark key="^" line="64" column="53" />
+      <file name="$USER_HOME$/Source/platform/authorization/authorization/app.py" timestamp="1437746425620">
+        <mark key="a" line="77" column="51" />
+        <mark key="'" line="90" column="15" />
+        <mark key="[" line="86" column="58" />
+        <mark key="]" line="88" column="47" />
+        <mark key="." line="88" column="47" />
+        <mark key="^" line="88" column="47" />
       </file>
       <file name="$USER_HOME$/Source/python/toto/env/lib/python3.4/site-packages/tornado/testing.py" timestamp="1431474626140">
         <mark key="'" line="336" column="16" />
@@ -1106,23 +1106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="6" column="9" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="72" column="19" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="45" column="11" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/sprockets/http/__init__.py" />
-      <jump line="73" column="31" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="62" column="15" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
-      <jump line="131" column="57" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
-      <jump line="597" column="35" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
-      <jump line="601" column="8" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
-      <jump line="621" column="15" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="43" column="47" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="40" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
@@ -1149,10 +1132,8 @@
       <jump line="18" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="51" column="8" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="74" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="24" column="60" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="72" column="48" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="66" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
@@ -1201,18 +1182,37 @@
       <jump line="286" column="19" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/views/subscribers.py" />
       <jump line="145" column="11" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/subscriber.py" />
       <jump line="148" column="13" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/db.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="2" column="27" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="3" column="15" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="0" column="14" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/consulate/api/kv.py" />
+      <jump line="68" column="14" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="93" column="8" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/consulate/api/kv.py" />
+      <jump line="4" column="10" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="88" column="18" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="86" column="9" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="85" column="15" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CkFQSSBEb2N1bWVudGF0aW9uCi0tLS0tLS0tLS0tLS0tLS0tCi4uIGF1dG9tb2R1bGU6OiBzcHJvY2tldHMuaHR0cAogICA6bWVtYmVyczoKCkludGVybmFscwpeXl5eXl5eXl4KLi4gYXV0b21vZHVsZTo6IHNwcm9ja2V0cy5odHRwLnJ1bm5lcgogICA6bWVtYmVyczoK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleQo=</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3338,34 +3338,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>create_signed_value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9jb25zdWwgaXMgTm9uZToKICAgICAgICAgICAgc2VsZi5fY29uc3VsID0gY29uc3VsYXRlLkNvbnN1bChob3N0PW9zLmVudmlyb25bJ0NPTlNVTF9IT1NUJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcG9ydD1vcy5lbnZpcm9uWydDT05TVUxfUE9SVCddKQogICAgICAgIHJldHVybiBzZWxmLl9jb25zdWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IHNlbGYuYXBwbGljYXRpb24uc2V0dGluZ3MuZ2V0KCdjb29raWVfc2VjcmV0Jyk6Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>pass</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb24gPSBjb25zdWxhdGUK</text>
+        <text encoding="base64">ICAgIHJldHVybiBhcHBsaWNhdGlvbgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>pass</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="4">
-        <text>return</text>
+        <text>pass</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbnN1bGF0ZQo=</text>
+      <register name="6" type="4">
+        <text>=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5008,13 +5008,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>2</text>
+        <text encoding="base64">YXBwIA==</text>
       </register>
-      <register name="8" type="4">
-        <text>1</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBhcHAK</text>
       </register>
-      <register name="9" type="4">
-        <text>j</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGlvbC5hZGRfY2FsbGJhY2sodXBkYXRlX3NlY3JldF9rZXksIGFwcCkK</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
