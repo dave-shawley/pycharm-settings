@@ -758,13 +758,12 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/models.py" timestamp="1436208441988">
         <mark key="'" line="850" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/authorization/authorization/app.py" timestamp="1437753890618">
+      <file name="$USER_HOME$/Source/platform/authorization/authorization/app.py" timestamp="1437756306070">
         <mark key="a" line="93" column="16" />
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="40" column="64" />
-        <mark key="]" line="40" column="73" />
-        <mark key="." line="40" column="73" />
-        <mark key="^" line="40" column="73" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/toto/env/lib/python3.4/site-packages/tornado/testing.py" timestamp="1431474626140">
         <mark key="'" line="336" column="16" />
@@ -1055,14 +1054,6 @@
       <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/tornado/httpclient.py" timestamp="1436798162930">
         <mark key="'" line="226" column="22" />
       </file>
-      <file name="$USER_HOME$/Source/platform/sprockets.mixins.auth/tests.py" timestamp="1437502832038">
-        <mark key="a" line="97" column="24" />
-        <mark key="'" line="92" column="25" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="12" />
-        <mark key="^" line="14" column="31" />
-      </file>
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/adapters.py" timestamp="1436986482675">
         <mark key="'" line="359" column="28" />
       </file>
@@ -1222,7 +1213,7 @@
         <text encoding="base64">CkFQSSBEb2N1bWVudGF0aW9uCi0tLS0tLS0tLS0tLS0tLS0tCi4uIGF1dG9tb2R1bGU6OiBzcHJvY2tldHMuaHR0cAogICA6bWVtYmVyczoKCkludGVybmFscwpeXl5eXl5eXl4KLi4gYXV0b21vZHVsZTo6IHNwcm9ja2V0cy5odHRwLnJ1bm5lcgogICA6bWVtYmVyczoK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldF9zdGF0dXMoNDAxKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlcXVlc3QuCg==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3357,25 +3348,25 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnNldF9rdihhcHAuQVVUSE9SSVpBVElPTl9LRVlfUEFUSCwgTm9uZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldF9zdGF0dXMoNDAxKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlcXVlc3QuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>Authenticate</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldF9zdGF0dXMoNDAxKQo=</text>
       </register>
       <register name="3" type="4">
-        <text>-</text>
+        <text>Authenticate</text>
       </register>
       <register name="4" type="4">
-        <text>WWW</text>
+        <text>-</text>
       </register>
       <register name="5" type="4">
-        <text>request.headers</text>
+        <text>WWW</text>
       </register>
       <register name="6" type="4">
-        <text>request.headers.)</text>
+        <text>request.headers</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5018,16 +5009,16 @@
         </keys>
       </register>
       <register name="7" type="4">
+        <text>request.headers.)</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICAKICAgIGRlZiBwcmVwYXJlKHNlbGYpOgogICAgICAgIHN1cGVyKEFjY2Vzc0VuZHBvaW50LCBzZWxmKS5wcmVwYXJlKCkKICAgICAgICBpZiBub3Qgc2VsZi5fZmluaXNoZWQ6CiAgICAgICAgICAgIHVwZGF0ZV9zZWNyZXRfa2V5KHNlbGYuYXBwbGljYXRpb24pCiAgICAgICAgICAgIGlmIG5vdCBzZWxmLmFwcGxpY2F0aW9uLnNldHRpbmdzLmdldCgnY29va2llX3NlY3JldCcpOgogICAgICAgICAgICAgICAgc2VsZi5zZXRfc3RhdHVzKDUwMCwgcmVhc29uPSdDYW5ub3QgdmFsaWRhdGUnKQogICAgICAgICAgICAgICAgc2VsZi5maW5pc2goKQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2cK</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -5081,8 +5072,8 @@
         <entry>vspl</entry>
         <entry>wq</entry>
         <entry>vs</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
