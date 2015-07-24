@@ -755,12 +755,13 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/models.py" timestamp="1436208441988">
         <mark key="'" line="850" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/authorization/authorization/app.py" timestamp="1437683057880">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
+      <file name="$USER_HOME$/Source/platform/authorization/authorization/app.py" timestamp="1437745549317">
+        <mark key="a" line="62" column="7" />
+        <mark key="'" line="3" column="15" />
+        <mark key="[" line="64" column="61" />
+        <mark key="]" line="64" column="53" />
+        <mark key="." line="64" column="53" />
+        <mark key="^" line="64" column="53" />
       </file>
       <file name="$USER_HOME$/Source/python/toto/env/lib/python3.4/site-packages/tornado/testing.py" timestamp="1431474626140">
         <mark key="'" line="336" column="16" />
@@ -922,6 +923,12 @@
         <mark key="]" line="43" column="51" />
         <mark key="^" line="43" column="51" />
         <mark key="." line="43" column="51" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/authorization/requires/installation.txt" timestamp="1437745085086">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="36" />
+        <mark key="^" line="3" column="36" />
+        <mark key="." line="3" column="36" />
       </file>
       <file name="$USER_HOME$/Source/python/fluent-test/fluenttest/test_case.py" timestamp="1410004245269">
         <mark key="'" line="101" column="0" />
@@ -1099,11 +1106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="17" column="28" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="147" column="20" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/sprockets/http/runner.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="6" column="9" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="72" column="19" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
@@ -1199,13 +1201,18 @@
       <jump line="286" column="19" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/views/subscribers.py" />
       <jump line="145" column="11" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/subscriber.py" />
       <jump line="148" column="13" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/db.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="2" column="27" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="3" column="15" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CkFQSSBEb2N1bWVudGF0aW9uCi0tLS0tLS0tLS0tLS0tLS0tCi4uIGF1dG9tb2R1bGU6OiBzcHJvY2tldHMuaHR0cAogICA6bWVtYmVyczoKCkludGVybmFscwpeXl5eXl5eXl4KLi4gYXV0b21vZHVsZTo6IHNwcm9ja2V0cy5odHRwLnJ1bm5lcgogICA6bWVtYmVyczoK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3331,7 +3338,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>create_signed_value</text>
@@ -3340,25 +3347,25 @@
         <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9jb25zdWwgaXMgTm9uZToKICAgICAgICAgICAgc2VsZi5fY29uc3VsID0gY29uc3VsYXRlLkNvbnN1bChob3N0PW9zLmVudmlyb25bJ0NPTlNVTF9IT1NUJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcG9ydD1vcy5lbnZpcm9uWydDT05TVUxfUE9SVCddKQogICAgICAgIHJldHVybiBzZWxmLl9jb25zdWwK</text>
       </register>
       <register name="1" type="4">
-        <text>j</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+      <register name="2" type="4">
+        <text>pass</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuY29uc3VsLmt2LnNldChhcHAuQVVUSE9SSVpBVElPTl9LRVlfUEFUSCwgc2VjcmV0MCkK</text>
+        <text encoding="base64">ICAgIHNlc3Npb24gPSBjb25zdWxhdGUK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VjcmV0MCBpcyBub3QgTm9uZToK</text>
+      <register name="4" type="4">
+        <text>pass</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbGx5Ogo=</text>
+      <register name="5" type="4">
+        <text>return</text>
       </register>
-      <register name="6" type="4">
-        <text>self.consul.kv.get(app.AUTHORIZATION_KEY_PATH)</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbnN1bGF0ZQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5000,17 +5007,17 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZgo=</text>
+      <register name="7" type="4">
+        <text>2</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>1</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jb25zdWwua3YuZGVsZXRlKGFwcC5BVVRIT1JJWkFUSU9OX0tFWV9QQVRIKQo=</text>
+      <register name="9" type="4">
+        <text>j</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -5064,8 +5071,8 @@
         <entry>vspl</entry>
         <entry>wq</entry>
         <entry>vs</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
