@@ -197,13 +197,13 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/authorization/tests.py" timestamp="1437683617066">
-        <mark key="a" line="73" column="37" />
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="110" column="8" />
-        <mark key="]" line="110" column="8" />
-        <mark key="." line="110" column="8" />
-        <mark key="^" line="110" column="8" />
+      <file name="$USER_HOME$/Source/platform/authorization/tests.py" timestamp="1437747705238">
+        <mark key="a" line="114" column="46" />
+        <mark key="'" line="0" column="12" />
+        <mark key="[" line="114" column="57" />
+        <mark key="]" line="115" column="67" />
+        <mark key="." line="115" column="67" />
+        <mark key="^" line="115" column="67" />
       </file>
       <file name="$USER_HOME$/Source/platform/sprockets.http/requires/installation.txt" timestamp="1437587717586">
         <mark key="[" line="0" column="0" />
@@ -755,13 +755,12 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/models.py" timestamp="1436208441988">
         <mark key="'" line="850" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/authorization/authorization/app.py" timestamp="1437746425620">
-        <mark key="a" line="77" column="51" />
-        <mark key="'" line="90" column="15" />
-        <mark key="[" line="86" column="58" />
-        <mark key="]" line="88" column="47" />
-        <mark key="." line="88" column="47" />
-        <mark key="^" line="88" column="47" />
+      <file name="$USER_HOME$/Source/platform/authorization/authorization/app.py" timestamp="1437749142708">
+        <mark key="'" line="32" column="12" />
+        <mark key="[" line="79" column="12" />
+        <mark key="]" line="78" column="33" />
+        <mark key="^" line="78" column="33" />
+        <mark key="." line="78" column="33" />
       </file>
       <file name="$USER_HOME$/Source/python/toto/env/lib/python3.4/site-packages/tornado/testing.py" timestamp="1431474626140">
         <mark key="'" line="336" column="16" />
@@ -1049,14 +1048,6 @@
       <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/tornado/httpclient.py" timestamp="1436798162930">
         <mark key="'" line="226" column="22" />
       </file>
-      <file name="$USER_HOME$/Source/platform/sprockets.mixins.auth/tests.py" timestamp="1437502832038">
-        <mark key="a" line="97" column="24" />
-        <mark key="'" line="92" column="25" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="12" />
-        <mark key="^" line="14" column="31" />
-      </file>
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/adapters.py" timestamp="1436986482675">
         <mark key="'" line="359" column="28" />
       </file>
@@ -1077,6 +1068,10 @@
       </file>
       <file name="$USER_HOME$/Source/python/sampson/bah.py" timestamp="1419598697139">
         <mark key="'" line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/consulate/api/kv.py" timestamp="1437748205404">
+        <mark key="a" line="260" column="13" />
+        <mark key="'" line="377" column="21" />
       </file>
       <file name="$USER_HOME$/Source/python/ietfparse/README.rst" timestamp="1432559486459">
         <mark key="'" line="3" column="46" />
@@ -1106,17 +1101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="1" column="13" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="30" column="11" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="28" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
@@ -1134,7 +1118,6 @@
       <jump line="74" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="72" column="48" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="66" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="62" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
@@ -1153,13 +1136,11 @@
       <jump line="105" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="104" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="99" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="90" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="86" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="79" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="77" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="109" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="107" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="85" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="82" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="80" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
@@ -1173,8 +1154,6 @@
       <jump line="87" column="8" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="89" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="93" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
-      <jump line="102" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="81" column="27" filename="$USER_HOME$/Source/core-api/voyager/voyager/api/views/subscribers.py" />
       <jump line="87" column="0" filename="$USER_HOME$/Source/core-api/voyager/voyager/api/views/subscribers.py" />
       <jump line="90" column="0" filename="$USER_HOME$/Source/core-api/voyager/voyager/api/views/subscribers.py" />
@@ -1194,7 +1173,6 @@
       <jump line="30" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="113" column="0" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/consulate/api/kv.py" />
       <jump line="68" column="14" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
-      <jump line="93" column="8" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/consulate/api/kv.py" />
       <jump line="4" column="10" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="91" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="77" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
@@ -1206,13 +1184,30 @@
       <jump line="54" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="51" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
       <jump line="85" column="15" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="107" column="0" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="0" column="12" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="34" column="12" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="81" column="17" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="93" column="8" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/consulate/api/kv.py" />
+      <jump line="87" column="26" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
+      <jump line="328" column="0" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/consulate/api/kv.py" />
+      <jump line="363" column="8" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/consulate/api/kv.py" />
+      <jump line="268" column="13" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/consulate/api/kv.py" />
+      <jump line="377" column="21" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/consulate/api/kv.py" />
+      <jump line="322" column="21" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/consulate/api/kv.py" />
+      <jump line="32" column="12" filename="$USER_HOME$/Source/platform/authorization/authorization/app.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CkFQSSBEb2N1bWVudGF0aW9uCi0tLS0tLS0tLS0tLS0tLS0tCi4uIGF1dG9tb2R1bGU6OiBzcHJvY2tldHMuaHR0cAogICA6bWVtYmVyczoKCkludGVybmFscwpeXl5eXl5eXl4KLi4gYXV0b21vZHVsZTo6IHNwcm9ja2V0cy5odHRwLnJ1bm5lcgogICA6bWVtYmVyczoK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleQo=</text>
+      <register name="&quot;" type="4">
+        <text>Generate a secret key in the Consul KV if one does n</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3338,7 +3333,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>Generate a secret key in the Consul KV if one does n</text>
       </register>
       <register name="/" type="4">
         <text>create_signed_value</text>
@@ -3346,26 +3341,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IHNlbGYuYXBwbGljYXRpb24uc2V0dGluZ3MuZ2V0KCdjb29raWVfc2VjcmV0Jyk6Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleQo=</text>
+      <register name="1" type="4">
+        <text>Generate a secret key in the Consul KV if one does n</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGxvY2tfdmFsdWUgPSB1dWlkLnV1aWQ0KCkuaGV4Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhcHBsaWNhdGlvbgo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdWwua3YucmVsZWFzZV9sb2NrKEFVVEhPUklaQVRJT05fS0VZX1BBVEgsIGxvY2tfdmFsdWUpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>pass</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZpbmFsbHk6Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5007,14 +5002,14 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">YXBwIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBub3Qga2V5Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhcHAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGlvbC5hZGRfY2FsbGJhY2sodXBkYXRlX3NlY3JldF9rZXksIGFwcCkK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
