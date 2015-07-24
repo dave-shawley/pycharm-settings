@@ -758,12 +758,12 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/models.py" timestamp="1436208441988">
         <mark key="'" line="850" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/authorization/authorization/app.py" timestamp="1437756306070">
-        <mark key="a" line="93" column="16" />
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Source/platform/authorization/authorization/app.py" timestamp="1437759409590">
+        <mark key="a" line="83" column="16" />
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/toto/env/lib/python3.4/site-packages/tornado/testing.py" timestamp="1431474626140">
         <mark key="'" line="336" column="16" />
@@ -1213,7 +1213,7 @@
         <text encoding="base64">CkFQSSBEb2N1bWVudGF0aW9uCi0tLS0tLS0tLS0tLS0tLS0tCi4uIGF1dG9tb2R1bGU6OiBzcHJvY2tldHMuaHR0cAogICA6bWVtYmVyczoKCkludGVybmFscwpeXl5eXl5eXl4KLi4gYXV0b21vZHVsZTo6IHNwcm9ja2V0cy5odHRwLnJ1bm5lcgogICA6bWVtYmVyczoK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlcXVlc3QuCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3348,25 +3348,25 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnNldF9rdihhcHAuQVVUSE9SSVpBVElPTl9LRVlfUEFUSCwgTm9uZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlcXVlc3QuCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldF9zdGF0dXMoNDAxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>Authenticate</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>-</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcihBY2Nlc3NFbmRwb2ludCwgc2VsZikuaW5pdGlhbGl6ZSgpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>WWW</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlZiBpbml0aWFsaXplKHNlbGYpOgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>request.headers</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpbmlzaCgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5008,14 +5008,14 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>request.headers.)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldF9zdGF0dXMoNDAxKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAKICAgIGRlZiBwcmVwYXJlKHNlbGYpOgogICAgICAgIHN1cGVyKEFjY2Vzc0VuZHBvaW50LCBzZWxmKS5wcmVwYXJlKCkKICAgICAgICBpZiBub3Qgc2VsZi5fZmluaXNoZWQ6CiAgICAgICAgICAgIHVwZGF0ZV9zZWNyZXRfa2V5KHNlbGYuYXBwbGljYXRpb24pCiAgICAgICAgICAgIGlmIG5vdCBzZWxmLmFwcGxpY2F0aW9uLnNldHRpbmdzLmdldCgnY29va2llX3NlY3JldCcpOgogICAgICAgICAgICAgICAgc2VsZi5zZXRfc3RhdHVzKDUwMCwgcmVhc29uPSdDYW5ub3QgdmFsaWRhdGUnKQogICAgICAgICAgICAgICAgc2VsZi5maW5pc2goKQo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFkZF9oZWFkZXIoJ1dXVy1BdXRoZW50aWNhdGUnLCAnRGlnZXN0IHJlYWxtPUFXZWJlciwgbm9uY2U9MTInKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygnYXV0aCAlcycsIHNlbGYucmVxdWVzdC5oZWFkZXJzLmdldCgnQXV0aG9yaXphdGlvbicpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
