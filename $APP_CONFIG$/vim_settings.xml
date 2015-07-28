@@ -551,12 +551,11 @@
         <mark key="^" line="43" column="15" />
         <mark key="." line="43" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform/authorization/sprockets/mixins/cors.py" timestamp="1438104459376">
+      <file name="$USER_HOME$/Source/platform/authorization/sprockets/mixins/cors.py" timestamp="1438105759033">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="32" column="36" />
-        <mark key="]" line="32" column="41" />
-        <mark key="." line="32" column="41" />
-        <mark key="^" line="32" column="41" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" timestamp="1437594582532">
         <mark key="'" line="601" column="3" />
@@ -1263,8 +1262,8 @@
       <register name="a" type="2">
         <text encoding="base64">aW1wb3J0IGJhc2U2NCwgaGFzaGxpYiwgaG1hYywganNvbiwgcmVxdWVzdHMKCgpkZWYgZW5jb2RlX21lc3NhZ2Uoc2VjcmV0LCBib2R5LCBhZGR0X2hlYWRlcnM9Tm9uZSk6CiAgICBkZWYgX2VuY29kZV9qc29uKGRhdGEpOgogICAgICAgIGpzb25fYnl0ZXMgPSBqc29uLmR1bXBzKGRhdGEpLmVuY29kZSgndXRmLTgnKQogICAgICAgIHJldHVybiBiYXNlNjQudXJsc2FmZV9iNjRlbmNvZGUoanNvbl9ieXRlcykucnN0cmlwKGInPScpCgogICAgaGVhZGVycyA9IGFkZHRfaGVhZGVycy5jb3B5KCkgaWYgYWRkdF9oZWFkZXJzIGVsc2Uge30KICAgIGhlYWRlcnNbJ2FsZyddID0gJ0hTMjU2JwogICAgaGVhZGVyc1sndHlwJ10gPSAnSldUJwogICAgZW5jX2hlYWRlcnMgPSBfZW5jb2RlX2pzb24oaGVhZGVycykKICAgIGVuY19ib2R5ID0gX2VuY29kZV9qc29uKGJvZHkpCiAgICBrZXltYXN0ZXIgPSBobWFjLm5ldyhrZXk9c2VjcmV0LCBkaWdlc3Rtb2Q9aGFzaGxpYi5zaGEyNTYpCiAgICBrZXltYXN0ZXIudXBkYXRlKGVuY19oZWFkZXJzKQogICAga2V5bWFzdGVyLnVwZGF0ZShiJy4nKQogICAga2V5bWFzdGVyLnVwZGF0ZShlbmNfYm9keSkKICAgIHJldHVybiBiJy4nLmpvaW4oWwogICAgICAgIGVuY19oZWFkZXJzLCBlbmNfYm9keSwKICAgICAgICBiYXNlNjQudXJsc2FmZV9iNjRlbmNvZGUoa2V5bWFzdGVyLmRpZ2VzdCgpKS5yc3RyaXAoYic9JykKICAgIF0pCgoKcnNwID0gcmVxdWVzdHMuZ2V0KCdodHRwOi8vbWFwcGluZy5hd2ViZXJwcm9kLmNvbS9hY2NvdW50LzkxJywKICAgICAgICAgICAgICAgICAgIGhlYWRlcnM9eydBY2NlcHQnOiAnYXBwbGljYXRpb24vanNvbid9KQpwcmludChlbmNvZGVfbWVzc2FnZShiJ3NlY3JldCcsIHJzcC5qc29uKCkpKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.assertAlmostEqual()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3398,26 +3397,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc2V0X2hlYWRlcignQWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2luJywgb3JpZ2luKQogICAgICAgICAgICAgICAgc2VsZi5zZXRfaGVhZGVyKCdBY2Nlc3MtQ29udHJvbC1BbGxvdy1NZXRob2RzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnLCcuam9pbihzZWxmLmNvcnMuYWxsb3dlZF9tZXRob2RzKSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>.assertAlmostEqual()</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihDT1JTTWl4aW4sIHNlbGYpLnByZXBhcmUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzZWxmLmlzX2FjY2VwdGFibGVfY29yc19vcmlnaW4ob3JpZ2luKSBhbmQKICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5pc19hY2NlcHRhYmxlX2NvcnNfbWV0aG9kKG1ldGhvZCkpOgogICAgICAgICAgICAgICAgICAgIHNlbGYuc2V0X2NvcnNfaGVhZGVycyhvcmlnaW4pCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIHNlbGYuc2V0X3N0YXR1cyg0MDMpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBwcmVwYXJlKHNlbGYpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlcXVlc3RfaGVhZGVycyA9IHNldCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="4">
-        <text>fail with</text>
+        <text>.assertAlmostEqual()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgYSAK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5060,16 +5059,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzZWxmLmlzX2FjY2VwdGFibGVfY29yc19vcmlnaW4ob3JpZ2luKSBhbmQKICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5pc19hY2NlcHRhYmxlX2NvcnNfbWV0aG9kKG1ldGhvZCkpOgogICAgICAgICAgICAgICAgICAgIHNlbGYuc2V0X2NvcnNfaGVhZGVycyhvcmlnaW4pCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIHNlbGYuc2V0X3N0YXR1cyg0MDMpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlcXVlc3RfaGVhZGVycyA9IHNldCgpCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
+        <text>fail with</text>
       </register>
       <register name=":" type="4">
-        <text>sp cors_tests.py</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -5122,9 +5121,9 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz52c3A=</entry>
         <entry>vspl</entry>
-        <entry>w</entry>
         <entry>1</entry>
         <entry>sp cors_tests.py</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
