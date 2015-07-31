@@ -85,13 +85,13 @@
         <mark key="." line="82" column="28" />
         <mark key="[" line="81" column="51" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/tests/wire_tests.py" timestamp="1438257381131">
+      <file name="$USER_HOME$/Source/python/magician/tests/wire_tests.py" timestamp="1438257573602">
         <mark key="'" line="66" column="23" />
-        <mark key="a" line="85" column="30" />
-        <mark key="]" line="72" column="41" />
-        <mark key="^" line="72" column="46" />
-        <mark key="." line="72" column="41" />
-        <mark key="[" line="72" column="41" />
+        <mark key="a" line="88" column="30" />
+        <mark key="]" line="75" column="41" />
+        <mark key="^" line="75" column="41" />
+        <mark key="." line="75" column="41" />
+        <mark key="[" line="75" column="16" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/channel.py" timestamp="1430058303912">
         <mark key="'" line="1056" column="24" />
@@ -175,7 +175,7 @@
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/proactor_events.py" timestamp="1423403274631">
         <mark key="'" line="5" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1437925248392">
+      <file name="/Python Console" timestamp="1438257575734">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/tests.py" timestamp="1435499501580">
@@ -263,7 +263,7 @@
         <mark key="." line="46" column="52" />
         <mark key="[" line="46" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/magician/wire.py" timestamp="1438256541081">
+      <file name="$USER_HOME$/Source/python/magician/magician/wire.py" timestamp="1438257496413">
         <mark key="'" line="435" column="43" />
         <mark key="]" line="442" column="73" />
         <mark key="^" line="442" column="73" />
@@ -1007,7 +1007,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>break</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">Ci4uIHNlcWRpYWc6OgoKICAgc2VxZGlhZyBzZXF1ZW5jZSB7CiAgICAgIEMgW2xhYmVsPSJjb25uZWN0X3RvKCkiXTsKICAgICAgQSBbbGFiZWw9Imxvb3AiXTsKICAgICAgUCBbbGFiZWw9InByb3RvY29sIl07CiAgICAgIEIgW2xhYmVsPSJBTVFQIEJyb2tlciJdOwogICAgICBDIC0+IEEgW2xhYmVsPSJjcmVhdGVfY29ubmVjdGlvbigpIl07CiAgICAgIEEgPT4gUCBbbGFiZWw9Ijw8Y3JlYXRlPj4iXTsKICAgICAgQSAtPj4gQiBbbGFiZWw9ImNvbm5lY3QiXTsKICAgICAgQyA8LS0gQSBbbGFiZWw9cHJvdG9jb2xdOwogICAgICBCIC0+PiBQIFtsYWJlbD0iY29ubmVjdGlvbl9tYWRlIl07CiAgICAgIFAgLT4gQiBbbGFiZWw9IlByb3RvY29sIEhlYWRlciJdOwogICAgICBCID0+IFAgW2xhYmVsPUNvbm5lY3Rpb24uU3RhcnQsIHJldHVybj1Db25uZWN0aW9uLlN0YXJ0T0tdOwogICAgICBCID0+IFAgW2xhYmVsPUNvbm5lY3Rpb24uVHVuZSwgcmV0dXJuPUNvbm5lY3Rpb24uVHVuZU9LXTsKICAgICAgUCA9PiBCIFtsYWJlbD1Db25uZWN0aW9uLk9wZW4sIHJldHVybj1Db25uZWN0aW9uLk9wZW5PS107CiAgICAgIEMgPDwtIFAgW2xhYmVsPSJmaW5pc2ggZnV0dXJlc1snY29ubmVjdGVkJ10iXTsKICAgfQo=</text>
@@ -3139,7 +3139,7 @@
         <text>read_frame</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>break</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4782,25 +4782,25 @@
         </keys>
       </register>
       <register name="3" type="4">
-        <text>[coro, asyncio.sleep(0.01)],</text>
-      </register>
-      <register name="2" type="4">
         <text encoding="base64">IA==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>break</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmxvb3AucnVuX3VudGlsX2NvbXBsZXRlKHNlbGYucHJvdG9jb2wud2FpdF9jbG9zZWQoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="5" type="4">
+        <text>[coro, asyncio.sleep(0.01)],</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -4809,13 +4809,13 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFtZS53cml0ZShzdHJ1Y3QucGFjaygnPkJISScsIHdpcmUuRnJhbWUuTUVUSE9EKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
@@ -4867,10 +4867,10 @@
         <entry>278</entry>
         <entry>285</entry>
         <entry>157</entry>
-        <entry>w</entry>
         <entry>162</entry>
         <entry>306</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
