@@ -330,8 +330,12 @@
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/mongo_client.py" timestamp="1434971316208">
         <mark key="'" line="289" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/magician/amqp.py" timestamp="1438431751780">
-        <mark key="'" line="32" column="37" />
+      <file name="$USER_HOME$/Source/python/magician/magician/amqp.py" timestamp="1438434008568">
+        <mark key="'" line="116" column="39" />
+        <mark key="a" line="116" column="39" />
+        <mark key="]" line="116" column="39" />
+        <mark key="." line="116" column="39" />
+        <mark key="[" line="116" column="39" />
       </file>
       <file name="$USER_HOME$/Source/python/ietfparse/tests/generic_parsing_tests.py" timestamp="1432563703836">
         <mark key="'" line="18" column="18" />
@@ -896,7 +900,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="8" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="63" column="8" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="90" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="81" column="52" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
@@ -996,10 +999,11 @@
       <jump line="8" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
+      <jump line="116" column="39" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICsgMSw=</text>
+        <text>_</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">Ci4uIHNlcWRpYWc6OgoKICAgc2VxZGlhZyBzZXF1ZW5jZSB7CiAgICAgIEMgW2xhYmVsPSJjb25uZWN0X3RvKCkiXTsKICAgICAgQSBbbGFiZWw9Imxvb3AiXTsKICAgICAgUCBbbGFiZWw9InByb3RvY29sIl07CiAgICAgIEIgW2xhYmVsPSJBTVFQIEJyb2tlciJdOwogICAgICBDIC0+IEEgW2xhYmVsPSJjcmVhdGVfY29ubmVjdGlvbigpIl07CiAgICAgIEEgPT4gUCBbbGFiZWw9Ijw8Y3JlYXRlPj4iXTsKICAgICAgQSAtPj4gQiBbbGFiZWw9ImNvbm5lY3QiXTsKICAgICAgQyA8LS0gQSBbbGFiZWw9cHJvdG9jb2xdOwogICAgICBCIC0+PiBQIFtsYWJlbD0iY29ubmVjdGlvbl9tYWRlIl07CiAgICAgIFAgLT4gQiBbbGFiZWw9IlByb3RvY29sIEhlYWRlciJdOwogICAgICBCID0+IFAgW2xhYmVsPUNvbm5lY3Rpb24uU3RhcnQsIHJldHVybj1Db25uZWN0aW9uLlN0YXJ0T0tdOwogICAgICBCID0+IFAgW2xhYmVsPUNvbm5lY3Rpb24uVHVuZSwgcmV0dXJuPUNvbm5lY3Rpb24uVHVuZU9LXTsKICAgICAgUCA9PiBCIFtsYWJlbD1Db25uZWN0aW9uLk9wZW4sIHJldHVybj1Db25uZWN0aW9uLk9wZW5PS107CiAgICAgIEMgPDwtIFAgW2xhYmVsPSJmaW5pc2ggZnV0dXJlc1snY29ubmVjdGVkJ10iXTsKICAgfQo=</text>
@@ -3128,10 +3132,10 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>read_frame</text>
+        <text encoding="base64">XDxfbG9vcFw+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgMSw=</text>
+        <text>_</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4774,54 +4778,53 @@
         </keys>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">NyA=</text>
-      </register>
-      <register name="2" type="4">
         <text encoding="base64">KyA=</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text encoding="base64">ICsgMSw=</text>
+      </register>
+      <register name="1" type="4">
+        <text>_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmxvb3AucnVuX3VudGlsX2NvbXBsZXRlKHNlbGYucHJvdG9jb2wud2FpdF9jbG9zZWQoKSkK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">LCA=</text>
-      </register>
-      <register name="6" type="4">
         <text encoding="base64">cGVuZGluZyA=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PSA=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">NyA=</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>done</text>
       </register>
       <register name="8" type="4">
-        <text>done</text>
+        <text encoding="base64">LCA=</text>
       </register>
     </registers>
     <search>
-      <last-search>read_frame</last-search>
+      <last-search encoding="base64">XDxfbG9vcFw+</last-search>
       <last-offset />
-      <last-pattern>read_frame</last-pattern>
+      <last-pattern encoding="base64">XDxfbG9vcFw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtaXNzZWRfaGVhcnRiZWF0XD4=</entry>
         <entry encoding="base64">XDxoZWFydGJlYXRfZHVlXD4=</entry>
         <entry>_ecg</entry>
         <entry encoding="base64">XDxzY2hlZHVsZVw+</entry>
@@ -4841,6 +4844,7 @@
         <entry encoding="base64">XDxfY2xvc2Vfc291cmNlXD4=</entry>
         <entry>Closd</entry>
         <entry>read_frame</entry>
+        <entry encoding="base64">XDxfbG9vcFw+</entry>
       </history-search>
       <history-cmd>
         <entry>328</entry>
@@ -4859,10 +4863,10 @@
         <entry>157</entry>
         <entry>162</entry>
         <entry>306</entry>
-        <entry>w</entry>
         <entry>375</entry>
         <entry>118</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
