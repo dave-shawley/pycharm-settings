@@ -330,13 +330,13 @@
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/mongo_client.py" timestamp="1434971316208">
         <mark key="'" line="289" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/magician/amqp.py" timestamp="1438438308747">
+      <file name="$USER_HOME$/Source/python/magician/magician/amqp.py" timestamp="1438438339073">
         <mark key="'" line="46" column="15" />
-        <mark key="a" line="205" column="0" />
-        <mark key="]" line="205" column="59" />
-        <mark key="^" line="205" column="59" />
-        <mark key="." line="205" column="59" />
-        <mark key="[" line="205" column="59" />
+        <mark key="a" line="204" column="0" />
+        <mark key="]" line="205" column="28" />
+        <mark key="^" line="205" column="28" />
+        <mark key="." line="205" column="28" />
+        <mark key="[" line="204" column="52" />
       </file>
       <file name="$USER_HOME$/Source/python/ietfparse/tests/generic_parsing_tests.py" timestamp="1432563703836">
         <mark key="'" line="18" column="18" />
@@ -4787,10 +4787,10 @@
         </keys>
       </register>
       <register name="3" type="4">
-        <text>to_string</text>
+        <text encoding="base64">Y2xvc2VkIA==</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text encoding="base64">Ynkg</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IA==</text>
@@ -4798,29 +4798,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZXJyb3IoJ2Nvbm5lY3Rpb24gbG9zdCBleGNlcHRpb249JXInLCBleGMpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>r</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>to_string</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDbG9zZWRCeS5uYW1lcy5nZXQoKQo=</text>
+      <register name="5" type="4">
+        <text>)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5yZXBycy5nZXQoc2VsZiwgb2JqZWN0Ll9fcmVwcl9fKHNlbGYpKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text>reprs</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDbG9zZWRCeS5uYW1lcy5nZXQoKQo=</text>
       </register>
     </registers>
     <search>
