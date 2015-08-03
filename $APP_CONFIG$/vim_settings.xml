@@ -743,7 +743,7 @@
         <mark key="^" line="151" column="11" />
         <mark key="." line="174" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1438097776262">
+      <file name="/Python Console" timestamp="1438621545732">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1436552212417">
@@ -868,13 +868,13 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1436986337106">
         <mark key="'" line="572" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1438618152531">
-        <mark key="a" line="551" column="0" />
-        <mark key="'" line="335" column="0" />
-        <mark key="[" line="337" column="0" />
-        <mark key="]" line="402" column="0" />
-        <mark key="." line="337" column="0" />
-        <mark key="^" line="133" column="49" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1438621309457">
+        <mark key="a" line="131" column="8" />
+        <mark key="'" line="130" column="17" />
+        <mark key="[" line="130" column="12" />
+        <mark key="]" line="130" column="27" />
+        <mark key="." line="130" column="27" />
+        <mark key="^" line="130" column="27" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
@@ -890,13 +890,13 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" timestamp="1438617988737">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" timestamp="1438621543124">
         <mark key="a" line="184" column="18" />
-        <mark key="'" line="108" column="8" />
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="178" column="0" />
-        <mark key="." line="178" column="0" />
-        <mark key="^" line="186" column="54" />
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="352" column="45" />
+        <mark key="]" line="352" column="64" />
+        <mark key="." line="352" column="64" />
+        <mark key="^" line="352" column="64" />
       </file>
       <file name="$USER_HOME$/Source/python/ietfparse/ietfparse/errors.py" timestamp="1429475409627">
         <mark key="'" line="3" column="0" />
@@ -1204,30 +1204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="574" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="570" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="562" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="557" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="554" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="550" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="543" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="539" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="165" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="162" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="158" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="444" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="450" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="466" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="472" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="476" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="483" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="487" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="503" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="513" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="138" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="141" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="176" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="178" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="183" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="174" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="172" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
@@ -1248,7 +1224,6 @@
       <jump line="168" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
       <jump line="162" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
       <jump line="155" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="148" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
       <jump line="146" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
       <jump line="140" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
       <jump line="135" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
@@ -1304,13 +1279,38 @@
       <jump line="313" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="325" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="335" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="123" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="207" column="13" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="126" column="13" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="227" column="13" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="231" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="234" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="246" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="250" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="130" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="216" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="252" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="255" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="261" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="273" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="277" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="314" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="316" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="341" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="339" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="328" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="326" column="22" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="148" column="20" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="342" column="20" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="185" column="35" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">Cm9zLmVudmlyb24uc2V0ZGVmYXVsdCgnQ09OU1VMX0hPU1QnLCAnY29uc3VsMS5pbnQudHN0LmNzaCcpCm9zLmVudmlyb24uc2V0ZGVmYXVsdCgnQ09OU1VMX1BPUlQnLCAnODAnKQphdnJvX3NjaGVtYXMgPSB7fQoKCmRlZiBzZXR1cF9tb2R1bGUoKToKICAgIGxvZ2dpbmcuYmFzaWNDb25maWcobGV2ZWw9bG9nZ2luZy5ERUJVRywgc3RyZWFtPXN5cy5zdGRvdXQsCiAgICAgICAgICAgICAgICAgICAgICAgIGZvcm1hdD0nJShsZXZlbG5hbWUpMS4xcyAtICUobmFtZSlzOiAlKG1lc3NhZ2UpcycpCgogICAgbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ3NldHVwX21vZHVsZScpCiAgICB0cnk6CiAgICAgICAgd2l0aCBvcGVuKCdidWlsZC90ZXN0LWVudmlyb25tZW50JykgYXMgZjoKICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ3JlYWRpbmcgZW52aXJvbm1lbnQgZnJvbSBidWlsZC90ZXN0LWVudmlyb25tZW50JykKICAgICAgICAgICAgZm9yIGxpbmUgaW4gZjoKICAgICAgICAgICAgICAgIG5hbWUsIF8sIHZhbHVlID0gbGluZS5zdHJpcCgpLnBhcnRpdGlvbignPScpCiAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoJ3NldHRpbmcgJXM9JXMnLCBuYW1lLCB2YWx1ZSkKICAgICAgICAgICAgICAgIG9zLmVudmlyb25bbmFtZV0gPSB2YWx1ZQogICAgZXhjZXB0IElPRXJyb3I6CiAgICAgICAgcGFzcwoKICAgIGRlZiBwYXJzZV9zY2hlbWEoc2NoZW1hX3R5cGUpOgogICAgICAgIHVybCA9ICdodHRwOi8vezB9OnsxfS92MS9rdi9zY2hlbWEvYXZyby97Mn0vdjEuYXZzYycuZm9ybWF0KAogICAgICAgICAgICBvcy5lbnZpcm9uWydDT05TVUxfSE9TVCddLCBvcy5lbnZpcm9uWydDT05TVUxfUE9SVCddLCBzY2hlbWFfdHlwZSkKICAgICAgICByc3AgPSByZXF1ZXN0cy5nZXQodXJsKQogICAgICAgIGF2cm9fc2NoZW1hc1tzY2hlbWFfdHlwZSArICcudjEnXSA9IGF2cm8uc2NoZW1hLnBhcnNlKAogICAgICAgICAgICBiYXNlNjQuYjY0ZGVjb2RlKHJzcC5qc29uKClbMF1bJ1ZhbHVlJ10pKQoKICAgIHBhcnNlX3NjaGVtYSgnZHJvcCcpCiAgICBwYXJzZV9zY2hlbWEoJ3NlbmQuc210cCcpCiAgICBwYXJzZV9zY2hlbWEoJ3Nwb29sJykK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBkZWYgX2NhbGxfaHR0cF9zZXJ2aWNlKHNlbGYsIGZ1bmN0aW9uLCBtZXRob2QsICpwYXRoLCAqKmt3YXJncyk6CiAgICAgICAgIiIiCiAgICAgICAgSXNzdWUgYSByZXF1ZXN0IHRvIGFub3RoZXIgc2VydmljZS4KCiAgICAgICAgOnBhcmFtIHN0ciBmdW5jdGlvbjogdGhlIHNlcnZpY2UgdGhhdCBpcyBiZWluZyBpbnZva2VkLiAgVGhpcwogICAgICAgICAgICBpcyB0aGUgbmFtZSBvZiB0aGUgZnVuY3Rpb24gcHJvdmlkZWQgd2hpY2ggaXMgbm90IHRoZQogICAgICAgICAgICBuYW1lIG9mIHRoZSBIVFRQIHNlcnZpY2UuIEFjY2VwdGVkIHZhbHVlczogZGV0ZXJtaW5lLXJvdXRlIGFuZAogICAgICAgICAgICB2YWxpZGF0ZS1yZWNpcGllbnQuCiAgICAgICAgOnBhcmFtIHN0ciBtZXRob2Q6IHRoZSBIVFRQIG1ldGhvZCB0byBpbnZva2UKICAgICAgICA6cGFyYW0gcGF0aDogcmVzb3VyY2UgcGF0aCBzZWdtZW50cwogICAgICAgIDprZXl3b3JkIGRpY3QgaGVhZGVyczogb3B0aW9uYWwgZGljdGlvbmFyeSBvZiBoZWFkZXJzIHRvIGFwcGVuZAogICAgICAgIDpwYXJhbSBrd2FyZ3M6IGFkZGl0aW9uYWwgYXJndW1lbnRzIHRvIHBhc3MgYWxvbmcgdG8KICAgICAgICAgICAgOm1ldGg6YHJlcXVlc3RzLnJlcXVlc3RgCgogICAgICAgIDpyZXR1cm5zOiB0aGUgOmNsYXNzOmByZXF1ZXN0cy5tb2RlbHMuUmVzcG9uc2VgCiAgICAgICAgOnJhaXNlczogOmNsYXNzOmByZXF1ZXN0cy5IVFRQRXJyb3JgCgogICAgICAgIFRoaXMgbWV0aG9kIGVuc3VyZXMgdGhhdCBzdGF0c2QgbWV0cmljcyBhcmUgZW1pdHRlZCBpbiBhCiAgICAgICAgc2Vuc2libGUgYW5kIGNvbnNpc3RlbnQgbWFubmVyIGZvciBhbGwgaW50ZXItc2VydmljZSBIVFRQCiAgICAgICAgY2FsbHMuCgogICAgICAgICIiIgogICAgICAgIHNlcnZpY2VfbWFwcGluZ3MgPSB7CiAgICAgICAgICAgICdkZXRlcm1pbmUtcm91dGUnOiAncm91dGluZycsCiAgICAgICAgICAgICd2YWxpZGF0ZS1yZWNpcGllbnQnOiAndmFsaWRhdGlvbicsCiAgICAgICAgfQoKICAgICAgICB1cmwgPSBzZWxmLmdldF9zZXJ2aWNlX3VybChzZXJ2aWNlX21hcHBpbmdzW2Z1bmN0aW9uXSwgKnBhdGgpCiAgICAgICAgaGVhZGVycyA9IHsnQ29ycmVsYXRpb24tSUQnOiBzZWxmLl9jb3JyZWxhdGlvbl9pZH0KICAgICAgICBoZWFkZXJzLnVwZGF0ZShrd2FyZ3MucG9wKCdoZWFkZXJzJywge30pKQogICAgICAgIHNlbGYuc2VudHJ5X2NsaWVudC50YWdzX2NvbnRleHQoCiAgICAgICAgICAgIHsnc2VydmljZV9pbnZva2VkJzogc2VydmljZV9tYXBwaW5nc1tmdW5jdGlvbl19KQoKICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYuc3RhdHNkX2luY3IoJ3JlcXVlc3RzLmh0dHAuezB9Jy5mb3JtYXQoZnVuY3Rpb24pKQogICAgICAgICAgICB3aXRoIHNlbGYudHJhY2tfdGltZSgnaHR0cC57MH0nLmZvcm1hdChmdW5jdGlvbikpOgogICAgICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCdpc3N1aW5nICVzIGZvciAlcyB0byAlcyB7Q0lEICVzfScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWV0aG9kLCBmdW5jdGlvbiwgdXJsLCBzZWxmLl9jb3JyZWxhdGlvbl9pZCkKICAgICAgICAgICAgICAgIHJlc3BvbnNlID0gc2VsZi5fc2Vzc2lvbi5yZXF1ZXN0KG1ldGhvZCwgdXJsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVhZGVycz1oZWFkZXJzLCAqKmt3YXJncykKICAgICAgICAgICAgICAgIHJlc3BvbnNlLnJhaXNlX2Zvcl9zdGF0dXMoKQogICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UKCiAgICAgICAgZXhjZXB0IHJlcXVlc3RzLkhUVFBFcnJvciBhcyBlcnJvcjoKICAgICAgICAgICAgc2VsZi5sb2dfZXhjZXB0aW9uKCclcyB0byAlcyBmYWlsZWQge0NJRCAlc30nLCBtZXRob2QsIHVybCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuX2NvcnJlbGF0aW9uX2lkKQogICAgICAgICAgICBjb2RlID0gZXJyb3IucmVzcG9uc2Uuc3RhdHVzX2NvZGUgaWYgZXJyb3IucmVzcG9uc2UgZWxzZSAndW5rbm93bicKICAgICAgICAgICAgc2VsZi5zdGF0c2RfaW5jcigKICAgICAgICAgICAgICAgICdlcnJvcnMuaHR0cC57MH0uezF9Jy5mb3JtYXQoZnVuY3Rpb24sIGNvZGUpKQogICAgICAgICAgICByYWlzZSBlcnJvcgoKICAgICAgICBleGNlcHQgcmVxdWVzdHMuVGltZW91dDoKICAgICAgICAgICAgc2VsZi5sb2dfZXhjZXB0aW9uKCclcyB0byAlcyB0aW1lZCBvdXQge0NJRCAlc30nLCBtZXRob2QsIHVybCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuX2NvcnJlbGF0aW9uX2lkKQogICAgICAgICAgICBzZWxmLnN0YXRzZF9pbmNyKCdlcnJvcnMuaHR0cC57MH0udGltZW91dCcuZm9ybWF0KGZ1bmN0aW9uKSkKICAgICAgICAgICAgcmFpc2UKCiAgICAgICAgZXhjZXB0IHJlcXVlc3RzLlJlcXVlc3RFeGNlcHRpb246CiAgICAgICAgICAgIExPR0dFUi5lcnJvcignJXMgdG8gJXMgZmFpbGVkIHtDSUQgJXN9JywgbWV0aG9kLCB1cmwsCiAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl9jb3JyZWxhdGlvbl9pZCwgZXhjX2luZm89MSkKICAgICAgICAgICAgcmFpc2UKCiAgICAgICAgZmluYWxseToKICAgICAgICAgICAgc2VsZi5zZW50cnlfY2xpZW50LnRhZ3MucG9wKCdzZXJ2aWNlX2ludm9rZWQnLCBOb25lKQo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBleGNoYW5nZSwgcm91dGluZ19rZXksIHByb3BzLCBiaW5fbWVzc2FnZSA9IHNlbGYucHVibGlzaGVkX21lc3NhZ2UK</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3436,34 +3436,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwdWJsaXNoZWRfbWVzc2FnZVw+</text>
+        <text>def parts</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICBkZWYgX2NhbGxfaHR0cF9zZXJ2aWNlKHNlbGYsIGZ1bmN0aW9uLCBtZXRob2QsICpwYXRoLCAqKmt3YXJncyk6CiAgICAgICAgIiIiCiAgICAgICAgSXNzdWUgYSByZXF1ZXN0IHRvIGFub3RoZXIgc2VydmljZS4KCiAgICAgICAgOnBhcmFtIHN0ciBmdW5jdGlvbjogdGhlIHNlcnZpY2UgdGhhdCBpcyBiZWluZyBpbnZva2VkLiAgVGhpcwogICAgICAgICAgICBpcyB0aGUgbmFtZSBvZiB0aGUgZnVuY3Rpb24gcHJvdmlkZWQgd2hpY2ggaXMgbm90IHRoZQogICAgICAgICAgICBuYW1lIG9mIHRoZSBIVFRQIHNlcnZpY2UuIEFjY2VwdGVkIHZhbHVlczogZGV0ZXJtaW5lLXJvdXRlIGFuZAogICAgICAgICAgICB2YWxpZGF0ZS1yZWNpcGllbnQuCiAgICAgICAgOnBhcmFtIHN0ciBtZXRob2Q6IHRoZSBIVFRQIG1ldGhvZCB0byBpbnZva2UKICAgICAgICA6cGFyYW0gcGF0aDogcmVzb3VyY2UgcGF0aCBzZWdtZW50cwogICAgICAgIDprZXl3b3JkIGRpY3QgaGVhZGVyczogb3B0aW9uYWwgZGljdGlvbmFyeSBvZiBoZWFkZXJzIHRvIGFwcGVuZAogICAgICAgIDpwYXJhbSBrd2FyZ3M6IGFkZGl0aW9uYWwgYXJndW1lbnRzIHRvIHBhc3MgYWxvbmcgdG8KICAgICAgICAgICAgOm1ldGg6YHJlcXVlc3RzLnJlcXVlc3RgCgogICAgICAgIDpyZXR1cm5zOiB0aGUgOmNsYXNzOmByZXF1ZXN0cy5tb2RlbHMuUmVzcG9uc2VgCiAgICAgICAgOnJhaXNlczogOmNsYXNzOmByZXF1ZXN0cy5IVFRQRXJyb3JgCgogICAgICAgIFRoaXMgbWV0aG9kIGVuc3VyZXMgdGhhdCBzdGF0c2QgbWV0cmljcyBhcmUgZW1pdHRlZCBpbiBhCiAgICAgICAgc2Vuc2libGUgYW5kIGNvbnNpc3RlbnQgbWFubmVyIGZvciBhbGwgaW50ZXItc2VydmljZSBIVFRQCiAgICAgICAgY2FsbHMuCgogICAgICAgICIiIgogICAgICAgIHNlcnZpY2VfbWFwcGluZ3MgPSB7CiAgICAgICAgICAgICdkZXRlcm1pbmUtcm91dGUnOiAncm91dGluZycsCiAgICAgICAgICAgICd2YWxpZGF0ZS1yZWNpcGllbnQnOiAndmFsaWRhdGlvbicsCiAgICAgICAgfQoKICAgICAgICB1cmwgPSBzZWxmLmdldF9zZXJ2aWNlX3VybChzZXJ2aWNlX21hcHBpbmdzW2Z1bmN0aW9uXSwgKnBhdGgpCiAgICAgICAgaGVhZGVycyA9IHsnQ29ycmVsYXRpb24tSUQnOiBzZWxmLl9jb3JyZWxhdGlvbl9pZH0KICAgICAgICBoZWFkZXJzLnVwZGF0ZShrd2FyZ3MucG9wKCdoZWFkZXJzJywge30pKQogICAgICAgIHNlbGYuc2VudHJ5X2NsaWVudC50YWdzX2NvbnRleHQoCiAgICAgICAgICAgIHsnc2VydmljZV9pbnZva2VkJzogc2VydmljZV9tYXBwaW5nc1tmdW5jdGlvbl19KQoKICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYuc3RhdHNkX2luY3IoJ3JlcXVlc3RzLmh0dHAuezB9Jy5mb3JtYXQoZnVuY3Rpb24pKQogICAgICAgICAgICB3aXRoIHNlbGYudHJhY2tfdGltZSgnaHR0cC57MH0nLmZvcm1hdChmdW5jdGlvbikpOgogICAgICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCdpc3N1aW5nICVzIGZvciAlcyB0byAlcyB7Q0lEICVzfScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWV0aG9kLCBmdW5jdGlvbiwgdXJsLCBzZWxmLl9jb3JyZWxhdGlvbl9pZCkKICAgICAgICAgICAgICAgIHJlc3BvbnNlID0gc2VsZi5fc2Vzc2lvbi5yZXF1ZXN0KG1ldGhvZCwgdXJsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVhZGVycz1oZWFkZXJzLCAqKmt3YXJncykKICAgICAgICAgICAgICAgIHJlc3BvbnNlLnJhaXNlX2Zvcl9zdGF0dXMoKQogICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UKCiAgICAgICAgZXhjZXB0IHJlcXVlc3RzLkhUVFBFcnJvciBhcyBlcnJvcjoKICAgICAgICAgICAgc2VsZi5sb2dfZXhjZXB0aW9uKCclcyB0byAlcyBmYWlsZWQge0NJRCAlc30nLCBtZXRob2QsIHVybCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuX2NvcnJlbGF0aW9uX2lkKQogICAgICAgICAgICBjb2RlID0gZXJyb3IucmVzcG9uc2Uuc3RhdHVzX2NvZGUgaWYgZXJyb3IucmVzcG9uc2UgZWxzZSAndW5rbm93bicKICAgICAgICAgICAgc2VsZi5zdGF0c2RfaW5jcigKICAgICAgICAgICAgICAgICdlcnJvcnMuaHR0cC57MH0uezF9Jy5mb3JtYXQoZnVuY3Rpb24sIGNvZGUpKQogICAgICAgICAgICByYWlzZSBlcnJvcgoKICAgICAgICBleGNlcHQgcmVxdWVzdHMuVGltZW91dDoKICAgICAgICAgICAgc2VsZi5sb2dfZXhjZXB0aW9uKCclcyB0byAlcyB0aW1lZCBvdXQge0NJRCAlc30nLCBtZXRob2QsIHVybCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuX2NvcnJlbGF0aW9uX2lkKQogICAgICAgICAgICBzZWxmLnN0YXRzZF9pbmNyKCdlcnJvcnMuaHR0cC57MH0udGltZW91dCcuZm9ybWF0KGZ1bmN0aW9uKSkKICAgICAgICAgICAgcmFpc2UKCiAgICAgICAgZXhjZXB0IHJlcXVlc3RzLlJlcXVlc3RFeGNlcHRpb246CiAgICAgICAgICAgIExPR0dFUi5lcnJvcignJXMgdG8gJXMgZmFpbGVkIHtDSUQgJXN9JywgbWV0aG9kLCB1cmwsCiAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl9jb3JyZWxhdGlvbl9pZCwgZXhjX2luZm89MSkKICAgICAgICAgICAgcmFpc2UKCiAgICAgICAgZmluYWxseToKICAgICAgICAgICAgc2VsZi5zZW50cnlfY2xpZW50LnRhZ3MucG9wKCdzZXJ2aWNlX2ludm9rZWQnLCBOb25lKQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBleGNoYW5nZSwgcm91dGluZ19rZXksIHByb3BzLCBiaW5fbWVzc2FnZSA9IHNlbGYucHVibGlzaGVkX21lc3NhZ2UKICAgICAgICBtZXNzYWdlID0gZW1haWwubWVzc2FnZV9mcm9tX3N0cmluZyhiaW5fbWVzc2FnZSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBleGNoYW5nZSwgcm91dGluZ19rZXksIHByb3BzLCBiaW5fbWVzc2FnZSA9IHNlbGYucHVibGlzaGVkX21lc3NhZ2UK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>self</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9wc1snY29udGVudF90eXBlJ10K</text>
       </register>
-      <register name="3" type="4">
-        <text>''</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5wdWJsaXNoZWRfbWVzc2FnZQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEB1bml0dGVzdC5za2lwCg==</text>
+      <register name="4" type="4">
+        <text>=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">bWVzc2FnZSA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlID0gc2VsZi5zbXRwLm1lc3NhZ2VzWzBdCg==</text>
+      <register name="6" type="4">
+        <text>smtp.messages[0].get_payload()</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5106,30 +5106,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGNoYW5nZSwgcm91dGluZ19rZXksIHByb3BzLCBiaW5fbWVzc2FnZSA9IHNlbGYucHVibGlzaGVkX21lc3NhZ2UK</text>
+        <text encoding="base64">QHVuaXR0ZXN0LnNraXAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0eXBlJzogCg==</text>
+        <text encoding="base64">QHVuaXR0ZXN0LnNraXAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGludCh3b3JrZXIuc210cF90aW1lb3V0KSwgMTIzNCkK</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwdWJsaXNoZWRfbWVzc2FnZVw+</last-search>
+      <last-search>def parts</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwdWJsaXNoZWRfbWVzc2FnZVw+</last-pattern>
+      <last-pattern>def parts</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cores</entry>
         <entry>cors</entry>
         <entry encoding="base64">XDxTVVBQT1JURURfTUVUSE9EU1w+</entry>
         <entry>LogManager</entry>
@@ -5149,6 +5148,7 @@
         <entry encoding="base64">XDxhdnJvX3NjaGVtYXNcPg==</entry>
         <entry encoding="base64">XDx0aW1lb3V0X3NlcnZpY2VfcmVxdWVzdFw+</entry>
         <entry encoding="base64">XDxwdWJsaXNoZWRfbWVzc2FnZVw+</entry>
+        <entry>def parts</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
@@ -5168,9 +5168,9 @@
         <entry encoding="base64">JzwsJz52c3A=</entry>
         <entry>vspl</entry>
         <entry>sp cors_tests.py</entry>
-        <entry>w</entry>
         <entry>sp</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
