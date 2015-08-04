@@ -498,12 +498,12 @@
         <mark key="." line="69" column="23" />
         <mark key="^" line="69" column="23" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" timestamp="1436551318153">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="40" column="32" />
-        <mark key="]" line="41" column="3" />
-        <mark key="^" line="41" column="3" />
-        <mark key="." line="41" column="3" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" timestamp="1438709178086">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform/authorization/docs/auth.rst" timestamp="1438004219909">
         <mark key="'" line="25" column="8" />
@@ -532,13 +532,13 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" timestamp="1438702935701">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" timestamp="1438709330436">
         <mark key="a" line="234" column="39" />
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="13" column="34" />
-        <mark key="]" line="13" column="34" />
-        <mark key="^" line="230" column="17" />
-        <mark key="." line="13" column="34" />
+        <mark key="'" line="141" column="40" />
+        <mark key="[" line="290" column="35" />
+        <mark key="]" line="290" column="35" />
+        <mark key="^" line="290" column="35" />
+        <mark key="." line="290" column="35" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/channel.py" timestamp="1430058303912">
         <mark key="'" line="1056" column="24" />
@@ -804,13 +804,13 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1436986337106">
         <mark key="'" line="572" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1438703608885">
-        <mark key="a" line="91" column="7" />
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="122" column="15" />
-        <mark key="]" line="122" column="22" />
-        <mark key="^" line="122" column="22" />
-        <mark key="." line="122" column="22" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1438709968191">
+        <mark key="a" line="229" column="44" />
+        <mark key="'" line="467" column="27" />
+        <mark key="[" line="229" column="45" />
+        <mark key="]" line="229" column="63" />
+        <mark key="^" line="229" column="63" />
+        <mark key="." line="229" column="63" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
@@ -1110,87 +1110,10 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="382" column="13" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="336" column="32" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="120" column="13" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="59" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="444" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="68" column="10" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="81" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="97" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="93" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="435" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="91" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="65" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="94" column="7" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="98" column="28" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="114" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="57" column="56" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="69" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="26" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/__init__.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="20" column="35" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="320" column="56" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="44" column="58" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="6" column="12" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="26" column="6" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="453" column="18" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="441" column="18" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="376" column="15" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="238" column="22" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="208" column="18" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="15" column="28" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="92" column="30" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="122" column="15" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="180" column="23" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="184" column="51" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="194" column="37" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="226" column="41" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="362" column="23" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="428" column="37" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="442" column="37" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="154" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
       <jump line="220" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
       <jump line="215" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
@@ -1210,13 +1133,90 @@
       <jump line="103" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
       <jump line="137" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
       <jump line="136" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
+      <jump line="51" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="272" column="63" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="269" column="31" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="167" column="31" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="117" column="20" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="278" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="434" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="419" column="16" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="415" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="351" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="361" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="371" column="47" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="417" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="423" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="429" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="443" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="413" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="401" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="379" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="451" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="449" column="24" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="442" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="428" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="422" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="414" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="383" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="404" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="353" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="355" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="352" column="32" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="381" column="63" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="365" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="380" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="376" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="406" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="416" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="489" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="471" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="461" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="454" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="444" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="424" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="999" column="22" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
+      <jump line="393" column="30" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="480" column="53" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="141" column="40" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
+      <jump line="8" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
+      <jump line="13" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
+      <jump line="18" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
+      <jump line="23" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
+      <jump line="58" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
+      <jump line="60" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
+      <jump line="65" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
+      <jump line="69" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
+      <jump line="72" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
+      <jump line="483" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="394" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="385" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="382" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="374" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="369" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="129" column="12" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="199" column="52" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="191" column="27" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="229" column="27" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="399" column="27" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="408" column="27" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="430" column="31" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="458" column="31" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="467" column="27" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CmNsYXNzIEF2cm9NZXNzYWdlU2VuZGVyKGF2cm9jb25zdW1lci5EYXR1bUNvbnN1bFNjaGVtYUNvbnN1bWVyKToKICAgICIiIk1peCB0aGlzIGluIHRvIGVhc2lseSBzZW5kIEF2cm8tZW5jb2RlZCBtZXNzYWdlcy4iIiIKCiAgICBkZWYgcHVibGlzaF9hdnJvX21lc3NhZ2Uoc2VsZiwgbXNnX3R5cGUsIGlucHV0X21lc3NhZ2UsIHJvdXRpbmdfaW5mbywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtc2dfYm9keSk6CiAgICAgICAgIiIiCiAgICAgICAgUHVibGlzaCBhbiBBdnJvLWVuY29kZWQgbWVzc2FnZS4KCiAgICAgICAgOnBhcmFtIGRpY3QgaW5wdXRfbWVzc2FnZTogbWVzc2FnZSB0byBjb3B5ICJwYXNzLXRocm91Z2giIGZpZWxkcyBmcm9tCiAgICAgICAgOnBhcmFtIHN0ciBtc2dfdHlwZTogbWVzc2FnZSB0eXBlIHRvIHB1Ymxpc2guICBUaGlzIGlzIHVzZWQgdG8KICAgICAgICAgICAgZGV0ZXJtaW5lIHRoZSBzY2hlbWEgKHNlZSA6bWV0aDpgX2dldF9zY2hlbWFgKSB0byBlbmNvZGUgdGhlCiAgICAgICAgICAgIG1lc3NhZ2Ugd2l0aAogICAgICAgIDpwYXJhbSBkaWN0IHJvdXRpbmdfaW5mbzogcm91dGluZyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgZXZlbnQuICBUaGlzCiAgICAgICAgICAgIGRpY3Rpb25hcnkgY29udGFpbnMgYXQgbGVhc3QgdGhlIGBgZXhjaGFuZ2VgYCBhbmQgYGByb3V0aW5nX2tleWBgCiAgICAgICAgOnBhcmFtIGRpY3QgbXNnX2JvZHk6IG1lc3NhZ2UgdG8gZW5jb2RlCgogICAgICAgICIiIgogICAgICAgIG1zZ19ib2R5LnNldGRlZmF1bHQoJ3RpbWVzdGFtcCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRldGltZS5kYXRldGltZS51dGNub3coKS5pc29mb3JtYXQoKSkKICAgICAgICBmb3IgcGFzc190aHJ1IGluIFBBU1NfVEhST1VHSF9BVFRSSUJVVEVTOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBtc2dfYm9keVtwYXNzX3RocnVdID0gaW5wdXRfbWVzc2FnZVtwYXNzX3RocnVdCiAgICAgICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgICAgIHBhc3MKCiAgICAgICAgc2NoZW1hID0gc2VsZi5fZ2V0X3NjaGVtYShtc2dfdHlwZSkKICAgICAgICBhdnJvX21lc3NhZ2UgPSBzZWxmLl9zZXJpYWxpemUoc2NoZW1hLCBtc2dfYm9keSkKCiAgICAgICAgcHJvcGVydGllcyA9IHsKICAgICAgICAgICAgJ2FwcF9pZCc6IF9fcGFja2FnZV9fLAogICAgICAgICAgICAnY29ycmVsYXRpb25faWQnOiBzZWxmLl9jb3JyZWxhdGlvbl9pZCwKICAgICAgICAgICAgJ2NvbnRlbnRfdHlwZSc6ICdhcHBsaWNhdGlvbi92bmQuYXBhY2hlLmF2cm8uZGF0dW0nLAogICAgICAgICAgICAnbWVzc2FnZV9pZCc6IHV1aWQudXVpZDQoKS5oZXgsCiAgICAgICAgICAgICd0eXBlJzogbXNnX3R5cGUsCiAgICAgICAgfQogICAgICAgIExPR0dFUi5kZWJ1ZygncHVibGlzaGluZyAlcyBtZXNzYWdlIHtDSUQgJXN9JywgbXNnX3R5cGUsCiAgICAgICAgICAgICAgICAgICAgIHNlbGYuX2NvcnJlbGF0aW9uX2lkKQogICAgICAgIHNlbGYucHVibGlzaF9tZXNzYWdlKHJvdXRpbmdfaW5mb1snZXhjaGFuZ2UnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3V0aW5nX2luZm9bJ3JvdXRpbmdfa2V5J10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydGllcywgYXZyb19tZXNzYWdlKQoKICAgIGRlZiBkcm9wX21lc3NhZ2Uoc2VsZiwgZHJvcF9kZXRhaWxzLCBpbnB1dF9tZXNzYWdlLCByb3V0aW5nX2luZm8pOgogICAgICAgICIiIgogICAgICAgIFB1Ymxpc2ggYW4gQXZyby1lbmNvZGVkICJkcm9wIiBtZXNzYWdlLgoKICAgICAgICA6cGFyYW0gRHJvcERldGFpbHMgZHJvcF9kZXRhaWxzOiBkZXRhaWxzIGFib3V0IHRoaXMgc3BlY2lmaWMKICAgICAgICAgICAgZHJvcCBldmVudAogICAgICAgIDpwYXJhbSBkaWN0IGlucHV0X21lc3NhZ2U6IG1lc3NhZ2UgdG8gY29weSAicGFzcy10aHJvdWdoIiBmaWVsZHMgZnJvbQogICAgICAgIDpwYXJhbSBkaWN0IHJvdXRpbmdfaW5mbzogcm91dGluZyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgZXZlbnQuICBUaGlzCiAgICAgICAgICAgIGRpY3Rpb25hcnkgY29udGFpbnMgYXQgbGVhc3QgdGhlIGBgZXhjaGFuZ2VgYCBhbmQgYGByb3V0aW5nX2tleWBgCgogICAgICAgICIiIgogICAgICAgIHNlbGYucHVibGlzaF9hdnJvX21lc3NhZ2UoJ2Ryb3AudjEnLCBpbnB1dF9tZXNzYWdlLCByb3V0aW5nX2luZm8sIHsKICAgICAgICAgICAgJ2Ryb3BwZWRfYnknOiBfX3BhY2thZ2VfXywKICAgICAgICAgICAgJ3JlYXNvbic6IGRyb3BfZGV0YWlscy5yZWFzb24sCiAgICAgICAgfSkKICAgICAgICBzZWxmLnN0YXRzZF9pbmNyKCdldmVudHMuZHJvcHBlZCcpCiAgICAgICAgc2VsZi5sb2dfZXhjZXB0aW9uKCdkcm9wcGVkIG1lc3NhZ2UgLSAlcyBNRVNTQUdFICVzIHtDSUQgJXN9JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgZHJvcF9kZXRhaWxzLnJlYXNvbiwgc2VsZi5tZXNzYWdlX2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl9jb3JyZWxhdGlvbl9pZCkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>error_key</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3342,34 +3342,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>error_key</text>
       </register>
       <register name="/" type="4">
-        <text>DropMessage</text>
+        <text>MessageException</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UEFTU19USFJPVUdIX0FUVFJJQlVURVMgPSAoJ2FjY291bnQnLCAncmVjaXBpZW50JywgJ2xpc3QnLCAnbWVzc2FnZScpCiIiIkF0dHJpYnV0ZXMgdGhhdCBhcmUgcGFzc2VkIHRocm91Z2ggZnJvbSB0aGUgcmVxdWVzdCBtZXNzYWdlLiIiIgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndvcmtlci5fbWVzc2FnZS5wcm9wZXJ0aWVzLmhlYWRlcnNbJ3NtdHBfZW5kcG9pbnQnXSA9ICcxMjcuMC4wLjE6MjYnCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>error_key</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgpjbGFzcyBEcm9wTWVzc2FnZShFeGNlcHRpb24pOgogICAgIiIiCiAgICBFYXNlIGVycm9yIGhhbmRsaW5nLgoKICAgIFBlcm1hbmVudCBlcnJvcnMgYXJlIGhhbmRsZWQgd2l0aGluIHRoZSBjb25zdW1lciBieSBlbWl0dGluZwogICAgYSBkcm9wIGV2ZW50IG9uIHRoZSBBTVFQIGNoYW5uZWwgYW5kIEFDS2luZyB0aGUgbWVzc2FnZS4gIFRoaXMKICAgIGlzIGFjY29tcGxpc2hlZCBieSByYWlzaW5nIGEgYGBEcm9wTWVzc2FnZWBgIGV4Y2VwdGlvbiBmcm9tCiAgICBhbnl3aGVyZSBpbiB0aGUgY29uc3VtZXIgY29kZS4gIEl0IGlzIGNhdWdodCBhdCB0aGUgdG9wLWxldmVsCiAgICB3aGVyZSB0aGUgZHJvcCBldmVudCBpcyBlbWl0dGVkLgoKICAgICIiIgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHJlYXNvbl9mb3JtYXQsICphcmdzKToKICAgICAgICBzZWxmLnJlYXNvbiA9IHJlYXNvbl9mb3JtYXQuZm9ybWF0KCphcmdzKQogICAgICAgIHN1cGVyKERyb3BNZXNzYWdlLCBzZWxmKS5fX2luaXRfXyhzZWxmLnJlYXNvbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3Jfa2V5ID0gJ3ZhbGlkYXRpb24uezB9Jy5mb3JtYXQoZXJyb3IucmVzcG9uc2UpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>'</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CmNsYXNzIEF2cm9NZXNzYWdlU2VuZGVyKGF2cm9jb25zdW1lci5EYXR1bUNvbnN1bFNjaGVtYUNvbnN1bWVyKToKICAgICIiIk1peCB0aGlzIGluIHRvIGVhc2lseSBzZW5kIEF2cm8tZW5jb2RlZCBtZXNzYWdlcy4iIiIKCiAgICBkZWYgcHVibGlzaF9hdnJvX21lc3NhZ2Uoc2VsZiwgbXNnX3R5cGUsIGlucHV0X21lc3NhZ2UsIHJvdXRpbmdfaW5mbywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtc2dfYm9keSk6CiAgICAgICAgIiIiCiAgICAgICAgUHVibGlzaCBhbiBBdnJvLWVuY29kZWQgbWVzc2FnZS4KCiAgICAgICAgOnBhcmFtIGRpY3QgaW5wdXRfbWVzc2FnZTogbWVzc2FnZSB0byBjb3B5ICJwYXNzLXRocm91Z2giIGZpZWxkcyBmcm9tCiAgICAgICAgOnBhcmFtIHN0ciBtc2dfdHlwZTogbWVzc2FnZSB0eXBlIHRvIHB1Ymxpc2guICBUaGlzIGlzIHVzZWQgdG8KICAgICAgICAgICAgZGV0ZXJtaW5lIHRoZSBzY2hlbWEgKHNlZSA6bWV0aDpgX2dldF9zY2hlbWFgKSB0byBlbmNvZGUgdGhlCiAgICAgICAgICAgIG1lc3NhZ2Ugd2l0aAogICAgICAgIDpwYXJhbSBkaWN0IHJvdXRpbmdfaW5mbzogcm91dGluZyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgZXZlbnQuICBUaGlzCiAgICAgICAgICAgIGRpY3Rpb25hcnkgY29udGFpbnMgYXQgbGVhc3QgdGhlIGBgZXhjaGFuZ2VgYCBhbmQgYGByb3V0aW5nX2tleWBgCiAgICAgICAgOnBhcmFtIGRpY3QgbXNnX2JvZHk6IG1lc3NhZ2UgdG8gZW5jb2RlCgogICAgICAgICIiIgogICAgICAgIG1zZ19ib2R5LnNldGRlZmF1bHQoJ3RpbWVzdGFtcCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRldGltZS5kYXRldGltZS51dGNub3coKS5pc29mb3JtYXQoKSkKICAgICAgICBmb3IgcGFzc190aHJ1IGluIFBBU1NfVEhST1VHSF9BVFRSSUJVVEVTOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBtc2dfYm9keVtwYXNzX3RocnVdID0gaW5wdXRfbWVzc2FnZVtwYXNzX3RocnVdCiAgICAgICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgICAgIHBhc3MKCiAgICAgICAgc2NoZW1hID0gc2VsZi5fZ2V0X3NjaGVtYShtc2dfdHlwZSkKICAgICAgICBhdnJvX21lc3NhZ2UgPSBzZWxmLl9zZXJpYWxpemUoc2NoZW1hLCBtc2dfYm9keSkKCiAgICAgICAgcHJvcGVydGllcyA9IHsKICAgICAgICAgICAgJ2FwcF9pZCc6IF9fcGFja2FnZV9fLAogICAgICAgICAgICAnY29ycmVsYXRpb25faWQnOiBzZWxmLl9jb3JyZWxhdGlvbl9pZCwKICAgICAgICAgICAgJ2NvbnRlbnRfdHlwZSc6ICdhcHBsaWNhdGlvbi92bmQuYXBhY2hlLmF2cm8uZGF0dW0nLAogICAgICAgICAgICAnbWVzc2FnZV9pZCc6IHV1aWQudXVpZDQoKS5oZXgsCiAgICAgICAgICAgICd0eXBlJzogbXNnX3R5cGUsCiAgICAgICAgfQogICAgICAgIExPR0dFUi5kZWJ1ZygncHVibGlzaGluZyAlcyBtZXNzYWdlIHtDSUQgJXN9JywgbXNnX3R5cGUsCiAgICAgICAgICAgICAgICAgICAgIHNlbGYuX2NvcnJlbGF0aW9uX2lkKQogICAgICAgIHNlbGYucHVibGlzaF9tZXNzYWdlKHJvdXRpbmdfaW5mb1snZXhjaGFuZ2UnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3V0aW5nX2luZm9bJ3JvdXRpbmdfa2V5J10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydGllcywgYXZyb19tZXNzYWdlKQoKICAgIGRlZiBkcm9wX21lc3NhZ2Uoc2VsZiwgZHJvcF9kZXRhaWxzLCBpbnB1dF9tZXNzYWdlLCByb3V0aW5nX2luZm8pOgogICAgICAgICIiIgogICAgICAgIFB1Ymxpc2ggYW4gQXZyby1lbmNvZGVkICJkcm9wIiBtZXNzYWdlLgoKICAgICAgICA6cGFyYW0gRHJvcERldGFpbHMgZHJvcF9kZXRhaWxzOiBkZXRhaWxzIGFib3V0IHRoaXMgc3BlY2lmaWMKICAgICAgICAgICAgZHJvcCBldmVudAogICAgICAgIDpwYXJhbSBkaWN0IGlucHV0X21lc3NhZ2U6IG1lc3NhZ2UgdG8gY29weSAicGFzcy10aHJvdWdoIiBmaWVsZHMgZnJvbQogICAgICAgIDpwYXJhbSBkaWN0IHJvdXRpbmdfaW5mbzogcm91dGluZyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgZXZlbnQuICBUaGlzCiAgICAgICAgICAgIGRpY3Rpb25hcnkgY29udGFpbnMgYXQgbGVhc3QgdGhlIGBgZXhjaGFuZ2VgYCBhbmQgYGByb3V0aW5nX2tleWBgCgogICAgICAgICIiIgogICAgICAgIHNlbGYucHVibGlzaF9hdnJvX21lc3NhZ2UoJ2Ryb3AudjEnLCBpbnB1dF9tZXNzYWdlLCByb3V0aW5nX2luZm8sIHsKICAgICAgICAgICAgJ2Ryb3BwZWRfYnknOiBfX3BhY2thZ2VfXywKICAgICAgICAgICAgJ3JlYXNvbic6IGRyb3BfZGV0YWlscy5yZWFzb24sCiAgICAgICAgfSkKICAgICAgICBzZWxmLnN0YXRzZF9pbmNyKCdldmVudHMuZHJvcHBlZCcpCiAgICAgICAgc2VsZi5sb2dfZXhjZXB0aW9uKCdkcm9wcGVkIG1lc3NhZ2UgLSAlcyBNRVNTQUdFICVzIHtDSUQgJXN9JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgZHJvcF9kZXRhaWxzLnJlYXNvbiwgc2VsZi5tZXNzYWdlX2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl9jb3JyZWxhdGlvbl9pZCkK</text>
+      <register name="4" type="4">
+        <text>'</text>
       </register>
       <register name="5" type="4">
-        <text />
+        <text>smtp___format</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHNwb29sY29uc3VtZXIuaGVscGVycwo=</text>
+      <register name="6" type="4">
+        <text>smtp___format</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5012,22 +5012,22 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>address</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>address</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>u</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>DropMessage</last-search>
+      <last-search>MessageException</last-search>
       <last-offset />
-      <last-pattern>DropMessage</last-pattern>
+      <last-pattern>MessageException</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5035,11 +5035,8 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhc3NlcnRfbWVzc2FnZV93YXNfZHJvcHBlZFw+</entry>
-        <entry encoding="base64">XDxhc3NlcnRfYXZyb19tZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxhc3NlcnRfYW1xcF9wcm9wZXJ0aWVzXD4=</entry>
         <entry encoding="base64">XDxtaW1lX21lc3NhZ2VcPg==</entry>
-        <entry encoding="base64">XDxzZW5kbWFpbFw+</entry>
         <entry encoding="base64">XDxhc3NlcnRfY29udGFpbnNfZW52ZWxvcGVcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVfbWVzc2FnZVw+</entry>
         <entry>Spooling</entry>
@@ -5055,6 +5052,9 @@
         <entry encoding="base64">XDxBdnJvTWVzc2FnZVNlbmRlclw+</entry>
         <entry encoding="base64">XDxEcm9wTWVzc2FnZVw+</entry>
         <entry>DropMessage</entry>
+        <entry encoding="base64">XDxzZW5kbWFpbFw+</entry>
+        <entry>ConsumerException</entry>
+        <entry>MessageException</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -5073,10 +5073,10 @@
         <entry>r /tmp/foo</entry>
         <entry>1`</entry>
         <entry>vsp</entry>
-        <entry>sp</entry>
         <entry>180</entry>
-        <entry>w</entry>
+        <entry>sp</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
