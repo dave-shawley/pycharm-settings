@@ -807,13 +807,13 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1436986337106">
         <mark key="'" line="572" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1438694750217">
-        <mark key="a" line="120" column="0" />
-        <mark key="'" line="49" column="34" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="^" line="120" column="17" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1438698596167">
+        <mark key="a" line="266" column="0" />
+        <mark key="'" line="299" column="0" />
+        <mark key="[" line="49" column="8" />
+        <mark key="]" line="50" column="14" />
+        <mark key="." line="50" column="14" />
+        <mark key="^" line="50" column="14" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
@@ -1113,22 +1113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="506" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="589" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="592" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="595" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="598" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="607" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="622" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="626" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="586" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="590" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="593" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="594" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="609" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="631" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="633" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="642" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="644" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="647" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="652" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
@@ -1200,7 +1184,6 @@
       <jump line="796" column="30" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
       <jump line="690" column="42" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
       <jump line="54" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="145" column="16" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="144" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="129" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="126" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
@@ -1213,13 +1196,30 @@
       <jump line="49" column="34" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="835" column="24" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
       <jump line="912" column="24" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
+      <jump line="304" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="145" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="339" column="32" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="69" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avroconsumer.py" />
+      <jump line="623" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="263" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="266" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="269" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="275" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="278" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="254" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="262" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="280" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="284" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="291" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="294" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="295" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">Cm9zLmVudmlyb24uc2V0ZGVmYXVsdCgnQ09OU1VMX0hPU1QnLCAnY29uc3VsMS5pbnQudHN0LmNzaCcpCm9zLmVudmlyb24uc2V0ZGVmYXVsdCgnQ09OU1VMX1BPUlQnLCAnODAnKQphdnJvX3NjaGVtYXMgPSB7fQoKCmRlZiBzZXR1cF9tb2R1bGUoKToKICAgIGxvZ2dpbmcuYmFzaWNDb25maWcobGV2ZWw9bG9nZ2luZy5ERUJVRywgc3RyZWFtPXN5cy5zdGRvdXQsCiAgICAgICAgICAgICAgICAgICAgICAgIGZvcm1hdD0nJShsZXZlbG5hbWUpMS4xcyAtICUobmFtZSlzOiAlKG1lc3NhZ2UpcycpCgogICAgbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ3NldHVwX21vZHVsZScpCiAgICB0cnk6CiAgICAgICAgd2l0aCBvcGVuKCdidWlsZC90ZXN0LWVudmlyb25tZW50JykgYXMgZjoKICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ3JlYWRpbmcgZW52aXJvbm1lbnQgZnJvbSBidWlsZC90ZXN0LWVudmlyb25tZW50JykKICAgICAgICAgICAgZm9yIGxpbmUgaW4gZjoKICAgICAgICAgICAgICAgIG5hbWUsIF8sIHZhbHVlID0gbGluZS5zdHJpcCgpLnBhcnRpdGlvbignPScpCiAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoJ3NldHRpbmcgJXM9JXMnLCBuYW1lLCB2YWx1ZSkKICAgICAgICAgICAgICAgIG9zLmVudmlyb25bbmFtZV0gPSB2YWx1ZQogICAgZXhjZXB0IElPRXJyb3I6CiAgICAgICAgcGFzcwoKICAgIGRlZiBwYXJzZV9zY2hlbWEoc2NoZW1hX3R5cGUpOgogICAgICAgIHVybCA9ICdodHRwOi8vezB9OnsxfS92MS9rdi9zY2hlbWEvYXZyby97Mn0vdjEuYXZzYycuZm9ybWF0KAogICAgICAgICAgICBvcy5lbnZpcm9uWydDT05TVUxfSE9TVCddLCBvcy5lbnZpcm9uWydDT05TVUxfUE9SVCddLCBzY2hlbWFfdHlwZSkKICAgICAgICByc3AgPSByZXF1ZXN0cy5nZXQodXJsKQogICAgICAgIGF2cm9fc2NoZW1hc1tzY2hlbWFfdHlwZSArICcudjEnXSA9IGF2cm8uc2NoZW1hLnBhcnNlKAogICAgICAgICAgICBiYXNlNjQuYjY0ZGVjb2RlKHJzcC5qc29uKClbMF1bJ1ZhbHVlJ10pKQoKICAgIHBhcnNlX3NjaGVtYSgnZHJvcCcpCiAgICBwYXJzZV9zY2hlbWEoJ3NlbmQuc210cCcpCiAgICBwYXJzZV9zY2hlbWEoJ3Nwb29sJykK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9hdnJvX3NjaGVtYXMgPSB7fQo=</text>
+      <register name="&quot;" type="4">
+        <text>pass</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3345,34 +3345,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>pass</text>
       </register>
       <register name="/" type="4">
-        <text>SMTPTests</text>
+        <text encoding="base64">XDxfZmV0Y2hfYXZyb19zY2hlbWFcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLndvcmtlci5wcm9jZXNzKCkKICAgICAgICBleGNoYW5nZSwgcm91dGluZ19rZXksIHByb3BzLCBiaW5fbWVzc2FnZSA9IHNlbGYucHVibGlzaGVkX21lc3NhZ2UKICAgICAgICBtZXNzYWdlID0gZW1haWwubWVzc2FnZV9mcm9tX3N0cmluZyhiaW5fbWVzc2FnZSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9hdnJvX3NjaGVtYXMgPSB7fQo=</text>
+      <register name="1" type="4">
+        <text>pass</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIA==</text>
+      </register>
+      <register name="3" type="4">
+        <text>pass</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBkZWYgX2ZldGNoX2F2cm9fc2NoZW1hKHNlbGYsIG1zZ190eXBlKToKICAgICAgICAiIiIKICAgICAgICBSZXRyaWV2ZSBhIEF2cm8gc2NoZW1hIGZyb20gQ29uc3VsLCBwYXJzZSBpdCwgYW5kIGNhY2hlIGl0LgogICAgICAgIDpwYXJhbSBzdHIgbXNnX3R5cGU6IHRoZSBzY2hlbWEgbWVzc2FnZSB0eXBlIGluY2x1ZGluZyB0aGUKICAgICAgICAgICAgdmVyc2lvbiB0byByZXRyaWV2ZQogICAgICAgIDpyZXR1cm46IGEgOmNsYXNzOmBhdnJvLnNjaGVtYS5TY2hlbWFgIGluc3RhbmNlIG9yIDpkYXRhOmBOb25lYAogICAgICAgICIiIgogICAgICAgIG1zZ190eXBlID0gbXNnX3R5cGUubG93ZXIoKQogICAgICAgIHRyeToKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2F2cm9fc2NoZW1hc1ttc2dfdHlwZV0KICAgICAgICBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgICAgIHBhc3MKICAgICAgICBtc2dfc2NoZW1hLCBfLCBtc2dfdmVyc2lvbiA9IG1zZ190eXBlLnJwYXJ0aXRpb24oJy4nKQogICAgICAgIHVybCA9IHNlbGYuZ2V0X3NlcnZpY2VfdXJsKCdjb25zdWwnLCAndjEnLCAna3YnLCAnc2NoZW1hJywgJ2F2cm8nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1zZ19zY2hlbWEsICd7MH0uYXZzYycuZm9ybWF0KG1zZ192ZXJzaW9uKSkKICAgICAgICBMT0dHRVIuaW5mbygncmV0cmlldmluZyBhdnJvIHNjaGVtYSBmb3IgJXMgZnJvbSAlcycsIG1zZ190eXBlLCB1cmwpCiAgICAgICAgc2VsZi5zdGF0c2RfaW5jcigncmVxdWVzdHMuaHR0cC5mZXRjaC1zY2hlbWEnKQogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ2h0dHAuZmV0Y2gtc2NoZW1hJyk6CiAgICAgICAgICAgICAgICByZXNwb25zZSA9IHNlbGYuX3Nlc3Npb24uZ2V0KHVybCkKICAgICAgICAgICAgICAgIHJlc3BvbnNlLnJhaXNlX2Zvcl9zdGF0dXMoKQogICAgICAgIGV4Y2VwdCByZXF1ZXN0cy5SZXF1ZXN0RXhjZXB0aW9uIGFzIGVycm9yOgogICAgICAgICAgICBpZiBlcnJvci5yZXNwb25zZToKICAgICAgICAgICAgICAgIHNlbGYuc3RhdHNkX2luY3IoJ2Vycm9ycy5odHRwLmZldGNoLXNjaGVtYS57MH0nLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICBlcnJvci5yZXNwb25zZS5zdGF0dXNfY29kZSkpCiAgICAgICAgICAgIExPR0dFUi5lcnJvcignZmFpbGVkIHRvIHJldHJpZXZlIGF2cm8gc2NoZW1hIGZyb20gJXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgdXJsLCBleGNfaW5mbz0xKQogICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgIHdpdGggc2VsZi50cmFja190aW1lKCdhdnJvLnBhcnNlLXNjaGVtYS57MH0nLmZvcm1hdChtc2dfdHlwZSkpOgogICAgICAgICAgICBzZWxmLl9hdnJvX3NjaGVtYXNbbXNnX3R5cGVdID0gYXZyb2hlbHBlcnMucGFyc2Vfc2NoZW1hKAogICAgICAgICAgICAgICAgcmVzcG9uc2UuY29udGVudCkKICAgICAgICByZXR1cm4gc2VsZi5fYXZyb19zY2hlbWFzW21zZ190eXBlXQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIHNlbGYuY29udGVudF90eXBlID09ICdhcHBsaWNhdGlvbi92bmQuYXBhY2hlLmF2cm8uZGF0dW0nOgogICAgICAgICMgICAgIG1zZ190eXBlID0gc2VsZi5wcm9wZXJ0aWVzWyd0eXBlJ10ubG93ZXIoKQogICAgICAgICMgICAgIHNjaGVtYSA9IHNlbGYuX2ZldGNoX2F2cm9fc2NoZW1hKG1zZ190eXBlKQogICAgICAgICMgICAgIGlmIHNjaGVtYSBpcyBOb25lOgogICAgICAgICMgICAgICAgICBMT0dHRVIuZXJyb3IoJ2ZhaWxlZCB0byBmaW5kIHNjaGVtYSBmb3IgJXMsICcKICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICdpZ25vcmluZyBtZXNzYWdlIHtDSUQgJXN9JywKICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgIG1zZ190eXBlLCBzZWxmLl9jb3JyZWxhdGlvbl9pZCkKICAgICAgICAjICAgICAgICAgcmV0dXJuCiAgICAgICAgIyAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ2F2cm8uZGVjb2RlLnswfScuZm9ybWF0KG1zZ190eXBlKSk6CiAgICAgICAgIyAgICAgICAgIG1lc3NhZ2UgPSBhdnJvaGVscGVycy5kZWNvZGUoc2NoZW1hLCBzZWxmLmJvZHkpCiAgICAgICAgIyBlbHNlOgogICAgICAgICMgICAgIG1lc3NhZ2UgPSBzZWxmLmJvZHkKICAgICAgICAjICAgICBpZiBub3QgaXNpbnN0YW5jZShtZXNzYWdlLCBkaWN0KToKICAgICAgICAjICAgICAgICAgTE9HR0VSLmVycm9yKCd1bmhhbmRsZWQgY29udGVudCB0eXBlIHJlY2VpdmVkICVzJywKICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgIHNlbGYuY29udGVudF90eXBlKQogICAgICAgICMgICAgICAgICByZXR1cm4K</text>
-      </register>
-      <register name="4" type="4">
-        <text />
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5015,22 +5015,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNpbnN0YW5jZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>DatumFileSchemaConsumer</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGVtYWlsCg==</text>
+        <text encoding="base64">CiAgICBkZWYgX2ZldGNoX2F2cm9fc2NoZW1hKHNlbGYsIG1zZ190eXBlKToKICAgICAgICAiIiIKICAgICAgICBSZXRyaWV2ZSBhIEF2cm8gc2NoZW1hIGZyb20gQ29uc3VsLCBwYXJzZSBpdCwgYW5kIGNhY2hlIGl0LgogICAgICAgIDpwYXJhbSBzdHIgbXNnX3R5cGU6IHRoZSBzY2hlbWEgbWVzc2FnZSB0eXBlIGluY2x1ZGluZyB0aGUKICAgICAgICAgICAgdmVyc2lvbiB0byByZXRyaWV2ZQogICAgICAgIDpyZXR1cm46IGEgOmNsYXNzOmBhdnJvLnNjaGVtYS5TY2hlbWFgIGluc3RhbmNlIG9yIDpkYXRhOmBOb25lYAogICAgICAgICIiIgogICAgICAgIG1zZ190eXBlID0gbXNnX3R5cGUubG93ZXIoKQogICAgICAgIHRyeToKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2F2cm9fc2NoZW1hc1ttc2dfdHlwZV0KICAgICAgICBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgICAgIHBhc3MKICAgICAgICBtc2dfc2NoZW1hLCBfLCBtc2dfdmVyc2lvbiA9IG1zZ190eXBlLnJwYXJ0aXRpb24oJy4nKQogICAgICAgIHVybCA9IHNlbGYuZ2V0X3NlcnZpY2VfdXJsKCdjb25zdWwnLCAndjEnLCAna3YnLCAnc2NoZW1hJywgJ2F2cm8nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1zZ19zY2hlbWEsICd7MH0uYXZzYycuZm9ybWF0KG1zZ192ZXJzaW9uKSkKICAgICAgICBMT0dHRVIuaW5mbygncmV0cmlldmluZyBhdnJvIHNjaGVtYSBmb3IgJXMgZnJvbSAlcycsIG1zZ190eXBlLCB1cmwpCiAgICAgICAgc2VsZi5zdGF0c2RfaW5jcigncmVxdWVzdHMuaHR0cC5mZXRjaC1zY2hlbWEnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
-      <last-search>SMTPTests</last-search>
+      <last-search encoding="base64">XDxfZmV0Y2hfYXZyb19zY2hlbWFcPg==</last-search>
       <last-offset />
-      <last-pattern>SMTPTests</last-pattern>
+      <last-pattern encoding="base64">XDxfZmV0Y2hfYXZyb19zY2hlbWFcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5038,7 +5038,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtdWx0aXBhcnRcPg==</entry>
         <entry encoding="base64">XDxodHRwXD4=</entry>
         <entry encoding="base64">XDxhdnJvX3NjaGVtYXNcPg==</entry>
         <entry encoding="base64">XDxwdWJsaXNoZWRfbWVzc2FnZVw+</entry>
@@ -5051,18 +5050,18 @@
         <entry encoding="base64">XDxhc3NlcnRfYXZyb19tZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxhc3NlcnRfYW1xcF9wcm9wZXJ0aWVzXD4=</entry>
         <entry encoding="base64">XDxtaW1lX21lc3NhZ2VcPg==</entry>
-        <entry encoding="base64">XDxfc2VuZF9hdnJvX21lc3NhZ2VcPg==</entry>
         <entry encoding="base64">XDxzZW5kbWFpbFw+</entry>
         <entry encoding="base64">XDxhc3NlcnRfY29udGFpbnNfZW52ZWxvcGVcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVfbWVzc2FnZVw+</entry>
         <entry>Spooling</entry>
         <entry>X-Bind</entry>
         <entry>SMTPTests</entry>
+        <entry encoding="base64">XDxfc2VuZF9hdnJvX21lc3NhZ2VcPg==</entry>
+        <entry encoding="base64">XDxfZmV0Y2hfYXZyb19zY2hlbWFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/[\S]/0/g</entry>
         <entry>2</entry>
-        <entry>vsp</entry>
         <entry>vs</entry>
         <entry>146</entry>
         <entry>160</entry>
@@ -5078,8 +5077,9 @@
         <entry>r /tmp/foo</entry>
         <entry>1`</entry>
         <entry>w</entry>
-        <entry>sp</entry>
         <entry>1</entry>
+        <entry>vsp</entry>
+        <entry>sp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
