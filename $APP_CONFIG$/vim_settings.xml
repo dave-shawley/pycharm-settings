@@ -409,8 +409,9 @@
       <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/base.py" timestamp="1436809370024">
         <mark key="'" line="327" column="61" />
       </file>
-      <file name="$USER_HOME$/Source/platform/history/history.py" timestamp="1438788417710">
-        <mark key="'" line="731" column="21" />
+      <file name="$USER_HOME$/Source/platform/history/history.py" timestamp="1438800384358">
+        <mark key="a" line="610" column="29" />
+        <mark key="'" line="610" column="29" />
       </file>
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1431883634285">
         <mark key="'" line="146" column="13" />
@@ -912,6 +913,9 @@
       <file name="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/itsdangerous.py" timestamp="1437765931869">
         <mark key="'" line="704" column="29" />
       </file>
+      <file name="$USER_HOME$/Source/platform/history/env/lib/python3.4/site-packages/tornado/web.py" timestamp="1438800200541">
+        <mark key="'" line="426" column="21" />
+      </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/callback.py" timestamp="1430306850912">
         <mark key="'" line="153" column="40" />
       </file>
@@ -1123,14 +1127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="737" column="0" filename="$USER_HOME$/Source/platform/bandoleers/env/lib/python2.7/site-packages/cassandra/cluster.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="44" column="7" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="84" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="64" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
@@ -1223,6 +1219,14 @@
       <jump line="116" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
       <jump line="119" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
       <jump line="122" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
+      <jump line="710" column="31" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="350" column="20" filename="$USER_HOME$/Source/platform/history/env/lib/python3.4/site-packages/tornado/web.py" />
+      <jump line="416" column="20" filename="$USER_HOME$/Source/platform/history/env/lib/python3.4/site-packages/tornado/web.py" />
+      <jump line="426" column="21" filename="$USER_HOME$/Source/platform/history/env/lib/python3.4/site-packages/tornado/web.py" />
+      <jump line="450" column="21" filename="$USER_HOME$/Source/platform/history/env/lib/python3.4/site-packages/tornado/web.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="610" column="29" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="339" column="8" filename="$USER_HOME$/Source/platform/history/history.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3358,7 +3362,7 @@
         <text encoding="base64">cyA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcHJlcGFyZV9zdGF0ZW1lbnRcPg==</text>
+        <text>TOKEN</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLndvcmtlci5fbWVzc2FnZS5wcm9wZXJ0aWVzLmhlYWRlcnNbJ3NtdHBfZW5kcG9pbnQnXSA9ICcxMjcuMC4wLjE6MjYnCg==</text>
@@ -5038,18 +5042,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcHJlcGFyZV9zdGF0ZW1lbnRcPg==</last-search>
+      <last-search>TOKEN</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcHJlcGFyZV9zdGF0ZW1lbnRcPg==</last-pattern>
+      <last-pattern>TOKEN</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc2VuZF9hdnJvX21lc3NhZ2VcPg==</entry>
-        <entry encoding="base64">XDxfZmV0Y2hfYXZyb19zY2hlbWFcPg==</entry>
         <entry>_send_av</entry>
         <entry encoding="base64">XDxlbmNvZGVfYXZyb19tZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxfc2Vzc2lvblw+</entry>
@@ -5068,9 +5070,10 @@
         <entry>get_type_id</entry>
         <entry encoding="base64">XDxfZ2V0X3R5cGVfaWRcPg==</entry>
         <entry encoding="base64">XDxfcHJlcGFyZV9zdGF0ZW1lbnRcPg==</entry>
+        <entry>build_response</entry>
+        <entry>TOKEN</entry>
       </history-search>
       <history-cmd>
-        <entry>2</entry>
         <entry>146</entry>
         <entry>160</entry>
         <entry>166</entry>
@@ -5089,6 +5092,7 @@
         <entry>sp</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry>710</entry>
         <entry>1</entry>
       </history-cmd>
       <history-expr />
