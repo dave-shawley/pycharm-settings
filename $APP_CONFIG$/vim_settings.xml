@@ -141,6 +141,9 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/packages/urllib3/poolmanager.py" timestamp="1436363448132">
         <mark key="'" line="138" column="20" />
       </file>
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/asyncore.py" timestamp="1438781271207">
+        <mark key="'" line="184" column="16" />
+      </file>
       <file name="$USER_HOME$/Source/python/setupext-pip/README.rst" timestamp="1406512757544">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="23" column="20" />
@@ -628,9 +631,9 @@
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/httputil.py" timestamp="1434159401128">
         <mark key="'" line="130" column="4" />
       </file>
-      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" timestamp="1438347998245">
+      <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" timestamp="1438781657347">
         <mark key="a" line="991" column="0" />
-        <mark key="'" line="1535" column="18" />
+        <mark key="'" line="1125" column="21" />
       </file>
       <file name="$USER_HOME$/Source/communicator/communicator/workers/coi_worker.py" timestamp="1437080433386">
         <mark key="'" line="71" column="33" />
@@ -867,12 +870,12 @@
         <mark key="^" line="153" column="21" />
         <mark key="." line="153" column="21" />
       </file>
-      <file name="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" timestamp="1438778453055">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="43" column="30" />
-        <mark key="]" line="45" column="15" />
-        <mark key="." line="45" column="15" />
-        <mark key="^" line="45" column="15" />
+      <file name="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" timestamp="1438781960368">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="26" column="64" />
+        <mark key="]" line="26" column="63" />
+        <mark key="." line="26" column="63" />
+        <mark key="^" line="26" column="63" />
       </file>
       <file name="$USER_HOME$/opt/pypy3-2.4.0-osx64/lib-python/3/urllib/parse.py" timestamp="1420898560180">
         <mark key="'" line="583" column="25" />
@@ -1114,26 +1117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="383" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="404" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="353" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="355" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="352" column="32" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="381" column="63" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="365" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="380" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="376" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="406" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="416" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="489" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="471" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="461" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="454" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="444" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="424" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="999" column="22" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="393" column="30" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="480" column="53" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="141" column="40" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
       <jump line="8" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
@@ -1167,60 +1150,80 @@
       <jump line="41" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="26" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="18" column="22" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="145" column="4" filename="$USER_HOME$/Source/platform/bandoleers/env/lib/python2.7/site-packages/cassandra/cluster.py" />
       <jump line="49" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="82" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="50" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="446" column="8" filename="$USER_HOME$/Source/platform/bandoleers/env/lib/python2.7/site-packages/cassandra/cluster.py" />
       <jump line="754" column="44" filename="$USER_HOME$/Source/platform/bandoleers/env/lib/python2.7/site-packages/cassandra/cluster.py" />
       <jump line="1893" column="38" filename="$USER_HOME$/Source/platform/bandoleers/env/lib/python2.7/site-packages/cassandra/cluster.py" />
       <jump line="1866" column="8" filename="$USER_HOME$/Source/platform/bandoleers/env/lib/python2.7/site-packages/cassandra/cluster.py" />
-      <jump line="51" column="23" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="563" column="8" filename="$USER_HOME$/Source/platform/bandoleers/env/lib/python2.7/site-packages/cassandra/cluster.py" />
       <jump line="54" column="17" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="737" column="0" filename="$USER_HOME$/Source/platform/bandoleers/env/lib/python2.7/site-packages/cassandra/cluster.py" />
       <jump line="35" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="61" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="81" column="67" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="67" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="48" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="44" column="7" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="58" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="88" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="84" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="80" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="64" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="52" column="20" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="57" column="62" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="53" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="43" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="39" column="23" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="46" column="21" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="0" column="0" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/asyncore.py" />
+      <jump line="184" column="16" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/asyncore.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="1125" column="21" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
+      <jump line="181" column="4" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
+      <jump line="133" column="0" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="11" column="12" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="81" column="4" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="13" column="10" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="5" column="41" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="10" column="13" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="80" column="23" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CmNsYXNzIEF2cm9NZXNzYWdlU2VuZGVyKGF2cm9jb25zdW1lci5EYXR1bUNvbnN1bFNjaGVtYUNvbnN1bWVyKToKICAgICIiIk1peCB0aGlzIGluIHRvIGVhc2lseSBzZW5kIEF2cm8tZW5jb2RlZCBtZXNzYWdlcy4iIiIKCiAgICBkZWYgcHVibGlzaF9hdnJvX21lc3NhZ2Uoc2VsZiwgbXNnX3R5cGUsIGlucHV0X21lc3NhZ2UsIHJvdXRpbmdfaW5mbywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtc2dfYm9keSk6CiAgICAgICAgIiIiCiAgICAgICAgUHVibGlzaCBhbiBBdnJvLWVuY29kZWQgbWVzc2FnZS4KCiAgICAgICAgOnBhcmFtIGRpY3QgaW5wdXRfbWVzc2FnZTogbWVzc2FnZSB0byBjb3B5ICJwYXNzLXRocm91Z2giIGZpZWxkcyBmcm9tCiAgICAgICAgOnBhcmFtIHN0ciBtc2dfdHlwZTogbWVzc2FnZSB0eXBlIHRvIHB1Ymxpc2guICBUaGlzIGlzIHVzZWQgdG8KICAgICAgICAgICAgZGV0ZXJtaW5lIHRoZSBzY2hlbWEgKHNlZSA6bWV0aDpgX2dldF9zY2hlbWFgKSB0byBlbmNvZGUgdGhlCiAgICAgICAgICAgIG1lc3NhZ2Ugd2l0aAogICAgICAgIDpwYXJhbSBkaWN0IHJvdXRpbmdfaW5mbzogcm91dGluZyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgZXZlbnQuICBUaGlzCiAgICAgICAgICAgIGRpY3Rpb25hcnkgY29udGFpbnMgYXQgbGVhc3QgdGhlIGBgZXhjaGFuZ2VgYCBhbmQgYGByb3V0aW5nX2tleWBgCiAgICAgICAgOnBhcmFtIGRpY3QgbXNnX2JvZHk6IG1lc3NhZ2UgdG8gZW5jb2RlCgogICAgICAgICIiIgogICAgICAgIG1zZ19ib2R5LnNldGRlZmF1bHQoJ3RpbWVzdGFtcCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRldGltZS5kYXRldGltZS51dGNub3coKS5pc29mb3JtYXQoKSkKICAgICAgICBmb3IgcGFzc190aHJ1IGluIFBBU1NfVEhST1VHSF9BVFRSSUJVVEVTOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBtc2dfYm9keVtwYXNzX3RocnVdID0gaW5wdXRfbWVzc2FnZVtwYXNzX3RocnVdCiAgICAgICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgICAgIHBhc3MKCiAgICAgICAgc2NoZW1hID0gc2VsZi5fZ2V0X3NjaGVtYShtc2dfdHlwZSkKICAgICAgICBhdnJvX21lc3NhZ2UgPSBzZWxmLl9zZXJpYWxpemUoc2NoZW1hLCBtc2dfYm9keSkKCiAgICAgICAgcHJvcGVydGllcyA9IHsKICAgICAgICAgICAgJ2FwcF9pZCc6IF9fcGFja2FnZV9fLAogICAgICAgICAgICAnY29ycmVsYXRpb25faWQnOiBzZWxmLl9jb3JyZWxhdGlvbl9pZCwKICAgICAgICAgICAgJ2NvbnRlbnRfdHlwZSc6ICdhcHBsaWNhdGlvbi92bmQuYXBhY2hlLmF2cm8uZGF0dW0nLAogICAgICAgICAgICAnbWVzc2FnZV9pZCc6IHV1aWQudXVpZDQoKS5oZXgsCiAgICAgICAgICAgICd0eXBlJzogbXNnX3R5cGUsCiAgICAgICAgfQogICAgICAgIExPR0dFUi5kZWJ1ZygncHVibGlzaGluZyAlcyBtZXNzYWdlIHtDSUQgJXN9JywgbXNnX3R5cGUsCiAgICAgICAgICAgICAgICAgICAgIHNlbGYuX2NvcnJlbGF0aW9uX2lkKQogICAgICAgIHNlbGYucHVibGlzaF9tZXNzYWdlKHJvdXRpbmdfaW5mb1snZXhjaGFuZ2UnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3V0aW5nX2luZm9bJ3JvdXRpbmdfa2V5J10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydGllcywgYXZyb19tZXNzYWdlKQoKICAgIGRlZiBkcm9wX21lc3NhZ2Uoc2VsZiwgZHJvcF9kZXRhaWxzLCBpbnB1dF9tZXNzYWdlLCByb3V0aW5nX2luZm8pOgogICAgICAgICIiIgogICAgICAgIFB1Ymxpc2ggYW4gQXZyby1lbmNvZGVkICJkcm9wIiBtZXNzYWdlLgoKICAgICAgICA6cGFyYW0gRHJvcERldGFpbHMgZHJvcF9kZXRhaWxzOiBkZXRhaWxzIGFib3V0IHRoaXMgc3BlY2lmaWMKICAgICAgICAgICAgZHJvcCBldmVudAogICAgICAgIDpwYXJhbSBkaWN0IGlucHV0X21lc3NhZ2U6IG1lc3NhZ2UgdG8gY29weSAicGFzcy10aHJvdWdoIiBmaWVsZHMgZnJvbQogICAgICAgIDpwYXJhbSBkaWN0IHJvdXRpbmdfaW5mbzogcm91dGluZyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgZXZlbnQuICBUaGlzCiAgICAgICAgICAgIGRpY3Rpb25hcnkgY29udGFpbnMgYXQgbGVhc3QgdGhlIGBgZXhjaGFuZ2VgYCBhbmQgYGByb3V0aW5nX2tleWBgCgogICAgICAgICIiIgogICAgICAgIHNlbGYucHVibGlzaF9hdnJvX21lc3NhZ2UoJ2Ryb3AudjEnLCBpbnB1dF9tZXNzYWdlLCByb3V0aW5nX2luZm8sIHsKICAgICAgICAgICAgJ2Ryb3BwZWRfYnknOiBfX3BhY2thZ2VfXywKICAgICAgICAgICAgJ3JlYXNvbic6IGRyb3BfZGV0YWlscy5yZWFzb24sCiAgICAgICAgfSkKICAgICAgICBzZWxmLnN0YXRzZF9pbmNyKCdldmVudHMuZHJvcHBlZCcpCiAgICAgICAgc2VsZi5sb2dfZXhjZXB0aW9uKCdkcm9wcGVkIG1lc3NhZ2UgLSAlcyBNRVNTQUdFICVzIHtDSUQgJXN9JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgZHJvcF9kZXRhaWxzLnJlYXNvbiwgc2VsZi5tZXNzYWdlX2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl9jb3JyZWxhdGlvbl9pZCkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cyA=</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3346,34 +3349,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cyA=</text>
       </register>
       <register name="/" type="4">
-        <text>MessageException</text>
+        <text encoding="base64">XDx2XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLndvcmtlci5fbWVzc2FnZS5wcm9wZXJ0aWVzLmhlYWRlcnNbJ3NtdHBfZW5kcG9pbnQnXSA9ICcxMjcuMC4wLjE6MjYnCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cyA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>retry</text>
+        <text>name</text>
       </register>
       <register name="4" type="4">
-        <text>retry.sleep_time)</text>
+        <text>(</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdzbGVlcGluZyBmb3IgJWYgc2Vjb25kcycsIHJldHJ5LnNsZWVwX3RpbWUpCiAgICAgICAgICAgIHRpbWUuc2xlZXAocmV0cnkuc2xlZXBfdGltZSkK</text>
+      <register name="5" type="4">
+        <text>%</text>
       </register>
       <register name="6" type="4">
-        <text>Retry as retry:</text>
+        <text>)</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5015,32 +5018,30 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>(</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CmNsYXNzIFJldHJ5KEV4Y2VwdGlvbik6CiAgICBwYXNzCg==</text>
+      <register name="8" type="4">
+        <text>DEBUG</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+      <register name="9" type="4">
+        <text>ERROR</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>MessageException</last-search>
+      <last-search encoding="base64">XDx2XD4=</last-search>
       <last-offset />
-      <last-pattern>MessageException</last-pattern>
+      <last-pattern encoding="base64">XDx2XD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhc3NlcnRfYW1xcF9wcm9wZXJ0aWVzXD4=</entry>
-        <entry encoding="base64">XDxtaW1lX21lc3NhZ2VcPg==</entry>
         <entry encoding="base64">XDxhc3NlcnRfY29udGFpbnNfZW52ZWxvcGVcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVfbWVzc2FnZVw+</entry>
         <entry>Spooling</entry>
@@ -5059,6 +5060,8 @@
         <entry encoding="base64">XDxzZW5kbWFpbFw+</entry>
         <entry>ConsumerException</entry>
         <entry>MessageException</entry>
+        <entry>close_all</entry>
+        <entry encoding="base64">XDx2XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
