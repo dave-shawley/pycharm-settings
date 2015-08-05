@@ -455,6 +455,9 @@
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/smtplib.py" timestamp="1437061774814">
         <mark key="'" line="465" column="20" />
       </file>
+      <file name="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" timestamp="1438790006609">
+        <mark key="'" line="122" column="0" />
+      </file>
       <file name="$USER_HOME$/opt/lib/python3.4/json/scanner.py" timestamp="1432989862614">
         <mark key="'" line="72" column="33" />
       </file>
@@ -1120,17 +1123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="446" column="8" filename="$USER_HOME$/Source/platform/bandoleers/env/lib/python2.7/site-packages/cassandra/cluster.py" />
-      <jump line="754" column="44" filename="$USER_HOME$/Source/platform/bandoleers/env/lib/python2.7/site-packages/cassandra/cluster.py" />
-      <jump line="1893" column="38" filename="$USER_HOME$/Source/platform/bandoleers/env/lib/python2.7/site-packages/cassandra/cluster.py" />
-      <jump line="1866" column="8" filename="$USER_HOME$/Source/platform/bandoleers/env/lib/python2.7/site-packages/cassandra/cluster.py" />
-      <jump line="563" column="8" filename="$USER_HOME$/Source/platform/bandoleers/env/lib/python2.7/site-packages/cassandra/cluster.py" />
-      <jump line="54" column="17" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="737" column="0" filename="$USER_HOME$/Source/platform/bandoleers/env/lib/python2.7/site-packages/cassandra/cluster.py" />
       <jump line="35" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="61" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
@@ -1220,6 +1212,17 @@
       <jump line="377" column="17" filename="$USER_HOME$/Source/platform/history/history.py" />
       <jump line="368" column="17" filename="$USER_HOME$/Source/platform/history/history.py" />
       <jump line="731" column="21" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
+      <jump line="108" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
+      <jump line="119" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
+      <jump line="122" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
