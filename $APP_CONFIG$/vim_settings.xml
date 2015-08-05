@@ -409,8 +409,8 @@
       <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/base.py" timestamp="1436809370024">
         <mark key="'" line="327" column="61" />
       </file>
-      <file name="$USER_HOME$/Source/platform/history/history.py" timestamp="1438785607742">
-        <mark key="'" line="90" column="0" />
+      <file name="$USER_HOME$/Source/platform/history/history.py" timestamp="1438787102699">
+        <mark key="'" line="359" column="56" />
       </file>
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1431883634285">
         <mark key="'" line="146" column="13" />
@@ -1120,8 +1120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="430" column="31" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="458" column="31" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="467" column="27" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="14" column="12" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
@@ -1220,6 +1218,8 @@
       <jump line="84" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
       <jump line="86" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
       <jump line="90" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="464" column="28" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="359" column="56" filename="$USER_HOME$/Source/platform/history/history.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -5031,7 +5031,7 @@
         <text>(</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -5085,8 +5085,8 @@
         <entry>180</entry>
         <entry>sp</entry>
         <entry>vs</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
