@@ -409,6 +409,9 @@
       <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/base.py" timestamp="1436809370024">
         <mark key="'" line="327" column="61" />
       </file>
+      <file name="$USER_HOME$/Source/platform/history/history.py" timestamp="1438785607742">
+        <mark key="'" line="90" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1431883634285">
         <mark key="'" line="146" column="13" />
       </file>
@@ -870,12 +873,12 @@
         <mark key="^" line="153" column="21" />
         <mark key="." line="153" column="21" />
       </file>
-      <file name="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" timestamp="1438783095715">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="26" column="63" />
+      <file name="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" timestamp="1438784609500">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="33" column="53" />
+        <mark key="]" line="34" column="34" />
+        <mark key="." line="34" column="34" />
+        <mark key="^" line="34" column="34" />
       </file>
       <file name="$USER_HOME$/opt/pypy3-2.4.0-osx64/lib-python/3/urllib/parse.py" timestamp="1420898560180">
         <mark key="'" line="583" column="25" />
@@ -1117,29 +1120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="40" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
-      <jump line="8" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
-      <jump line="13" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
-      <jump line="18" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
-      <jump line="23" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
-      <jump line="58" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
-      <jump line="60" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
-      <jump line="65" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
-      <jump line="69" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
-      <jump line="72" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/docs/metrics.rst" />
-      <jump line="483" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="394" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="385" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="382" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="374" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="369" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="129" column="12" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="199" column="52" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="191" column="27" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="229" column="27" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="399" column="27" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="408" column="27" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="430" column="31" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="458" column="31" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="467" column="27" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
@@ -1176,7 +1156,6 @@
       <jump line="64" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="52" column="20" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="53" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="39" column="23" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="46" column="21" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="0" column="0" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/asyncore.py" />
@@ -1189,9 +1168,7 @@
       <jump line="181" column="4" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
       <jump line="133" column="0" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
       <jump line="55" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="11" column="12" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="81" column="4" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="78" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="74" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
@@ -1215,15 +1192,41 @@
       <jump line="27" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="9" column="7" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="42" column="8" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="43" column="8" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="11" column="7" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
+      <jump line="19" column="23" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="17" column="27" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="712" column="34" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="702" column="15" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="701" column="21" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="698" column="16" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="694" column="24" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="692" column="15" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="691" column="17" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="25" column="4" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CmNsYXNzIEF2cm9NZXNzYWdlU2VuZGVyKGF2cm9jb25zdW1lci5EYXR1bUNvbnN1bFNjaGVtYUNvbnN1bWVyKToKICAgICIiIk1peCB0aGlzIGluIHRvIGVhc2lseSBzZW5kIEF2cm8tZW5jb2RlZCBtZXNzYWdlcy4iIiIKCiAgICBkZWYgcHVibGlzaF9hdnJvX21lc3NhZ2Uoc2VsZiwgbXNnX3R5cGUsIGlucHV0X21lc3NhZ2UsIHJvdXRpbmdfaW5mbywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtc2dfYm9keSk6CiAgICAgICAgIiIiCiAgICAgICAgUHVibGlzaCBhbiBBdnJvLWVuY29kZWQgbWVzc2FnZS4KCiAgICAgICAgOnBhcmFtIGRpY3QgaW5wdXRfbWVzc2FnZTogbWVzc2FnZSB0byBjb3B5ICJwYXNzLXRocm91Z2giIGZpZWxkcyBmcm9tCiAgICAgICAgOnBhcmFtIHN0ciBtc2dfdHlwZTogbWVzc2FnZSB0eXBlIHRvIHB1Ymxpc2guICBUaGlzIGlzIHVzZWQgdG8KICAgICAgICAgICAgZGV0ZXJtaW5lIHRoZSBzY2hlbWEgKHNlZSA6bWV0aDpgX2dldF9zY2hlbWFgKSB0byBlbmNvZGUgdGhlCiAgICAgICAgICAgIG1lc3NhZ2Ugd2l0aAogICAgICAgIDpwYXJhbSBkaWN0IHJvdXRpbmdfaW5mbzogcm91dGluZyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgZXZlbnQuICBUaGlzCiAgICAgICAgICAgIGRpY3Rpb25hcnkgY29udGFpbnMgYXQgbGVhc3QgdGhlIGBgZXhjaGFuZ2VgYCBhbmQgYGByb3V0aW5nX2tleWBgCiAgICAgICAgOnBhcmFtIGRpY3QgbXNnX2JvZHk6IG1lc3NhZ2UgdG8gZW5jb2RlCgogICAgICAgICIiIgogICAgICAgIG1zZ19ib2R5LnNldGRlZmF1bHQoJ3RpbWVzdGFtcCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRldGltZS5kYXRldGltZS51dGNub3coKS5pc29mb3JtYXQoKSkKICAgICAgICBmb3IgcGFzc190aHJ1IGluIFBBU1NfVEhST1VHSF9BVFRSSUJVVEVTOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBtc2dfYm9keVtwYXNzX3RocnVdID0gaW5wdXRfbWVzc2FnZVtwYXNzX3RocnVdCiAgICAgICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgICAgIHBhc3MKCiAgICAgICAgc2NoZW1hID0gc2VsZi5fZ2V0X3NjaGVtYShtc2dfdHlwZSkKICAgICAgICBhdnJvX21lc3NhZ2UgPSBzZWxmLl9zZXJpYWxpemUoc2NoZW1hLCBtc2dfYm9keSkKCiAgICAgICAgcHJvcGVydGllcyA9IHsKICAgICAgICAgICAgJ2FwcF9pZCc6IF9fcGFja2FnZV9fLAogICAgICAgICAgICAnY29ycmVsYXRpb25faWQnOiBzZWxmLl9jb3JyZWxhdGlvbl9pZCwKICAgICAgICAgICAgJ2NvbnRlbnRfdHlwZSc6ICdhcHBsaWNhdGlvbi92bmQuYXBhY2hlLmF2cm8uZGF0dW0nLAogICAgICAgICAgICAnbWVzc2FnZV9pZCc6IHV1aWQudXVpZDQoKS5oZXgsCiAgICAgICAgICAgICd0eXBlJzogbXNnX3R5cGUsCiAgICAgICAgfQogICAgICAgIExPR0dFUi5kZWJ1ZygncHVibGlzaGluZyAlcyBtZXNzYWdlIHtDSUQgJXN9JywgbXNnX3R5cGUsCiAgICAgICAgICAgICAgICAgICAgIHNlbGYuX2NvcnJlbGF0aW9uX2lkKQogICAgICAgIHNlbGYucHVibGlzaF9tZXNzYWdlKHJvdXRpbmdfaW5mb1snZXhjaGFuZ2UnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3V0aW5nX2luZm9bJ3JvdXRpbmdfa2V5J10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydGllcywgYXZyb19tZXNzYWdlKQoKICAgIGRlZiBkcm9wX21lc3NhZ2Uoc2VsZiwgZHJvcF9kZXRhaWxzLCBpbnB1dF9tZXNzYWdlLCByb3V0aW5nX2luZm8pOgogICAgICAgICIiIgogICAgICAgIFB1Ymxpc2ggYW4gQXZyby1lbmNvZGVkICJkcm9wIiBtZXNzYWdlLgoKICAgICAgICA6cGFyYW0gRHJvcERldGFpbHMgZHJvcF9kZXRhaWxzOiBkZXRhaWxzIGFib3V0IHRoaXMgc3BlY2lmaWMKICAgICAgICAgICAgZHJvcCBldmVudAogICAgICAgIDpwYXJhbSBkaWN0IGlucHV0X21lc3NhZ2U6IG1lc3NhZ2UgdG8gY29weSAicGFzcy10aHJvdWdoIiBmaWVsZHMgZnJvbQogICAgICAgIDpwYXJhbSBkaWN0IHJvdXRpbmdfaW5mbzogcm91dGluZyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgZXZlbnQuICBUaGlzCiAgICAgICAgICAgIGRpY3Rpb25hcnkgY29udGFpbnMgYXQgbGVhc3QgdGhlIGBgZXhjaGFuZ2VgYCBhbmQgYGByb3V0aW5nX2tleWBgCgogICAgICAgICIiIgogICAgICAgIHNlbGYucHVibGlzaF9hdnJvX21lc3NhZ2UoJ2Ryb3AudjEnLCBpbnB1dF9tZXNzYWdlLCByb3V0aW5nX2luZm8sIHsKICAgICAgICAgICAgJ2Ryb3BwZWRfYnknOiBfX3BhY2thZ2VfXywKICAgICAgICAgICAgJ3JlYXNvbic6IGRyb3BfZGV0YWlscy5yZWFzb24sCiAgICAgICAgfSkKICAgICAgICBzZWxmLnN0YXRzZF9pbmNyKCdldmVudHMuZHJvcHBlZCcpCiAgICAgICAgc2VsZi5sb2dfZXhjZXB0aW9uKCdkcm9wcGVkIG1lc3NhZ2UgLSAlcyBNRVNTQUdFICVzIHtDSUQgJXN9JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgZHJvcF9kZXRhaWxzLnJlYXNvbiwgc2VsZi5tZXNzYWdlX2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl9jb3JyZWxhdGlvbl9pZCkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0cy5yYWlzZV9mb3JfCg==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3352,31 +3355,31 @@
         <text encoding="base64">cyA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2XD4=</text>
+        <text encoding="base64">XDx1cmxfcGFyc2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLndvcmtlci5fbWVzc2FnZS5wcm9wZXJ0aWVzLmhlYWRlcnNbJ3NtdHBfZW5kcG9pbnQnXSA9ICcxMjcuMC4wLjE6MjYnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0cy5yYWlzZV9mb3JfCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">cyA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text encoding="base64">cyA=</text>
       </register>
       <register name="4" type="4">
-        <text>name</text>
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text>(</text>
+        <text>name</text>
       </register>
       <register name="6" type="4">
-        <text>%</text>
+        <text>(</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5019,22 +5022,22 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>%</text>
       </register>
       <register name="8" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>DEBUG</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2XD4=</last-search>
+      <last-search encoding="base64">XDx1cmxfcGFyc2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2XD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1cmxfcGFyc2VcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>-1</last-dir>
@@ -5042,8 +5045,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhc3NlcnRfY29udGFpbnNfZW52ZWxvcGVcPg==</entry>
-        <entry encoding="base64">XDxjcmVhdGVfbWVzc2FnZVw+</entry>
         <entry>Spooling</entry>
         <entry>X-Bind</entry>
         <entry>SMTPTests</entry>
@@ -5062,6 +5063,8 @@
         <entry>MessageException</entry>
         <entry>close_all</entry>
         <entry encoding="base64">XDx2XD4=</entry>
+        <entry>asyncore</entry>
+        <entry encoding="base64">XDx1cmxfcGFyc2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
