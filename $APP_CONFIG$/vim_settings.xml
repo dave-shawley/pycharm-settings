@@ -415,6 +415,9 @@
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/base_connection.py" timestamp="1430073332187">
         <mark key="'" line="123" column="25" />
       </file>
+      <file name="$USER_HOME$/Source/python/readit2/readit/handlers.py" timestamp="1438861576140">
+        <mark key="'" line="113" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/python/magician/debugin.py" timestamp="1436407008602">
         <mark key="'" line="61" column="0" />
       </file>
@@ -887,10 +890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="162" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="164" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="135" column="8" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="106" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="91" column="8" filename="$USER_HOME$/Source/python/magician/tests/helpers.py" />
       <jump line="92" column="0" filename="$USER_HOME$/Source/python/magician/tests/helpers.py" />
@@ -987,6 +986,10 @@
       <jump line="136" column="28" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="311" column="28" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="308" column="8" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="101" column="8" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="108" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
