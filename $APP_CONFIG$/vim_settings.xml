@@ -3368,7 +3368,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>_process</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLndvcmtlci5fbWVzc2FnZS5wcm9wZXJ0aWVzLmhlYWRlcnNbJ3NtdHBfZW5kcG9pbnQnXSA9ICcxMjcuMC4wLjE6MjYnCg==</text>
@@ -5044,13 +5044,13 @@
         <text>)</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>_process</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>_process</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5058,7 +5058,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc2Vzc2lvblw+</entry>
         <entry>avrohelpers</entry>
         <entry encoding="base64">XDxQQVNTX1RIUk9VR0hfQVRUUklCVVRFU1w+</entry>
         <entry encoding="base64">XDxBdnJvTWVzc2FnZVNlbmRlclw+</entry>
@@ -5078,6 +5077,7 @@
         <entry>TOKEN</entry>
         <entry>sentry_client</entry>
         <entry>_process</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>146</entry>
@@ -5098,8 +5098,8 @@
         <entry>sp</entry>
         <entry>vs</entry>
         <entry>710</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
