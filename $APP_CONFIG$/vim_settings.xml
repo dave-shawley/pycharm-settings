@@ -647,6 +647,9 @@
         <mark key="." line="4" column="24" />
         <mark key="[" line="3" column="40" />
       </file>
+      <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/web.py" timestamp="1439035044996">
+        <mark key="'" line="1922" column="34" />
+      </file>
       <file name="$USER_HOME$/Source/work/test-helpers/docs/index.rst" timestamp="1431307536836">
         <mark key="'" line="39" column="0" />
         <mark key="]" line="43" column="15" />
@@ -893,11 +896,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="41" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="220" column="34" filename="$USER_HOME$/opt/lib/python3.4/asyncio/streams.py" />
-      <jump line="298" column="34" filename="$USER_HOME$/opt/lib/python3.4/asyncio/streams.py" />
-      <jump line="218" column="34" filename="$USER_HOME$/opt/lib/python3.4/asyncio/streams.py" />
-      <jump line="365" column="13" filename="$USER_HOME$/opt/lib/python3.4/asyncio/streams.py" />
       <jump line="339" column="13" filename="$USER_HOME$/opt/lib/python3.4/asyncio/streams.py" />
       <jump line="130" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
       <jump line="122" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
@@ -993,6 +991,11 @@
       <jump line="23" column="0" filename="$USER_HOME$/Source/python/glinda/tests/example_test.py" />
       <jump line="25" column="0" filename="$USER_HOME$/Source/python/glinda/tests/example_test.py" />
       <jump line="36" column="0" filename="$USER_HOME$/Source/python/glinda/tests/example_test.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/web.py" />
+      <jump line="1872" column="0" filename="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/web.py" />
+      <jump line="1874" column="0" filename="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/web.py" />
+      <jump line="1877" column="0" filename="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/web.py" />
+      <jump line="1922" column="34" filename="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/web.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3125,7 +3128,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcmVqZWN0X3VuZXhwZWN0ZWRfZnJhbWVcPg==</text>
+        <text>class Appl</text>
       </register>
       <register name="-" type="4">
         <text>_closed_by</text>
@@ -4808,17 +4811,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcmVqZWN0X3VuZXhwZWN0ZWRfZnJhbWVcPg==</last-search>
+      <last-search>class Appl</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcmVqZWN0X3VuZXhwZWN0ZWRfZnJhbWVcPg==</last-pattern>
+      <last-pattern>class Appl</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>LOGGER</entry>
         <entry encoding="base64">XDxfY2xvc2luZ1w+</entry>
         <entry>connection lost -</entry>
         <entry>call_soon</entry>
@@ -4838,6 +4840,7 @@
         <entry>Transport</entry>
         <entry encoding="base64">XDxfcHJvdG9jb2xfZmFpbHVyZVw+</entry>
         <entry encoding="base64">XDxfcmVqZWN0X3VuZXhwZWN0ZWRfZnJhbWVcPg==</entry>
+        <entry>class Appl</entry>
       </history-search>
       <history-cmd>
         <entry>328</entry>
