@@ -4836,7 +4836,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuY29kaW5nPSd1dGYtOCcpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>1</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
@@ -4896,8 +4896,8 @@
         <entry>375</entry>
         <entry>118</entry>
         <entry>w</entry>
-        <entry>1</entry>
         <entry>wq</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
