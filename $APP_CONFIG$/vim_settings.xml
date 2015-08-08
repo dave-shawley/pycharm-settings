@@ -519,8 +519,8 @@
         <mark key="." line="64" column="40" />
         <mark key="[" line="64" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/python/glinda/glinda/content.py" timestamp="1439048539105">
-        <mark key="'" line="2" column="58" />
+      <file name="$USER_HOME$/Source/python/glinda/glinda/content.py" timestamp="1439049672003">
+        <mark key="'" line="173" column="0" />
         <mark key="]" line="207" column="0" />
         <mark key="^" line="58" column="70" />
         <mark key="." line="207" column="0" />
@@ -931,9 +931,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="689" column="0" filename="$USER_HOME$/opt/lib/python3.4/asyncio/selector_events.py" />
-      <jump line="680" column="0" filename="$USER_HOME$/opt/lib/python3.4/asyncio/selector_events.py" />
-      <jump line="658" column="0" filename="$USER_HOME$/opt/lib/python3.4/asyncio/selector_events.py" />
       <jump line="325" column="26" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
       <jump line="133" column="8" filename="$USER_HOME$/Source/python/magician/tests/helpers.py" />
       <jump line="315" column="0" filename="$USER_HOME$/Source/python/magician/tests/amqp_tests.py" />
@@ -1031,6 +1028,9 @@
       <jump line="175" column="8" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
       <jump line="51" column="12" filename="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/ietfparse/datastructures.py" />
       <jump line="2" column="58" filename="$USER_HOME$/Source/python/glinda/glinda/content.py" />
+      <jump line="146" column="4" filename="$USER_HOME$/Source/python/glinda/glinda/content.py" />
+      <jump line="169" column="0" filename="$USER_HOME$/Source/python/glinda/glinda/content.py" />
+      <jump line="173" column="0" filename="$USER_HOME$/Source/python/glinda/glinda/content.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
