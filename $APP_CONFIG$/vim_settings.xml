@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Source/python/readit2/static/index.html" timestamp="1434900890470">
+        <mark key="]" line="12" column="47" />
+        <mark key="^" line="12" column="47" />
+        <mark key="." line="12" column="47" />
+        <mark key="[" line="12" column="36" />
+      </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncore.py" timestamp="1423401242971">
         <mark key="'" line="439" column="17" />
       </file>
@@ -21,6 +27,12 @@
       </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/httputil.py" timestamp="1431258910727">
         <mark key="'" line="337" column="34" />
+      </file>
+      <file name="$USER_HOME$/Source/python/glinda/docs/changelog.rst" timestamp="1439038815831">
+        <mark key="]" line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+        <mark key="[" line="3" column="15" />
       </file>
       <file name="$USER_HOME$/Source/python/jester/docs/internals.rst" timestamp="1415708371906">
         <mark key="'" line="23" column="11" />
@@ -391,7 +403,7 @@
         <mark key="." line="226" column="64" />
         <mark key="[" line="226" column="7" />
       </file>
-      <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/testing.py" timestamp="1431946796420">
+      <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/testing.py" timestamp="1439037891369">
         <mark key="'" line="379" column="25" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/tornado_connection.py" timestamp="1430218293936">
@@ -470,8 +482,8 @@
         <mark key="." line="29" column="34" />
         <mark key="[" line="29" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/httpclient.py" timestamp="1431946804467">
-        <mark key="'" line="227" column="22" />
+      <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/httpclient.py" timestamp="1439037898001">
+        <mark key="'" line="226" column="26" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/motor/__init__.py" timestamp="1435146270906">
         <mark key="'" line="1058" column="33" />
@@ -506,6 +518,13 @@
         <mark key="^" line="64" column="40" />
         <mark key="." line="64" column="40" />
         <mark key="[" line="64" column="40" />
+      </file>
+      <file name="$USER_HOME$/Source/python/glinda/glinda/content.py" timestamp="1439038407582">
+        <mark key="'" line="205" column="43" />
+        <mark key="]" line="207" column="0" />
+        <mark key="^" line="58" column="70" />
+        <mark key="." line="207" column="0" />
+        <mark key="[" line="207" column="0" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/protocols.py" timestamp="1438435998247">
         <mark key="'" line="61" column="15" />
@@ -610,6 +629,12 @@
         <mark key="^" line="30" column="40" />
         <mark key="." line="30" column="40" />
         <mark key="[" line="30" column="39" />
+      </file>
+      <file name="$USER_HOME$/Source/python/magician/docs/index.rst" timestamp="1437841982025">
+        <mark key="]" line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="[" line="6" column="6" />
       </file>
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1431883634285">
         <mark key="'" line="146" column="13" />
@@ -730,9 +755,13 @@
         <mark key="." line="117" column="63" />
         <mark key="[" line="117" column="58" />
       </file>
-      <file name="$USER_HOME$/Source/python/glinda/tests/content_tests.py" timestamp="1439033367498">
-        <mark key="'" line="38" column="0" />
-        <mark key="a" line="119" column="0" />
+      <file name="$USER_HOME$/Source/python/glinda/tests/content_tests.py" timestamp="1439038629476">
+        <mark key="'" line="175" column="8" />
+        <mark key="a" line="30" column="39" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="182" column="42" />
+        <mark key="." line="2" column="20" />
+        <mark key="[" line="2" column="20" />
       </file>
       <file name="$USER_HOME$/opt/lib/python2.7/distutils/spawn.py" timestamp="1419856999565">
         <mark key="'" line="33" column="8" />
@@ -816,6 +845,12 @@
         <mark key="." line="156" column="42" />
         <mark key="[" line="153" column="19" />
       </file>
+      <file name="$USER_HOME$/Source/python/magician/docs/api.rst" timestamp="1437843435839">
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+        <mark key="[" line="10" column="21" />
+      </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/connection.py" timestamp="1430307116938">
         <mark key="'" line="619" column="23" />
       </file>
@@ -896,36 +931,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="339" column="13" filename="$USER_HOME$/opt/lib/python3.4/asyncio/streams.py" />
-      <jump line="130" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="122" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="116" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="111" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="103" column="32" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="390" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="393" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="420" column="27" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="201" column="12" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="248" column="8" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="259" column="11" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="369" column="24" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="93" column="8" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="104" column="8" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="125" column="50" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="177" column="11" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="194" column="27" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="456" column="4" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="454" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="452" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="444" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="439" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="407" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="395" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="397" column="0" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="399" column="36" filename="$USER_HOME$/Source/python/magician/magician/amqp.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/opt/lib/python3.4/asyncio/events.py" />
-      <jump line="365" column="12" filename="$USER_HOME$/opt/lib/python3.4/asyncio/events.py" />
       <jump line="378" column="13" filename="$USER_HOME$/opt/lib/python3.4/asyncio/events.py" />
       <jump line="661" column="0" filename="$USER_HOME$/opt/lib/python3.4/asyncio/selector_events.py" />
       <jump line="689" column="0" filename="$USER_HOME$/opt/lib/python3.4/asyncio/selector_events.py" />
@@ -996,10 +1001,40 @@
       <jump line="1874" column="0" filename="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/web.py" />
       <jump line="1877" column="0" filename="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/web.py" />
       <jump line="1922" column="34" filename="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/web.py" />
+      <jump line="158" column="4" filename="$USER_HOME$/Source/python/glinda/glinda/content.py" />
+      <jump line="165" column="0" filename="$USER_HOME$/Source/python/glinda/glinda/content.py" />
+      <jump line="110" column="8" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
+      <jump line="118" column="0" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
+      <jump line="122" column="0" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
+      <jump line="138" column="0" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
+      <jump line="139" column="0" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
+      <jump line="141" column="0" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
+      <jump line="144" column="0" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
+      <jump line="176" column="43" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
+      <jump line="177" column="24" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
+      <jump line="379" column="25" filename="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/testing.py" />
+      <jump line="226" column="26" filename="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/httpclient.py" />
+      <jump line="299" column="8" filename="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/httpclient.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
+      <jump line="5" column="37" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
+      <jump line="31" column="39" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
+      <jump line="202" column="47" filename="$USER_HOME$/Source/python/glinda/glinda/content.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/Source/python/glinda/glinda/content.py" />
+      <jump line="205" column="43" filename="$USER_HOME$/Source/python/glinda/glinda/content.py" />
+      <jump line="175" column="8" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBjbG9zZWRfYnkoc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgV2h5IHdhcyB0aGUgY29ubmVjdGlvbiBjbG9zZWQ/CiAgICAgICAgOnJldHVybjogOmRhdGE6YE5vbmVgIGlmIHRoZSBjb25uZWN0aW9uIGlzIG9wZW4sIG90aGVyd2lzZQogICAgICAgICAgICBhIGNsYXNzIGRhdGEgdmFsdWUgZnJvbSA6Y2xhc3M6YENsb3NlZEJ5YAogICAgICAgICIiIgogICAgICAgIHJldHVybiBzZWxmLl9jbG9zZWRfYnkK</text>
+      <register name="&quot;" type="4">
+        <text>invalid</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5pbmZvKCdjb25uZWN0aW5nIHRvICVzOiVzJywgc2VsZi5ob3N0LCBzZWxmLnBvcnQpCiAgICAgICAgdHJhbnNwb3J0LCBwcm90b2NvbCA9IHlpZWxkIGZyb20gc2VsZi5sb29wLmNyZWF0ZV9jb25uZWN0aW9uKAogICAgICAgICAgICBwcm90b2NvbF9mYWN0b3J5PWxhbWJkYTogc2VsZiwgaG9zdD1zZWxmLmhvc3QsIHBvcnQ9c2VsZi5wb3J0KQogICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCdjb25uZWN0ZWQgdG8gJXInLCB0cmFuc3BvcnQpCg==</text>
@@ -3131,7 +3166,7 @@
         <text>class Appl</text>
       </register>
       <register name="-" type="4">
-        <text>_closed_by</text>
+        <text>invalid</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4773,41 +4808,41 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>httpclient</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBjbG9zZWRfYnkoc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgV2h5IHdhcyB0aGUgY29ubmVjdGlvbiBjbG9zZWQ/CiAgICAgICAgOnJldHVybjogOmRhdGE6YE5vbmVgIGlmIHRoZSBjb25uZWN0aW9uIGlzIG9wZW4sIG90aGVyd2lzZQogICAgICAgICAgICBhIGNsYXNzIGRhdGEgdmFsdWUgZnJvbSA6Y2xhc3M6YENsb3NlZEJ5YAogICAgICAgICIiIgogICAgICAgIHJldHVybiBzZWxmLl9jbG9zZWRfYnkK</text>
+      <register name="1" type="4">
+        <text>invalid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGVlcl9jbG9zZSA9IFRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5jb2RpbmcsIHJlc3BvbnNlX2J5dGVzID0gaGFuZGxlci5wYWNrX2J5dGVzKHJlc3BvbnNlX2RpY3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbmNvZGluZz1jaGFyc2V0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRyYW5zcG9ydC5jbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLndhcm5pbmcoJ2ZhaWxlZCB0byBlbmNvZGUgcmVzcG9uc2UgdXNpbmcgJXMsICcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnRyYW5zcG9ydCBpcyBOb25lOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3N3aXRjaGluZyB0byB1dGYtOCcsIGNoYXJzZXQpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>_closed_by</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZW5jb2RpbmcsIHJlc3BvbnNlX2J5dGVzID0gaGFuZGxlci5wYWNrX2J5dGVzKHJlc3BvbnNlX2RpY3QsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIHNlbGYuX2Nsb3NlZF9ieQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuY29kaW5nPSd1dGYtOCcpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>wq</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYudHJhbnNwb3J0LmNsb3NlKCkK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRyYW5zcG9ydC5jbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgVW5pY29kZUVuY29kZUVycm9yOgo=</text>
       </register>
     </registers>
     <search>
@@ -4843,7 +4878,6 @@
         <entry>class Appl</entry>
       </history-search>
       <history-cmd>
-        <entry>328</entry>
         <entry>392</entry>
         <entry>404</entry>
         <entry>vspl</entry>
@@ -4863,6 +4897,7 @@
         <entry>118</entry>
         <entry>w</entry>
         <entry>1</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
