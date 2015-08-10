@@ -19,9 +19,6 @@
         <mark key="^" line="31" column="64" />
         <mark key="." line="31" column="64" />
       </file>
-      <file name="/a.dummy" timestamp="1437501284900">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/header.py" timestamp="1435338901903">
         <mark key="'" line="96" column="43" />
       </file>
@@ -73,9 +70,6 @@
         <mark key="]" line="66" column="40" />
         <mark key="^" line="66" column="40" />
         <mark key="." line="66" column="40" />
-      </file>
-      <file name="/" timestamp="1438623328389">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/exceptions.py" timestamp="1436531641016">
         <mark key="'" line="39" column="0" />
@@ -161,7 +155,7 @@
         <mark key="^" line="52" column="41" />
         <mark key="." line="52" column="41" />
       </file>
-      <file name="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1437763432255">
+      <file name="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1439214443141">
         <mark key="'" line="226" column="22" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/simple_httpclient.py" timestamp="1434107116390">
@@ -204,8 +198,8 @@
       <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/raven/processors.py" timestamp="1436802107207">
         <mark key="'" line="124" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/platform/authorization/tests.py" timestamp="1438108916829">
-        <mark key="'" line="203" column="0" />
+      <file name="$USER_HOME$/Source/platform/authorization/tests.py" timestamp="1439214432339">
+        <mark key="'" line="217" column="24" />
         <mark key="[" line="213" column="12" />
         <mark key="]" line="214" column="29" />
         <mark key="." line="214" column="29" />
@@ -449,9 +443,6 @@
       <file name="$USER_HOME$/Source/communicator/communicator/helpers.py" timestamp="1437080462753">
         <mark key="'" line="154" column="20" />
       </file>
-      <file name="$APP_CONFIG$/packages.xml" timestamp="1437679142040">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/README.rst" timestamp="1436811186254">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="48" column="69" />
@@ -668,9 +659,6 @@
       <file name="$USER_HOME$/opt/lib/python3.4/json/decoder.py" timestamp="1432989858806">
         <mark key="'" line="334" column="45" />
       </file>
-      <file name="$APP_CONFIG$/vim_settings.xml" timestamp="1437679054001">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/spec.py" timestamp="1429967841484">
         <mark key="'" line="2777" column="22" />
       </file>
@@ -703,12 +691,6 @@
         <mark key="]" line="174" column="68" />
         <mark key="^" line="151" column="11" />
         <mark key="." line="174" column="68" />
-      </file>
-      <file name="/Python Console" timestamp="1438694569982">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1438623982169">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/ietfparse/docs/conf.py" timestamp="1411266927643">
         <mark key="'" line="12" column="0" />
@@ -854,7 +836,7 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
       </file>
-      <file name="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1437763429615">
+      <file name="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1439214440844">
         <mark key="'" line="379" column="25" />
       </file>
       <file name="$USER_HOME$/Source/python/messages/env/lib/python3.4/site-packages/dns/resolver.py" timestamp="1431000085030">
@@ -1133,9 +1115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Source/platform/bandoleers/bandoleers/waitfor.py" />
-      <jump line="19" column="23" filename="$USER_HOME$/Source/platform/history/history.py" />
       <jump line="17" column="27" filename="$USER_HOME$/Source/platform/history/history.py" />
       <jump line="712" column="34" filename="$USER_HOME$/Source/platform/history/history.py" />
       <jump line="702" column="15" filename="$USER_HOME$/Source/platform/history/history.py" />
@@ -1233,6 +1212,9 @@
       <jump line="31" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avroconsumer.py" />
       <jump line="25" column="30" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avroconsumer.py" />
       <jump line="309" column="60" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="217" column="24" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
+      <jump line="379" column="25" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/testing.py" />
+      <jump line="226" column="22" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/httpclient.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
