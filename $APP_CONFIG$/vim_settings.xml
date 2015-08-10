@@ -1071,8 +1071,8 @@
       <file name="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/helper/controller.py" timestamp="1434664275658">
         <mark key="'" line="91" column="37" />
       </file>
-      <file name="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" timestamp="1438102945598">
-        <mark key="'" line="1378" column="47" />
+      <file name="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" timestamp="1439217198485">
+        <mark key="'" line="966" column="13" />
       </file>
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/utils.py" timestamp="1435330777071">
         <mark key="'" line="10" column="5" />
@@ -1115,9 +1115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="27" filename="$USER_HOME$/Source/platform/history/history.py" />
-      <jump line="712" column="34" filename="$USER_HOME$/Source/platform/history/history.py" />
-      <jump line="702" column="15" filename="$USER_HOME$/Source/platform/history/history.py" />
       <jump line="701" column="21" filename="$USER_HOME$/Source/platform/history/history.py" />
       <jump line="698" column="16" filename="$USER_HOME$/Source/platform/history/history.py" />
       <jump line="694" column="24" filename="$USER_HOME$/Source/platform/history/history.py" />
@@ -1215,6 +1212,9 @@
       <jump line="217" column="24" filename="$USER_HOME$/Source/platform/authorization/tests.py" />
       <jump line="379" column="25" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/testing.py" />
       <jump line="226" column="22" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/httpclient.py" />
+      <jump line="153" column="4" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
+      <jump line="966" column="13" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
+      <jump line="281" column="8" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3350,7 +3350,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>def set_status</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLndvcmtlci5fbWVzc2FnZS5wcm9wZXJ0aWVzLmhlYWRlcnNbJ3NtdHBfZW5kcG9pbnQnXSA9ICcxMjcuMC4wLjE6MjYnCg==</text>
@@ -5030,9 +5030,9 @@
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>def set_status</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>def set_status</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5040,7 +5040,6 @@
     </search>
     <history>
       <history-search>
-        <entry>avrohelpers</entry>
         <entry encoding="base64">XDxQQVNTX1RIUk9VR0hfQVRUUklCVVRFU1w+</entry>
         <entry encoding="base64">XDxBdnJvTWVzc2FnZVNlbmRlclw+</entry>
         <entry encoding="base64">XDxEcm9wTWVzc2FnZVw+</entry>
@@ -5060,6 +5059,7 @@
         <entry>sentry_client</entry>
         <entry>_process</entry>
         <entry>print</entry>
+        <entry>def set_status</entry>
       </history-search>
       <history-cmd>
         <entry>146</entry>
