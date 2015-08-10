@@ -9,6 +9,9 @@
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/unix_events.py" timestamp="1423403638263">
         <mark key="'" line="32" column="45" />
       </file>
+      <file name="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/db.py" timestamp="1439235419458">
+        <mark key="'" line="141" column="15" />
+      </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/protocols.py" timestamp="1419555430412">
         <mark key="'" line="61" column="15" />
       </file>
@@ -267,8 +270,8 @@
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py" timestamp="1436364266305">
         <mark key="'" line="828" column="13" />
       </file>
-      <file name="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/views/subscribers.py" timestamp="1437743012905">
-        <mark key="'" line="286" column="19" />
+      <file name="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/views/subscribers.py" timestamp="1439235347324">
+        <mark key="'" line="270" column="0" />
       </file>
       <file name="$USER_HOME$/Source/work/test-helpers/docs/http-services.rst" timestamp="1431307514605">
         <mark key="'" line="7" column="0" />
@@ -1115,22 +1118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="701" column="21" filename="$USER_HOME$/Source/platform/history/history.py" />
-      <jump line="698" column="16" filename="$USER_HOME$/Source/platform/history/history.py" />
-      <jump line="694" column="24" filename="$USER_HOME$/Source/platform/history/history.py" />
-      <jump line="692" column="15" filename="$USER_HOME$/Source/platform/history/history.py" />
-      <jump line="691" column="17" filename="$USER_HOME$/Source/platform/history/history.py" />
-      <jump line="25" column="4" filename="$USER_HOME$/Source/platform/history/history.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
       <jump line="464" column="28" filename="$USER_HOME$/Source/platform/history/history.py" />
       <jump line="359" column="56" filename="$USER_HOME$/Source/platform/history/history.py" />
       <jump line="93" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
@@ -1215,6 +1202,22 @@
       <jump line="153" column="4" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
       <jump line="966" column="13" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
       <jump line="281" column="8" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
+      <jump line="294" column="0" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/views/subscribers.py" />
+      <jump line="292" column="0" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/views/subscribers.py" />
+      <jump line="289" column="0" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/views/subscribers.py" />
+      <jump line="285" column="0" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/views/subscribers.py" />
+      <jump line="283" column="0" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/views/subscribers.py" />
+      <jump line="279" column="0" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/views/subscribers.py" />
+      <jump line="270" column="0" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/views/subscribers.py" />
+      <jump line="151" column="0" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/db.py" />
+      <jump line="162" column="0" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/db.py" />
+      <jump line="164" column="0" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/db.py" />
+      <jump line="168" column="0" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/db.py" />
+      <jump line="176" column="0" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/db.py" />
+      <jump line="189" column="0" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/db.py" />
+      <jump line="191" column="0" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/db.py" />
+      <jump line="195" column="0" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/db.py" />
+      <jump line="141" column="15" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/db.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
