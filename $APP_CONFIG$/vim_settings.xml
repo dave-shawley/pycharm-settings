@@ -85,7 +85,7 @@
         <mark key="." line="20" column="7" />
         <mark key="[" line="16" column="28" />
       </file>
-      <file name="/fragment.py" timestamp="1437924892860">
+      <file name="/fragment.py" timestamp="1439295474029">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-janitor/README.rst" timestamp="1416452331069">
@@ -209,7 +209,7 @@
         <mark key="." line="158" column="0" />
         <mark key="[" line="158" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1439295045773">
+      <file name="/Python Console" timestamp="1439295606690">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/glinda/examples/contentneg.py" timestamp="1439138730671">
@@ -535,12 +535,11 @@
         <mark key="." line="64" column="40" />
         <mark key="[" line="64" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/python/glinda/glinda/content.py" timestamp="1439295039809">
+      <file name="$USER_HOME$/Source/python/glinda/glinda/content.py" timestamp="1439295628471">
         <mark key="'" line="162" column="0" />
-        <mark key="]" line="69" column="51" />
-        <mark key="^" line="69" column="51" />
-        <mark key="." line="69" column="51" />
-        <mark key="[" line="69" column="46" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
+        <mark key="[" line="205" column="0" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/protocols.py" timestamp="1438435998247">
         <mark key="'" line="61" column="15" />
@@ -1037,8 +1036,8 @@
       <jump line="32" column="0" filename="$USER_HOME$/Source/python/glinda/tests/content_tests.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bah.encode('utf-8')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VfZGljdFsnYXJncyddWyd1dGY4J11bMF0sICd1dGYtOCcpCg==</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5pbmZvKCdjb25uZWN0aW5nIHRvICVzOiVzJywgc2VsZi5ob3N0LCBzZWxmLnBvcnQpCiAgICAgICAgdHJhbnNwb3J0LCBwcm90b2NvbCA9IHlpZWxkIGZyb20gc2VsZi5sb29wLmNyZWF0ZV9jb25uZWN0aW9uKAogICAgICAgICAgICBwcm90b2NvbF9mYWN0b3J5PWxhbWJkYTogc2VsZiwgaG9zdD1zZWxmLmhvc3QsIHBvcnQ9c2VsZi5wb3J0KQogICAgICAgIHNlbGYubG9nZ2VyLmRlYnVnKCdjb25uZWN0ZWQgdG8gJXInLCB0cmFuc3BvcnQpCg==</text>
@@ -3170,7 +3169,7 @@
         <text>fall_back</text>
       </register>
       <register name="-" type="4">
-        <text>bah.encode('utf-8')</text>
+        <text>unicode</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4813,40 +4812,40 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFoID0gc2VsZi5kaWN0X3RvX3N0cmluZyhvYmpfZGljdCkK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgY29kZWNzCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>encoding</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXNwb25zZV9kaWN0WydhcmdzJ11bJ3V0ZjgnXVswXSA9IGNvZGVjcy5lbmNvZGUoCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>bah.encode('utf-8')</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VfZGljdFsnYXJncyddWyd1dGY4J11bMF0sICd1dGYtOCcpCg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ2RpY3RfdG9fc3RyaW5nOiB0eXBlPSVzIHN0cmluZz0lcicsCiAgICAgICAgICAgICAgICAgICAgICAgIHR5cGUoYmFoKSwgYmFoKQogICAgICAgICAgICByZXN1bHQgPSBiYWguZW5jb2RlKGVuY29kaW5nKQogICAgICAgICAgICBsb2dnZXIuaW5mbygnZGljdF90b19zdHJpbmcuZW5jb2RlOiB0eXBlPSVzIHN0cmluZz0lcicsCiAgICAgICAgICAgICAgICAgICAgICAgIHR5cGUocmVzdWx0KSwgcmVzdWx0KQo=</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZV9kaWN0WydhcmdzJ11bJ3V0ZjgnXVswXSA9IHVuaWNvZGUocmVzcG9uc2VfZGljdFsnYXJncyddWyd1dGY4J11bMF0pCg==</text>
       </register>
       <register name="7" type="4">
-        <text>bah.encode(encoding)</text>
+        <text>encoding</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFoID0gc2VsZi5kaWN0X3RvX3N0cmluZyhvYmpfZGljdCkK</text>
+      <register name="6" type="4">
+        <text>bah.encode('utf-8')</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="5" type="4">
-        <text>encoding</text>
+        <text>response_dict['args']['utf8'][0] = unicode(response_dict['args']['utf8'][0])</text>
       </register>
       <register name="4" type="4">
-        <text>bah.encode('utf-8')</text>
+        <text>unicode</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2RpY3RfdG9fc3RyaW5nJywgdHlwZShiYWgpLCBiYWgpCg==</text>
+      <register name="9" type="4">
+        <text>bah.encode('utf-8')</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2RpY3RfdG9fc3RyaW5nOnV0ZjgnLCByZXByKGJhaCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFoID0gc2VsZi5kaWN0X3RvX3N0cmluZyhvYmpfZGljdCkK</text>
       </register>
     </registers>
     <search>
