@@ -611,6 +611,9 @@
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/transports.py" timestamp="1419596430478">
         <mark key="'" line="128" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/core-api/awsubscribers/tests/integration/views/test_subscribers.py" timestamp="1439306790470">
+        <mark key="'" line="60" column="12" />
+      </file>
       <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/helpers.py" timestamp="1438703289617">
         <mark key="a" line="5" column="23" />
         <mark key="'" line="14" column="0" />
@@ -1136,7 +1139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="17" filename="$USER_HOME$/Source/platform/history/history.py" />
       <jump line="731" column="21" filename="$USER_HOME$/Source/platform/history/history.py" />
       <jump line="83" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
       <jump line="84" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
@@ -1236,6 +1238,7 @@
       <jump line="226" column="13" filename="$USER_HOME$/Source/sandbox/glinda/glinda/testing/services.py" />
       <jump line="212" column="13" filename="$USER_HOME$/Source/sandbox/glinda/glinda/testing/services.py" />
       <jump line="84" column="46" filename="$USER_HOME$/Source/sandbox/glinda/tests/testing_tests.py" />
+      <jump line="60" column="12" filename="$USER_HOME$/Source/core-api/awsubscribers/tests/integration/views/test_subscribers.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3371,7 +3374,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>def set_status</text>
+        <text>POST</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLndvcmtlci5fbWVzc2FnZS5wcm9wZXJ0aWVzLmhlYWRlcnNbJ3NtdHBfZW5kcG9pbnQnXSA9ICcxMjcuMC4wLjE6MjYnCg==</text>
@@ -5047,13 +5050,13 @@
         <text encoding="base64">ICAgICAgICBjbGllbnQgPSAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search>def set_status</last-search>
+      <last-search>POST</last-search>
       <last-offset />
-      <last-pattern>def set_status</last-pattern>
+      <last-pattern>POST</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -5061,7 +5064,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQQVNTX1RIUk9VR0hfQVRUUklCVVRFU1w+</entry>
         <entry encoding="base64">XDxBdnJvTWVzc2FnZVNlbmRlclw+</entry>
         <entry encoding="base64">XDxEcm9wTWVzc2FnZVw+</entry>
         <entry>DropMessage</entry>
@@ -5081,6 +5083,7 @@
         <entry>_process</entry>
         <entry>print</entry>
         <entry>def set_status</entry>
+        <entry>POST</entry>
       </history-search>
       <history-cmd>
         <entry>146</entry>
@@ -5101,8 +5104,8 @@
         <entry>vs</entry>
         <entry>710</entry>
         <entry>1</entry>
-        <entry>vsp</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
