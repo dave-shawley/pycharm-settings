@@ -9,8 +9,8 @@
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/unix_events.py" timestamp="1423403638263">
         <mark key="'" line="32" column="45" />
       </file>
-      <file name="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/db.py" timestamp="1439235419458">
-        <mark key="'" line="141" column="15" />
+      <file name="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/db.py" timestamp="1439298746078">
+        <mark key="'" line="14" column="4" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/protocols.py" timestamp="1419555430412">
         <mark key="'" line="61" column="15" />
@@ -270,8 +270,12 @@
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py" timestamp="1436364266305">
         <mark key="'" line="828" column="13" />
       </file>
-      <file name="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/views/subscribers.py" timestamp="1439237393020">
-        <mark key="'" line="444" column="24" />
+      <file name="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/views/subscribers.py" timestamp="1439298724595">
+        <mark key="'" line="447" column="24" />
+        <mark key="[" line="199" column="23" />
+        <mark key="]" line="201" column="43" />
+        <mark key="^" line="201" column="43" />
+        <mark key="." line="201" column="43" />
       </file>
       <file name="$USER_HOME$/Source/work/test-helpers/docs/http-services.rst" timestamp="1431307514605">
         <mark key="'" line="7" column="0" />
@@ -1118,9 +1122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="359" column="56" filename="$USER_HOME$/Source/platform/history/history.py" />
-      <jump line="93" column="0" filename="$USER_HOME$/Source/platform/history/history.py" />
-      <jump line="365" column="8" filename="$USER_HOME$/Source/platform/history/history.py" />
       <jump line="675" column="37" filename="$USER_HOME$/Source/platform/history/history.py" />
       <jump line="493" column="34" filename="$USER_HOME$/Source/platform/history/history.py" />
       <jump line="371" column="56" filename="$USER_HOME$/Source/platform/history/history.py" />
@@ -1217,7 +1218,10 @@
       <jump line="191" column="0" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/db.py" />
       <jump line="195" column="0" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/db.py" />
       <jump line="141" column="15" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/db.py" />
+      <jump line="287" column="23" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/views/subscribers.py" />
       <jump line="444" column="24" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/views/subscribers.py" />
+      <jump line="14" column="4" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/db.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/models/queries.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
