@@ -64,8 +64,12 @@
       <map>
         <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
         <entry key="$USER_HOME$/Source/communicator/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Source/core-api/awsubscribers/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Source/core-api/voyager/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/family-tree/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Source/platform/authorization/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/platform/spoolconsumer/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Source/platform/sprockets.mixins.auth/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/python/family-tree/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/python/fluent-test/env/bin/python" value="true" />
