@@ -89,6 +89,7 @@
         <entry key="$USER_HOME$/Source/python/sprockets/sprockets.clients.postgresql/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/python/tokenauth/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/python/zender/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Source/sandbox/glinda/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Temporary/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Temporary/miming/env/bin/python" value="true" />
       </map>
