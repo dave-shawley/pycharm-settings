@@ -823,9 +823,9 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1436986337106">
         <mark key="'" line="572" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1438976359688">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1439562456213">
         <mark key="a" line="230" column="44" />
-        <mark key="'" line="309" column="60" />
+        <mark key="'" line="492" column="36" />
         <mark key="[" line="394" column="66" />
         <mark key="]" line="394" column="66" />
         <mark key="^" line="394" column="66" />
@@ -1146,12 +1146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
-      <jump line="101" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
-      <jump line="104" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
-      <jump line="108" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
-      <jump line="116" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
       <jump line="119" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
       <jump line="122" column="0" filename="$USER_HOME$/Source/platform/search_recipients/search_recipient.py" />
       <jump line="710" column="31" filename="$USER_HOME$/Source/platform/history/history.py" />
@@ -1246,6 +1240,12 @@
       <jump line="355" column="4" filename="$USER_HOME$/Source/core-api/awsubscribers/env/lib/python2.7/site-packages/capitesting/fixtures/app.py" />
       <jump line="543" column="17" filename="$USER_HOME$/Source/platform/routing/routing.py" />
       <jump line="801" column="8" filename="$USER_HOME$/Source/platform/routing/env/lib/python3.4/site-packages/tornado/web.py" />
+      <jump line="396" column="30" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="488" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="508" column="31" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="238" column="8" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/smtplib.py" />
+      <jump line="492" column="36" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="240" column="4" filename="$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-1373765738/_socket.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
