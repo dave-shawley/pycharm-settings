@@ -823,8 +823,9 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1436986337106">
         <mark key="'" line="572" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1439567711210">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1439568476038">
         <mark key="a" line="230" column="44" />
+        <mark key="'" line="484" column="29" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
@@ -1141,7 +1142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="13" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/process.py" />
       <jump line="662" column="20" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/process.py" />
       <jump line="692" column="13" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/process.py" />
       <jump line="148" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
@@ -1159,7 +1159,6 @@
       <jump line="446" column="19" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/process.py" />
       <jump line="460" column="10" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/process.py" />
       <jump line="637" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/process.py" />
-      <jump line="394" column="30" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="370" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="366" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="352" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
@@ -1210,7 +1209,6 @@
       <jump line="543" column="17" filename="$USER_HOME$/Source/platform/routing/routing.py" />
       <jump line="801" column="8" filename="$USER_HOME$/Source/platform/routing/env/lib/python3.4/site-packages/tornado/web.py" />
       <jump line="238" column="8" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/smtplib.py" />
-      <jump line="240" column="4" filename="$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-1373765738/_socket.py" />
       <jump line="488" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="492" column="30" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="241" column="4" filename="$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-1373765738/_socket.py" />
@@ -1241,6 +1239,9 @@
       <jump line="388" column="12" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="385" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="377" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="394" column="30" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="484" column="29" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="240" column="4" filename="$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-1373765738/_socket.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
