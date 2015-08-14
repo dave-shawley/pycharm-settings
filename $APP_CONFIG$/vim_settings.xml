@@ -546,9 +546,9 @@
         <mark key="^" line="43" column="15" />
         <mark key="." line="43" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" timestamp="1439577496784">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" timestamp="1439580512505">
         <mark key="a" line="234" column="39" />
-        <mark key="'" line="222" column="0" />
+        <mark key="'" line="233" column="18" />
         <mark key="[" line="231" column="0" />
         <mark key="]" line="231" column="0" />
         <mark key="^" line="290" column="35" />
@@ -1149,8 +1149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="4" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
-      <jump line="966" column="13" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
       <jump line="281" column="8" filename="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/web.py" />
       <jump line="294" column="0" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/views/subscribers.py" />
       <jump line="292" column="0" filename="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/views/subscribers.py" />
@@ -1229,7 +1227,6 @@
       <jump line="189" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="197" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="201" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="204" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="242" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="267" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="291" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
@@ -1244,11 +1241,14 @@
       <jump line="250" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="245" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="243" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="238" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
-      <jump line="230" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="202" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="204" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="210" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="216" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="222" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="230" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="238" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="233" column="18" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
