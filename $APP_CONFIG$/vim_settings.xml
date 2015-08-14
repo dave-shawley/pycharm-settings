@@ -542,13 +542,13 @@
         <mark key="^" line="43" column="15" />
         <mark key="." line="43" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" timestamp="1439581433535">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" timestamp="1439586811589">
         <mark key="a" line="233" column="8" />
-        <mark key="'" line="178" column="8" />
-        <mark key="[" line="234" column="0" />
-        <mark key="]" line="234" column="52" />
-        <mark key="^" line="231" column="17" />
-        <mark key="." line="234" column="0" />
+        <mark key="'" line="232" column="24" />
+        <mark key="[" line="276" column="55" />
+        <mark key="]" line="276" column="68" />
+        <mark key="^" line="276" column="68" />
+        <mark key="." line="276" column="68" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/channel.py" timestamp="1430058303912">
         <mark key="'" line="1056" column="24" />
@@ -825,13 +825,13 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1436986337106">
         <mark key="'" line="572" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1439585658634">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1439586919990">
         <mark key="a" line="230" column="44" />
-        <mark key="'" line="469" column="0" />
-        <mark key="[" line="460" column="66" />
-        <mark key="]" line="461" column="32" />
-        <mark key="^" line="461" column="32" />
-        <mark key="." line="461" column="32" />
+        <mark key="'" line="491" column="0" />
+        <mark key="[" line="487" column="45" />
+        <mark key="]" line="487" column="45" />
+        <mark key="^" line="487" column="78" />
+        <mark key="." line="487" column="45" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
@@ -1144,14 +1144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="8" filename="$USER_HOME$/Source/sandbox/glinda/glinda/testing/services.py" />
-      <jump line="200" column="0" filename="$USER_HOME$/Source/sandbox/glinda/glinda/testing/services.py" />
-      <jump line="204" column="0" filename="$USER_HOME$/Source/sandbox/glinda/glinda/testing/services.py" />
-      <jump line="226" column="13" filename="$USER_HOME$/Source/sandbox/glinda/glinda/testing/services.py" />
-      <jump line="212" column="13" filename="$USER_HOME$/Source/sandbox/glinda/glinda/testing/services.py" />
-      <jump line="84" column="46" filename="$USER_HOME$/Source/sandbox/glinda/tests/testing_tests.py" />
-      <jump line="60" column="12" filename="$USER_HOME$/Source/core-api/awsubscribers/tests/integration/views/test_subscribers.py" />
-      <jump line="416" column="29" filename="$USER_HOME$/Source/core-api/awsubscribers/tests/integration/views/test_subscribers.py" />
       <jump line="355" column="4" filename="$USER_HOME$/Source/core-api/awsubscribers/env/lib/python2.7/site-packages/capitesting/fixtures/app.py" />
       <jump line="543" column="17" filename="$USER_HOME$/Source/platform/routing/routing.py" />
       <jump line="801" column="8" filename="$USER_HOME$/Source/platform/routing/env/lib/python3.4/site-packages/tornado/web.py" />
@@ -1244,6 +1236,14 @@
       <jump line="482" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="479" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="469" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="458" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="504" column="16" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="491" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="109" column="61" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="220" column="52" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="232" column="24" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3379,10 +3379,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY2FsbGJhY2tzXD4=</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihzZWxmLnNtdHAubWVzc2FnZXMpLCAxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2Ugc29ja2V0LmVycm9yKCdyZWZ1c2luZyB0byBpbmplY3QgaW50byAlcycsIGFkZHJlc3MpCg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IA==</text>
@@ -3390,20 +3390,20 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYuYXNzZXJ0UmFpc2VzKHJlamVjdGVkLmNvbnN1bWVyLk1lc3NhZ2VFeGNlcHRpb24pOgo=</text>
+      <register name="2" type="4">
+        <text>failed</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEB1bml0dGVzdC5za2lwCg==</text>
+      <register name="3" type="4">
+        <text>host</text>
       </register>
       <register name="4" type="4">
-        <text>]</text>
+        <text>address</text>
       </register>
       <register name="5" type="4">
-        <text>[</text>
+        <text>refusing to inject into %s', address)</text>
       </register>
       <register name="6" type="4">
-        <text>raise</text>
+        <text>i</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5046,30 +5046,29 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>l</text>
+        <text encoding="base64">b3Ig</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text encoding="base64">YWRkcmVzcyA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24oKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY2FsbGJhY2tzXD4=</last-search>
+      <last-search>127.0.0.1</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY2FsbGJhY2tzXD4=</last-pattern>
+      <last-pattern>127.0.0.1</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ConsumerException</entry>
         <entry>MessageException</entry>
         <entry>close_all</entry>
         <entry encoding="base64">XDx2XD4=</entry>
@@ -5089,6 +5088,7 @@
         <entry encoding="base64">XDxfcmVzcG9uc2VzXD4=</entry>
         <entry encoding="base64">XDxfbWVzc2FnZXNcPg==</entry>
         <entry encoding="base64">XDxfY2FsbGJhY2tzXD4=</entry>
+        <entry>127.0.0.1</entry>
       </history-search>
       <history-cmd>
         <entry>s/&quot;/'/g</entry>
@@ -5107,10 +5107,10 @@
         <entry>393</entry>
         <entry>418</entry>
         <entry>q</entry>
-        <entry>1</entry>
         <entry>vsp</entry>
         <entry>sp</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
