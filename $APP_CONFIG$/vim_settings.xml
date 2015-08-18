@@ -5055,7 +5055,7 @@
         <text encoding="base64">b3Ig</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -5102,7 +5102,6 @@
         <entry>r /tmp/foo</entry>
         <entry>1`</entry>
         <entry>180</entry>
-        <entry>vs</entry>
         <entry>710</entry>
         <entry>393</entry>
         <entry>418</entry>
@@ -5111,6 +5110,7 @@
         <entry>sp</entry>
         <entry>w</entry>
         <entry>1</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
