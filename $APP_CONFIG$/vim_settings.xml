@@ -25,12 +25,12 @@
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/header.py" timestamp="1435338901903">
         <mark key="'" line="96" column="43" />
       </file>
-      <file name="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" timestamp="1440017797235">
-        <mark key="'" line="22" column="8" />
-        <mark key="[" line="30" column="38" />
-        <mark key="]" line="30" column="58" />
-        <mark key="." line="30" column="58" />
-        <mark key="^" line="30" column="58" />
+      <file name="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" timestamp="1440019279062">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="30" column="47" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="23" column="58" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/haregel/application.py" timestamp="1424434445035">
         <mark key="'" line="30" column="38" />
@@ -392,13 +392,13 @@
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/multiprocessing/process.py" timestamp="1436543425141">
         <mark key="'" line="95" column="16" />
       </file>
-      <file name="$USER_HOME$/Source/platform/sprockets.mixins.media_type/sprockets/mixins/media_type.py" timestamp="1440018048602">
-        <mark key="a" line="76" column="74" />
-        <mark key="'" line="7" column="41" />
-        <mark key="[" line="29" column="46" />
-        <mark key="]" line="29" column="46" />
-        <mark key="." line="29" column="46" />
-        <mark key="^" line="29" column="46" />
+      <file name="$USER_HOME$/Source/platform/sprockets.mixins.media_type/sprockets/mixins/media_type.py" timestamp="1440019265865">
+        <mark key="a" line="78" column="74" />
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="73" column="31" />
+        <mark key="]" line="73" column="43" />
+        <mark key="." line="73" column="43" />
+        <mark key="^" line="73" column="43" />
       </file>
       <file name="$USER_HOME$/Source/platform/routing/routing.py" timestamp="1439327921006">
         <mark key="'" line="543" column="17" />
@@ -1193,10 +1193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/examples.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/examples.py" />
-      <jump line="0" column="10" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/examples.py" />
-      <jump line="33" column="4" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/examples.py" />
       <jump line="30" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/examples.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/examples.py" />
       <jump line="38" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/sprockets/mixins/media_type.py" />
@@ -1293,13 +1289,17 @@
       <jump line="14" column="8" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
       <jump line="22" column="8" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
       <jump line="7" column="41" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/sprockets/mixins/media_type.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/sprockets/mixins/media_type.py" />
+      <jump line="30" column="58" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CmNsYXNzIEF2cm9NZXNzYWdlU2VuZGVyKGF2cm9jb25zdW1lci5EYXR1bUNvbnN1bFNjaGVtYUNvbnN1bWVyKToKICAgICIiIk1peCB0aGlzIGluIHRvIGVhc2lseSBzZW5kIEF2cm8tZW5jb2RlZCBtZXNzYWdlcy4iIiIKCiAgICBkZWYgcHVibGlzaF9hdnJvX21lc3NhZ2Uoc2VsZiwgbXNnX3R5cGUsIGlucHV0X21lc3NhZ2UsIHJvdXRpbmdfaW5mbywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtc2dfYm9keSk6CiAgICAgICAgIiIiCiAgICAgICAgUHVibGlzaCBhbiBBdnJvLWVuY29kZWQgbWVzc2FnZS4KCiAgICAgICAgOnBhcmFtIGRpY3QgaW5wdXRfbWVzc2FnZTogbWVzc2FnZSB0byBjb3B5ICJwYXNzLXRocm91Z2giIGZpZWxkcyBmcm9tCiAgICAgICAgOnBhcmFtIHN0ciBtc2dfdHlwZTogbWVzc2FnZSB0eXBlIHRvIHB1Ymxpc2guICBUaGlzIGlzIHVzZWQgdG8KICAgICAgICAgICAgZGV0ZXJtaW5lIHRoZSBzY2hlbWEgKHNlZSA6bWV0aDpgX2dldF9zY2hlbWFgKSB0byBlbmNvZGUgdGhlCiAgICAgICAgICAgIG1lc3NhZ2Ugd2l0aAogICAgICAgIDpwYXJhbSBkaWN0IHJvdXRpbmdfaW5mbzogcm91dGluZyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgZXZlbnQuICBUaGlzCiAgICAgICAgICAgIGRpY3Rpb25hcnkgY29udGFpbnMgYXQgbGVhc3QgdGhlIGBgZXhjaGFuZ2VgYCBhbmQgYGByb3V0aW5nX2tleWBgCiAgICAgICAgOnBhcmFtIGRpY3QgbXNnX2JvZHk6IG1lc3NhZ2UgdG8gZW5jb2RlCgogICAgICAgICIiIgogICAgICAgIG1zZ19ib2R5LnNldGRlZmF1bHQoJ3RpbWVzdGFtcCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRldGltZS5kYXRldGltZS51dGNub3coKS5pc29mb3JtYXQoKSkKICAgICAgICBmb3IgcGFzc190aHJ1IGluIFBBU1NfVEhST1VHSF9BVFRSSUJVVEVTOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBtc2dfYm9keVtwYXNzX3RocnVdID0gaW5wdXRfbWVzc2FnZVtwYXNzX3RocnVdCiAgICAgICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgICAgIHBhc3MKCiAgICAgICAgc2NoZW1hID0gc2VsZi5fZ2V0X3NjaGVtYShtc2dfdHlwZSkKICAgICAgICBhdnJvX21lc3NhZ2UgPSBzZWxmLl9zZXJpYWxpemUoc2NoZW1hLCBtc2dfYm9keSkKCiAgICAgICAgcHJvcGVydGllcyA9IHsKICAgICAgICAgICAgJ2FwcF9pZCc6IF9fcGFja2FnZV9fLAogICAgICAgICAgICAnY29ycmVsYXRpb25faWQnOiBzZWxmLl9jb3JyZWxhdGlvbl9pZCwKICAgICAgICAgICAgJ2NvbnRlbnRfdHlwZSc6ICdhcHBsaWNhdGlvbi92bmQuYXBhY2hlLmF2cm8uZGF0dW0nLAogICAgICAgICAgICAnbWVzc2FnZV9pZCc6IHV1aWQudXVpZDQoKS5oZXgsCiAgICAgICAgICAgICd0eXBlJzogbXNnX3R5cGUsCiAgICAgICAgfQogICAgICAgIExPR0dFUi5kZWJ1ZygncHVibGlzaGluZyAlcyBtZXNzYWdlIHtDSUQgJXN9JywgbXNnX3R5cGUsCiAgICAgICAgICAgICAgICAgICAgIHNlbGYuX2NvcnJlbGF0aW9uX2lkKQogICAgICAgIHNlbGYucHVibGlzaF9tZXNzYWdlKHJvdXRpbmdfaW5mb1snZXhjaGFuZ2UnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3V0aW5nX2luZm9bJ3JvdXRpbmdfa2V5J10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydGllcywgYXZyb19tZXNzYWdlKQoKICAgIGRlZiBkcm9wX21lc3NhZ2Uoc2VsZiwgZHJvcF9kZXRhaWxzLCBpbnB1dF9tZXNzYWdlLCByb3V0aW5nX2luZm8pOgogICAgICAgICIiIgogICAgICAgIFB1Ymxpc2ggYW4gQXZyby1lbmNvZGVkICJkcm9wIiBtZXNzYWdlLgoKICAgICAgICA6cGFyYW0gRHJvcERldGFpbHMgZHJvcF9kZXRhaWxzOiBkZXRhaWxzIGFib3V0IHRoaXMgc3BlY2lmaWMKICAgICAgICAgICAgZHJvcCBldmVudAogICAgICAgIDpwYXJhbSBkaWN0IGlucHV0X21lc3NhZ2U6IG1lc3NhZ2UgdG8gY29weSAicGFzcy10aHJvdWdoIiBmaWVsZHMgZnJvbQogICAgICAgIDpwYXJhbSBkaWN0IHJvdXRpbmdfaW5mbzogcm91dGluZyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgZXZlbnQuICBUaGlzCiAgICAgICAgICAgIGRpY3Rpb25hcnkgY29udGFpbnMgYXQgbGVhc3QgdGhlIGBgZXhjaGFuZ2VgYCBhbmQgYGByb3V0aW5nX2tleWBgCgogICAgICAgICIiIgogICAgICAgIHNlbGYucHVibGlzaF9hdnJvX21lc3NhZ2UoJ2Ryb3AudjEnLCBpbnB1dF9tZXNzYWdlLCByb3V0aW5nX2luZm8sIHsKICAgICAgICAgICAgJ2Ryb3BwZWRfYnknOiBfX3BhY2thZ2VfXywKICAgICAgICAgICAgJ3JlYXNvbic6IGRyb3BfZGV0YWlscy5yZWFzb24sCiAgICAgICAgfSkKICAgICAgICBzZWxmLnN0YXRzZF9pbmNyKCdldmVudHMuZHJvcHBlZCcpCiAgICAgICAgc2VsZi5sb2dfZXhjZXB0aW9uKCdkcm9wcGVkIG1lc3NhZ2UgLSAlcyBNRVNTQUdFICVzIHtDSUQgJXN9JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgZHJvcF9kZXRhaWxzLnJlYXNvbiwgc2VsZi5tZXNzYWdlX2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl9jb3JyZWxhdGlvbl9pZCkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXZhaWxhYmxlID0gW2hlYWRlcnMucGFyc2VfY29udGVudF90eXBlKGNvbnRlbnRfdHlwZSkKICAgICAgICAgICAgICAgICAgICAgICAgIGZvciBjb250ZW50X3R5cGUgaW4gc2V0dGluZ3MuaGFuZGxlcnNdCg==</text>
+        <text encoding="base64">CiAgICBkZWYgdGVzdF90aGF0X2FjY2VwdF9oZWFkZXJfaXNfb2JleWVkKHNlbGYpOgogICAgICAgIHJlc3BvbnNlID0gc2VsZi5mZXRjaCgnLycsIG1ldGhvZD0nUE9TVCcsIGJvZHk9J3t9JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVhZGVycz17J0FjY2VwdCc6ICdhcHBsaWNhdGlvbi9tc2dwYWNrJ30pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXNwb25zZS5jb2RlLCAyMDApCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXNwb25zZS5oZWFkZXJzWydDb250ZW50LVR5cGUnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICdhcHBsaWNhdGlvbi9tc2dwYWNrJykK</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3425,34 +3425,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>available</text>
+        <text>+add_binary_content_type()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0X2N1cnNvclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3BvbnNlLmhlYWRlcnNbJ0NvbnRlbnQtVHlwZSddLAogICAgICAgICAgICAgICAgICAgICAgICAgJ2FwcGxpY2F0aW9uL21zZ3BhY2snKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0dGluZ3MgPSBfZ2V0X2NvbnRlbnRfc2V0dGluZ3Moc2VsZi5hcHBsaWNhdGlvbikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXZhaWxhYmxlID0gW2hlYWRlcnMucGFyc2VfY29udGVudF90eXBlKGNvbnRlbnRfdHlwZSkKICAgICAgICAgICAgICAgICAgICAgICAgIGZvciBjb250ZW50X3R5cGUgaW4gc2V0dGluZ3MuaGFuZGxlcnNdCg==</text>
+        <text encoding="base64">CiAgICBkZWYgdGVzdF90aGF0X2FjY2VwdF9oZWFkZXJfaXNfb2JleWVkKHNlbGYpOgogICAgICAgIHJlc3BvbnNlID0gc2VsZi5mZXRjaCgnLycsIG1ldGhvZD0nUE9TVCcsIGJvZHk9J3t9JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVhZGVycz17J0FjY2VwdCc6ICdhcHBsaWNhdGlvbi9tc2dwYWNrJ30pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXNwb25zZS5jb2RlLCAyMDApCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXNwb25zZS5oZWFkZXJzWydDb250ZW50LVR5cGUnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICdhcHBsaWNhdGlvbi9tc2dwYWNrJykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>available</text>
+        <text>+add_binary_content_type()</text>
       </register>
-      <register name="3" type="4">
-        <text>pass</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>add(content_type)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fYmVzdF9yZXNwb25zZV9tYXRjaAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>set()</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXZhaWxhYmxlID0gW2hlYWRlcnMucGFyc2VfY29udGVudF90eXBlKGNvbnRlbnRfdHlwZSkKICAgICAgICAgICAgICAgICAgICAgICAgIGZvciBjb250ZW50X3R5cGUgaW4gc2V0dGluZ3MuaGFuZGxlcnNdCg==</text>
       </register>
       <register name="6" type="4">
-        <text>passb</text>
+        <text>available</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5095,16 +5095,16 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
+        <text>pass</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>add(content_type)</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>set()</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -5158,8 +5158,8 @@
         <entry>vs</entry>
         <entry>sp</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
