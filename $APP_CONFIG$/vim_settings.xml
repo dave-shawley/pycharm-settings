@@ -25,11 +25,13 @@
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/header.py" timestamp="1435338901903">
         <mark key="'" line="96" column="43" />
       </file>
-      <file name="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" timestamp="1440019522576">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" timestamp="1440075272324">
+        <mark key="a" line="60" column="8" />
+        <mark key="'" line="3" column="13" />
+        <mark key="[" line="60" column="74" />
+        <mark key="]" line="61" column="74" />
+        <mark key="." line="61" column="74" />
+        <mark key="^" line="61" column="74" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/haregel/application.py" timestamp="1424434445035">
         <mark key="'" line="30" column="38" />
@@ -397,12 +399,12 @@
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/multiprocessing/process.py" timestamp="1436543425141">
         <mark key="'" line="95" column="16" />
       </file>
-      <file name="$USER_HOME$/Source/platform/sprockets.mixins.media_type/sprockets/mixins/media_type.py" timestamp="1440021357702">
+      <file name="$USER_HOME$/Source/platform/sprockets.mixins.media_type/sprockets/mixins/media_type.py" timestamp="1440075348316">
         <mark key="a" line="104" column="45" />
         <mark key="'" line="179" column="8" />
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform/routing/routing.py" timestamp="1439327921006">
         <mark key="'" line="543" column="17" />
@@ -973,11 +975,6 @@
         <mark key="^" line="22" column="4" />
         <mark key="." line="53" column="7" />
       </file>
-      <file name="$USER_HOME$/Source/platform/sprockets.mixins.media_type/docs/index.rst" timestamp="1440022610861">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/python/messages/tests/__init__.py" timestamp="1431000063425">
         <mark key="'" line="23" column="53" />
         <mark key="[" line="23" column="40" />
@@ -1222,17 +1219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="4" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/env/lib/python2.7/site-packages/ietfparse/headers.py" />
-      <jump line="31" column="27" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/sprockets/mixins/media_type.py" />
-      <jump line="74" column="23" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/sprockets/mixins/media_type.py" />
-      <jump line="14" column="8" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
-      <jump line="22" column="8" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
-      <jump line="7" column="41" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/sprockets/mixins/media_type.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/sprockets/mixins/media_type.py" />
-      <jump line="30" column="58" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/sprockets/mixins/media_type.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/sprockets/mixins/media_type.py" />
       <jump line="38" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/sprockets/mixins/media_type.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/sprockets/mixins/media_type.py" />
@@ -1322,13 +1308,24 @@
       <jump line="109" column="11" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/docs/contributing.rst" />
       <jump line="110" column="9" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/docs/contributing.rst" />
       <jump line="111" column="16" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/docs/contributing.rst" />
+      <jump line="8" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
+      <jump line="35" column="17" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
+      <jump line="18" column="49" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
+      <jump line="34" column="50" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
+      <jump line="40" column="8" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
+      <jump line="53" column="8" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
+      <jump line="3" column="13" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CmNsYXNzIEF2cm9NZXNzYWdlU2VuZGVyKGF2cm9jb25zdW1lci5EYXR1bUNvbnN1bFNjaGVtYUNvbnN1bWVyKToKICAgICIiIk1peCB0aGlzIGluIHRvIGVhc2lseSBzZW5kIEF2cm8tZW5jb2RlZCBtZXNzYWdlcy4iIiIKCiAgICBkZWYgcHVibGlzaF9hdnJvX21lc3NhZ2Uoc2VsZiwgbXNnX3R5cGUsIGlucHV0X21lc3NhZ2UsIHJvdXRpbmdfaW5mbywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtc2dfYm9keSk6CiAgICAgICAgIiIiCiAgICAgICAgUHVibGlzaCBhbiBBdnJvLWVuY29kZWQgbWVzc2FnZS4KCiAgICAgICAgOnBhcmFtIGRpY3QgaW5wdXRfbWVzc2FnZTogbWVzc2FnZSB0byBjb3B5ICJwYXNzLXRocm91Z2giIGZpZWxkcyBmcm9tCiAgICAgICAgOnBhcmFtIHN0ciBtc2dfdHlwZTogbWVzc2FnZSB0eXBlIHRvIHB1Ymxpc2guICBUaGlzIGlzIHVzZWQgdG8KICAgICAgICAgICAgZGV0ZXJtaW5lIHRoZSBzY2hlbWEgKHNlZSA6bWV0aDpgX2dldF9zY2hlbWFgKSB0byBlbmNvZGUgdGhlCiAgICAgICAgICAgIG1lc3NhZ2Ugd2l0aAogICAgICAgIDpwYXJhbSBkaWN0IHJvdXRpbmdfaW5mbzogcm91dGluZyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgZXZlbnQuICBUaGlzCiAgICAgICAgICAgIGRpY3Rpb25hcnkgY29udGFpbnMgYXQgbGVhc3QgdGhlIGBgZXhjaGFuZ2VgYCBhbmQgYGByb3V0aW5nX2tleWBgCiAgICAgICAgOnBhcmFtIGRpY3QgbXNnX2JvZHk6IG1lc3NhZ2UgdG8gZW5jb2RlCgogICAgICAgICIiIgogICAgICAgIG1zZ19ib2R5LnNldGRlZmF1bHQoJ3RpbWVzdGFtcCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRldGltZS5kYXRldGltZS51dGNub3coKS5pc29mb3JtYXQoKSkKICAgICAgICBmb3IgcGFzc190aHJ1IGluIFBBU1NfVEhST1VHSF9BVFRSSUJVVEVTOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBtc2dfYm9keVtwYXNzX3RocnVdID0gaW5wdXRfbWVzc2FnZVtwYXNzX3RocnVdCiAgICAgICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgICAgIHBhc3MKCiAgICAgICAgc2NoZW1hID0gc2VsZi5fZ2V0X3NjaGVtYShtc2dfdHlwZSkKICAgICAgICBhdnJvX21lc3NhZ2UgPSBzZWxmLl9zZXJpYWxpemUoc2NoZW1hLCBtc2dfYm9keSkKCiAgICAgICAgcHJvcGVydGllcyA9IHsKICAgICAgICAgICAgJ2FwcF9pZCc6IF9fcGFja2FnZV9fLAogICAgICAgICAgICAnY29ycmVsYXRpb25faWQnOiBzZWxmLl9jb3JyZWxhdGlvbl9pZCwKICAgICAgICAgICAgJ2NvbnRlbnRfdHlwZSc6ICdhcHBsaWNhdGlvbi92bmQuYXBhY2hlLmF2cm8uZGF0dW0nLAogICAgICAgICAgICAnbWVzc2FnZV9pZCc6IHV1aWQudXVpZDQoKS5oZXgsCiAgICAgICAgICAgICd0eXBlJzogbXNnX3R5cGUsCiAgICAgICAgfQogICAgICAgIExPR0dFUi5kZWJ1ZygncHVibGlzaGluZyAlcyBtZXNzYWdlIHtDSUQgJXN9JywgbXNnX3R5cGUsCiAgICAgICAgICAgICAgICAgICAgIHNlbGYuX2NvcnJlbGF0aW9uX2lkKQogICAgICAgIHNlbGYucHVibGlzaF9tZXNzYWdlKHJvdXRpbmdfaW5mb1snZXhjaGFuZ2UnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3V0aW5nX2luZm9bJ3JvdXRpbmdfa2V5J10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydGllcywgYXZyb19tZXNzYWdlKQoKICAgIGRlZiBkcm9wX21lc3NhZ2Uoc2VsZiwgZHJvcF9kZXRhaWxzLCBpbnB1dF9tZXNzYWdlLCByb3V0aW5nX2luZm8pOgogICAgICAgICIiIgogICAgICAgIFB1Ymxpc2ggYW4gQXZyby1lbmNvZGVkICJkcm9wIiBtZXNzYWdlLgoKICAgICAgICA6cGFyYW0gRHJvcERldGFpbHMgZHJvcF9kZXRhaWxzOiBkZXRhaWxzIGFib3V0IHRoaXMgc3BlY2lmaWMKICAgICAgICAgICAgZHJvcCBldmVudAogICAgICAgIDpwYXJhbSBkaWN0IGlucHV0X21lc3NhZ2U6IG1lc3NhZ2UgdG8gY29weSAicGFzcy10aHJvdWdoIiBmaWVsZHMgZnJvbQogICAgICAgIDpwYXJhbSBkaWN0IHJvdXRpbmdfaW5mbzogcm91dGluZyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgZXZlbnQuICBUaGlzCiAgICAgICAgICAgIGRpY3Rpb25hcnkgY29udGFpbnMgYXQgbGVhc3QgdGhlIGBgZXhjaGFuZ2VgYCBhbmQgYGByb3V0aW5nX2tleWBgCgogICAgICAgICIiIgogICAgICAgIHNlbGYucHVibGlzaF9hdnJvX21lc3NhZ2UoJ2Ryb3AudjEnLCBpbnB1dF9tZXNzYWdlLCByb3V0aW5nX2luZm8sIHsKICAgICAgICAgICAgJ2Ryb3BwZWRfYnknOiBfX3BhY2thZ2VfXywKICAgICAgICAgICAgJ3JlYXNvbic6IGRyb3BfZGV0YWlscy5yZWFzb24sCiAgICAgICAgfSkKICAgICAgICBzZWxmLnN0YXRzZF9pbmNyKCdldmVudHMuZHJvcHBlZCcpCiAgICAgICAgc2VsZi5sb2dfZXhjZXB0aW9uKCdkcm9wcGVkIG1lc3NhZ2UgLSAlcyBNRVNTQUdFICVzIHtDSUQgJXN9JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgZHJvcF9kZXRhaWxzLnJlYXNvbiwgc2VsZi5tZXNzYWdlX2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl9jb3JyZWxhdGlvbl9pZCkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgOmhpZGRlbjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3460,10 +3457,10 @@
         <text>http</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Li4gYXV0b2Z1bmN0aW9uOjogc3Byb2NrZXRzLm1peGlucy5tZWRpYV90eXBlCg==</text>
+        <text encoding="base64">ICAgICAgICBib2R5ID0gewogICAgICAgICAgICAnbmFtZSc6ICd2YWx1ZScsCiAgICAgICAgICAgICdlbWJlZGRlZCc6IHsKICAgICAgICAgICAgICAgICd1dGY4JzogdSdcdTI3MzEnCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmVzcG9uc2UgPSBzZWxmLmZldGNoKAogICAgICAgICAgICAnLycsIG1ldGhvZD0nUE9TVCcsCiAgICAgICAgICAgIGJvZHk9anNvbi5kdW1wcyhib2R5LCBlbnN1cmVfYXNjaWk9RmFsc2UpLmVuY29kZSgndXRmLTgnKSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3BvbnNlLmNvZGUsIDIwMCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGpzb24ubG9hZHMocmVzcG9uc2UuYm9keS5kZWNvZGUoJ3V0Zi04JykpLCBib2R5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgOmhpZGRlbjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -3472,16 +3469,16 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9keT1qc29uLmR1bXBzKGJvZHksIGVuc3VyZV9hc2NpaT1GYWxzZSkuZW5jb2RlKCd1dGYtOCcpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ckluc3RhbGxhdGlvbgotLS0tLS0tLS0tLS0KYGBzcHJvY2tldHMubWl4aW5zLm1lZGlhX3R5cGVgYCBpcyBhdmFpbGFibGUgb24gdGhlCmBQeXRob24gUGFja2FnZSBJbmRleCA8aHR0cHM6Ly9weXBpLnB5dGhvbi5vcmcvcHlwaS9zcHJvY2tldHMubWl4aW5zLm1lZGlhX3R5cGU+YF8KYW5kIGNhbiBiZSBpbnN0YWxsZWQgdmlhIGBgcGlwYGAgb3IgYGBlYXN5X2luc3RhbGxgYDoKCi4uIGNvZGU6OiBiYXNoCgogICBwaXAgaW5zdGFsbCBzcHJvY2tldHMubWl4aW5zLm1lZGlhX3R5cGUKCi4uIHxWZXJzaW9ufCBpbWFnZTo6IGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vcHlwaS92L3Nwcm9ja2V0cy5taXhpbnMubWVkaWFfdHlwZS5zdmc/CiAgIDp0YXJnZXQ6IGh0dHA6Ly9iYWRnZS5mdXJ5LmlvL3B5L3Nwcm9ja2V0cy5taXhpbnMubWVkaWFfdHlwZQoKLi4gfFN0YXR1c3wgaW1hZ2U6OiBodHRwczovL2ltZy5zaGllbGRzLmlvL3RyYXZpcy9zcHJvY2tldHMvc3Byb2NrZXRzLm1peGlucy5tZWRpYV90eXBlLnN2Zz8KICAgOnRhcmdldDogaHR0cHM6Ly90cmF2aXMtY2kub3JnL3Nwcm9ja2V0cy9zcHJvY2tldHMubWl4aW5zLm1lZGlhX3R5cGUKCi4uIHxDb3ZlcmFnZXwgaW1hZ2U6OiBodHRwczovL2ltZy5zaGllbGRzLmlvL2NvZGVjb3YvYy9naXRodWIvc3Byb2NrZXRzL3Nwcm9ja2V0cy5taXhpbnMubWVkaWFfdHlwZS5zdmc/CiAgIDp0YXJnZXQ6IGh0dHBzOi8vY29kZWNvdi5pby9naXRodWIvc3Byb2NrZXRzL3Nwcm9ja2V0cy5taXhpbnMubWVkaWFfdHlwZT9icmFuY2g9bWFzdGVyCgouLiB8RG93bmxvYWRzfCBpbWFnZTo6IGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vcHlwaS9kbS9zcHJvY2tldHMubWl4aW5zLm1lZGlhX3R5cGUuc3ZnPwogICA6dGFyZ2V0OiBodHRwczovL3B5cGkucHl0aG9uLm9yZy9weXBpL3Nwcm9ja2V0cy5taXhpbnMubWVkaWFfdHlwZQoKLi4gfExpY2Vuc2V8IGltYWdlOjogaHR0cDovL2ltZy5zaGllbGRzLmlvLzpsaWNlbnNlLW1pdC1ibHVlLnN2ZwogICA6dGFyZ2V0OiBodHRwOi8vZG9nZS5taXQtbGljZW5zZS5vcmcK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">fFZlcnNpb258IHxEb3dubG9hZHN8IHxTdGF0dXN8IHxDb3ZlcmFnZXwgfExpY2Vuc2V8Cg==</text>
+      <register name="5" type="4">
+        <text>test_that_default_content_type</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>default_content_type_response_works</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5123,17 +5120,17 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>Client</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Li4gbGl0ZXJhbGluY2x1ZGU6OiAuLi9leGFtcGxlcy5weQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGhlYWRlcnM9eydDb250ZW50J30=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LS0tLS0tLQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -5186,9 +5183,9 @@
         <entry>72</entry>
         <entry>224</entry>
         <entry>wq</entry>
-        <entry>1</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
