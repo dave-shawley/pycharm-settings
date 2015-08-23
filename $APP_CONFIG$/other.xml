@@ -53,6 +53,7 @@
         <entry key="$USER_HOME$/Source/python/ietfparse/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/python/magician/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/python/messages/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Source/python/readit2/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/python/setupext-janitor/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/python/setupext-pip/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/python/sprockets/sprockets.clients.postgresql/env/bin/python" value="false" />
