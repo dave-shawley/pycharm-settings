@@ -381,7 +381,7 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform/sprockets.mixins.media_type/examples.py" timestamp="1440160975963">
+      <file name="$USER_HOME$/Source/platform/sprockets.mixins.media_type/examples.py" timestamp="1440615083870">
         <mark key="a" line="19" column="43" />
         <mark key="'" line="3" column="0" />
         <mark key="[" line="25" column="59" />
@@ -5142,7 +5142,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc2V0X3N0YXR1cyg0MTUpICAjIG5lZWQgdG8gY2hlY2sgdGhpcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -5194,10 +5194,10 @@
         <entry>72</entry>
         <entry>224</entry>
         <entry>q</entry>
-        <entry>1</entry>
         <entry>wq</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
