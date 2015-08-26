@@ -426,8 +426,8 @@
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/base_connection.py" timestamp="1430073332187">
         <mark key="'" line="123" column="25" />
       </file>
-      <file name="$USER_HOME$/Source/python/readit2/readit/handlers.py" timestamp="1440504596772">
-        <mark key="'" line="236" column="19" />
+      <file name="$USER_HOME$/Source/python/readit2/readit/handlers.py" timestamp="1440551695498">
+        <mark key="'" line="239" column="0" />
         <mark key="a" line="220" column="44" />
         <mark key="]" line="231" column="39" />
         <mark key="^" line="231" column="39" />
@@ -924,11 +924,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="579" column="24" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/httputil.py" />
-      <jump line="446" column="25" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/httputil.py" />
-      <jump line="313" column="39" filename="$USER_HOME$/Source/python/readit2/tests.py" />
-      <jump line="398" column="8" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/testing.py" />
-      <jump line="291" column="19" filename="$USER_HOME$/Source/python/readit2/tests.py" />
       <jump line="308" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
       <jump line="121" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
       <jump line="280" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
@@ -1010,7 +1005,6 @@
       <jump line="320" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
       <jump line="333" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
       <jump line="324" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
-      <jump line="199" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="222" column="24" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="23" column="19" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/jwt/jwt.py" />
@@ -1024,6 +1018,12 @@
       <jump line="24" column="23" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/jwt/__init__.py" />
       <jump line="0" column="6" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/jwt/exceptions.py" />
       <jump line="234" column="19" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="197" column="12" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="199" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="216" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="221" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="232" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="239" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
