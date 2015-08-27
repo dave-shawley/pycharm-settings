@@ -541,6 +541,14 @@
       <file name="$USER_HOME$/Source/core-api/followups/followups/handlers/followup_list.py" timestamp="1439987944642">
         <mark key="'" line="134" column="26" />
       </file>
+      <file name="$USER_HOME$/Source/platform/sprockets.mixins.session/sprockets/mixins/session/validation.py" timestamp="1440703548297">
+        <mark key="a" line="72" column="46" />
+        <mark key="'" line="78" column="32" />
+        <mark key="[" line="78" column="41" />
+        <mark key="]" line="78" column="57" />
+        <mark key="." line="78" column="57" />
+        <mark key="^" line="78" column="57" />
+      </file>
       <file name="$USER_HOME$/opt/lib/python2.7/subprocess.py" timestamp="1419812079829">
         <mark key="'" line="797" column="20" />
       </file>
@@ -1165,6 +1173,9 @@
         <mark key="^" line="82" column="28" />
         <mark key="." line="82" column="28" />
       </file>
+      <file name="$USER_HOME$/Source/platform/sprockets.mixins.session/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1440703554643">
+        <mark key="'" line="226" column="22" />
+      </file>
       <file name="$USER_HOME$/Source/python/sampson/decode.py" timestamp="1419647211311">
         <mark key="'" line="66" column="0" />
       </file>
@@ -1231,16 +1242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/docs/api.rst" />
-      <jump line="14" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/docs/api.rst" />
-      <jump line="11" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/docs/api.rst" />
-      <jump line="9" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/docs/api.rst" />
-      <jump line="7" column="11" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/docs/api.rst" />
-      <jump line="15" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/README.rst" />
-      <jump line="20" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/README.rst" />
-      <jump line="21" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/README.rst" />
-      <jump line="23" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/README.rst" />
-      <jump line="24" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/README.rst" />
       <jump line="31" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/README.rst" />
       <jump line="33" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/README.rst" />
       <jump line="38" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/README.rst" />
@@ -1331,6 +1332,16 @@
       <jump line="188" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/sprockets/mixins/media_type.py" />
       <jump line="488" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="485" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="35" column="10" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/sprockets/mixins/session/validation.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/sprockets/mixins/session/validation.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/sprockets/mixins/session/validation.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/sprockets/mixins/session/validation.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/sprockets/mixins/session/validation.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/sprockets/mixins/session/validation.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/sprockets/mixins/session/validation.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/sprockets/mixins/session/validation.py" />
+      <jump line="78" column="32" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/sprockets/mixins/session/validation.py" />
+      <jump line="226" column="22" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/env/lib/python2.7/site-packages/tornado/httpclient.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3477,20 +3488,20 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>$</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>localhost</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBoZWFkZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGFkZHJlc3MgaW4gKCdsb2NhbGhvc3QnLCAnMTI3LjAuMC4xJywgJzo6MScpOgogICAgICAgICAgICByYWlzZSBzb2NrZXQuZXJyb3IoJ3JlZnVzaW5nIHRvIGluamVjdCBpbnRvICVzJywgYWRkcmVzcykK</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5133,13 +5144,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>localhost</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZmluaXNoKCkK</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGFkZHJlc3MgaW4gKCdsb2NhbGhvc3QnLCAnMTI3LjAuMC4xJywgJzo6MScpOgogICAgICAgICAgICByYWlzZSBzb2NrZXQuZXJyb3IoJ3JlZnVzaW5nIHRvIGluamVjdCBpbnRvICVzJywgYWRkcmVzcykK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc2V0X3N0YXR1cyg0MTUpICAjIG5lZWQgdG8gY2hlY2sgdGhpcwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
