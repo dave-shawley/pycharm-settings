@@ -370,6 +370,12 @@
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/mime/nonmultipart.py" timestamp="1434728842305">
         <mark key="'" line="13" column="23" />
       </file>
+      <file name="$USER_HOME$/Source/platform/sprockets.logging/sprockets/logging.py" timestamp="1440792438601">
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="17" column="15" />
+        <mark key="^" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+      </file>
       <file name="$USER_HOME$/Source/python/readit2/readit/compat.py" timestamp="1433157548498">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="28" column="22" />
@@ -664,6 +670,13 @@
         <mark key="^" line="26" column="39" />
         <mark key="." line="26" column="39" />
       </file>
+      <file name="$USER_HOME$/Source/platform/sprockets.logging/tests.py" timestamp="1440792920138">
+        <mark key="'" line="150" column="0" />
+        <mark key="[" line="166" column="53" />
+        <mark key="]" line="167" column="18" />
+        <mark key="." line="167" column="18" />
+        <mark key="^" line="167" column="18" />
+      </file>
       <file name="$USER_HOME$/Source/python/ietfparse/docs/urls.rst" timestamp="1411922099037">
         <mark key="'" line="51" column="0" />
         <mark key="[" line="81" column="71" />
@@ -786,7 +799,7 @@
         <mark key="^" line="151" column="11" />
         <mark key="." line="174" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1440160548434">
+      <file name="/Python Console" timestamp="1440792684899">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/ietfparse/docs/conf.py" timestamp="1411266927643">
@@ -1254,28 +1267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="96" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="97" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="80" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="63" column="4" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="115" column="8" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
       <jump line="27" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
@@ -1354,13 +1345,35 @@
       <jump line="113" column="15" filename="$USER_HOME$/Source/platform/routing/routing.py" />
       <jump line="1495" column="12" filename="$USER_HOME$/Source/platform/routing/env/lib/python3.4/site-packages/tornado/web.py" />
       <jump line="88" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/sprockets/http/runner.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="156" column="11" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="148" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="152" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="158" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="160" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="163" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="142" column="28" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="34" column="40" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="155" column="21" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="154" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="141" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="143" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="150" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CmNsYXNzIEF2cm9NZXNzYWdlU2VuZGVyKGF2cm9jb25zdW1lci5EYXR1bUNvbnN1bFNjaGVtYUNvbnN1bWVyKToKICAgICIiIk1peCB0aGlzIGluIHRvIGVhc2lseSBzZW5kIEF2cm8tZW5jb2RlZCBtZXNzYWdlcy4iIiIKCiAgICBkZWYgcHVibGlzaF9hdnJvX21lc3NhZ2Uoc2VsZiwgbXNnX3R5cGUsIGlucHV0X21lc3NhZ2UsIHJvdXRpbmdfaW5mbywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtc2dfYm9keSk6CiAgICAgICAgIiIiCiAgICAgICAgUHVibGlzaCBhbiBBdnJvLWVuY29kZWQgbWVzc2FnZS4KCiAgICAgICAgOnBhcmFtIGRpY3QgaW5wdXRfbWVzc2FnZTogbWVzc2FnZSB0byBjb3B5ICJwYXNzLXRocm91Z2giIGZpZWxkcyBmcm9tCiAgICAgICAgOnBhcmFtIHN0ciBtc2dfdHlwZTogbWVzc2FnZSB0eXBlIHRvIHB1Ymxpc2guICBUaGlzIGlzIHVzZWQgdG8KICAgICAgICAgICAgZGV0ZXJtaW5lIHRoZSBzY2hlbWEgKHNlZSA6bWV0aDpgX2dldF9zY2hlbWFgKSB0byBlbmNvZGUgdGhlCiAgICAgICAgICAgIG1lc3NhZ2Ugd2l0aAogICAgICAgIDpwYXJhbSBkaWN0IHJvdXRpbmdfaW5mbzogcm91dGluZyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgZXZlbnQuICBUaGlzCiAgICAgICAgICAgIGRpY3Rpb25hcnkgY29udGFpbnMgYXQgbGVhc3QgdGhlIGBgZXhjaGFuZ2VgYCBhbmQgYGByb3V0aW5nX2tleWBgCiAgICAgICAgOnBhcmFtIGRpY3QgbXNnX2JvZHk6IG1lc3NhZ2UgdG8gZW5jb2RlCgogICAgICAgICIiIgogICAgICAgIG1zZ19ib2R5LnNldGRlZmF1bHQoJ3RpbWVzdGFtcCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRldGltZS5kYXRldGltZS51dGNub3coKS5pc29mb3JtYXQoKSkKICAgICAgICBmb3IgcGFzc190aHJ1IGluIFBBU1NfVEhST1VHSF9BVFRSSUJVVEVTOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBtc2dfYm9keVtwYXNzX3RocnVdID0gaW5wdXRfbWVzc2FnZVtwYXNzX3RocnVdCiAgICAgICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgICAgIHBhc3MKCiAgICAgICAgc2NoZW1hID0gc2VsZi5fZ2V0X3NjaGVtYShtc2dfdHlwZSkKICAgICAgICBhdnJvX21lc3NhZ2UgPSBzZWxmLl9zZXJpYWxpemUoc2NoZW1hLCBtc2dfYm9keSkKCiAgICAgICAgcHJvcGVydGllcyA9IHsKICAgICAgICAgICAgJ2FwcF9pZCc6IF9fcGFja2FnZV9fLAogICAgICAgICAgICAnY29ycmVsYXRpb25faWQnOiBzZWxmLl9jb3JyZWxhdGlvbl9pZCwKICAgICAgICAgICAgJ2NvbnRlbnRfdHlwZSc6ICdhcHBsaWNhdGlvbi92bmQuYXBhY2hlLmF2cm8uZGF0dW0nLAogICAgICAgICAgICAnbWVzc2FnZV9pZCc6IHV1aWQudXVpZDQoKS5oZXgsCiAgICAgICAgICAgICd0eXBlJzogbXNnX3R5cGUsCiAgICAgICAgfQogICAgICAgIExPR0dFUi5kZWJ1ZygncHVibGlzaGluZyAlcyBtZXNzYWdlIHtDSUQgJXN9JywgbXNnX3R5cGUsCiAgICAgICAgICAgICAgICAgICAgIHNlbGYuX2NvcnJlbGF0aW9uX2lkKQogICAgICAgIHNlbGYucHVibGlzaF9tZXNzYWdlKHJvdXRpbmdfaW5mb1snZXhjaGFuZ2UnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3V0aW5nX2luZm9bJ3JvdXRpbmdfa2V5J10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydGllcywgYXZyb19tZXNzYWdlKQoKICAgIGRlZiBkcm9wX21lc3NhZ2Uoc2VsZiwgZHJvcF9kZXRhaWxzLCBpbnB1dF9tZXNzYWdlLCByb3V0aW5nX2luZm8pOgogICAgICAgICIiIgogICAgICAgIFB1Ymxpc2ggYW4gQXZyby1lbmNvZGVkICJkcm9wIiBtZXNzYWdlLgoKICAgICAgICA6cGFyYW0gRHJvcERldGFpbHMgZHJvcF9kZXRhaWxzOiBkZXRhaWxzIGFib3V0IHRoaXMgc3BlY2lmaWMKICAgICAgICAgICAgZHJvcCBldmVudAogICAgICAgIDpwYXJhbSBkaWN0IGlucHV0X21lc3NhZ2U6IG1lc3NhZ2UgdG8gY29weSAicGFzcy10aHJvdWdoIiBmaWVsZHMgZnJvbQogICAgICAgIDpwYXJhbSBkaWN0IHJvdXRpbmdfaW5mbzogcm91dGluZyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgZXZlbnQuICBUaGlzCiAgICAgICAgICAgIGRpY3Rpb25hcnkgY29udGFpbnMgYXQgbGVhc3QgdGhlIGBgZXhjaGFuZ2VgYCBhbmQgYGByb3V0aW5nX2tleWBgCgogICAgICAgICIiIgogICAgICAgIHNlbGYucHVibGlzaF9hdnJvX21lc3NhZ2UoJ2Ryb3AudjEnLCBpbnB1dF9tZXNzYWdlLCByb3V0aW5nX2luZm8sIHsKICAgICAgICAgICAgJ2Ryb3BwZWRfYnknOiBfX3BhY2thZ2VfXywKICAgICAgICAgICAgJ3JlYXNvbic6IGRyb3BfZGV0YWlscy5yZWFzb24sCiAgICAgICAgfSkKICAgICAgICBzZWxmLnN0YXRzZF9pbmNyKCdldmVudHMuZHJvcHBlZCcpCiAgICAgICAgc2VsZi5sb2dfZXhjZXB0aW9uKCdkcm9wcGVkIG1lc3NhZ2UgLSAlcyBNRVNTQUdFICVzIHtDSUQgJXN9JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgZHJvcF9kZXRhaWxzLnJlYXNvbiwgc2VsZi5tZXNzYWdlX2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl9jb3JyZWxhdGlvbl9pZCkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>None</text>
+        <text>1</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3486,7 +3499,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>log_function</text>
@@ -3495,25 +3508,25 @@
         <text encoding="base64">CiAgICAgICAgX3NhdmVfc2Vzc2lvbihzZXNzaW9uX3Rva2VuLCBkYXRhKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>None</text>
+        <text>1</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEdyZWF0ZXIobGVuKHNlbGYucmVjb3JkZXIubG9nX2xpbmVzKSwgMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0NvcnJlbGF0aW9uLUlEJywgZ2V0YXR0cihzZWxmLCAnY29ycmVsYXRpb25faWQnLCBzdHIodXVpZC51dWlkNCgpKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb3JyZWxhdGlvbl9pZCA9IHNlbGYucmVxdWVzdC5oZWFkZXJzLmdldCgK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text encoding="base64">cmVzcG9uc2Ug</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5156,16 +5169,16 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>(</text>
+        <text>pass</text>
       </register>
       <register name="8" type="4">
-        <text>str</text>
+        <text>pass</text>
       </register>
       <register name="9" type="4">
-        <text>data</text>
+        <text>pass</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -5219,8 +5232,8 @@
         <entry>wq</entry>
         <entry>vs</entry>
         <entry>sp</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />

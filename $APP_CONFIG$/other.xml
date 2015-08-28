@@ -46,6 +46,7 @@
         <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
         <entry key="$USER_HOME$/Source/family-tree/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/platform/spoolconsumer/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Source/platform/sprockets.logging/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/platform/sprockets.mixins.media_type/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/python/family-tree/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/python/fluent-test/env/bin/python" value="false" />
@@ -64,6 +65,7 @@
     <option name="SDK_TO_NOSETEST">
       <map>
         <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/Environments/3.4/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/communicator/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/core-api/awsubscribers/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/core-api/followups/env/bin/python" value="true" />
@@ -71,6 +73,7 @@
         <entry key="$USER_HOME$/Source/family-tree/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/platform/authorization/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/platform/spoolconsumer/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Source/platform/sprockets.logging/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/platform/sprockets.mixins.auth/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/platform/sprockets.mixins.media_type/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/bin/python" value="true" />
@@ -101,6 +104,7 @@
     <option name="SDK_TO_ATTEST">
       <map>
         <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/Source/platform/sprockets.logging/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/platform/sprockets.mixins.media_type/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/python/family-tree/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/python/ietfparse/env/bin/pypy" value="false" />
