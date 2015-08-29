@@ -426,13 +426,13 @@
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/base_connection.py" timestamp="1430073332187">
         <mark key="'" line="123" column="25" />
       </file>
-      <file name="$USER_HOME$/Source/python/readit2/readit/handlers.py" timestamp="1440551695498">
-        <mark key="'" line="239" column="0" />
-        <mark key="a" line="220" column="44" />
-        <mark key="]" line="231" column="39" />
-        <mark key="^" line="231" column="39" />
-        <mark key="." line="231" column="39" />
-        <mark key="[" line="229" column="69" />
+      <file name="$USER_HOME$/Source/python/readit2/readit/handlers.py" timestamp="1440806713332">
+        <mark key="'" line="14" column="0" />
+        <mark key="a" line="93" column="39" />
+        <mark key="]" line="93" column="39" />
+        <mark key="^" line="63" column="62" />
+        <mark key="." line="93" column="39" />
+        <mark key="[" line="93" column="39" />
       </file>
       <file name="$USER_HOME$/Source/python/magician/debugin.py" timestamp="1436407008602">
         <mark key="'" line="61" column="0" />
@@ -731,12 +731,12 @@
         <mark key="." line="26" column="50" />
         <mark key="[" line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/python/readit2/readit/__main__.py" timestamp="1440453979154">
-        <mark key="'" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="28" column="9" />
-        <mark key="." line="41" column="0" />
-        <mark key="[" line="41" column="0" />
+      <file name="$USER_HOME$/Source/python/readit2/readit/__main__.py" timestamp="1440806608914">
+        <mark key="'" line="34" column="34" />
+        <mark key="]" line="34" column="44" />
+        <mark key="^" line="34" column="44" />
+        <mark key="." line="34" column="44" />
+        <mark key="[" line="34" column="34" />
       </file>
       <file name="$USER_HOME$/Source/python/messages/tests/__init__.py" timestamp="1431000063425">
         <mark key="'" line="23" column="53" />
@@ -924,25 +924,11 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="308" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
-      <jump line="121" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
-      <jump line="280" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
-      <jump line="282" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
-      <jump line="281" column="17" filename="$USER_HOME$/Source/python/readit2/tests.py" />
-      <jump line="114" column="6" filename="$USER_HOME$/Source/python/readit2/tests.py" />
-      <jump line="127" column="8" filename="$USER_HOME$/Source/python/readit2/tests.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
       <jump line="42" column="0" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
       <jump line="49" column="0" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
       <jump line="43" column="0" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
       <jump line="28" column="9" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="104" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
       <jump line="107" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
@@ -1005,7 +991,6 @@
       <jump line="320" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
       <jump line="333" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
       <jump line="324" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="222" column="24" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="23" column="19" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/jwt/jwt.py" />
       <jump line="35" column="8" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/jwt/jws.py" />
@@ -1019,15 +1004,30 @@
       <jump line="0" column="6" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/jwt/exceptions.py" />
       <jump line="234" column="19" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="197" column="12" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="199" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="216" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="221" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="232" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="239" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="229" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="221" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="216" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="196" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="177" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="183" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="195" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="199" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="204" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="34" column="34" filename="$USER_HOME$/Source/python/readit2/readit/__main__.py" />
+      <jump line="91" column="9" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="79" column="4" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgcmV2ZXJzZV91cmwoc2VsZiwgbmFtZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB1cmwgPSBzdXBlcihSZWFkaW5ncywgc2VsZikucmV2ZXJzZV91cmwobmFtZSwgKmFyZ3MpCiAgICAgICAgaWYga3dhcmdzLmdldCgnYWJzb2x1dGUnKToKICAgICAgICAgICAgdXJsID0gJ3swfTovL3sxfXsyfScuZm9ybWF0KHNlbGYucmVxdWVzdC5wcm90b2NvbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdC5ob3N0LCB1cmwpCiAgICAgICAgcmV0dXJuIHVybAoKICAgIGRlZiBnZXRfbG9naW5fdXJsKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJldmVyc2VfdXJsKCdsb2dpbicsIGFic29sdXRlPVRydWUpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgYmluX3VzZXJfaWQgPSBzZWxmLmdldF9zZWN1cmVfY29va2llKCd1c2VyaWQnKQogICAgICAgIGlmIGJpbl91c2VyX2lkIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gYmluX3VzZXJfaWQuZGVjb2RlKCd1dGYtOCcpCg==</text>
@@ -3159,7 +3159,7 @@
         <text encoding="base64">XDxhZGRfdXNlclw+</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>/</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4801,41 +4801,41 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdCBqd3QuZXhjZXB0aW9ucwo=</text>
+      <register name="3" type="4">
+        <text>Readings</text>
       </register>
       <register name="2" type="4">
-        <text>pass</text>
+        <text>/</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>/</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBib2R5ID0gdXJsbGliLnBhcnNlLnVybGVuY29kZSh7CiAgICAgICAgICAgICdlbWFpbCc6ICdzb21lb25lLWVsc2VAZXhhbXBsZS5jb20nLAogICAgICAgICAgICAnbmV4dCc6IHNlbGYuZ2V0X3VybCgnLycpLAogICAgICAgIH0pCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbiA9IHNlbGYuZ2V0X2JvZHlfYXJndW1lbnQoJ3Rva2VuJykKICAgICAgICB0b2tlbml6ZXIgPSBqd3QuSldUKCkK</text>
+      <register name="7" type="4">
+        <text>pass</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRva2VuaXplciA9IGp3dC5KV1QocmVzdWx0WydwYXNzd29yZCddKQo=</text>
+      <register name="6" type="4">
+        <text>reverse_url</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRva2VuaXplci5kZWNvZGUoc2VsZi5nZXRfYm9keV9hcmd1bWVudCgndG9rZW4nKSkK</text>
+      <register name="5" type="4">
+        <text>.(''))</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBnZW4uY29yb3V0aW5lCg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqd3QuSldULmRlY29kZSh0b2tlbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbml6ZXIK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIA==</text>
       </register>
     </registers>
     <search>
@@ -4889,8 +4889,8 @@
         <entry>wq</entry>
         <entry>112</entry>
         <entry>set paste</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
