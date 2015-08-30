@@ -429,13 +429,11 @@
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/base_connection.py" timestamp="1430073332187">
         <mark key="'" line="123" column="25" />
       </file>
-      <file name="$USER_HOME$/Source/python/readit2/readit/handlers.py" timestamp="1440808011692">
-        <mark key="'" line="93" column="27" />
-        <mark key="a" line="93" column="39" />
-        <mark key="]" line="93" column="72" />
-        <mark key="^" line="93" column="72" />
-        <mark key="." line="93" column="72" />
-        <mark key="[" line="93" column="50" />
+      <file name="$USER_HOME$/Source/python/readit2/readit/handlers.py" timestamp="1440936109398">
+        <mark key="]" line="240" column="0" />
+        <mark key="^" line="239" column="26" />
+        <mark key="." line="240" column="0" />
+        <mark key="[" line="240" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/magician/debugin.py" timestamp="1436407008602">
         <mark key="'" line="61" column="0" />
@@ -933,11 +931,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="315" column="4" filename="$USER_HOME$/Source/python/readit2/tests.py" />
-      <jump line="276" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
-      <jump line="285" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
-      <jump line="317" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
-      <jump line="287" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
       <jump line="292" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
       <jump line="295" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
       <jump line="302" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
@@ -1017,7 +1010,6 @@
       <jump line="69" column="8" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="29" column="8" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="245" column="17" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
-      <jump line="36" column="21" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="65" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="186" column="17" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="193" column="17" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
@@ -1033,10 +1025,16 @@
       <jump line="64" column="20" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="93" column="27" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="21" column="22" filename="$USER_HOME$/Source/python/readit2/static/js/app.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="135" column="13" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
+      <jump line="937" column="8" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/web.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgcmV2ZXJzZV91cmwoc2VsZiwgbmFtZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB1cmwgPSBzdXBlcihSZWFkaW5ncywgc2VsZikucmV2ZXJzZV91cmwobmFtZSwgKmFyZ3MpCiAgICAgICAgaWYga3dhcmdzLmdldCgnYWJzb2x1dGUnKToKICAgICAgICAgICAgdXJsID0gJ3swfTovL3sxfXsyfScuZm9ybWF0KHNlbGYucmVxdWVzdC5wcm90b2NvbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdC5ob3N0LCB1cmwpCiAgICAgICAgcmV0dXJuIHVybAoKICAgIGRlZiBnZXRfbG9naW5fdXJsKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJldmVyc2VfdXJsKCdsb2dpbicsIGFic29sdXRlPVRydWUpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgYmluX3VzZXJfaWQgPSBzZWxmLmdldF9zZWN1cmVfY29va2llKCd1c2VyaWQnKQogICAgICAgIGlmIGJpbl91c2VyX2lkIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gYmluX3VzZXJfaWQuZGVjb2RlKCd1dGYtOCcpCg==</text>
@@ -4811,31 +4809,31 @@
         </keys>
       </register>
       <register name="3" type="4">
-        <text>jsrasign</text>
+        <text>$</text>
       </register>
       <register name="2" type="4">
         <text>$</text>
       </register>
-      <register name="1" type="4">
-        <text>$</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBib2R5ID0gdXJsbGliLnBhcnNlLnVybGVuY29kZSh7CiAgICAgICAgICAgICdlbWFpbCc6ICdzb21lb25lLWVsc2VAZXhhbXBsZS5jb20nLAogICAgICAgICAgICAnbmV4dCc6IHNlbGYuZ2V0X3VybCgnLycpLAogICAgICAgIH0pCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="4">
-        <text>$</text>
+        <text>jsrasign</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
@@ -4880,7 +4878,6 @@
         <entry>static_url</entry>
       </history-search>
       <history-cmd>
-        <entry>vspl</entry>
         <entry>57</entry>
         <entry>ta connect_to</entry>
         <entry>141</entry>
@@ -4899,6 +4896,7 @@
         <entry>112</entry>
         <entry>set paste</entry>
         <entry>w</entry>
+        <entry>242</entry>
         <entry>1</entry>
       </history-cmd>
       <history-expr />
