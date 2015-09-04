@@ -727,6 +727,9 @@
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/streams.py" timestamp="1419596541530">
         <mark key="'" line="290" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform/sprockets.logging/examples/tornado-app.py" timestamp="1441401944752">
+        <mark key="'" line="4" column="9" />
+      </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/transports.py" timestamp="1419596430478">
         <mark key="'" line="128" column="0" />
       </file>
@@ -1307,7 +1310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="62" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="156" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="538" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
@@ -1407,6 +1409,7 @@
       <jump line="210" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="219" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="285" column="8" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="4" column="9" filename="$USER_HOME$/Source/platform/sprockets.logging/examples/tornado-app.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -5254,7 +5257,6 @@
         <entry encoding="base64">XDxnZW5lcmF0ZV9jYW1wYWlnbl9saW5rXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>110</entry>
         <entry>122</entry>
         <entry>304</entry>
         <entry>s/owner/parent/</entry>
@@ -5273,6 +5275,7 @@
         <entry>152</entry>
         <entry>208</entry>
         <entry>261</entry>
+        <entry>vsp</entry>
         <entry>1</entry>
       </history-cmd>
       <history-expr />
