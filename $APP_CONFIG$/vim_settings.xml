@@ -425,12 +425,12 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/pika/spec.py" timestamp="1438622555594">
         <mark key="'" line="2656" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform/campaign/campaign.py" timestamp="1441394352105">
-        <mark key="'" line="94" column="62" />
-        <mark key="[" line="100" column="32" />
-        <mark key="]" line="100" column="43" />
-        <mark key="." line="100" column="43" />
-        <mark key="^" line="100" column="43" />
+      <file name="$USER_HOME$/Source/platform/campaign/campaign.py" timestamp="1441398432604">
+        <mark key="'" line="299" column="15" />
+        <mark key="[" line="173" column="75" />
+        <mark key="]" line="173" column="75" />
+        <mark key="^" line="173" column="83" />
+        <mark key="." line="173" column="75" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/blocking_connection.py" timestamp="1423053523371">
         <mark key="'" line="305" column="28" />
@@ -1303,25 +1303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="101" column="19" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="49" column="25" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/mixins/statsd/__init__.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/clients/statsd/__init__.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="87" column="12" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="86" column="30" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="324" column="28" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="217" column="28" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="192" column="8" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="106" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="117" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="228" column="16" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="116" column="12" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="104" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="97" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="82" column="35" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="69" column="19" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="160" column="0" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/http/runner.py" />
       <jump line="91" column="8" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/http/runner.py" />
       <jump line="45" column="20" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/http/__init__.py" />
@@ -1403,13 +1384,32 @@
       <jump line="414" column="20" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="94" column="62" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="29" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="156" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="538" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="512" column="16" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="145" column="28" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="170" column="70" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="155" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="182" column="24" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="168" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="140" column="12" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="152" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="554" column="25" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="553" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="547" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="541" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="176" column="27" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="539" column="38" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="289" column="8" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="324" column="4" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="299" column="15" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXJsID0gc2VsZi5nZW5lcmF0ZV9jYW1wYWlnbl9saW5rKHJhd19jYW1wYWlnblsnaWQnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhd19jYW1wYWlnblsnb3duZXInXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhd19jYW1wYWlnblsncGFyZW50J10pCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5yZXF1ZXN0LmhlYWRlcnMuZ2V0KCdDb250ZW50LVR5cGUnKSA9PSBNSU1FX0pTT046Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3535,34 +3535,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZGVzZXJpYWxpemVfYm9keVw+</text>
+        <text encoding="base64">XDxfYnVpbGRfY2FtcGFpZ25fb2JqZWN0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3RoYXRfcG9zdF93aXRob3V0X2JvZHkoc2VsZik6CiAgICAgICAgcmVzcG9uc2UgPSBzZWxmLmZldGNoKCcvJywgbWV0aG9kPSdQT1NUJywgYm9keT0nJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVhZGVycz17J0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9tc2dwYWNrJ30pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXNwb25zZS5jb2RlLCA0MTUpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYudHJhY2tfdGltZSgnZGIudXBkYXRlX2NhbXBhaWduJyk6CiAgICAgICAgICAgIHJlc3VsdCA9IHlpZWxkIHNlbGYuY2FtcGFpZ25fc2Vzc2lvbi5jYWxscHJvYygKICAgICAgICAgICAgICAgICd1cGRhdGVfY2FtcGFpZ24nLCBbY2FtcGFpZ25faWQsIG5hbWUsIG93bmVyLCBwYXJlbnRdKQogICAgICAgICAgICBjYW1wYWlnbl9kaWN0ID0gcmVzdWx0LmFzX2RpY3QoKQogICAgICAgICAgICBpZiBjYW1wYWlnbl9kaWN0LmdldCgnaWQnKToKICAgICAgICAgICAgICAgIGNhbXBhaWduID0gQ2FtcGFpZ24oY2FtcGFpZ25fZGljdCkKICAgICAgICAgICAgICAgIGNhbXBhaWduLnVybCA9IHNlbGYuZ2VuZXJhdGVfY2FtcGFpZ25fbGluayhjYW1wYWlnbi5pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYW1wYWlnbi5vd25lciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYW1wYWlnbi5wYXJlbnQpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBjYW1wYWlnbiA9IE5vbmUKICAgICAgICAgICAgcmVzdWx0LmZyZWUoKQogICAgICAgICAgICByYWlzZSBnZW4uUmV0dXJuKGNhbXBhaWduKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5yZXF1ZXN0LmhlYWRlcnMuZ2V0KCdDb250ZW50LVR5cGUnKSA9PSBNSU1FX0pTT046Cg==</text>
+      <register name="1" type="4">
+        <text>,</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>=</text>
+        <text>owner</text>
       </register>
       <register name="4" type="4">
-        <text>log_message</text>
+        <text>, parent])</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>result</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>result</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5204,32 +5204,30 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVhZGVycz17J0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9tc2dwYWNrJ30pCg==</text>
+      <register name="7" type="4">
+        <text>result</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYuZmV0Y2goJy8nLCBtZXRob2Q9J1BBVENIJywgYm9keT0nJywK</text>
+      <register name="8" type="4">
+        <text>result</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>as</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZGVzZXJpYWxpemVfYm9keVw+</last-search>
+      <last-search encoding="base64">XDxfYnVpbGRfY2FtcGFpZ25fb2JqZWN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZGVzZXJpYWxpemVfYm9keVw+</last-pattern>
+      <last-pattern encoding="base64">XDxfYnVpbGRfY2FtcGFpZ25fb2JqZWN0XD4=</last-pattern>
       <last-replace>'\1': self.\1,</last-replace>
       <last-substitute>self.\([^ ]*\) = .*$</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxIVFRQUmVxdWVzdFw+</entry>
-        <entry>Correlation</entry>
         <entry>log_function</entry>
         <entry encoding="base64">XDx3ZWJcPg==</entry>
         <entry>traceback</entry>
@@ -5248,6 +5246,8 @@
         <entry>self.\([^ ]*\) = .*$</entry>
         <entry encoding="base64">XDxwb3N0Z3Jlc3FsXD4=</entry>
         <entry encoding="base64">XDxfZGVzZXJpYWxpemVfYm9keVw+</entry>
+        <entry>update_</entry>
+        <entry encoding="base64">XDxfYnVpbGRfY2FtcGFpZ25fb2JqZWN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
@@ -5266,9 +5266,9 @@
         <entry>.,+5s/ = .*$/,/g</entry>
         <entry>.,+5s/self.\([^ ]*\) = .*$/'\1' = self.\1,/g</entry>
         <entry>.,+6s/self.\([^ ]*\) = .*$/'\1': self.\1,/g</entry>
-        <entry>sp</entry>
         <entry>120</entry>
         <entry>1</entry>
+        <entry>sp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
