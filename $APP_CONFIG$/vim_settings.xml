@@ -119,6 +119,12 @@
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/base_events.py" timestamp="1430738489850">
         <mark key="'" line="569" column="17" />
       </file>
+      <file name="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/http/__init__.py" timestamp="1441389338215">
+        <mark key="'" line="49" column="11" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/http/runner.py" timestamp="1441389358457">
+        <mark key="'" line="68" column="50" />
+      </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1431285143532">
         <mark key="'" line="98" column="14" />
       </file>
@@ -419,13 +425,11 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/pika/spec.py" timestamp="1438622555594">
         <mark key="'" line="2656" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform/campaign/campaign.py" timestamp="1441388652946">
-        <mark key="a" line="101" column="11" />
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="122" column="39" />
-        <mark key="]" line="128" column="60" />
-        <mark key="." line="128" column="60" />
-        <mark key="^" line="128" column="60" />
+      <file name="$USER_HOME$/Source/platform/campaign/campaign.py" timestamp="1441389629699">
+        <mark key="[" line="129" column="16" />
+        <mark key="]" line="129" column="16" />
+        <mark key="^" line="129" column="16" />
+        <mark key="." line="129" column="16" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/blocking_connection.py" timestamp="1423053523371">
         <mark key="'" line="305" column="28" />
@@ -990,8 +994,8 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
       </file>
-      <file name="$USER_HOME$/Source/platform/campaign/tests.py" timestamp="1441388240290">
-        <mark key="'" line="330" column="42" />
+      <file name="$USER_HOME$/Source/platform/campaign/tests.py" timestamp="1441389437353">
+        <mark key="'" line="284" column="13" />
         <mark key="[" line="333" column="0" />
         <mark key="]" line="333" column="0" />
         <mark key="^" line="334" column="17" />
@@ -1296,18 +1300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="36" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="69" column="30" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="128" column="68" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="141" column="54" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="158" column="50" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="164" column="50" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="170" column="50" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="181" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="333" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="304" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="311" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="321" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="447" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="450" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="448" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
@@ -1396,13 +1388,25 @@
       <jump line="97" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="82" column="35" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="85" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="69" column="19" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="160" column="0" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/http/runner.py" />
+      <jump line="91" column="8" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/http/runner.py" />
+      <jump line="45" column="20" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/http/__init__.py" />
+      <jump line="139" column="8" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/http/runner.py" />
+      <jump line="48" column="20" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/http/__init__.py" />
+      <jump line="60" column="12" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/http/runner.py" />
+      <jump line="49" column="11" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/http/__init__.py" />
+      <jump line="84" column="13" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/http/runner.py" />
+      <jump line="68" column="50" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/http/runner.py" />
+      <jump line="5" column="30" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="284" column="13" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXJsID0gc2VsZi5nZW5lcmF0ZV9jYW1wYWlnbl9saW5rKHJhd19jYW1wYWlnblsnaWQnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhd19jYW1wYWlnblsnb3duZXInXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhd19jYW1wYWlnblsncGFyZW50J10pCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21vZGlmaWVkX2F0Jzogc2VsZi5tb2RpZmllZF9hdC5pc29mb3JtYXQoKSwK</text>
+      <register name="&quot;" type="4">
+        <text>[</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3528,34 +3532,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
-        <text>self.\([^ ]*\) = .*$</text>
+        <text encoding="base64">XDxwb3N0Z3Jlc3FsXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ21vZGlmaWVkX2F0Jzogc2VsZi5tb2RpZmllZF9hdC5pc29mb3JtYXQoKSwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21vZGlmaWVkX2F0Jzogc2VsZi5tb2RpZmllZF9hdC5pc29mb3JtYXQoKSwK</text>
+      <register name="1" type="4">
+        <text>[</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ21vZGlmaWVkX2F0Jzogc2VsZi5tb2RpZmllZF9hdC5pc29mb3JtYXQoKSwK</text>
+      </register>
+      <register name="4" type="4">
         <text>]</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>[</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9keS5hcHBlbmQoY2FtcGFpZ24pCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FtcGFpZ24gPSBzZWxmLl9idWlsZF9jYW1wYWlnbl9vYmplY3Qocm93KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5198,30 +5202,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igcm93IGluIHJlc3VsdDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9keS5hcHBlbmQoY2FtcGFpZ24pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib2R5ID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FtcGFpZ24gPSBzZWxmLl9idWlsZF9jYW1wYWlnbl9vYmplY3Qocm93KQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>body</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBmb3Igcm93IGluIHJlc3VsdDoK</text>
       </register>
       <register name=":" type="4">
-        <text>sp</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>live</last-search>
+      <last-search encoding="base64">XDxwb3N0Z3Jlc3FsXD4=</last-search>
       <last-offset />
-      <last-pattern>self.\([^ ]*\) = .*$</last-pattern>
+      <last-pattern encoding="base64">XDxwb3N0Z3Jlc3FsXD4=</last-pattern>
       <last-replace>'\1': self.\1,</last-replace>
       <last-substitute>self.\([^ ]*\) = .*$</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2V0X2NvbnRlbnRfc2V0dGluZ3NcPg==</entry>
         <entry>http</entry>
         <entry encoding="base64">XDxIVFRQUmVxdWVzdFw+</entry>
         <entry>Correlation</entry>
@@ -5241,6 +5244,7 @@
         <entry>live</entry>
         <entry encoding="base64">ID0gLiok</entry>
         <entry>self.\([^ ]*\) = .*$</entry>
+        <entry encoding="base64">XDxwb3N0Z3Jlc3FsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -5258,11 +5262,11 @@
         <entry>367</entry>
         <entry>424</entry>
         <entry>w</entry>
-        <entry>1</entry>
         <entry>.,+5s/ = .*$/,/g</entry>
         <entry>.,+5s/self.\([^ ]*\) = .*$/'\1' = self.\1,/g</entry>
         <entry>.,+6s/self.\([^ ]*\) = .*$/'\1': self.\1,/g</entry>
         <entry>sp</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
