@@ -419,13 +419,13 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/pika/spec.py" timestamp="1438622555594">
         <mark key="'" line="2656" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform/campaign/campaign.py" timestamp="1441384810755">
+      <file name="$USER_HOME$/Source/platform/campaign/campaign.py" timestamp="1441386076742">
         <mark key="a" line="420" column="53" />
-        <mark key="'" line="440" column="24" />
-        <mark key="[" line="441" column="0" />
-        <mark key="]" line="441" column="0" />
-        <mark key="." line="441" column="0" />
-        <mark key="^" line="446" column="35" />
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="84" column="24" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/blocking_connection.py" timestamp="1423053523371">
         <mark key="'" line="305" column="28" />
@@ -1292,37 +1292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="464" column="25" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="234" column="4" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="214" column="8" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="206" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="200" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="197" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="192" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="183" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="266" column="4" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="211" column="12" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="288" column="65" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="282" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="291" column="13" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="328" column="8" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/tornado/testing.py" />
-      <jump line="470" column="19" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="483" column="28" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="480" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="462" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="454" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="446" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="436" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="427" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="413" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="411" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="409" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="405" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="452" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="346" column="42" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="311" column="24" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="303" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="351" column="4" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="342" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="339" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="336" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
@@ -1386,12 +1355,43 @@
       <jump line="394" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="397" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="433" column="24" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="434" column="24" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="933" column="27" filename="$USER_HOME$/Library/Caches/PyCharm40/python_stubs/784023903/psycopg2/_psycopg.py" />
       <jump line="440" column="24" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="923" column="31" filename="$USER_HOME$/Library/Caches/PyCharm40/python_stubs/784023903/psycopg2/_psycopg.py" />
       <jump line="893" column="6" filename="$USER_HOME$/Library/Caches/PyCharm40/python_stubs/784023903/psycopg2/_psycopg.py" />
       <jump line="330" column="42" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="344" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="460" column="4" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="458" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="452" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="446" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="434" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="425" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="158" column="8" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="156" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="146" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="139" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="132" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="129" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="125" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="118" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="111" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="100" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="103" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="108" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3524,7 +3524,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>live</text>
@@ -3539,19 +3539,19 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3RoYXRfCg==</text>
+        <text encoding="base64">ICAgIGRlZiBmcm9tX2RhdGFiYXNlKGNscyk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldGF0dHIoZXJyLCAncGdlcnJvcicsICd1bmtub3duIGVycm9yJykpCg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdDb3VsZCBub3QgdXBkYXRlIGNhbXBhaWduIGluIHRoZSBkYXRhYmFzZTogJXMnLAo=</text>
+      <register name="4" type="4">
+        <text>)</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmV4Y2VwdGlvbigK</text>
+      <register name="5" type="4">
+        <text>(</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5194,16 +5194,16 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>get</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="9" type="4">
-        <text>DataError</text>
+        <text>[</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -5257,8 +5257,8 @@
         <entry>s/name/rule_set/g</entry>
         <entry>367</entry>
         <entry>424</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
