@@ -986,12 +986,12 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
       </file>
-      <file name="$USER_HOME$/Source/platform/campaign/tests.py" timestamp="1441381696693">
-        <mark key="'" line="300" column="0" />
-        <mark key="[" line="318" column="34" />
-        <mark key="]" line="318" column="49" />
-        <mark key="^" line="318" column="49" />
-        <mark key="." line="318" column="49" />
+      <file name="$USER_HOME$/Source/platform/campaign/tests.py" timestamp="1441382710228">
+        <mark key="'" line="170" column="50" />
+        <mark key="[" line="176" column="46" />
+        <mark key="]" line="176" column="46" />
+        <mark key="^" line="39" column="32" />
+        <mark key="." line="176" column="50" />
       </file>
       <file name="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1439214440844">
         <mark key="'" line="379" column="25" />
@@ -1289,17 +1289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="116" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="112" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="105" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="102" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="93" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="70" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="66" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="50" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
@@ -1389,13 +1378,24 @@
       <jump line="417" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="309" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
       <jump line="300" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="316" column="46" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="39" column="32" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="49" column="49" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="63" column="36" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="69" column="30" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="128" column="68" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="141" column="54" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="158" column="50" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="164" column="50" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="170" column="50" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CmNsYXNzIEF2cm9NZXNzYWdlU2VuZGVyKGF2cm9jb25zdW1lci5EYXR1bUNvbnN1bFNjaGVtYUNvbnN1bWVyKToKICAgICIiIk1peCB0aGlzIGluIHRvIGVhc2lseSBzZW5kIEF2cm8tZW5jb2RlZCBtZXNzYWdlcy4iIiIKCiAgICBkZWYgcHVibGlzaF9hdnJvX21lc3NhZ2Uoc2VsZiwgbXNnX3R5cGUsIGlucHV0X21lc3NhZ2UsIHJvdXRpbmdfaW5mbywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtc2dfYm9keSk6CiAgICAgICAgIiIiCiAgICAgICAgUHVibGlzaCBhbiBBdnJvLWVuY29kZWQgbWVzc2FnZS4KCiAgICAgICAgOnBhcmFtIGRpY3QgaW5wdXRfbWVzc2FnZTogbWVzc2FnZSB0byBjb3B5ICJwYXNzLXRocm91Z2giIGZpZWxkcyBmcm9tCiAgICAgICAgOnBhcmFtIHN0ciBtc2dfdHlwZTogbWVzc2FnZSB0eXBlIHRvIHB1Ymxpc2guICBUaGlzIGlzIHVzZWQgdG8KICAgICAgICAgICAgZGV0ZXJtaW5lIHRoZSBzY2hlbWEgKHNlZSA6bWV0aDpgX2dldF9zY2hlbWFgKSB0byBlbmNvZGUgdGhlCiAgICAgICAgICAgIG1lc3NhZ2Ugd2l0aAogICAgICAgIDpwYXJhbSBkaWN0IHJvdXRpbmdfaW5mbzogcm91dGluZyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgZXZlbnQuICBUaGlzCiAgICAgICAgICAgIGRpY3Rpb25hcnkgY29udGFpbnMgYXQgbGVhc3QgdGhlIGBgZXhjaGFuZ2VgYCBhbmQgYGByb3V0aW5nX2tleWBgCiAgICAgICAgOnBhcmFtIGRpY3QgbXNnX2JvZHk6IG1lc3NhZ2UgdG8gZW5jb2RlCgogICAgICAgICIiIgogICAgICAgIG1zZ19ib2R5LnNldGRlZmF1bHQoJ3RpbWVzdGFtcCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRldGltZS5kYXRldGltZS51dGNub3coKS5pc29mb3JtYXQoKSkKICAgICAgICBmb3IgcGFzc190aHJ1IGluIFBBU1NfVEhST1VHSF9BVFRSSUJVVEVTOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBtc2dfYm9keVtwYXNzX3RocnVdID0gaW5wdXRfbWVzc2FnZVtwYXNzX3RocnVdCiAgICAgICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgICAgIHBhc3MKCiAgICAgICAgc2NoZW1hID0gc2VsZi5fZ2V0X3NjaGVtYShtc2dfdHlwZSkKICAgICAgICBhdnJvX21lc3NhZ2UgPSBzZWxmLl9zZXJpYWxpemUoc2NoZW1hLCBtc2dfYm9keSkKCiAgICAgICAgcHJvcGVydGllcyA9IHsKICAgICAgICAgICAgJ2FwcF9pZCc6IF9fcGFja2FnZV9fLAogICAgICAgICAgICAnY29ycmVsYXRpb25faWQnOiBzZWxmLl9jb3JyZWxhdGlvbl9pZCwKICAgICAgICAgICAgJ2NvbnRlbnRfdHlwZSc6ICdhcHBsaWNhdGlvbi92bmQuYXBhY2hlLmF2cm8uZGF0dW0nLAogICAgICAgICAgICAnbWVzc2FnZV9pZCc6IHV1aWQudXVpZDQoKS5oZXgsCiAgICAgICAgICAgICd0eXBlJzogbXNnX3R5cGUsCiAgICAgICAgfQogICAgICAgIExPR0dFUi5kZWJ1ZygncHVibGlzaGluZyAlcyBtZXNzYWdlIHtDSUQgJXN9JywgbXNnX3R5cGUsCiAgICAgICAgICAgICAgICAgICAgIHNlbGYuX2NvcnJlbGF0aW9uX2lkKQogICAgICAgIHNlbGYucHVibGlzaF9tZXNzYWdlKHJvdXRpbmdfaW5mb1snZXhjaGFuZ2UnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3V0aW5nX2luZm9bJ3JvdXRpbmdfa2V5J10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydGllcywgYXZyb19tZXNzYWdlKQoKICAgIGRlZiBkcm9wX21lc3NhZ2Uoc2VsZiwgZHJvcF9kZXRhaWxzLCBpbnB1dF9tZXNzYWdlLCByb3V0aW5nX2luZm8pOgogICAgICAgICIiIgogICAgICAgIFB1Ymxpc2ggYW4gQXZyby1lbmNvZGVkICJkcm9wIiBtZXNzYWdlLgoKICAgICAgICA6cGFyYW0gRHJvcERldGFpbHMgZHJvcF9kZXRhaWxzOiBkZXRhaWxzIGFib3V0IHRoaXMgc3BlY2lmaWMKICAgICAgICAgICAgZHJvcCBldmVudAogICAgICAgIDpwYXJhbSBkaWN0IGlucHV0X21lc3NhZ2U6IG1lc3NhZ2UgdG8gY29weSAicGFzcy10aHJvdWdoIiBmaWVsZHMgZnJvbQogICAgICAgIDpwYXJhbSBkaWN0IHJvdXRpbmdfaW5mbzogcm91dGluZyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgZXZlbnQuICBUaGlzCiAgICAgICAgICAgIGRpY3Rpb25hcnkgY29udGFpbnMgYXQgbGVhc3QgdGhlIGBgZXhjaGFuZ2VgYCBhbmQgYGByb3V0aW5nX2tleWBgCgogICAgICAgICIiIgogICAgICAgIHNlbGYucHVibGlzaF9hdnJvX21lc3NhZ2UoJ2Ryb3AudjEnLCBpbnB1dF9tZXNzYWdlLCByb3V0aW5nX2luZm8sIHsKICAgICAgICAgICAgJ2Ryb3BwZWRfYnknOiBfX3BhY2thZ2VfXywKICAgICAgICAgICAgJ3JlYXNvbic6IGRyb3BfZGV0YWlscy5yZWFzb24sCiAgICAgICAgfSkKICAgICAgICBzZWxmLnN0YXRzZF9pbmNyKCdldmVudHMuZHJvcHBlZCcpCiAgICAgICAgc2VsZi5sb2dfZXhjZXB0aW9uKCdkcm9wcGVkIG1lc3NhZ2UgLSAlcyBNRVNTQUdFICVzIHtDSUQgJXN9JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgZHJvcF9kZXRhaWxzLnJlYXNvbiwgc2VsZi5tZXNzYWdlX2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl9jb3JyZWxhdGlvbl9pZCkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>modified_at</text>
+        <text>live</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3521,34 +3521,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>modified_at</text>
+        <text>live</text>
       </register>
       <register name="/" type="4">
-        <text>send_error</text>
+        <text>live</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydE5vdEVxdWFsKGJvZHlbJ21vZGlmaWVkX2F0J10sIGJvZHlbJ2NyZWF0ZWRfYXQnXSkK</text>
       </register>
       <register name="1" type="4">
-        <text>modified_at</text>
+        <text>live</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>name</text>
+        <text>live</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>live</text>
       </register>
       <register name="4" type="4">
-        <text>name</text>
+        <text>live</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>live</text>
       </register>
       <register name="6" type="4">
-        <text>m</text>
+        <text>live</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5191,22 +5191,22 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text>live</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>live</text>
       </register>
       <register name="9" type="4">
-        <text>m</text>
+        <text>live</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>send_error</last-search>
+      <last-search>live</last-search>
       <last-offset />
-      <last-pattern>send_error</last-pattern>
+      <last-pattern>live</last-pattern>
       <last-replace>rule_set</last-replace>
       <last-substitute>name</last-substitute>
       <last-dir>1</last-dir>
@@ -5214,7 +5214,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2V0X3NtdHBfY29ubmVjdGlvblw+</entry>
         <entry encoding="base64">XDxzZW5kX3Jlc3BvbnNlXD4=</entry>
         <entry encoding="base64">XDxfZ2V0X2N1cnNvclw+</entry>
         <entry encoding="base64">XDxfZ2V0X2NvbnRlbnRfc2V0dGluZ3NcPg==</entry>
@@ -5234,6 +5233,7 @@
         <entry encoding="base64">XDxNU0dQQUNLX0hFQURFUlNcPg==</entry>
         <entry encoding="base64">XDxKU09OX0hFQURFUlNcPg==</entry>
         <entry>send_error</entry>
+        <entry>live</entry>
       </history-search>
       <history-cmd>
         <entry>72</entry>
@@ -5253,9 +5253,9 @@
         <entry>sg</entry>
         <entry>s/name/rule_set/g</entry>
         <entry>367</entry>
-        <entry>1</entry>
         <entry>424</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
