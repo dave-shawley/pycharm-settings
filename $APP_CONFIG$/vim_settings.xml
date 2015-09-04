@@ -38,6 +38,14 @@
       <file name="$USER_HOME$/Source/python/haregel/haregel/application.py" timestamp="1424434445035">
         <mark key="'" line="30" column="38" />
       </file>
+      <file name="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/mixins/postgresql/__init__.py" timestamp="1441317605989">
+        <mark key="a" line="104" column="88" />
+        <mark key="'" line="105" column="77" />
+        <mark key="[" line="105" column="85" />
+        <mark key="]" line="105" column="85" />
+        <mark key="." line="105" column="85" />
+        <mark key="^" line="26" column="25" />
+      </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/connection.py" timestamp="1430307116938">
         <mark key="'" line="619" column="23" />
       </file>
@@ -116,6 +124,9 @@
       </file>
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/tornado/tcpserver.py" timestamp="1436193440198">
         <mark key="'" line="142" column="18" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/queries/tornado_session.py" timestamp="1441317124802">
+        <mark key="'" line="464" column="8" />
       </file>
       <file name="$USER_HOME$/Source/platform/marley/env/lib/python2.7/site-packages/rejected/controller.py" timestamp="1434656476090">
         <mark key="'" line="12" column="9" />
@@ -408,6 +419,12 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/pika/spec.py" timestamp="1438622555594">
         <mark key="'" line="2656" column="27" />
       </file>
+      <file name="$USER_HOME$/Source/platform/campaign/campaign.py" timestamp="1441317491922">
+        <mark key="'" line="73" column="29" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/blocking_connection.py" timestamp="1423053523371">
         <mark key="'" line="305" column="28" />
       </file>
@@ -514,6 +531,9 @@
       </file>
       <file name="$USER_HOME$/Source/communicator/communicator/helpers.py" timestamp="1437080462753">
         <mark key="'" line="154" column="20" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/queries/pool.py" timestamp="1441317041745">
+        <mark key="'" line="269" column="17" />
       </file>
       <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/README.rst" timestamp="1436811186254">
         <mark key="'" line="29" column="0" />
@@ -632,6 +652,9 @@
       </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/channel.py" timestamp="1430058303912">
         <mark key="'" line="1056" column="24" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/clients/postgresql/__init__.py" timestamp="1441315970263">
+        <mark key="'" line="85" column="22" />
       </file>
       <file name="$USER_HOME$/Source/python/tokenauth/tests/main_tests.py" timestamp="1408828224955">
         <mark key="'" line="20" column="22" />
@@ -762,6 +785,9 @@
       <file name="$USER_HOME$/opt/lib/python3.4/json/decoder.py" timestamp="1432989858806">
         <mark key="'" line="334" column="45" />
       </file>
+      <file name="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/queries/session.py" timestamp="1441315984848">
+        <mark key="'" line="139" column="27" />
+      </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/spec.py" timestamp="1429967841484">
         <mark key="'" line="2777" column="22" />
       </file>
@@ -809,7 +835,7 @@
         <mark key="^" line="151" column="11" />
         <mark key="." line="174" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1441289125376">
+      <file name="/Python Console" timestamp="1441316739174">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/ietfparse/docs/conf.py" timestamp="1411266927643">
@@ -962,6 +988,13 @@
         <mark key="]" line="22" column="7" />
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/campaign/tests.py" timestamp="1441317523751">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="68" column="38" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1439214440844">
         <mark key="'" line="379" column="25" />
@@ -1271,49 +1304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="99" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="81" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="89" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="93" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="105" column="4" filename="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" />
-      <jump line="368" column="4" filename="$USER_HOME$/Source/platform/routing/routing.py" />
-      <jump line="366" column="0" filename="$USER_HOME$/Source/platform/routing/routing.py" />
-      <jump line="363" column="0" filename="$USER_HOME$/Source/platform/routing/routing.py" />
-      <jump line="361" column="0" filename="$USER_HOME$/Source/platform/routing/routing.py" />
-      <jump line="357" column="0" filename="$USER_HOME$/Source/platform/routing/routing.py" />
-      <jump line="351" column="0" filename="$USER_HOME$/Source/platform/routing/routing.py" />
-      <jump line="805" column="8" filename="$USER_HOME$/Source/platform/routing/env/lib/python3.4/site-packages/tornado/web.py" />
-      <jump line="348" column="0" filename="$USER_HOME$/Source/platform/routing/routing.py" />
-      <jump line="341" column="0" filename="$USER_HOME$/Source/platform/routing/routing.py" />
-      <jump line="332" column="0" filename="$USER_HOME$/Source/platform/routing/routing.py" />
-      <jump line="329" column="0" filename="$USER_HOME$/Source/platform/routing/routing.py" />
-      <jump line="322" column="0" filename="$USER_HOME$/Source/platform/routing/routing.py" />
-      <jump line="113" column="15" filename="$USER_HOME$/Source/platform/routing/routing.py" />
-      <jump line="1495" column="12" filename="$USER_HOME$/Source/platform/routing/env/lib/python3.4/site-packages/tornado/web.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/sprockets/http/runner.py" />
-      <jump line="101" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
-      <jump line="148" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
-      <jump line="152" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
-      <jump line="158" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
       <jump line="142" column="28" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
       <jump line="34" column="40" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
@@ -1371,13 +1361,56 @@
       <jump line="105" column="0" filename="$USER_HOME$/Source/platform/rule/rule.py" />
       <jump line="108" column="0" filename="$USER_HOME$/Source/platform/rule/rule.py" />
       <jump line="313" column="28" filename="$USER_HOME$/Source/platform/rule/env/lib/python3.4/site-packages/tornado/httpserver.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="109" column="8" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/queries/session.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="266" column="28" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="85" column="22" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/clients/postgresql/__init__.py" />
+      <jump line="139" column="27" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/queries/session.py" />
+      <jump line="30" column="24" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="67" column="52" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="269" column="17" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/queries/pool.py" />
+      <jump line="464" column="8" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/queries/tornado_session.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="55" column="8" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="35" column="4" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="31" column="29" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="69" column="57" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="79" column="26" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="74" column="22" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="322" column="0" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/tornado/web.py" />
+      <jump line="73" column="29" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="104" column="46" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/mixins/postgresql/__init__.py" />
+      <jump line="26" column="25" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/mixins/postgresql/__init__.py" />
+      <jump line="105" column="77" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/mixins/postgresql/__init__.py" />
+      <jump line="159" column="8" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/tornado/ioloop.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CmNsYXNzIEF2cm9NZXNzYWdlU2VuZGVyKGF2cm9jb25zdW1lci5EYXR1bUNvbnN1bFNjaGVtYUNvbnN1bWVyKToKICAgICIiIk1peCB0aGlzIGluIHRvIGVhc2lseSBzZW5kIEF2cm8tZW5jb2RlZCBtZXNzYWdlcy4iIiIKCiAgICBkZWYgcHVibGlzaF9hdnJvX21lc3NhZ2Uoc2VsZiwgbXNnX3R5cGUsIGlucHV0X21lc3NhZ2UsIHJvdXRpbmdfaW5mbywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtc2dfYm9keSk6CiAgICAgICAgIiIiCiAgICAgICAgUHVibGlzaCBhbiBBdnJvLWVuY29kZWQgbWVzc2FnZS4KCiAgICAgICAgOnBhcmFtIGRpY3QgaW5wdXRfbWVzc2FnZTogbWVzc2FnZSB0byBjb3B5ICJwYXNzLXRocm91Z2giIGZpZWxkcyBmcm9tCiAgICAgICAgOnBhcmFtIHN0ciBtc2dfdHlwZTogbWVzc2FnZSB0eXBlIHRvIHB1Ymxpc2guICBUaGlzIGlzIHVzZWQgdG8KICAgICAgICAgICAgZGV0ZXJtaW5lIHRoZSBzY2hlbWEgKHNlZSA6bWV0aDpgX2dldF9zY2hlbWFgKSB0byBlbmNvZGUgdGhlCiAgICAgICAgICAgIG1lc3NhZ2Ugd2l0aAogICAgICAgIDpwYXJhbSBkaWN0IHJvdXRpbmdfaW5mbzogcm91dGluZyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgZXZlbnQuICBUaGlzCiAgICAgICAgICAgIGRpY3Rpb25hcnkgY29udGFpbnMgYXQgbGVhc3QgdGhlIGBgZXhjaGFuZ2VgYCBhbmQgYGByb3V0aW5nX2tleWBgCiAgICAgICAgOnBhcmFtIGRpY3QgbXNnX2JvZHk6IG1lc3NhZ2UgdG8gZW5jb2RlCgogICAgICAgICIiIgogICAgICAgIG1zZ19ib2R5LnNldGRlZmF1bHQoJ3RpbWVzdGFtcCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRldGltZS5kYXRldGltZS51dGNub3coKS5pc29mb3JtYXQoKSkKICAgICAgICBmb3IgcGFzc190aHJ1IGluIFBBU1NfVEhST1VHSF9BVFRSSUJVVEVTOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBtc2dfYm9keVtwYXNzX3RocnVdID0gaW5wdXRfbWVzc2FnZVtwYXNzX3RocnVdCiAgICAgICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgICAgIHBhc3MKCiAgICAgICAgc2NoZW1hID0gc2VsZi5fZ2V0X3NjaGVtYShtc2dfdHlwZSkKICAgICAgICBhdnJvX21lc3NhZ2UgPSBzZWxmLl9zZXJpYWxpemUoc2NoZW1hLCBtc2dfYm9keSkKCiAgICAgICAgcHJvcGVydGllcyA9IHsKICAgICAgICAgICAgJ2FwcF9pZCc6IF9fcGFja2FnZV9fLAogICAgICAgICAgICAnY29ycmVsYXRpb25faWQnOiBzZWxmLl9jb3JyZWxhdGlvbl9pZCwKICAgICAgICAgICAgJ2NvbnRlbnRfdHlwZSc6ICdhcHBsaWNhdGlvbi92bmQuYXBhY2hlLmF2cm8uZGF0dW0nLAogICAgICAgICAgICAnbWVzc2FnZV9pZCc6IHV1aWQudXVpZDQoKS5oZXgsCiAgICAgICAgICAgICd0eXBlJzogbXNnX3R5cGUsCiAgICAgICAgfQogICAgICAgIExPR0dFUi5kZWJ1ZygncHVibGlzaGluZyAlcyBtZXNzYWdlIHtDSUQgJXN9JywgbXNnX3R5cGUsCiAgICAgICAgICAgICAgICAgICAgIHNlbGYuX2NvcnJlbGF0aW9uX2lkKQogICAgICAgIHNlbGYucHVibGlzaF9tZXNzYWdlKHJvdXRpbmdfaW5mb1snZXhjaGFuZ2UnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3V0aW5nX2luZm9bJ3JvdXRpbmdfa2V5J10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydGllcywgYXZyb19tZXNzYWdlKQoKICAgIGRlZiBkcm9wX21lc3NhZ2Uoc2VsZiwgZHJvcF9kZXRhaWxzLCBpbnB1dF9tZXNzYWdlLCByb3V0aW5nX2luZm8pOgogICAgICAgICIiIgogICAgICAgIFB1Ymxpc2ggYW4gQXZyby1lbmNvZGVkICJkcm9wIiBtZXNzYWdlLgoKICAgICAgICA6cGFyYW0gRHJvcERldGFpbHMgZHJvcF9kZXRhaWxzOiBkZXRhaWxzIGFib3V0IHRoaXMgc3BlY2lmaWMKICAgICAgICAgICAgZHJvcCBldmVudAogICAgICAgIDpwYXJhbSBkaWN0IGlucHV0X21lc3NhZ2U6IG1lc3NhZ2UgdG8gY29weSAicGFzcy10aHJvdWdoIiBmaWVsZHMgZnJvbQogICAgICAgIDpwYXJhbSBkaWN0IHJvdXRpbmdfaW5mbzogcm91dGluZyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgZXZlbnQuICBUaGlzCiAgICAgICAgICAgIGRpY3Rpb25hcnkgY29udGFpbnMgYXQgbGVhc3QgdGhlIGBgZXhjaGFuZ2VgYCBhbmQgYGByb3V0aW5nX2tleWBgCgogICAgICAgICIiIgogICAgICAgIHNlbGYucHVibGlzaF9hdnJvX21lc3NhZ2UoJ2Ryb3AudjEnLCBpbnB1dF9tZXNzYWdlLCByb3V0aW5nX2luZm8sIHsKICAgICAgICAgICAgJ2Ryb3BwZWRfYnknOiBfX3BhY2thZ2VfXywKICAgICAgICAgICAgJ3JlYXNvbic6IGRyb3BfZGV0YWlscy5yZWFzb24sCiAgICAgICAgfSkKICAgICAgICBzZWxmLnN0YXRzZF9pbmNyKCdldmVudHMuZHJvcHBlZCcpCiAgICAgICAgc2VsZi5sb2dfZXhjZXB0aW9uKCdkcm9wcGVkIG1lc3NhZ2UgLSAlcyBNRVNTQUdFICVzIHtDSUQgJXN9JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgZHJvcF9kZXRhaWxzLnJlYXNvbiwgc2VsZi5tZXNzYWdlX2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl9jb3JyZWxhdGlvbl9pZCkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc2V0X3N0YXR1cyg0MDApCg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3503,34 +3536,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, kwargs.get('log_message', None))</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>traceback</text>
+        <text encoding="base64">XDxzZXNzaW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGJsb2JbJ3RyYWNlYmFjayddWydtZXNzYWdlJ10sICdzb21ldGhpbmcgYnVzdGVkJykK</text>
+        <text encoding="base64">ICAgIGNhbXBhaWduX2lkID0gdXVpZC51dWlkNCgpCiAgICBvd25lciA9IG93bmVyIG9yIHV1aWQudXVpZDQoKQogICAgcGFyZW50ID0gcGFyZW50IG9yIHV1aWQudXVpZDQoKQogICAgcnVsZV9zZXQgPSBydWxlX3NldCBvciB1dWlkLnV1aWQ0KCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc2V0X3N0YXR1cyg0MDApCg==</text>
+      <register name="1" type="4">
+        <text>true</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZmluaXNoKCdNaXNzaW5nIHt9IGluIHJlcXVlc3QgYm9keScuZm9ybWF0KHJlcXVpcmVkKSkK</text>
+        <text encoding="base64">ICAgIElPX0xPT1AgPSBOb25lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nKCclcycsIGt3YXJncy5nZXQoJ2xvZ19tZXNzYWdlJywgYm9keSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpb2wgPSBzZWxmLklPX0xPT1Agb3IgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBib2R5Ogo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnWFhYIHNlbmRpbmcgcmVxdWVzdCcpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>, kwargs.get('log_message', None))</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgIFtjYW1wYWlnbl9pZCwgY2FtcGFpZ25fbmFtZSwgXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBzZXNzaW9uLmNhbGxwcm9jKCduZXdfY2FtcGFpZ24nLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5173,31 +5206,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHdpdGggcG9zdGdyZXNxbC5Ub3JuYWRvU2Vzc2lvbignY2FtcGFpZ24nKSBhcyBzZXNzaW9uOgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>]</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAjIHJ1bGVfc2V0ID0gdXVpZC51dWlkNCgpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>[</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAjIHBhcmVudCA9IHV1aWQudXVpZDQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>traceback</last-search>
+      <last-search encoding="base64">XDxzZXNzaW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>traceback</last-pattern>
+      <last-pattern encoding="base64">XDxzZXNzaW9uXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>TOKEN</entry>
-        <entry>sentry_client</entry>
         <entry>_process</entry>
         <entry>def set_status</entry>
         <entry>POST</entry>
@@ -5216,6 +5247,8 @@
         <entry>log_function</entry>
         <entry encoding="base64">XDx3ZWJcPg==</entry>
         <entry>traceback</entry>
+        <entry encoding="base64">XDxfcHN5Y29wZzJfY29ubmVjdFw+</entry>
+        <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
