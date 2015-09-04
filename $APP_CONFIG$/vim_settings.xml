@@ -425,12 +425,12 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/pika/spec.py" timestamp="1438622555594">
         <mark key="'" line="2656" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform/campaign/campaign.py" timestamp="1441390926176">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="141" column="61" />
-        <mark key="]" line="141" column="70" />
-        <mark key="." line="141" column="70" />
-        <mark key="^" line="141" column="70" />
+      <file name="$USER_HOME$/Source/platform/campaign/campaign.py" timestamp="1441391706282">
+        <mark key="'" line="471" column="30" />
+        <mark key="[" line="155" column="8" />
+        <mark key="]" line="156" column="15" />
+        <mark key="^" line="156" column="15" />
+        <mark key="." line="156" column="15" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/blocking_connection.py" timestamp="1423053523371">
         <mark key="'" line="305" column="28" />
@@ -837,7 +837,7 @@
         <mark key="^" line="151" column="11" />
         <mark key="." line="174" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1441390475255">
+      <file name="/Python Console" timestamp="1441391447737">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1441379907443">
@@ -1302,7 +1302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="448" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="439" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="419" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="410" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
@@ -1402,13 +1401,14 @@
       <jump line="392" column="30" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="131" column="11" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="136" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="465" column="30" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXJsID0gc2VsZi5nZW5lcmF0ZV9jYW1wYWlnbl9saW5rKHJhd19jYW1wYWlnblsnaWQnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhd19jYW1wYWlnblsnb3duZXInXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhd19jYW1wYWlnblsncGFyZW50J10pCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>pass</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3534,7 +3534,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3N0Z3Jlc3FsXD4=</text>
@@ -3543,25 +3543,25 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FtcGFpZ24udXJsID0gc2VsZi5nZW5lcmF0ZV9jYW1wYWlnbl9saW5rKGNhbXBhaWduLmlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FtcGFpZ24ub3duZXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYW1wYWlnbi5wYXJlbnQpCiAgICAgICAgICAgIHJlc3VsdC5mcmVlKCkKICAgICAgICAgICAgcmFpc2UgZ2VuLlJldHVybihjYW1wYWlnbikK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>pass</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>):</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>pass</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIGNhbXBhaWduID0gc2VsZi5fYnVpbGRfY2FtcGFpZ25fb2JqZWN0KHJlc3VsdCkK</text>
       </register>
-      <register name="5" type="4">
-        <text>as</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjICAgICByZXR1cm4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5204,13 +5204,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBzZWxmLnNlbmRfZXJyb3IoNDA0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlKHNlbGYuX2J1aWxkX2NhbXBhaWduX29iamVjdChjYW1wYWlnbikpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIHJlc3VsdC5nZXQoJ2NyZWF0ZWRfYXQnKSBpcyBOb25lOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2NhbXBhaWduX2lkLCBuYW1lLCBvd25lciwgcGFyZW50LCBydWxlX3NldCwgY2FtcGFpZ25fc3RhdGVdKQo=</text>
+        <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
