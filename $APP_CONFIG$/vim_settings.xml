@@ -419,13 +419,13 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/pika/spec.py" timestamp="1438622555594">
         <mark key="'" line="2656" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform/campaign/campaign.py" timestamp="1441387342489">
-        <mark key="a" line="420" column="53" />
-        <mark key="'" line="171" column="0" />
-        <mark key="[" line="96" column="12" />
-        <mark key="]" line="97" column="43" />
-        <mark key="." line="97" column="43" />
-        <mark key="^" line="97" column="43" />
+      <file name="$USER_HOME$/Source/platform/campaign/campaign.py" timestamp="1441388652946">
+        <mark key="a" line="101" column="11" />
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="122" column="39" />
+        <mark key="]" line="128" column="60" />
+        <mark key="." line="128" column="60" />
+        <mark key="^" line="128" column="60" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/blocking_connection.py" timestamp="1423053523371">
         <mark key="'" line="305" column="28" />
@@ -516,6 +516,9 @@
         <mark key="]" line="104" column="53" />
         <mark key="^" line="86" column="51" />
         <mark key="." line="104" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/mixins/statsd/__init__.py" timestamp="1441387424568">
+        <mark key="'" line="49" column="25" />
       </file>
       <file name="$USER_HOME$/Source/python/hypermedia/README.rst" timestamp="1410715530605">
         <mark key="'" line="69" column="0" />
@@ -829,7 +832,7 @@
         <mark key="^" line="151" column="11" />
         <mark key="." line="174" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1441384712535">
+      <file name="/Python Console" timestamp="1441388378473">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1441379907443">
@@ -922,6 +925,7 @@
         <mark key="^" line="33" column="19" />
         <mark key="." line="33" column="19" />
       </file>
+      <file name="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/tornado/stack_context.py" timestamp="1441388403522" />
       <file name="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/lib/python3.4/site-packages/tornado/web.py" timestamp="1436797199646">
         <mark key="'" line="1370" column="17" />
       </file>
@@ -986,7 +990,7 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
       </file>
-      <file name="$USER_HOME$/Source/platform/campaign/tests.py" timestamp="1441384999445">
+      <file name="$USER_HOME$/Source/platform/campaign/tests.py" timestamp="1441388240290">
         <mark key="'" line="330" column="42" />
         <mark key="[" line="333" column="0" />
         <mark key="]" line="333" column="0" />
@@ -1292,24 +1296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="33" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="265" column="35" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="403" column="11" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="387" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="441" column="8" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="430" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="416" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="408" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="423" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="437" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="431" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="417" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="309" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="300" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="316" column="46" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="39" column="32" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
-      <jump line="49" column="49" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
       <jump line="63" column="36" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
       <jump line="69" column="30" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
       <jump line="128" column="68" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
@@ -1341,7 +1327,6 @@
       <jump line="349" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="347" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="331" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="324" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="330" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="334" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="341" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
@@ -1378,9 +1363,6 @@
       <jump line="125" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="118" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="115" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="111" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="106" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="99" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="91" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="89" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="88" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
@@ -1388,17 +1370,39 @@
       <jump line="100" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="103" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="108" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="72" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="175" column="11" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="171" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="101" column="19" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="49" column="25" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/mixins/statsd/__init__.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/sprockets/clients/statsd/__init__.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="87" column="12" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="86" column="30" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="324" column="28" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="217" column="28" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="192" column="8" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="119" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="111" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="228" column="16" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="221" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="116" column="12" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="97" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="82" column="35" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">CmNsYXNzIEF2cm9NZXNzYWdlU2VuZGVyKGF2cm9jb25zdW1lci5EYXR1bUNvbnN1bFNjaGVtYUNvbnN1bWVyKToKICAgICIiIk1peCB0aGlzIGluIHRvIGVhc2lseSBzZW5kIEF2cm8tZW5jb2RlZCBtZXNzYWdlcy4iIiIKCiAgICBkZWYgcHVibGlzaF9hdnJvX21lc3NhZ2Uoc2VsZiwgbXNnX3R5cGUsIGlucHV0X21lc3NhZ2UsIHJvdXRpbmdfaW5mbywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtc2dfYm9keSk6CiAgICAgICAgIiIiCiAgICAgICAgUHVibGlzaCBhbiBBdnJvLWVuY29kZWQgbWVzc2FnZS4KCiAgICAgICAgOnBhcmFtIGRpY3QgaW5wdXRfbWVzc2FnZTogbWVzc2FnZSB0byBjb3B5ICJwYXNzLXRocm91Z2giIGZpZWxkcyBmcm9tCiAgICAgICAgOnBhcmFtIHN0ciBtc2dfdHlwZTogbWVzc2FnZSB0eXBlIHRvIHB1Ymxpc2guICBUaGlzIGlzIHVzZWQgdG8KICAgICAgICAgICAgZGV0ZXJtaW5lIHRoZSBzY2hlbWEgKHNlZSA6bWV0aDpgX2dldF9zY2hlbWFgKSB0byBlbmNvZGUgdGhlCiAgICAgICAgICAgIG1lc3NhZ2Ugd2l0aAogICAgICAgIDpwYXJhbSBkaWN0IHJvdXRpbmdfaW5mbzogcm91dGluZyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgZXZlbnQuICBUaGlzCiAgICAgICAgICAgIGRpY3Rpb25hcnkgY29udGFpbnMgYXQgbGVhc3QgdGhlIGBgZXhjaGFuZ2VgYCBhbmQgYGByb3V0aW5nX2tleWBgCiAgICAgICAgOnBhcmFtIGRpY3QgbXNnX2JvZHk6IG1lc3NhZ2UgdG8gZW5jb2RlCgogICAgICAgICIiIgogICAgICAgIG1zZ19ib2R5LnNldGRlZmF1bHQoJ3RpbWVzdGFtcCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRldGltZS5kYXRldGltZS51dGNub3coKS5pc29mb3JtYXQoKSkKICAgICAgICBmb3IgcGFzc190aHJ1IGluIFBBU1NfVEhST1VHSF9BVFRSSUJVVEVTOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBtc2dfYm9keVtwYXNzX3RocnVdID0gaW5wdXRfbWVzc2FnZVtwYXNzX3RocnVdCiAgICAgICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgICAgIHBhc3MKCiAgICAgICAgc2NoZW1hID0gc2VsZi5fZ2V0X3NjaGVtYShtc2dfdHlwZSkKICAgICAgICBhdnJvX21lc3NhZ2UgPSBzZWxmLl9zZXJpYWxpemUoc2NoZW1hLCBtc2dfYm9keSkKCiAgICAgICAgcHJvcGVydGllcyA9IHsKICAgICAgICAgICAgJ2FwcF9pZCc6IF9fcGFja2FnZV9fLAogICAgICAgICAgICAnY29ycmVsYXRpb25faWQnOiBzZWxmLl9jb3JyZWxhdGlvbl9pZCwKICAgICAgICAgICAgJ2NvbnRlbnRfdHlwZSc6ICdhcHBsaWNhdGlvbi92bmQuYXBhY2hlLmF2cm8uZGF0dW0nLAogICAgICAgICAgICAnbWVzc2FnZV9pZCc6IHV1aWQudXVpZDQoKS5oZXgsCiAgICAgICAgICAgICd0eXBlJzogbXNnX3R5cGUsCiAgICAgICAgfQogICAgICAgIExPR0dFUi5kZWJ1ZygncHVibGlzaGluZyAlcyBtZXNzYWdlIHtDSUQgJXN9JywgbXNnX3R5cGUsCiAgICAgICAgICAgICAgICAgICAgIHNlbGYuX2NvcnJlbGF0aW9uX2lkKQogICAgICAgIHNlbGYucHVibGlzaF9tZXNzYWdlKHJvdXRpbmdfaW5mb1snZXhjaGFuZ2UnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3V0aW5nX2luZm9bJ3JvdXRpbmdfa2V5J10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydGllcywgYXZyb19tZXNzYWdlKQoKICAgIGRlZiBkcm9wX21lc3NhZ2Uoc2VsZiwgZHJvcF9kZXRhaWxzLCBpbnB1dF9tZXNzYWdlLCByb3V0aW5nX2luZm8pOgogICAgICAgICIiIgogICAgICAgIFB1Ymxpc2ggYW4gQXZyby1lbmNvZGVkICJkcm9wIiBtZXNzYWdlLgoKICAgICAgICA6cGFyYW0gRHJvcERldGFpbHMgZHJvcF9kZXRhaWxzOiBkZXRhaWxzIGFib3V0IHRoaXMgc3BlY2lmaWMKICAgICAgICAgICAgZHJvcCBldmVudAogICAgICAgIDpwYXJhbSBkaWN0IGlucHV0X21lc3NhZ2U6IG1lc3NhZ2UgdG8gY29weSAicGFzcy10aHJvdWdoIiBmaWVsZHMgZnJvbQogICAgICAgIDpwYXJhbSBkaWN0IHJvdXRpbmdfaW5mbzogcm91dGluZyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgZXZlbnQuICBUaGlzCiAgICAgICAgICAgIGRpY3Rpb25hcnkgY29udGFpbnMgYXQgbGVhc3QgdGhlIGBgZXhjaGFuZ2VgYCBhbmQgYGByb3V0aW5nX2tleWBgCgogICAgICAgICIiIgogICAgICAgIHNlbGYucHVibGlzaF9hdnJvX21lc3NhZ2UoJ2Ryb3AudjEnLCBpbnB1dF9tZXNzYWdlLCByb3V0aW5nX2luZm8sIHsKICAgICAgICAgICAgJ2Ryb3BwZWRfYnknOiBfX3BhY2thZ2VfXywKICAgICAgICAgICAgJ3JlYXNvbic6IGRyb3BfZGV0YWlscy5yZWFzb24sCiAgICAgICAgfSkKICAgICAgICBzZWxmLnN0YXRzZF9pbmNyKCdldmVudHMuZHJvcHBlZCcpCiAgICAgICAgc2VsZi5sb2dfZXhjZXB0aW9uKCdkcm9wcGVkIG1lc3NhZ2UgLSAlcyBNRVNTQUdFICVzIHtDSUQgJXN9JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgZHJvcF9kZXRhaWxzLnJlYXNvbiwgc2VsZi5tZXNzYWdlX2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLl9jb3JyZWxhdGlvbl9pZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsID0gc2VsZi5nZW5lcmF0ZV9jYW1wYWlnbl9saW5rKHJhd19jYW1wYWlnblsnaWQnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhd19jYW1wYWlnblsnb3duZXInXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhd19jYW1wYWlnblsncGFyZW50J10pCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ21vZGlmaWVkX2F0Jzogc2VsZi5tb2RpZmllZF9hdC5pc29mb3JtYXQoKSwK</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3524,34 +3528,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>total_time</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>live</text>
+        <text>self.\([^ ]*\) = .*$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgcHN5Y29wZzIuRGF0YWJhc2VFcnJvciBhcyBlcnI6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ21vZGlmaWVkX2F0Jzogc2VsZi5tb2RpZmllZF9hdC5pc29mb3JtYXQoKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ21vZGlmaWVkX2F0Jzogc2VsZi5tb2RpZmllZF9hdC5pc29mb3JtYXQoKSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0geWllbGQgc2VsZi5jYW1wYWlnbl9zZXNzaW9uLmNhbGxwcm9jKCdnZXRfY2FtcGFpZ25zJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtvd25lciwgcGFyZW50XSkK</text>
+      <register name="2" type="4">
+        <text>]</text>
       </register>
       <register name="3" type="4">
-        <text>total_time</text>
+        <text>[</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYm9keS5hcHBlbmQoY2FtcGFpZ24pCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FtcGFpZ24gPSBzZWxmLl9idWlsZF9jYW1wYWlnbl9vYmplY3Qocm93KQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5193,32 +5197,30 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>_</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmb3Igcm93IGluIHJlc3VsdDoK</text>
       </register>
-      <register name="8" type="4">
-        <text>i</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBib2R5ID0gW10K</text>
       </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text>body</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
       <last-search>live</last-search>
       <last-offset />
-      <last-pattern>live</last-pattern>
-      <last-replace>rule_set</last-replace>
-      <last-substitute>name</last-substitute>
+      <last-pattern>self.\([^ ]*\) = .*$</last-pattern>
+      <last-replace>'\1': self.\1,</last-replace>
+      <last-substitute>self.\([^ ]*\) = .*$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZW5kX3Jlc3BvbnNlXD4=</entry>
-        <entry encoding="base64">XDxfZ2V0X2N1cnNvclw+</entry>
         <entry encoding="base64">XDxfZ2V0X2NvbnRlbnRfc2V0dGluZ3NcPg==</entry>
         <entry>http</entry>
         <entry encoding="base64">XDxIVFRQUmVxdWVzdFw+</entry>
@@ -5237,13 +5239,11 @@
         <entry encoding="base64">XDxKU09OX0hFQURFUlNcPg==</entry>
         <entry>send_error</entry>
         <entry>live</entry>
+        <entry encoding="base64">ID0gLiok</entry>
+        <entry>self.\([^ ]*\) = .*$</entry>
       </history-search>
       <history-cmd>
-        <entry>72</entry>
-        <entry>224</entry>
-        <entry>q</entry>
         <entry>wq</entry>
-        <entry>sp</entry>
         <entry>vs</entry>
         <entry>vsp</entry>
         <entry>s/parent/owner/g</entry>
@@ -5259,6 +5259,10 @@
         <entry>424</entry>
         <entry>w</entry>
         <entry>1</entry>
+        <entry>.,+5s/ = .*$/,/g</entry>
+        <entry>.,+5s/self.\([^ ]*\) = .*$/'\1' = self.\1,/g</entry>
+        <entry>.,+6s/self.\([^ ]*\) = .*$/'\1': self.\1,/g</entry>
+        <entry>sp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
