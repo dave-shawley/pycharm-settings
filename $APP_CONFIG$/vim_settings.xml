@@ -428,13 +428,13 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/pika/spec.py" timestamp="1438622555594">
         <mark key="'" line="2656" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform/campaign/campaign.py" timestamp="1441716930063">
+      <file name="$USER_HOME$/Source/platform/campaign/campaign.py" timestamp="1441719803006">
         <mark key="a" line="210" column="27" />
-        <mark key="'" line="200" column="33" />
-        <mark key="[" line="229" column="24" />
-        <mark key="]" line="229" column="44" />
-        <mark key="^" line="229" column="44" />
-        <mark key="." line="229" column="44" />
+        <mark key="'" line="219" column="0" />
+        <mark key="[" line="526" column="67" />
+        <mark key="]" line="527" column="42" />
+        <mark key="." line="527" column="42" />
+        <mark key="^" line="527" column="42" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/blocking_connection.py" timestamp="1423053523371">
         <mark key="'" line="305" column="28" />
@@ -1308,7 +1308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="541" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="176" column="27" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="539" column="38" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="289" column="8" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
@@ -1385,10 +1384,8 @@
       <jump line="106" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="111" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="114" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="192" column="16" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="197" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="210" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="219" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="285" column="8" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="4" column="9" filename="$USER_HOME$/Source/platform/sprockets.logging/examples/tornado-app.py" />
       <jump line="402" column="8" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
@@ -1405,16 +1402,19 @@
       <jump line="218" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="528" column="23" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="207" column="8" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="526" column="33" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="200" column="33" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="143" column="8" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="526" column="30" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="192" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="205" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="219" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXJsID0gc2VsZi5nZW5lcmF0ZV9jYW1wYWlnbl9saW5rKHJhd19jYW1wYWlnblsnaWQnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhd19jYW1wYWlnblsnb3duZXInXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhd19jYW1wYWlnblsncGFyZW50J10pCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID0gc2VsZi5fZ2VuZXJhdGVfY2FtcGFpZ24oY2FtcGFpZ25fZGljdCk=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3540,7 +3540,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gc2VsZi5fZ2VuZXJhdGVfY2FtcGFpZ24oY2FtcGFpZ25fZGljdCk=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVfY2FtcGFpZ25fbmFtZVw+</text>
@@ -3549,25 +3549,25 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmlkID0gZGF0YVsnaWQnXQogICAgICAgIHNlbGYubmFtZSA9IGRhdGFbJ25hbWUnXQogICAgICAgIHNlbGYuc3RhdGUgPSBkYXRhWydjYW1wYWlnbl9zdGF0ZSddCiAgICAgICAgc2VsZi5vd25lciA9IGRhdGFbJ293bmVyJ10KICAgICAgICBzZWxmLnBhcmVudCA9IGRhdGEuZ2V0KCdwYXJlbnQnKQogICAgICAgIHNlbGYucnVsZV9zZXQgPSBkYXRhWydydWxlX3NldCddCiAgICAgICAgc2VsZi5jcmVhdGVkX2F0ID0gZGF0YVsnY3JlYXRlZF9hdCddCiAgICAgICAgc2VsZi5tb2RpZmllZF9hdCA9IGRhdGEuZ2V0KCdtb2RpZmllZF9hdCcpIG9yIHNlbGYuY3JlYXRlZF9hdAogICAgICAgIHNlbGYuc3RhdGVfY2hhbmdlZF9hdCA9IGRhdGEuZ2V0KCdzdGF0ZV9jaGFuZ2VkX2F0Jykgb3Igc2VsZi5jcmVhdGVkX2F0CiAgICAgICAgc2VsZi51cmwgPSBOb25lCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ID0gc2VsZi5fZ2VuZXJhdGVfY2FtcGFpZ24oY2FtcGFpZ25fZGljdCk=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>_</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBjYW1wYWlnbiBpcyBOb25lOgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>, owner, parent):</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZW5kX2Vycm9yKDQwNCwgbG9nX21lc3NhZ2U9J0NhbXBhaWduIHt9IG5vdCBmb3VuZCcuZm9ybWF0KAogICAgICAgICAgICAgICAgY2FtcGFpZ25faWQpKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5210,13 +5210,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>d</text>
+        <text encoding="base64">ID0gc2VsZi5fZ2VuZXJhdGVfY2FtcGFpZ24oY2FtcGFpZ25fZGljdCk=</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
