@@ -1018,13 +1018,13 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
       </file>
-      <file name="$USER_HOME$/Source/platform/campaign/tests.py" timestamp="1441736116482">
-        <mark key="a" line="333" column="0" />
-        <mark key="'" line="478" column="66" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="500" column="59" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Source/platform/campaign/tests.py" timestamp="1441743441957">
+        <mark key="a" line="342" column="0" />
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="3" column="8" />
+        <mark key="^" line="3" column="8" />
+        <mark key="." line="3" column="8" />
       </file>
       <file name="$USER_HOME$/Source/platform/authorization/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1439214440844">
         <mark key="'" line="379" column="25" />
@@ -1325,17 +1325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="479" column="39" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="482" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="490" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="502" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="123" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="121" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="117" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="115" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="112" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="127" column="35" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="125" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="122" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="119" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="116" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
@@ -1425,6 +1414,17 @@
       <jump line="149" column="0" filename="$USER_HOME$/Source/platform/campaign/docs/api.rst" />
       <jump line="146" column="0" filename="$USER_HOME$/Source/platform/campaign/docs/api.rst" />
       <jump line="133" column="0" filename="$USER_HOME$/Source/platform/campaign/docs/api.rst" />
+      <jump line="16" column="4" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="176" column="15" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="170" column="15" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="164" column="15" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="158" column="15" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="127" column="47" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="62" column="51" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3560,7 +3560,7 @@
         <text>draft</text>
       </register>
       <register name="/" type="4">
-        <text>KeyError</text>
+        <text encoding="base64">XDxjcmVhdGVfY2FtcGFpZ25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAic3RhdGVfY2hhbmdlZF9hdCI6ICIyMDE1LTA5LTA4VDE1OjMxOjE2LjEzOSIsCg==</text>
@@ -5282,21 +5282,20 @@
         <text encoding="base64">TXkg</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search>KeyError</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVfY2FtcGFpZ25cPg==</last-search>
       <last-offset />
-      <last-pattern>KeyError</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVfY2FtcGFpZ25cPg==</last-pattern>
       <last-replace>'\1': self.\1,</last-replace>
       <last-substitute>self.\([^ ]*\) = .*$</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>send_error</entry>
         <entry>live</entry>
         <entry encoding="base64">ID0gLiok</entry>
         <entry>self.\([^ ]*\) = .*$</entry>
@@ -5316,6 +5315,7 @@
         <entry>_generate</entry>
         <entry>invalid_state</entry>
         <entry>KeyError</entry>
+        <entry encoding="base64">XDxjcmVhdGVfY2FtcGFpZ25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>122</entry>
@@ -5335,9 +5335,9 @@
         <entry>208</entry>
         <entry>261</entry>
         <entry>sp</entry>
-        <entry>vsp</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
