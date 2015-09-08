@@ -5282,7 +5282,7 @@
         <text encoding="base64">TXkg</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -5336,8 +5336,8 @@
         <entry>261</entry>
         <entry>sp</entry>
         <entry>vsp</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
