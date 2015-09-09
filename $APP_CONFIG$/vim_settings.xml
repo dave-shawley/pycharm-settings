@@ -435,13 +435,13 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/pika/spec.py" timestamp="1438622555594">
         <mark key="'" line="2656" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform/campaign/campaign.py" timestamp="1441798439118">
+      <file name="$USER_HOME$/Source/platform/campaign/campaign.py" timestamp="1441813149265">
         <mark key="a" line="166" column="0" />
-        <mark key="'" line="221" column="22" />
-        <mark key="[" line="534" column="0" />
-        <mark key="]" line="536" column="7" />
-        <mark key="." line="536" column="7" />
-        <mark key="^" line="536" column="7" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="64" />
+        <mark key="." line="226" column="0" />
+        <mark key="^" line="221" column="62" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/blocking_connection.py" timestamp="1423053523371">
         <mark key="'" line="305" column="28" />
@@ -1018,9 +1018,8 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
       </file>
-      <file name="$USER_HOME$/Source/platform/campaign/tests.py" timestamp="1441743441957">
-        <mark key="a" line="342" column="0" />
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/Source/platform/campaign/tests.py" timestamp="1441812957636">
+        <mark key="'" line="40" column="0" />
         <mark key="[" line="2" column="14" />
         <mark key="]" line="3" column="8" />
         <mark key="^" line="3" column="8" />
@@ -1325,9 +1324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="110" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="107" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="105" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="99" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="95" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
@@ -1425,13 +1421,16 @@
       <jump line="477" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="221" column="22" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="1881" column="8" filename="$USER_HOME$/Source/platform/campaign/env/lib/python2.7/site-packages/tornado/web.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Source/platform/campaign/tests.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBAZ2VuLmNvcm91dGluZQogICAgZGVmIF9jYWxsX3Byb2Moc2VsZiwgcHJvYywgKmFyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ2RiLnt9Jy5mb3JtYXQocHJvYykpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0geWllbGQgc2VsZi5jYW1wYWlnbl9zZXNzaW9uLmNhbGxwcm9jKHByb2MsIGFyZ3MpCiAgICAgICAgICAgICAgICByYWlzZSBnZW4uUmV0dXJuKHJlc3VsdCkKCiAgICAgICAgZXhjZXB0IHBzeWNvcGcyLkRhdGFFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHJhaXNlIHdlYi5IVFRQRXJyb3IoNDAwLCAnc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQ6ICVzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jLCBlcnIpCgogICAgICAgIGV4Y2VwdCBwc3ljb3BnMi5EYXRhYmFzZUVycm9yIGFzIGVycjoKICAgICAgICAgICAgcmFpc2Ugd2ViLkhUVFBFcnJvcig1MDAsICdzdG9yZWQgcHJvY2VkdXJlICVzIGZhaWxlZDogJXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2MsIGVycikK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>draft</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmV4Y2VwdGlvbignc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQnLCBwcm9jKQo=</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3557,16 +3556,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>draft</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
-        <text>HTTPError</text>
+        <text>coerce</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAic3RhdGVfY2hhbmdlZF9hdCI6ICIyMDE1LTA5LTA4VDE1OjMxOjE2LjEzOSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmV4Y2VwdGlvbignc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQnLCBwcm9jKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>draft</text>
+        <text>error</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3618,19 +3617,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>&quot;2015-09-08T15:30:13.046&quot;,</text>
+        <text>(AttributeError, ValueError)</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Ijog</text>
+        <text>draft</text>
       </register>
       <register name="4" type="4">
-        <text>state_changed_at</text>
+        <text>&quot;2015-09-08T15:30:13.046&quot;,</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">Ijog</text>
       </register>
       <register name="6" type="4">
-        <text>2015-09-08T15:27:27.004&quot;,</text>
+        <text>state_changed_at</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5273,22 +5272,22 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>Campaign</text>
+        <text>&quot;</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Rmlyc3Qg</text>
+        <text>2015-09-08T15:27:27.004&quot;,</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">TXkg</text>
+        <text>Campaign</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>221</text>
       </register>
     </registers>
     <search>
-      <last-search>HTTPError</last-search>
+      <last-search>coerce</last-search>
       <last-offset />
-      <last-pattern>HTTPError</last-pattern>
+      <last-pattern>coerce</last-pattern>
       <last-replace>'\1': self.\1,</last-replace>
       <last-substitute>self.\([^ ]*\) = .*$</last-substitute>
       <last-dir>1</last-dir>
@@ -5305,7 +5304,6 @@
         <entry encoding="base64">XDxxdWVyeV9wb3N0Z3Jlc1w+</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV9jYW1wYWlnbl9saW5rXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVfY2FtcGFpZ25fbmFtZVw+</entry>
-        <entry>coerce</entry>
         <entry encoding="base64">XDx0cmFja190aW1lXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
         <entry>update_camnpai</entry>
@@ -5316,10 +5314,9 @@
         <entry>KeyError</entry>
         <entry encoding="base64">XDxjcmVhdGVfY2FtcGFpZ25cPg==</entry>
         <entry>HTTPError</entry>
+        <entry>coerce</entry>
       </history-search>
       <history-cmd>
-        <entry>122</entry>
-        <entry>304</entry>
         <entry>s/owner/parent/</entry>
         <entry>s/parent/name/g</entry>
         <entry>sg</entry>
@@ -5335,9 +5332,11 @@
         <entry>208</entry>
         <entry>261</entry>
         <entry>sp</entry>
-        <entry>1</entry>
         <entry>w</entry>
         <entry>vsp</entry>
+        <entry>194</entry>
+        <entry>1</entry>
+        <entry>221</entry>
       </history-cmd>
       <history-expr />
       <history-input />
