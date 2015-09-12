@@ -232,11 +232,12 @@
         <mark key="." line="18" column="18" />
         <mark key="[" line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" timestamp="1442056581360">
-        <mark key="'" line="6" column="3" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-        <mark key="[" line="3" column="20" />
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" timestamp="1442056715942">
+        <mark key="'" line="44" column="0" />
+        <mark key="]" line="41" column="27" />
+        <mark key="^" line="41" column="27" />
+        <mark key="." line="41" column="27" />
+        <mark key="[" line="40" column="59" />
       </file>
       <file name="$USER_HOME$/Source/python/sampson/decode.py" timestamp="1419647211311">
         <mark key="'" line="66" column="0" />
@@ -484,12 +485,6 @@
         <mark key="." line="22" column="41" />
         <mark key="[" line="22" column="36" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/requires/testing.txt" timestamp="1442055483112">
-        <mark key="]" line="2" column="11" />
-        <mark key="^" line="2" column="11" />
-        <mark key="." line="2" column="11" />
-        <mark key="[" line="2" column="4" />
-      </file>
       <file name="$USER_HOME$/Source/python/haregel/haregel/application.py" timestamp="1424434445035">
         <mark key="'" line="30" column="38" />
       </file>
@@ -611,12 +606,12 @@
         <mark key="." line="104" column="0" />
         <mark key="[" line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" timestamp="1442056525007">
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" timestamp="1442056725696">
         <mark key="'" line="26" column="0" />
-        <mark key="]" line="28" column="50" />
-        <mark key="^" line="25" column="23" />
-        <mark key="." line="28" column="50" />
-        <mark key="[" line="28" column="50" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="48" column="18" />
+        <mark key="." line="47" column="0" />
+        <mark key="[" line="47" column="0" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/transports.py" timestamp="1436355028146">
         <mark key="'" line="126" column="31" />
@@ -959,14 +954,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
-      <jump line="322" column="13" filename="$USER_HOME$/Source/python/readit2/tests.py" />
-      <jump line="134" column="13" filename="$USER_HOME$/Source/python/readit2/tests.py" />
-      <jump line="319" column="13" filename="$USER_HOME$/Source/python/readit2/tests.py" />
-      <jump line="294" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
-      <jump line="298" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
-      <jump line="301" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
-      <jump line="305" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
       <jump line="310" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
       <jump line="320" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
       <jump line="333" column="0" filename="$USER_HOME$/Source/python/readit2/tests.py" />
@@ -1053,16 +1040,24 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
       <jump line="24" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
       <jump line="6" column="3" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgcmV2ZXJzZV91cmwoc2VsZiwgbmFtZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB1cmwgPSBzdXBlcihSZWFkaW5ncywgc2VsZikucmV2ZXJzZV91cmwobmFtZSwgKmFyZ3MpCiAgICAgICAgaWYga3dhcmdzLmdldCgnYWJzb2x1dGUnKToKICAgICAgICAgICAgdXJsID0gJ3swfTovL3sxfXsyfScuZm9ybWF0KHNlbGYucmVxdWVzdC5wcm90b2NvbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdC5ob3N0LCB1cmwpCiAgICAgICAgcmV0dXJuIHVybAoKICAgIGRlZiBnZXRfbG9naW5fdXJsKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJldmVyc2VfdXJsKCdsb2dpbicsIGFic29sdXRlPVRydWUpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgYmluX3VzZXJfaWQgPSBzZWxmLmdldF9zZWN1cmVfY29va2llKCd1c2VyaWQnKQogICAgICAgIGlmIGJpbl91c2VyX2lkIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gYmluX3VzZXJfaWQuZGVjb2RlKCd1dGYtOCcpCg==</text>
@@ -3194,7 +3189,7 @@
         <text>static_url</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4836,20 +4831,20 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="4">
-        <text>concurrent</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEB0ZXN0aW5nLmdlbl90ZQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBib2R5ID0gdXJsbGliLnBhcnNlLnVybGVuY29kZSh7CiAgICAgICAgICAgICdlbWFpbCc6ICdzb21lb25lLWVsc2VAZXhhbXBsZS5jb20nLAogICAgICAgICAgICAnbmV4dCc6IHNlbGYuZ2V0X3VybCgnLycpLAogICAgICAgIH0pCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Jywg</text>
+      <register name="7" type="2">
+        <text encoding="base64">CmNsYXNzIENhbGxiYWNrRnV0dXJlKGNvbmN1cnJlbnQuRnV0dXJlKToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHNlbGYub25fZXJyb3IgPSBrd2FyZ3MucG9wKCdvbl9lcnJvcicsIE5vbmUpCiAgICAgICAgc3VwZXIoQ2FsbGJhY2tGdXR1cmUsIHNlbGYpLl9faW5pdF9fKCphcmdzLCAqKmt3YXJncykKICAgIGRlZiBzdG9yZV9yZXN1bHQoc2VsZiwgKmFyZ3MpOgogICAgICAgIHNlbGYuc2V0X3Jlc3VsdChhcmdzWzBdKQogICAgZGVmIHN0b3JlX2V4Y2VwdGlvbihzZWxmLCAqYXJncyk6CiAgICAgICAgaWYgc2VsZi5vbl9lcnJvcjoKICAgICAgICAgICAgZXhjID0gc2VsZi5vbl9lcnJvcigqYXJncykKICAgICAgICBlbHNlOgogICAgICAgICAgICBleGMgPSBSdW50aW1lRXJyb3IoKQogICAgICAgIHNlbGYuc2V0X2V4Y2VwdGlvbihleGMpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -4857,20 +4852,20 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>concurrent</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CmNsYXNzIENhbGxiYWNrRnV0dXJlKGNvbmN1cnJlbnQuRnV0dXJlKToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHNlbGYub25fZXJyb3IgPSBrd2FyZ3MucG9wKCdvbl9lcnJvcicsIE5vbmUpCiAgICAgICAgc3VwZXIoQ2FsbGJhY2tGdXR1cmUsIHNlbGYpLl9faW5pdF9fKCphcmdzLCAqKmt3YXJncykKICAgIGRlZiBzdG9yZV9yZXN1bHQoc2VsZiwgKmFyZ3MpOgogICAgICAgIHNlbGYuc2V0X3Jlc3VsdChhcmdzWzBdKQogICAgZGVmIHN0b3JlX2V4Y2VwdGlvbihzZWxmLCAqYXJncyk6CiAgICAgICAgaWYgc2VsZi5vbl9lcnJvcjoKICAgICAgICAgICAgZXhjID0gc2VsZi5vbl9lcnJvcigqYXJncykKICAgICAgICBlbHNlOgogICAgICAgICAgICBleGMgPSBSdW50aW1lRXJyb3IoKQogICAgICAgIHNlbGYuc2V0X2V4Y2VwdGlvbihleGMpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
-      <register name="9" type="4">
-        <text>'</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>api</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
