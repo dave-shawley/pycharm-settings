@@ -28,8 +28,8 @@
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/header.py" timestamp="1435338901903">
         <mark key="'" line="96" column="43" />
       </file>
-      <file name="$USER_HOME$/Source/platform/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" timestamp="1442003576318">
-        <mark key="'" line="216" column="14" />
+      <file name="$USER_HOME$/Source/platform/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" timestamp="1442005110686">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" timestamp="1440161004056">
         <mark key="'" line="1" column="0" />
@@ -717,12 +717,13 @@
         <mark key="^" line="26" column="39" />
         <mark key="." line="26" column="39" />
       </file>
-      <file name="$USER_HOME$/Source/platform/sprockets.logging/tests.py" timestamp="1442004095185">
-        <mark key="'" line="105" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/Source/platform/sprockets.logging/tests.py" timestamp="1442005300823">
+        <mark key="a" line="103" column="0" />
+        <mark key="'" line="10" column="20" />
+        <mark key="[" line="129" column="26" />
+        <mark key="]" line="129" column="34" />
+        <mark key="." line="129" column="34" />
+        <mark key="^" line="129" column="34" />
       </file>
       <file name="$USER_HOME$/Source/python/ietfparse/docs/urls.rst" timestamp="1411922099037">
         <mark key="'" line="51" column="0" />
@@ -1010,6 +1011,9 @@
         <mark key="]" line="165" column="56" />
         <mark key="^" line="165" column="56" />
         <mark key="." line="165" column="56" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/sprockets.logging/env/lib/python3.4/site-packages/tornado/httpserver.py" timestamp="1442005210814">
+        <mark key="'" line="304" column="23" />
       </file>
       <file name="$USER_HOME$/Source/python/ietfparse/ietfparse/errors.py" timestamp="1429475409627">
         <mark key="'" line="3" column="0" />
@@ -1327,10 +1331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="495" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="500" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="505" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Source/platform/campaign/docs/api.rst" />
       <jump line="13" column="0" filename="$USER_HOME$/Source/platform/campaign/docs/api.rst" />
       <jump line="15" column="0" filename="$USER_HOME$/Source/platform/campaign/docs/api.rst" />
       <jump line="20" column="0" filename="$USER_HOME$/Source/platform/campaign/docs/api.rst" />
@@ -1403,7 +1403,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
-      <jump line="10" column="20" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" />
       <jump line="213" column="14" filename="$USER_HOME$/Source/platform/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" />
       <jump line="216" column="14" filename="$USER_HOME$/Source/platform/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" />
@@ -1427,13 +1426,18 @@
       <jump line="101" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
       <jump line="108" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
       <jump line="105" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="1251" column="8" filename="$USER_HOME$/Source/platform/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" />
+      <jump line="1218" column="31" filename="$USER_HOME$/Source/platform/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" />
+      <jump line="304" column="23" filename="$USER_HOME$/Source/platform/sprockets.logging/env/lib/python3.4/site-packages/tornado/httpserver.py" />
+      <jump line="10" column="20" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBAZ2VuLmNvcm91dGluZQogICAgZGVmIF9jYWxsX3Byb2Moc2VsZiwgcHJvYywgKmFyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ2RiLnt9Jy5mb3JtYXQocHJvYykpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0geWllbGQgc2VsZi5jYW1wYWlnbl9zZXNzaW9uLmNhbGxwcm9jKHByb2MsIGFyZ3MpCiAgICAgICAgICAgICAgICByYWlzZSBnZW4uUmV0dXJuKHJlc3VsdCkKCiAgICAgICAgZXhjZXB0IHBzeWNvcGcyLkRhdGFFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHJhaXNlIHdlYi5IVFRQRXJyb3IoNDAwLCAnc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQ6ICVzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jLCBlcnIpCgogICAgICAgIGV4Y2VwdCBwc3ljb3BnMi5EYXRhYmFzZUVycm9yIGFzIGVycjoKICAgICAgICAgICAgcmFpc2Ugd2ViLkhUVFBFcnJvcig1MDAsICdzdG9yZWQgcHJvY2VkdXJlICVzIGZhaWxlZDogJXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2MsIGVycikK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmV4Y2VwdGlvbignc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQnLCBwcm9jKQo=</text>
+      <register name="&quot;" type="4">
+        <text>handler.request.method,</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3559,16 +3563,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>handler.request.method,</text>
       </register>
       <register name="/" type="4">
-        <text>HTTPError</text>
+        <text>class RequestHandler</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmV4Y2VwdGlvbignc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQnLCBwcm9jKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>error</text>
+        <text>handler.request.method,</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3620,19 +3624,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>(AttributeError, ValueError)</text>
+        <text>handler.request.headers,</text>
       </register>
-      <register name="3" type="4">
-        <text>draft</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhhbmRsZXIucmVxdWVzdC5oZWFkZXJzWydDb3JyZWxhdGlvbi1JRCddLAo=</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;2015-09-08T15:30:13.046&quot;,</text>
+        <text>error</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Ijog</text>
+        <text>(AttributeError, ValueError)</text>
       </register>
       <register name="6" type="4">
-        <text>state_changed_at</text>
+        <text>draft</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5275,22 +5279,22 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>&quot;</text>
+        <text>&quot;2015-09-08T15:30:13.046&quot;,</text>
       </register>
       <register name="8" type="4">
-        <text>2015-09-08T15:27:27.004&quot;,</text>
+        <text encoding="base64">Ijog</text>
       </register>
       <register name="9" type="4">
-        <text>Campaign</text>
+        <text>state_changed_at</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>HTTPError</last-search>
+      <last-search>class RequestHandler</last-search>
       <last-offset />
-      <last-pattern>HTTPError</last-pattern>
+      <last-pattern>class RequestHandler</last-pattern>
       <last-replace>'\1': self.\1,</last-replace>
       <last-substitute>self.\([^ ]*\) = .*$</last-substitute>
       <last-dir>1</last-dir>
@@ -5298,8 +5302,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">ID0gLiok</entry>
-        <entry>self.\([^ ]*\) = .*$</entry>
         <entry encoding="base64">XDxwb3N0Z3Jlc3FsXD4=</entry>
         <entry encoding="base64">XDxfZGVzZXJpYWxpemVfYm9keVw+</entry>
         <entry>update_</entry>
@@ -5318,6 +5320,8 @@
         <entry encoding="base64">XDxjcmVhdGVfY2FtcGFpZ25cPg==</entry>
         <entry>coerce</entry>
         <entry>HTTPError</entry>
+        <entry>HTTPRequest</entry>
+        <entry>class RequestHandler</entry>
       </history-search>
       <history-cmd>
         <entry>s/owner/parent/</entry>
