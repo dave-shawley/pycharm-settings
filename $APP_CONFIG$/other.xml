@@ -94,6 +94,7 @@
         <entry key="$USER_HOME$/Source/python/tokenauth/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/python/zender/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/sandbox/glinda/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Source/work/sprockets.clients.amqp/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Temporary/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Temporary/miming/env/bin/python" value="true" />
         <entry key="$USER_HOME$/opt/bin/python3.4" value="false" />
