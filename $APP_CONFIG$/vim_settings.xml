@@ -241,12 +241,10 @@
         <mark key="." line="18" column="18" />
         <mark key="[" line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" timestamp="1442158293216">
-        <mark key="'" line="59" column="36" />
-        <mark key="]" line="49" column="32" />
-        <mark key="^" line="49" column="32" />
-        <mark key="." line="49" column="32" />
-        <mark key="[" line="49" column="12" />
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" timestamp="1442159144855">
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="[" line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/sampson/decode.py" timestamp="1419647211311">
         <mark key="'" line="66" column="0" />
@@ -615,13 +613,13 @@
         <mark key="." line="104" column="0" />
         <mark key="[" line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" timestamp="1442158208532">
-        <mark key="'" line="11" column="0" />
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" timestamp="1442158708432">
+        <mark key="'" line="41" column="8" />
         <mark key="a" line="77" column="13" />
-        <mark key="]" line="16" column="43" />
-        <mark key="^" line="90" column="28" />
-        <mark key="." line="16" column="43" />
-        <mark key="[" line="16" column="43" />
+        <mark key="]" line="96" column="49" />
+        <mark key="^" line="96" column="49" />
+        <mark key="." line="96" column="49" />
+        <mark key="[" line="96" column="49" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/transports.py" timestamp="1436355028146">
         <mark key="'" line="126" column="31" />
@@ -961,7 +959,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="0" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="241" column="25" filename="$USER_HOME$/Source/python/readit2/readit/handlers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/web.py" />
       <jump line="746" column="32" filename="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/web.py" />
@@ -1061,10 +1058,11 @@
       <jump line="5" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
       <jump line="7" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
+      <jump line="41" column="8" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>return None</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgcmV2ZXJzZV91cmwoc2VsZiwgbmFtZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB1cmwgPSBzdXBlcihSZWFkaW5ncywgc2VsZikucmV2ZXJzZV91cmwobmFtZSwgKmFyZ3MpCiAgICAgICAgaWYga3dhcmdzLmdldCgnYWJzb2x1dGUnKToKICAgICAgICAgICAgdXJsID0gJ3swfTovL3sxfXsyfScuZm9ybWF0KHNlbGYucmVxdWVzdC5wcm90b2NvbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdC5ob3N0LCB1cmwpCiAgICAgICAgcmV0dXJuIHVybAoKICAgIGRlZiBnZXRfbG9naW5fdXJsKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJldmVyc2VfdXJsKCdsb2dpbicsIGFic29sdXRlPVRydWUpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgYmluX3VzZXJfaWQgPSBzZWxmLmdldF9zZWN1cmVfY29va2llKCd1c2VyaWQnKQogICAgICAgIGlmIGJpbl91c2VyX2lkIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gYmluX3VzZXJfaWQuZGVjb2RlKCd1dGYtOCcpCg==</text>
@@ -3196,7 +3194,7 @@
         <text>class</text>
       </register>
       <register name="-" type="4">
-        <text>return None</text>
+        <text>0</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4838,41 +4836,41 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>0</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>return None</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB5aWVsZCB0b19pb2xvb3Aoc2VsZi5pb19sb29wKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>n</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzYXZlZF9lbnYgPSBvcy5lbnZpcm9uWydBTVFQJ10K</text>
       </register>
-      <register name="6" type="4">
-        <text>e</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBvcy5lbnZpcm9uWydBTVFQJ10gPSAnYW1xcDovLzEyNy4wLjAuMTowJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="5" type="4">
-        <text>class</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="4">
-        <text>func</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>N</text>
+        <text>'</text>
       </register>
-      <register name="8" type="4">
-        <text>o</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25uID0gYW1xcC5Db25uZWN0aW9uKCkK</text>
       </register>
     </registers>
     <search>
@@ -4925,9 +4923,9 @@
         <entry>set paste</entry>
         <entry>242</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
         <entry>60</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
