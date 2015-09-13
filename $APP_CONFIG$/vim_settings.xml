@@ -100,10 +100,6 @@
         <mark key="." line="1" column="51" />
         <mark key="[" line="1" column="51" />
       </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/auth.py" timestamp="1434890286446">
-        <mark key="'" line="859" column="4" />
-        <mark key="a" line="606" column="28" />
-      </file>
       <file name="_mac/$APP_CONFIG$/keymap.xml" timestamp="1435431960820">
         <mark key="[" line="0" column="0" />
       </file>
@@ -150,6 +146,7 @@
       <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/locks.py" timestamp="1442157749773">
         <mark key="'" line="227" column="23" />
       </file>
+      <file name="$USER_HOME$/Source/work/sprockets.logging/sprockets/logging.py" timestamp="1442185807904" />
       <file name="$USER_HOME$/Source/python/magician/docs/protocol.rst" timestamp="1437845457774">
         <mark key="'" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -189,10 +186,6 @@
         <mark key="^" line="17" column="35" />
         <mark key="." line="17" column="35" />
         <mark key="[" line="17" column="22" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/asyncio/base_events.py" timestamp="1438534688134">
-        <mark key="'" line="1116" column="30" />
-        <mark key="a" line="1116" column="30" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/tests/unit/neo_node_tests.py" timestamp="1408708945766">
         <mark key="'" line="94" column="9" />
@@ -352,10 +345,6 @@
         <mark key="^" line="21" column="33" />
         <mark key="." line="11" column="38" />
         <mark key="[" line="11" column="38" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/http1connection.py" timestamp="1434106533400">
-        <mark key="'" line="150" column="20" />
-        <mark key="a" line="184" column="41" />
       </file>
       <file name="$USER_HOME$/Source/python/ietfparse/setup.py" timestamp="1411309267031">
         <mark key="'" line="11" column="0" />
@@ -617,7 +606,7 @@
       <file name="$APP_CONFIG$/packages.xml" timestamp="1435431998415">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1442064536409">
+      <file name="/Python Console" timestamp="1442185814716">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/windows_events.py" timestamp="1438517317471">
@@ -630,13 +619,13 @@
         <mark key="." line="195" column="56" />
         <mark key="[" line="194" column="11" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.logging/tests.py" timestamp="1442179582460">
-        <mark key="'" line="164" column="0" />
+      <file name="$USER_HOME$/Source/work/sprockets.logging/tests.py" timestamp="1442185773262">
+        <mark key="'" line="164" column="27" />
         <mark key="a" line="160" column="14" />
-        <mark key="]" line="169" column="39" />
-        <mark key="^" line="167" column="44" />
-        <mark key="." line="169" column="49" />
-        <mark key="[" line="169" column="39" />
+        <mark key="]" line="171" column="33" />
+        <mark key="^" line="171" column="33" />
+        <mark key="." line="171" column="33" />
+        <mark key="[" line="167" column="28" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
         <mark key="'" line="8" column="0" />
@@ -803,20 +792,12 @@
         <mark key="." line="22" column="0" />
         <mark key="[" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/web.py" timestamp="1440807985646">
-        <mark key="'" line="1277" column="55" />
-        <mark key="a" line="415" column="62" />
-      </file>
       <file name="$USER_HOME$/Source/python/zender/docs/content-type.rst" timestamp="1422827426642">
         <mark key="'" line="158" column="0" />
         <mark key="]" line="153" column="21" />
         <mark key="^" line="153" column="21" />
         <mark key="." line="153" column="21" />
         <mark key="[" line="152" column="21" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/asyncio/streams.py" timestamp="1438548599252">
-        <mark key="'" line="365" column="13" />
-        <mark key="a" line="218" column="34" />
       </file>
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1431883634285">
         <mark key="'" line="146" column="13" />
@@ -888,10 +869,6 @@
         <mark key="^" line="117" column="63" />
         <mark key="." line="117" column="63" />
         <mark key="[" line="117" column="58" />
-      </file>
-      <file name="$USER_HOME$/Source/python/glinda/tests/content_tests.py" timestamp="1439294974142">
-        <mark key="'" line="32" column="0" />
-        <mark key="a" line="139" column="59" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/setup.py" timestamp="1404670071151">
         <mark key="'" line="3" column="0" />
@@ -1101,14 +1078,14 @@
       <jump line="16" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
       <jump line="171" column="8" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
       <jump line="168" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
-      <jump line="164" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
       <jump line="18" column="62" filename="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" />
+      <jump line="164" column="27" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
       <jump line="45" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>things_happen</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgcmV2ZXJzZV91cmwoc2VsZiwgbmFtZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB1cmwgPSBzdXBlcihSZWFkaW5ncywgc2VsZikucmV2ZXJzZV91cmwobmFtZSwgKmFyZ3MpCiAgICAgICAgaWYga3dhcmdzLmdldCgnYWJzb2x1dGUnKToKICAgICAgICAgICAgdXJsID0gJ3swfTovL3sxfXsyfScuZm9ybWF0KHNlbGYucmVxdWVzdC5wcm90b2NvbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdC5ob3N0LCB1cmwpCiAgICAgICAgcmV0dXJuIHVybAoKICAgIGRlZiBnZXRfbG9naW5fdXJsKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJldmVyc2VfdXJsKCdsb2dpbicsIGFic29sdXRlPVRydWUpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgYmluX3VzZXJfaWQgPSBzZWxmLmdldF9zZWN1cmVfY29va2llKCd1c2VyaWQnKQogICAgICAgIGlmIGJpbl91c2VyX2lkIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gYmluX3VzZXJfaWQuZGVjb2RlKCd1dGYtOCcpCg==</text>
@@ -3240,7 +3217,7 @@
         <text>query_</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>things_happen</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4882,41 +4859,41 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="4">
-        <text>recorder</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuYWRkSGFuZGxlcihsb2dnaW5nX2hhbmRsZXIpCg==</text>
       </register>
       <register name="2" type="4">
-        <text>recorder</text>
+        <text>LOGGER</text>
       </register>
       <register name="1" type="4">
-        <text>;</text>
+        <text>things_happen</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEZhbHNlKGNvbm4uY29ubmVjdGVkKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>handler</text>
+        <text>recorder</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>recorder</text>
       </register>
       <register name="5" type="4">
-        <text>recorder</text>
+        <text>;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="4">
-        <text>recorder</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
       <register name="9" type="4">
-        <text>self</text>
+        <text>recorder</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>recorder</text>
       </register>
     </registers>
     <search>
