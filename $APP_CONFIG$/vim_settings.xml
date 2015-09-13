@@ -414,6 +414,9 @@
       <file name="/a.dummy" timestamp="1439139316833">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/work/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" timestamp="1442178920376">
+        <mark key="'" line="147" column="6" />
+      </file>
       <file name="$USER_HOME$/Source/python/ietfparse/README.rst" timestamp="1432559486459">
         <mark key="'" line="3" column="46" />
       </file>
@@ -505,6 +508,14 @@
         <mark key="^" line="25" column="11" />
         <mark key="." line="22" column="41" />
         <mark key="[" line="22" column="36" />
+      </file>
+      <file name="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" timestamp="1442179615973">
+        <mark key="'" line="45" column="0" />
+        <mark key="a" line="27" column="25" />
+        <mark key="]" line="35" column="61" />
+        <mark key="^" line="35" column="61" />
+        <mark key="." line="35" column="61" />
+        <mark key="[" line="35" column="61" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/haregel/application.py" timestamp="1424434445035">
         <mark key="'" line="30" column="38" />
@@ -618,6 +629,14 @@
         <mark key="^" line="195" column="56" />
         <mark key="." line="195" column="56" />
         <mark key="[" line="194" column="11" />
+      </file>
+      <file name="$USER_HOME$/Source/work/sprockets.logging/tests.py" timestamp="1442179582460">
+        <mark key="'" line="164" column="0" />
+        <mark key="a" line="160" column="14" />
+        <mark key="]" line="169" column="39" />
+        <mark key="^" line="167" column="44" />
+        <mark key="." line="169" column="49" />
+        <mark key="[" line="169" column="39" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
         <mark key="'" line="8" column="0" />
@@ -986,31 +1005,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="17" column="25" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="225" column="0" filename="$USER_HOME$/opt/lib/python3.4/urllib/parse.py" />
-      <jump line="175" column="0" filename="$USER_HOME$/opt/lib/python3.4/urllib/parse.py" />
-      <jump line="347" column="16" filename="$USER_HOME$/opt/lib/python3.4/urllib/parse.py" />
-      <jump line="242" column="36" filename="$USER_HOME$/opt/lib/python3.4/urllib/parse.py" />
-      <jump line="162" column="28" filename="$USER_HOME$/opt/lib/python3.4/urllib/parse.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
-      <jump line="6" column="3" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
-      <jump line="54" column="8" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="33" column="11" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
       <jump line="55" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
       <jump line="50" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
       <jump line="36" column="43" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
@@ -1086,10 +1080,35 @@
       <jump line="40" column="7" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
       <jump line="105" column="8" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
       <jump line="117" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
+      <jump line="6" column="18" filename="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" />
+      <jump line="147" column="6" filename="$USER_HOME$/Source/work/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" />
+      <jump line="429" column="12" filename="$USER_HOME$/Source/work/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" />
+      <jump line="2" column="27" filename="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" />
+      <jump line="0" column="20" filename="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" />
+      <jump line="1" column="9" filename="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="173" column="8" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="169" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="165" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="163" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="158" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="147" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="154" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="171" column="8" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="168" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="164" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="18" column="62" filename="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgcmV2ZXJzZV91cmwoc2VsZiwgbmFtZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB1cmwgPSBzdXBlcihSZWFkaW5ncywgc2VsZikucmV2ZXJzZV91cmwobmFtZSwgKmFyZ3MpCiAgICAgICAgaWYga3dhcmdzLmdldCgnYWJzb2x1dGUnKToKICAgICAgICAgICAgdXJsID0gJ3swfTovL3sxfXsyfScuZm9ybWF0KHNlbGYucmVxdWVzdC5wcm90b2NvbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdC5ob3N0LCB1cmwpCiAgICAgICAgcmV0dXJuIHVybAoKICAgIGRlZiBnZXRfbG9naW5fdXJsKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJldmVyc2VfdXJsKCdsb2dpbicsIGFic29sdXRlPVRydWUpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgYmluX3VzZXJfaWQgPSBzZWxmLmdldF9zZWN1cmVfY29va2llKCd1c2VyaWQnKQogICAgICAgIGlmIGJpbl91c2VyX2lkIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gYmluX3VzZXJfaWQuZGVjb2RlKCd1dGYtOCcpCg==</text>
@@ -3218,10 +3237,10 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text>query_</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>;</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4864,46 +4883,46 @@
         </keys>
       </register>
       <register name="3" type="4">
-        <text>,</text>
+        <text>recorder</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CgpjbGFzcyBNaXhpblRlc3RzKHRlc3RpbmcuQXN5bmNIVFRQVGVzdENhc2UpOgogICAgCiAgICBkZWYgZ2V0X2FwcChzZWxmKToKICAgICAgICBwYXNzCg==</text>
+      <register name="2" type="4">
+        <text>recorder</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEZhbHNlKGNvbm4uY29ubmVjdGVkKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZyb20gc3Byb2NrZXRzLmNsaWVudHMuYW1xcCBpbXBvcnQgZXhjZXB0aW9ucwo=</text>
+      <register name="7" type="4">
+        <text>handler</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">X19hbGxfXyA9ICgnZXhjZXB0aW9ucycsICdDb25uZWN0aW9uJywgJ3ZlcnNpb25faW5mbycsICdfX3ZlcnNpb25fXycpCg==</text>
+      <register name="5" type="4">
+        <text>recorder</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="4">
-        <text>env</text>
+        <text>recorder</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">X19hbGxfXyA9ICgnZXhjZXB0aW9ucycsICdDb25uZWN0aW9uJywgJ3ZlcnNpb25faW5mbycsICdfX3ZlcnNpb25fXycpCg==</text>
+      <register name="9" type="4">
+        <text>self</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>.</text>
       </register>
     </registers>
     <search>
-      <last-search>class</last-search>
+      <last-search>query_</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
+      <last-pattern>query_</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -4911,7 +4930,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc2VsZWN0b3JcPg==</entry>
         <entry encoding="base64">XDx0cmFuc3BvcnRcPg==</entry>
         <entry>self.transport</entry>
         <entry>Transport</entry>
@@ -4931,11 +4949,9 @@
         <entry>statuc_url</entry>
         <entry>static_url</entry>
         <entry>class</entry>
+        <entry>query_</entry>
       </history-search>
       <history-cmd>
-        <entry>141</entry>
-        <entry>364</entry>
-        <entry>399</entry>
         <entry>sp</entry>
         <entry>263</entry>
         <entry>278</entry>
@@ -4951,8 +4967,11 @@
         <entry>242</entry>
         <entry>vsp</entry>
         <entry>60</entry>
-        <entry>1</entry>
+        <entry>q</entry>
+        <entry>vs</entry>
         <entry>w</entry>
+        <entry>2</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
