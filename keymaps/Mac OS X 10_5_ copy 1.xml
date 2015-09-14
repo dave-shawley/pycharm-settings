@@ -4,10 +4,14 @@
   </action>
   <action id="Console.TableResult.Reload" />
   <action id="CopyElement" />
+  <action id="MarkExcludeRoot">
+    <keyboard-shortcut first-keystroke="shift meta E" />
+  </action>
   <action id="MinimizeCurrentWindow" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="meta M" />
   </action>
+  <action id="RecentChangedFiles" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta T" />
   </action>

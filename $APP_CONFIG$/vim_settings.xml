@@ -1051,6 +1051,12 @@
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" timestamp="1438347364675">
         <mark key="'" line="739" column="26" />
       </file>
+      <file name="$USER_HOME$/Source/platform/scheduler/docs/api.rst" timestamp="1442234788673">
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="32" column="48" />
+        <mark key="." line="32" column="48" />
+        <mark key="^" line="32" column="48" />
+      </file>
       <file name="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" timestamp="1440705838510">
         <mark key="a" line="155" column="63" />
         <mark key="'" line="105" column="4" />
@@ -1436,8 +1442,8 @@
       <register name="a" type="2">
         <text encoding="base64">CiAgICBAZ2VuLmNvcm91dGluZQogICAgZGVmIF9jYWxsX3Byb2Moc2VsZiwgcHJvYywgKmFyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ2RiLnt9Jy5mb3JtYXQocHJvYykpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0geWllbGQgc2VsZi5jYW1wYWlnbl9zZXNzaW9uLmNhbGxwcm9jKHByb2MsIGFyZ3MpCiAgICAgICAgICAgICAgICByYWlzZSBnZW4uUmV0dXJuKHJlc3VsdCkKCiAgICAgICAgZXhjZXB0IHBzeWNvcGcyLkRhdGFFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHJhaXNlIHdlYi5IVFRQRXJyb3IoNDAwLCAnc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQ6ICVzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jLCBlcnIpCgogICAgICAgIGV4Y2VwdCBwc3ljb3BnMi5EYXRhYmFzZUVycm9yIGFzIGVycjoKICAgICAgICAgICAgcmFpc2Ugd2ViLkhUVFBFcnJvcig1MDAsICdzdG9yZWQgcHJvY2VkdXJlICVzIGZhaWxlZDogJXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2MsIGVycikK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>handler.request.method,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KiAqKnNlbGYqKiAoOmNsYXNzOmBzdHJgKQo=</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3563,7 +3569,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>handler.request.method,</text>
+        <text>str</text>
       </register>
       <register name="/" type="4">
         <text>class RequestHandler</text>
@@ -3571,8 +3577,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmV4Y2VwdGlvbignc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQnLCBwcm9jKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>handler.request.method,</text>
+      <register name="1" type="2">
+        <text encoding="base64">KiAqKnNlbGYqKiAoOmNsYXNzOmBzdHJgKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3623,20 +3629,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>handler.request.headers,</text>
+      <register name="2" type="2">
+        <text encoding="base64">KiAqKmhlYWRlcnMqKiAoOmNsYXNzOmBkaWN0YCkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhhbmRsZXIucmVxdWVzdC5oZWFkZXJzWydDb3JyZWxhdGlvbi1JRCddLAo=</text>
+      <register name="3" type="4">
+        <text>str</text>
       </register>
       <register name="4" type="4">
-        <text>error</text>
+        <text>_</text>
       </register>
       <register name="5" type="4">
-        <text>(AttributeError, ValueError)</text>
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text>draft</text>
+        <text>n</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5279,13 +5285,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>&quot;2015-09-08T15:30:13.046&quot;,</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Ijog</text>
+        <text>v</text>
       </register>
       <register name="9" type="4">
-        <text>state_changed_at</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
