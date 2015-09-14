@@ -474,11 +474,10 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1442235655822">
-        <mark key="[" line="84" column="8" />
-        <mark key="]" line="84" column="26" />
-        <mark key="." line="84" column="26" />
-        <mark key="^" line="84" column="26" />
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1442238286364">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/glinda/setup.py" timestamp="1432206000373">
         <mark key="'" line="5" column="19" />
@@ -517,6 +516,11 @@
       </file>
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1431883634285">
         <mark key="'" line="146" column="13" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" timestamp="1442237907434">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
         <mark key="'" line="8" column="0" />
@@ -1448,8 +1452,8 @@
       <register name="a" type="2">
         <text encoding="base64">CiAgICBAZ2VuLmNvcm91dGluZQogICAgZGVmIF9jYWxsX3Byb2Moc2VsZiwgcHJvYywgKmFyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ2RiLnt9Jy5mb3JtYXQocHJvYykpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0geWllbGQgc2VsZi5jYW1wYWlnbl9zZXNzaW9uLmNhbGxwcm9jKHByb2MsIGFyZ3MpCiAgICAgICAgICAgICAgICByYWlzZSBnZW4uUmV0dXJuKHJlc3VsdCkKCiAgICAgICAgZXhjZXB0IHBzeWNvcGcyLkRhdGFFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHJhaXNlIHdlYi5IVFRQRXJyb3IoNDAwLCAnc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQ6ICVzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jLCBlcnIpCgogICAgICAgIGV4Y2VwdCBwc3ljb3BnMi5EYXRhYmFzZUVycm9yIGFzIGVycjoKICAgICAgICAgICAgcmFpc2Ugd2ViLkhUVFBFcnJvcig1MDAsICdzdG9yZWQgcHJvY2VkdXJlICVzIGZhaWxlZDogJXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2MsIGVycikK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>pass</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3583,8 +3587,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmV4Y2VwdGlvbignc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQnLCBwcm9jKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>pass</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3635,20 +3639,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>pass</text>
+      <register name="2" type="2">
+        <text encoding="base64">CgpjbGFzcyBFdmVudEhhbmRsZXIod2ViLlJlcXVlc3RIYW5kbGVyKToKCiAgICBkZWYgZ2V0KHNlbGYsIGV2ZW50X2lkKToKICAgICAgICAiIiIKICAgICAgICBSZXRyaWV2ZSB0aGUgZGV0YWlscyBmb3IgYSBzcGVjaWZpYyBldmVudC4KCiAgICAgICAgOnBhcmFtIHN0ciBldmVudF9pZDogdGhlIHVuaXF1ZSBJRCBvZiB0aGUgZXZlbnQgdG8gcmV0cmlldmUKICAgICAgICA6cmV0dXJuczogOnJlZjpgZXZlbnQgZG9jdW1lbnRgCgogICAgICAgICIiIgogICAgICAgIHNlbGYuc2VuZF9lcnJvcig1MDEpCgogICAgZGVmIGRlbGV0ZShzZWxmLCBldmVudF9pZCk6CiAgICAgICAgIiIiCiAgICAgICAgUmVtb3ZlIGFuIGV2ZW50LgoKICAgICAgICA6cGFyYW0gc3RyIGV2ZW50X2lkOiB0aGUgdW5pcXVlIElEIG9mIHRoZSBldmVudCB0byByZXRyaWV2ZQoKICAgICAgICA6c3RhdHVzY29kZSAyMDQ6IHRoZSBldmVudCB3YXMgcmVtb3ZlZAoKICAgICAgICAiIiIKICAgICAgICBzZWxmLnNlbmRfZXJyb3IoNTAxKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>pass</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjd2ViLnVybChyJy9ycGMvcmVzdW1lJywgaGFuZGxlcnMuUmVzdW1lSGFuZGxlciksCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>pass</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjd2ViLnVybChyJy9ycGMvcGF1c2UnLCBoYW5kbGVycy5QYXVzZUhhbmRsZXIpLAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>pass</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjd2ViLnVybChyJy9ldmVudC8oP1A8ZXZlbnRfaWQ+Wy1cd10qKScsIGhhbmRsZXJzLkV2ZW50SGFuZGxlciksCg==</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>pass</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5290,14 +5294,14 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">KiAqKnNlbGYqKiAoOmNsYXNzOmBzdHJgKQo=</text>
+      <register name="7" type="4">
+        <text>pass</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">KiAqKmhlYWRlcnMqKiAoOmNsYXNzOmBkaWN0YCkK</text>
+      <register name="8" type="4">
+        <text>pass</text>
       </register>
       <register name="9" type="4">
-        <text>str</text>
+        <text>pass</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
