@@ -474,10 +474,12 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1442238286364">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1442240537064">
+        <mark key="'" line="74" column="27" />
+        <mark key="[" line="101" column="57" />
+        <mark key="]" line="102" column="24" />
+        <mark key="." line="102" column="24" />
+        <mark key="^" line="102" column="24" />
       </file>
       <file name="$USER_HOME$/Source/python/glinda/setup.py" timestamp="1432206000373">
         <mark key="'" line="5" column="19" />
@@ -517,10 +519,11 @@
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1431883634285">
         <mark key="'" line="146" column="13" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" timestamp="1442237907434">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" timestamp="1442240375016">
+        <mark key="[" line="18" column="59" />
+        <mark key="]" line="18" column="64" />
+        <mark key="." line="18" column="64" />
+        <mark key="^" line="18" column="64" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
         <mark key="'" line="8" column="0" />
@@ -1061,11 +1064,12 @@
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" timestamp="1438347364675">
         <mark key="'" line="739" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/docs/api.rst" timestamp="1442234788673">
-        <mark key="[" line="31" column="38" />
-        <mark key="]" line="32" column="48" />
-        <mark key="." line="32" column="48" />
-        <mark key="^" line="32" column="48" />
+      <file name="$USER_HOME$/Source/platform/scheduler/docs/api.rst" timestamp="1442240759651">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="37" column="25" />
+        <mark key="." line="37" column="25" />
+        <mark key="^" line="37" column="25" />
       </file>
       <file name="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" timestamp="1440705838510">
         <mark key="a" line="155" column="63" />
@@ -1347,12 +1351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Source/platform/campaign/docs/api.rst" />
-      <jump line="15" column="0" filename="$USER_HOME$/Source/platform/campaign/docs/api.rst" />
-      <jump line="20" column="0" filename="$USER_HOME$/Source/platform/campaign/docs/api.rst" />
-      <jump line="40" column="0" filename="$USER_HOME$/Source/platform/campaign/docs/api.rst" />
-      <jump line="43" column="0" filename="$USER_HOME$/Source/platform/campaign/docs/api.rst" />
-      <jump line="159" column="8" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="63" column="32" filename="$USER_HOME$/Source/platform/campaign/docs/api.rst" />
       <jump line="53" column="8" filename="$USER_HOME$/Source/platform/campaign/docs/api.rst" />
       <jump line="67" column="47" filename="$USER_HOME$/Source/platform/campaign/docs/api.rst" />
@@ -1447,13 +1445,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" />
       <jump line="304" column="23" filename="$USER_HOME$/Source/platform/sprockets.logging/env/lib/python3.4/site-packages/tornado/httpserver.py" />
       <jump line="10" column="20" filename="$USER_HOME$/Source/platform/sprockets.logging/tests.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="60" column="7" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="69" column="65" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="74" column="27" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/scheduler/docs/api.rst" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBAZ2VuLmNvcm91dGluZQogICAgZGVmIF9jYWxsX3Byb2Moc2VsZiwgcHJvYywgKmFyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ2RiLnt9Jy5mb3JtYXQocHJvYykpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0geWllbGQgc2VsZi5jYW1wYWlnbl9zZXNzaW9uLmNhbGxwcm9jKHByb2MsIGFyZ3MpCiAgICAgICAgICAgICAgICByYWlzZSBnZW4uUmV0dXJuKHJlc3VsdCkKCiAgICAgICAgZXhjZXB0IHBzeWNvcGcyLkRhdGFFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHJhaXNlIHdlYi5IVFRQRXJyb3IoNDAwLCAnc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQ6ICVzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jLCBlcnIpCgogICAgICAgIGV4Y2VwdCBwc3ljb3BnMi5EYXRhYmFzZUVycm9yIGFzIGVycjoKICAgICAgICAgICAgcmFpc2Ugd2ViLkhUVFBFcnJvcig1MDAsICdzdG9yZWQgcHJvY2VkdXJlICVzIGZhaWxlZDogJXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2MsIGVycikK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/rpc/pause</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3579,16 +3583,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>/rpc/pause</text>
       </register>
       <register name="/" type="4">
         <text>class RequestHandler</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmV4Y2VwdGlvbignc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQnLCBwcm9jKQo=</text>
+        <text encoding="base64">ICAgICAgICB3ZWIudXJsKHInL3JwYy9wYXVzZScsIGhhbmRsZXJzLlJQQ0hhbmRsZXIsIG5hbWU9J3BhdXNlJyksCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>/rpc/pause</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3639,20 +3643,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CgpjbGFzcyBFdmVudEhhbmRsZXIod2ViLlJlcXVlc3RIYW5kbGVyKToKCiAgICBkZWYgZ2V0KHNlbGYsIGV2ZW50X2lkKToKICAgICAgICAiIiIKICAgICAgICBSZXRyaWV2ZSB0aGUgZGV0YWlscyBmb3IgYSBzcGVjaWZpYyBldmVudC4KCiAgICAgICAgOnBhcmFtIHN0ciBldmVudF9pZDogdGhlIHVuaXF1ZSBJRCBvZiB0aGUgZXZlbnQgdG8gcmV0cmlldmUKICAgICAgICA6cmV0dXJuczogOnJlZjpgZXZlbnQgZG9jdW1lbnRgCgogICAgICAgICIiIgogICAgICAgIHNlbGYuc2VuZF9lcnJvcig1MDEpCgogICAgZGVmIGRlbGV0ZShzZWxmLCBldmVudF9pZCk6CiAgICAgICAgIiIiCiAgICAgICAgUmVtb3ZlIGFuIGV2ZW50LgoKICAgICAgICA6cGFyYW0gc3RyIGV2ZW50X2lkOiB0aGUgdW5pcXVlIElEIG9mIHRoZSBldmVudCB0byByZXRyaWV2ZQoKICAgICAgICA6c3RhdHVzY29kZSAyMDQ6IHRoZSBldmVudCB3YXMgcmVtb3ZlZAoKICAgICAgICAiIiIKICAgICAgICBzZWxmLnNlbmRfZXJyb3IoNTAxKQo=</text>
+      <register name="2" type="4">
+        <text>scheduler.handlers.RPCHandler</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjd2ViLnVybChyJy9ycGMvcmVzdW1lJywgaGFuZGxlcnMuUmVzdW1lSGFuZGxlciksCg==</text>
+      <register name="3" type="4">
+        <text>pause, resume</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjd2ViLnVybChyJy9ycGMvcGF1c2UnLCBoYW5kbGVycy5QYXVzZUhhbmRsZXIpLAo=</text>
+      <register name="4" type="4">
+        <text>in the</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjd2ViLnVybChyJy9ldmVudC8oP1A8ZXZlbnRfaWQ+Wy1cd10qKScsIGhhbmRsZXJzLkV2ZW50SGFuZGxlciksCg==</text>
+        <text encoding="base64">ICAgICAgICAjIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>pass</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA6c3RhdHVzY29kZSA0MDQ6IHlvdSd2ZSByZXF1ZXN0ZWQgYW4gaW52YWxpZCBhY3Rpb24K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5294,14 +5298,14 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>pass</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gc3RyIGFjdGlvbjogdGhlIGFjdGlvbiB0byBwZXJmb3JtLgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>pass</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="4">
-        <text>pass</text>
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
