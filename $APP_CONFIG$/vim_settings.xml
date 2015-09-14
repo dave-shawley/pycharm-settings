@@ -5315,7 +5315,7 @@
         <text>e</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
@@ -5364,13 +5364,13 @@
         <entry>152</entry>
         <entry>208</entry>
         <entry>261</entry>
-        <entry>sp</entry>
         <entry>vsp</entry>
         <entry>194</entry>
         <entry>221</entry>
         <entry>vspl</entry>
         <entry>1</entry>
         <entry>w</entry>
+        <entry>sp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
