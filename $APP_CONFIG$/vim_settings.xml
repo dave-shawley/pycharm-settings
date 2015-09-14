@@ -765,6 +765,12 @@
       <file name="$USER_HOME$/Source/platform/sprockets.logging/examples/tornado-app.py" timestamp="1441401944752">
         <mark key="'" line="4" column="9" />
       </file>
+      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1442256776197">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/transports.py" timestamp="1419596430478">
         <mark key="'" line="128" column="0" />
       </file>
@@ -1470,7 +1476,7 @@
         <text encoding="base64">CiAgICBAZ2VuLmNvcm91dGluZQogICAgZGVmIF9jYWxsX3Byb2Moc2VsZiwgcHJvYywgKmFyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ2RiLnt9Jy5mb3JtYXQocHJvYykpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0geWllbGQgc2VsZi5jYW1wYWlnbl9zZXNzaW9uLmNhbGxwcm9jKHByb2MsIGFyZ3MpCiAgICAgICAgICAgICAgICByYWlzZSBnZW4uUmV0dXJuKHJlc3VsdCkKCiAgICAgICAgZXhjZXB0IHBzeWNvcGcyLkRhdGFFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHJhaXNlIHdlYi5IVFRQRXJyb3IoNDAwLCAnc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQ6ICVzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jLCBlcnIpCgogICAgICAgIGV4Y2VwdCBwc3ljb3BnMi5EYXRhYmFzZUVycm9yIGFzIGVycjoKICAgICAgICAgICAgcmFpc2Ugd2ViLkhUVFBFcnJvcig1MDAsICdzdG9yZWQgcHJvY2VkdXJlICVzIGZhaWxlZDogJXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2MsIGVycikK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gIjUzL3VkcCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3605,7 +3611,7 @@
         <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gIjUzL3VkcCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3656,20 +3662,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC0gIjUzL3VkcCIK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">dGltZSBhdCB3aGljaCA=</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">d2lsbCA=</text>
+        <text encoding="base64">dGltZSBhdCB3aGljaCA=</text>
       </register>
       <register name="5" type="4">
-        <text>this event will be</text>
+        <text encoding="base64">d2lsbCA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm5lZCAK</text>
+      <register name="6" type="4">
+        <text>this event will be</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5311,17 +5317,17 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PSA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICByZXR1cm5lZCAK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">bWVzc2FnZSA=</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="9" type="4">
-        <text>_</text>
+        <text encoding="base64">bWVzc2FnZSA=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -5369,7 +5375,6 @@
         <entry>152</entry>
         <entry>208</entry>
         <entry>261</entry>
-        <entry>vsp</entry>
         <entry>194</entry>
         <entry>221</entry>
         <entry>vspl</entry>
@@ -5377,6 +5382,7 @@
         <entry>w</entry>
         <entry>sp</entry>
         <entry>wq</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
