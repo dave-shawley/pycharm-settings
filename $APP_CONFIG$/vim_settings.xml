@@ -474,12 +474,12 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1442240537064">
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1442243173230">
         <mark key="'" line="74" column="27" />
-        <mark key="[" line="101" column="57" />
-        <mark key="]" line="102" column="24" />
-        <mark key="." line="102" column="24" />
-        <mark key="^" line="102" column="24" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="95" column="51" />
+        <mark key="." line="95" column="51" />
+        <mark key="^" line="95" column="51" />
       </file>
       <file name="$USER_HOME$/Source/python/glinda/setup.py" timestamp="1432206000373">
         <mark key="'" line="5" column="19" />
@@ -1064,12 +1064,12 @@
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" timestamp="1438347364675">
         <mark key="'" line="739" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/docs/api.rst" timestamp="1442240759651">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="37" column="21" />
-        <mark key="]" line="37" column="25" />
-        <mark key="." line="37" column="25" />
-        <mark key="^" line="37" column="25" />
+      <file name="$USER_HOME$/Source/platform/scheduler/docs/api.rst" timestamp="1442243090063">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="55" column="49" />
+        <mark key="]" line="55" column="55" />
+        <mark key="." line="55" column="55" />
+        <mark key="^" line="55" column="55" />
       </file>
       <file name="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" timestamp="1440705838510">
         <mark key="a" line="155" column="63" />
@@ -1351,9 +1351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="32" filename="$USER_HOME$/Source/platform/campaign/docs/api.rst" />
-      <jump line="53" column="8" filename="$USER_HOME$/Source/platform/campaign/docs/api.rst" />
-      <jump line="67" column="47" filename="$USER_HOME$/Source/platform/campaign/docs/api.rst" />
       <jump line="70" column="9" filename="$USER_HOME$/Source/platform/campaign/docs/api.rst" />
       <jump line="105" column="4" filename="$USER_HOME$/Source/platform/campaign/docs/api.rst" />
       <jump line="93" column="0" filename="$USER_HOME$/Source/platform/campaign/docs/api.rst" />
@@ -1451,13 +1448,16 @@
       <jump line="69" column="65" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="74" column="27" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform/scheduler/docs/api.rst" />
+      <jump line="47" column="0" filename="$USER_HOME$/Source/platform/scheduler/docs/api.rst" />
+      <jump line="45" column="0" filename="$USER_HOME$/Source/platform/scheduler/docs/api.rst" />
+      <jump line="40" column="0" filename="$USER_HOME$/Source/platform/scheduler/docs/api.rst" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBAZ2VuLmNvcm91dGluZQogICAgZGVmIF9jYWxsX3Byb2Moc2VsZiwgcHJvYywgKmFyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ2RiLnt9Jy5mb3JtYXQocHJvYykpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0geWllbGQgc2VsZi5jYW1wYWlnbl9zZXNzaW9uLmNhbGxwcm9jKHByb2MsIGFyZ3MpCiAgICAgICAgICAgICAgICByYWlzZSBnZW4uUmV0dXJuKHJlc3VsdCkKCiAgICAgICAgZXhjZXB0IHBzeWNvcGcyLkRhdGFFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHJhaXNlIHdlYi5IVFRQRXJyb3IoNDAwLCAnc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQ6ICVzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jLCBlcnIpCgogICAgICAgIGV4Y2VwdCBwc3ljb3BnMi5EYXRhYmFzZUVycm9yIGFzIGVycjoKICAgICAgICAgICAgcmFpc2Ugd2ViLkhUVFBFcnJvcig1MDAsICdzdG9yZWQgcHJvY2VkdXJlICVzIGZhaWxlZDogJXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2MsIGVycikK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/rpc/pause</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIG5vdCBkb2N1bWVudGVkIQo=</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3583,16 +3583,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/rpc/pause</text>
+        <text>paused</text>
       </register>
       <register name="/" type="4">
         <text>class RequestHandler</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWIudXJsKHInL3JwYy9wYXVzZScsIGhhbmRsZXJzLlJQQ0hhbmRsZXIsIG5hbWU9J3BhdXNlJyksCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgIFBhdXNlIHplcm8gb3IgbW9yZSBldmVudHMuCiAgIAogICA6cXVlcnlwYXJhbSBzdHIgdGFnOiBpZGVudGlmaWVzIGEgc2V0IG9mIGV2ZW50cyB0byBwYXVzZS4gIFRoaXMgcGFyYW1ldGVyCiAgICAgIG1heSBiZSBzcGVjaWZpZWQgbW9yZSB0aGFuIG9uY2UuCgogICA6c3RhdHVzY29kZSAyMDA6IFRoZSB0YWdnZWQgYWN0aW9ucyBoYXZlIGJlZW4gcGF1c2VkLgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>/rpc/pause</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAjIG5vdCBkb2N1bWVudGVkIQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3643,20 +3643,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>scheduler.handlers.RPCHandler</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjIE4uQi4gdGhlIGBgYWN0aW9uYGAgcGFydCBpcyB3aXJlZCBpbnRvIHRoZSBVUkwgc28gaXQgaXMK</text>
       </register>
       <register name="3" type="4">
-        <text>pause, resume</text>
+        <text>paused</text>
       </register>
       <register name="4" type="4">
-        <text>in the</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA6c3RhdHVzY29kZSA0MDQ6IHlvdSd2ZSByZXF1ZXN0ZWQgYW4gaW52YWxpZCBhY3Rpb24K</text>
+      <register name="6" type="4">
+        <text>pause</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5298,14 +5298,14 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gc3RyIGFjdGlvbjogdGhlIGFjdGlvbiB0byBwZXJmb3JtLgo=</text>
+      <register name="7" type="4">
+        <text>Pause</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

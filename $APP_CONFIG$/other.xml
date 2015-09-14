@@ -78,6 +78,7 @@
         <entry key="$USER_HOME$/Source/platform/campaign/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/platform/spoolconsumer/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/platform/sprockets.logging/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Source/platform/sprockets.mixins.amqp/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/platform/sprockets.mixins.auth/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/platform/sprockets.mixins.media_type/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/bin/python" value="true" />
