@@ -146,7 +146,7 @@
       <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/locks.py" timestamp="1442157749773">
         <mark key="'" line="227" column="23" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.logging/sprockets/logging.py" timestamp="1442185807904" />
+      <file name="$USER_HOME$/Source/work/sprockets.logging/sprockets/logging.py" timestamp="1442188875782" />
       <file name="$USER_HOME$/Source/python/magician/docs/protocol.rst" timestamp="1437845457774">
         <mark key="'" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -403,8 +403,8 @@
       <file name="/a.dummy" timestamp="1439139316833">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" timestamp="1442178920376">
-        <mark key="'" line="147" column="6" />
+      <file name="$USER_HOME$/Source/work/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" timestamp="1442188619335">
+        <mark key="'" line="977" column="12" />
       </file>
       <file name="$USER_HOME$/Source/python/ietfparse/README.rst" timestamp="1432559486459">
         <mark key="'" line="3" column="46" />
@@ -498,13 +498,13 @@
         <mark key="." line="22" column="41" />
         <mark key="[" line="22" column="36" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" timestamp="1442179615973">
-        <mark key="'" line="45" column="0" />
-        <mark key="a" line="27" column="25" />
-        <mark key="]" line="35" column="61" />
-        <mark key="^" line="35" column="61" />
-        <mark key="." line="35" column="61" />
-        <mark key="[" line="35" column="61" />
+      <file name="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" timestamp="1442189200491">
+        <mark key="'" line="0" column="0" />
+        <mark key="a" line="43" column="30" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="47" column="3" />
+        <mark key="." line="1" column="0" />
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/haregel/application.py" timestamp="1424434445035">
         <mark key="'" line="30" column="38" />
@@ -606,7 +606,7 @@
       <file name="$APP_CONFIG$/packages.xml" timestamp="1435431998415">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1442185814716">
+      <file name="/Python Console" timestamp="1442188558895">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/windows_events.py" timestamp="1438517317471">
@@ -619,13 +619,11 @@
         <mark key="." line="195" column="56" />
         <mark key="[" line="194" column="11" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.logging/tests.py" timestamp="1442185773262">
-        <mark key="'" line="164" column="27" />
-        <mark key="a" line="160" column="14" />
-        <mark key="]" line="171" column="33" />
-        <mark key="^" line="171" column="33" />
-        <mark key="." line="171" column="33" />
-        <mark key="[" line="167" column="28" />
+      <file name="$USER_HOME$/Source/work/sprockets.logging/tests.py" timestamp="1442189643086">
+        <mark key="'" line="4" column="26" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="[" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
         <mark key="'" line="8" column="0" />
@@ -809,8 +807,8 @@
         <mark key="." line="33" column="0" />
         <mark key="[" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" timestamp="1436442904405">
-        <mark key="'" line="701" column="0" />
+      <file name="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" timestamp="1442186645823">
+        <mark key="'" line="1417" column="21" />
         <mark key="]" line="1364" column="37" />
         <mark key="^" line="1364" column="37" />
         <mark key="." line="1364" column="37" />
@@ -982,26 +980,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="36" column="43" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="56" column="20" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="45" column="20" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="58" column="7" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="3" column="35" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="80" column="14" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="14" column="9" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="86" column="8" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
-      <jump line="19" column="32" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
-      <jump line="34" column="17" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/pika/adapters/tornado_connection.py" />
       <jump line="10" column="40" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/pika/adapters/tornado_connection.py" />
       <jump line="30" column="32" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/pika/adapters/base_connection.py" />
       <jump line="1604" column="8" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/pika/connection.py" />
@@ -1061,7 +1039,6 @@
       <jump line="147" column="6" filename="$USER_HOME$/Source/work/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" />
       <jump line="429" column="12" filename="$USER_HOME$/Source/work/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" />
       <jump line="2" column="27" filename="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" />
-      <jump line="0" column="20" filename="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" />
       <jump line="1" column="9" filename="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
@@ -1072,7 +1049,6 @@
       <jump line="158" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
       <jump line="147" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
       <jump line="154" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
@@ -1082,10 +1058,32 @@
       <jump line="21" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" />
       <jump line="164" column="27" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
       <jump line="45" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" />
+      <jump line="1421" column="21" filename="$USER_HOME$/Source/work/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" />
+      <jump line="1458" column="17" filename="$USER_HOME$/Source/work/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" />
+      <jump line="1494" column="20" filename="$USER_HOME$/Source/work/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" />
+      <jump line="1302" column="17" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="1406" column="22" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="1372" column="8" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="1408" column="13" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="1418" column="17" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="1464" column="8" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="1243" column="13" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="1417" column="21" filename="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" />
+      <jump line="977" column="12" filename="$USER_HOME$/Source/work/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" />
+      <jump line="175" column="27" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="14" column="17" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="129" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="141" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="149" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="152" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
+      <jump line="4" column="26" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>things_happen</text>
+        <text />
       </register>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgcmV2ZXJzZV91cmwoc2VsZiwgbmFtZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB1cmwgPSBzdXBlcihSZWFkaW5ncywgc2VsZikucmV2ZXJzZV91cmwobmFtZSwgKmFyZ3MpCiAgICAgICAgaWYga3dhcmdzLmdldCgnYWJzb2x1dGUnKToKICAgICAgICAgICAgdXJsID0gJ3swfTovL3sxfXsyfScuZm9ybWF0KHNlbGYucmVxdWVzdC5wcm90b2NvbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdC5ob3N0LCB1cmwpCiAgICAgICAgcmV0dXJuIHVybAoKICAgIGRlZiBnZXRfbG9naW5fdXJsKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJldmVyc2VfdXJsKCdsb2dpbicsIGFic29sdXRlPVRydWUpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgYmluX3VzZXJfaWQgPSBzZWxmLmdldF9zZWN1cmVfY29va2llKCd1c2VyaWQnKQogICAgICAgIGlmIGJpbl91c2VyX2lkIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gYmluX3VzZXJfaWQuZGVjb2RlKCd1dGYtOCcpCg==</text>
@@ -3214,10 +3212,10 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>query_</text>
+        <text>app_log</text>
       </register>
       <register name="-" type="4">
-        <text>things_happen</text>
+        <text />
       </register>
       <register name="w" type="4">
         <keys>
@@ -4860,46 +4858,46 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuYWRkSGFuZGxlcihsb2dnaW5nX2hhbmRsZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICBbYXNzXQo=</text>
       </register>
       <register name="2" type="4">
-        <text>LOGGER</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="1" type="4">
-        <text>things_happen</text>
+        <text />
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEZhbHNlKGNvbm4uY29ubmVjdGVkKQo=</text>
       </register>
       <register name="7" type="4">
-        <text>recorder</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="6" type="4">
-        <text>recorder</text>
+        <text>RecordingHandler()</text>
       </register>
-      <register name="5" type="4">
-        <text>;</text>
+      <register name="5" type="2">
+        <text encoding="base64">Y2xhc3MgU25pZmZpbmdGaWx0ZXIobG9nZ2luZy5GaWx0ZXIpOgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBmaWx0ZXIoc2VsZiwgcmVjb3JkKToK</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
       <register name="9" type="4">
-        <text>recorder</text>
+        <text>mfrom examples im po</text>
       </register>
       <register name="8" type="4">
-        <text>recorder</text>
+        <text>pass</text>
       </register>
     </registers>
     <search>
-      <last-search>query_</last-search>
+      <last-search>app_log</last-search>
       <last-offset />
-      <last-pattern>query_</last-pattern>
+      <last-pattern>app_log</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -4907,8 +4905,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFuc3BvcnRcPg==</entry>
-        <entry>self.transport</entry>
         <entry>Transport</entry>
         <entry encoding="base64">XDxfcHJvdG9jb2xfZmFpbHVyZVw+</entry>
         <entry encoding="base64">XDxfcmVqZWN0X3VuZXhwZWN0ZWRfZnJhbWVcPg==</entry>
@@ -4927,6 +4923,8 @@
         <entry>static_url</entry>
         <entry>class</entry>
         <entry>query_</entry>
+        <entry encoding="base64">XDxkaXNhYmxlZFw+</entry>
+        <entry>app_log</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -4946,8 +4944,8 @@
         <entry>60</entry>
         <entry>q</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>2</entry>
+        <entry>w</entry>
         <entry>1</entry>
       </history-cmd>
       <history-expr />
