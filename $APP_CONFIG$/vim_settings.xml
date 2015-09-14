@@ -1064,12 +1064,12 @@
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" timestamp="1438347364675">
         <mark key="'" line="739" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/docs/api.rst" timestamp="1442243090063">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="55" column="49" />
-        <mark key="]" line="55" column="55" />
-        <mark key="." line="55" column="55" />
-        <mark key="^" line="55" column="55" />
+      <file name="$USER_HOME$/Source/platform/scheduler/docs/api.rst" timestamp="1442246482321">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="28" column="44" />
+        <mark key="]" line="29" column="27" />
+        <mark key="." line="29" column="27" />
+        <mark key="^" line="29" column="27" />
       </file>
       <file name="$USER_HOME$/Source/platform/sprockets.mixins.session/tests.py" timestamp="1440705838510">
         <mark key="a" line="155" column="63" />
@@ -1464,7 +1464,7 @@
         <text encoding="base64">CiAgICBAZ2VuLmNvcm91dGluZQogICAgZGVmIF9jYWxsX3Byb2Moc2VsZiwgcHJvYywgKmFyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ2RiLnt9Jy5mb3JtYXQocHJvYykpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0geWllbGQgc2VsZi5jYW1wYWlnbl9zZXNzaW9uLmNhbGxwcm9jKHByb2MsIGFyZ3MpCiAgICAgICAgICAgICAgICByYWlzZSBnZW4uUmV0dXJuKHJlc3VsdCkKCiAgICAgICAgZXhjZXB0IHBzeWNvcGcyLkRhdGFFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHJhaXNlIHdlYi5IVFRQRXJyb3IoNDAwLCAnc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQ6ICVzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jLCBlcnIpCgogICAgICAgIGV4Y2VwdCBwc3ljb3BnMi5EYXRhYmFzZUVycm9yIGFzIGVycjoKICAgICAgICAgICAgcmFpc2Ugd2ViLkhUVFBFcnJvcig1MDAsICdzdG9yZWQgcHJvY2VkdXJlICVzIGZhaWxlZDogJXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2MsIGVycikK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">dGltZSBhdCB3aGljaCA=</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3590,7 +3590,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">dGltZSBhdCB3aGljaCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aWNrXD4=</text>
@@ -3599,7 +3599,7 @@
         <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">dGltZSBhdCB3aGljaCA=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3651,19 +3651,19 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">bWVzc2FnZSA=</text>
+        <text encoding="base64">d2lsbCA=</text>
       </register>
       <register name="3" type="4">
-        <text>_</text>
+        <text>this event will be</text>
       </register>
-      <register name="4" type="4">
-        <text>t</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICByZXR1cm5lZCAK</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="6" type="4">
-        <text>g</text>
+        <text encoding="base64">bWVzc2FnZSA=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5305,17 +5305,17 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlID0geWllbGQgZ2VuLllpZWxkRnV0dXJlKHNlbGYuY29uc3VtZXIuZ290X21lc3NhZ2UpCg==</text>
+      <register name="7" type="4">
+        <text>_</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>t</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlID0gc2VsZi5pb19sb29wLnJ1bl9zeW5jKCkK</text>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -5368,9 +5368,9 @@
         <entry>vsp</entry>
         <entry>194</entry>
         <entry>221</entry>
-        <entry>w</entry>
         <entry>vspl</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
