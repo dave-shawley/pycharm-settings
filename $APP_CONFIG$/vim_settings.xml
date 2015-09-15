@@ -794,13 +794,13 @@
       <file name="$USER_HOME$/Source/platform/sprockets.logging/examples/tornado-app.py" timestamp="1441401944752">
         <mark key="'" line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1442340662980">
+      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1442342804001">
         <mark key="a" line="87" column="62" />
-        <mark key="'" line="3" column="10" />
-        <mark key="[" line="88" column="37" />
-        <mark key="]" line="88" column="37" />
-        <mark key="^" line="89" column="42" />
-        <mark key="." line="88" column="37" />
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="104" column="63" />
+        <mark key="]" line="104" column="66" />
+        <mark key="^" line="104" column="66" />
+        <mark key="." line="104" column="66" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/transports.py" timestamp="1419596430478">
         <mark key="'" line="128" column="0" />
@@ -1419,15 +1419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="5" column="13" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="60" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1519,13 +1510,22 @@
       <jump line="126" column="23" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/queries/session.py" />
       <jump line="89" column="40" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="109" column="8" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/queries/session.py" />
+      <jump line="54" column="25" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="92" column="8" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBAZ2VuLmNvcm91dGluZQogICAgZGVmIF9jYWxsX3Byb2Moc2VsZiwgcHJvYywgKmFyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ2RiLnt9Jy5mb3JtYXQocHJvYykpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0geWllbGQgc2VsZi5jYW1wYWlnbl9zZXNzaW9uLmNhbGxwcm9jKHByb2MsIGFyZ3MpCiAgICAgICAgICAgICAgICByYWlzZSBnZW4uUmV0dXJuKHJlc3VsdCkKCiAgICAgICAgZXhjZXB0IHBzeWNvcGcyLkRhdGFFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHJhaXNlIHdlYi5IVFRQRXJyb3IoNDAwLCAnc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQ6ICVzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jLCBlcnIpCgogICAgICAgIGV4Y2VwdCBwc3ljb3BnMi5EYXRhYmFzZUVycm9yIGFzIGVycjoKICAgICAgICAgICAgcmFpc2Ugd2ViLkhUVFBFcnJvcig1MDAsICdzdG9yZWQgcHJvY2VkdXJlICVzIGZhaWxlZDogJXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2MsIGVycikK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>result</text>
+        <text>id</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3651,31 +3651,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RpZmllZF9hdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3BvbnNlX2JvZHlbJ3RhcmdldF90aW1lJ10sIGJvZHlbJ3RhcmdldF90aW1lJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICB0YXJnZXQgPSAoZGF0ZXRpbWUuZGF0ZXRpbWUudXRjbm93KCkgKyBkYXRldGltZS50aW1lZGVsdGEoaG91cnM9NikpCiAgICAgICAgYm9keSA9IHsKICAgICAgICAgICAgJ3RhcmdldCc6ICdhbXFwOi8vbG9jYWxob3N0OjU2NzIvJTJGP3JvdXRpbmdfa2V5PXImZXhjaGFuZ2U9ZScsCiAgICAgICAgICAgICd0YXJnZXRfdGltZSc6IHRhcmdldC5pc29mb3JtYXQoKSwKICAgICAgICAgICAgJ21lc3NhZ2UnOiAnJywKICAgICAgICB9CiAgICAgICAgcmVzcG9uc2UgPSBzZWxmLmZldGNoKCcvZXZlbnRzJywgbWV0aG9kPSdQT1NUJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYm9keT1qc29uLmR1bXBzKGJvZHkpLmVuY29kZSgndXRmLTgnKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVhZGVycz17J0FjY2VwdCc6ICdhcHBsaWNhdGlvbi9qc29uJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJ30pCg==</text>
       </register>
       <register name="1" type="4">
-        <text>result</text>
+        <text>id</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>result</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>result</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYuZmV0Y2goKQo=</text>
       </register>
       <register name="4" type="4">
-        <text>[0]</text>
+        <text>result</text>
       </register>
       <register name="5" type="4">
-        <text>[0])</text>
+        <text>result</text>
       </register>
       <register name="6" type="4">
         <text>result</text>
@@ -5320,17 +5320,17 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text>[0]</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>[0])</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuYXNfZGljdCgpCg==</text>
+      <register name="9" type="4">
+        <text>result</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -5384,8 +5384,8 @@
         <entry>129</entry>
         <entry>147</entry>
         <entry>wq</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
