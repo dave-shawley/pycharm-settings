@@ -539,12 +539,12 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1442262017099">
+      <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1442320183387">
         <mark key="'" line="8" column="2" />
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="0" column="27" />
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="27" column="13" />
         <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="27" />
+        <mark key="." line="27" column="13" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
         <mark key="'" line="8" column="0" />
@@ -1490,7 +1490,7 @@
         <text encoding="base64">CiAgICBAZ2VuLmNvcm91dGluZQogICAgZGVmIF9jYWxsX3Byb2Moc2VsZiwgcHJvYywgKmFyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ2RiLnt9Jy5mb3JtYXQocHJvYykpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0geWllbGQgc2VsZi5jYW1wYWlnbl9zZXNzaW9uLmNhbGxwcm9jKHByb2MsIGFyZ3MpCiAgICAgICAgICAgICAgICByYWlzZSBnZW4uUmV0dXJuKHJlc3VsdCkKCiAgICAgICAgZXhjZXB0IHBzeWNvcGcyLkRhdGFFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHJhaXNlIHdlYi5IVFRQRXJyb3IoNDAwLCAnc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQ6ICVzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jLCBlcnIpCgogICAgICAgIGV4Y2VwdCBwc3ljb3BnMi5EYXRhYmFzZUVycm9yIGFzIGVycjoKICAgICAgICAgICAgcmFpc2Ugd2ViLkhUVFBFcnJvcig1MDAsICdzdG9yZWQgcHJvY2VkdXJlICVzIGZhaWxlZDogJXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2MsIGVycikK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">U1RSSUNUIA==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3616,7 +3616,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">U1RSSUNUIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RpZmllZF9hdFw+</text>
@@ -3625,7 +3625,7 @@
         <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="1" type="4">
-        <text>'</text>
+        <text encoding="base64">U1RSSUNUIA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3680,16 +3680,16 @@
         <text>'</text>
       </register>
       <register name="3" type="4">
-        <text>get_random_uuid</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>ROWS</text>
+        <text>get_random_uuid</text>
       </register>
       <register name="5" type="4">
-        <text>S</text>
+        <text>ROWS</text>
       </register>
       <register name="6" type="4">
-        <text>TABLE public.events</text>
+        <text>S</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5332,13 +5332,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>*</text>
+        <text>TABLE public.events</text>
       </register>
       <register name="8" type="4">
-        <text>RETURNS TABLE</text>
+        <text>*</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>RETURNS TABLE</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
