@@ -81,6 +81,7 @@
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/httputil.py" timestamp="1431258910727">
         <mark key="'" line="337" column="34" />
       </file>
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" timestamp="1442329774092" />
       <file name="$USER_HOME$/Source/platform/rule/env/lib/python3.4/site-packages/sprockets/logging.py" timestamp="1441289520981">
         <mark key="a" line="150" column="39" />
         <mark key="'" line="151" column="50" />
@@ -480,8 +481,8 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1442243173230">
-        <mark key="'" line="74" column="27" />
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1442329797178">
+        <mark key="'" line="83" column="0" />
         <mark key="[" line="93" column="0" />
         <mark key="]" line="95" column="51" />
         <mark key="." line="95" column="51" />
@@ -772,11 +773,12 @@
       <file name="$USER_HOME$/Source/platform/sprockets.logging/examples/tornado-app.py" timestamp="1441401944752">
         <mark key="'" line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1442256776197">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1442330261828">
+        <mark key="'" line="39" column="29" />
+        <mark key="[" line="42" column="16" />
+        <mark key="]" line="43" column="49" />
+        <mark key="^" line="43" column="49" />
+        <mark key="." line="43" column="49" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/transports.py" timestamp="1419596430478">
         <mark key="'" line="128" column="0" />
@@ -1021,6 +1023,10 @@
       </file>
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1436986337106">
         <mark key="'" line="572" column="20" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1442329657100">
+        <mark key="a" line="230" column="44" />
+        <mark key="'" line="122" column="17" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
@@ -1384,19 +1390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.amqp/tests.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.amqp/tests.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.amqp/tests.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.amqp/tests.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.amqp/tests.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.amqp/tests.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.amqp/tests.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.amqp/tests.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.amqp/tests.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.amqp/tests.py" />
-      <jump line="67" column="35" filename="$USER_HOME$/Source/platform/sprockets.mixins.amqp/tests.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.amqp/tests.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.amqp/tests.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.amqp/tests.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.amqp/tests.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.amqp/tests.py" />
@@ -1484,6 +1477,19 @@
       <jump line="20" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
       <jump line="7" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
       <jump line="2" column="41" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
+      <jump line="122" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="849" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="27" column="21" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="39" column="29" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="10" column="4" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3676,20 +3682,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>NULL</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3RoYXRfbmV3X2V2ZW50X2lzX3JldHJpZXZhYmxlKHNlbGYpOgo=</text>
       </register>
       <register name="3" type="4">
-        <text>ANY</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>INT</text>
+        <text encoding="base64">PSA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">RU5EOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">cmVzcG9uc2Ug</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">QkVHSU4K</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5332,16 +5338,16 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>PLPGSQL</text>
+        <text>{}</text>
       </register>
-      <register name="8" type="4">
-        <text>G</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBSRVRVUk5TIE5VTEwK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -5394,9 +5400,9 @@
         <entry>vspl</entry>
         <entry>sp</entry>
         <entry>wq</entry>
-        <entry>vsp</entry>
         <entry>w</entry>
         <entry>1</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
