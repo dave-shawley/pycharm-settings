@@ -552,12 +552,12 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1442336893733">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="70" column="53" />
-        <mark key="]" line="70" column="53" />
-        <mark key="." line="70" column="53" />
-        <mark key="^" line="71" column="78" />
+      <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1442340888444">
+        <mark key="'" line="72" column="2" />
+        <mark key="[" line="63" column="50" />
+        <mark key="]" line="63" column="50" />
+        <mark key="." line="63" column="50" />
+        <mark key="^" line="63" column="50" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
         <mark key="'" line="8" column="0" />
@@ -791,13 +791,13 @@
       <file name="$USER_HOME$/Source/platform/sprockets.logging/examples/tornado-app.py" timestamp="1441401944752">
         <mark key="'" line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1442338370163">
-        <mark key="a" line="41" column="12" />
-        <mark key="'" line="62" column="8" />
-        <mark key="[" line="76" column="54" />
-        <mark key="]" line="77" column="24" />
-        <mark key="^" line="77" column="24" />
-        <mark key="." line="77" column="24" />
+      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1442340662980">
+        <mark key="a" line="87" column="62" />
+        <mark key="'" line="3" column="10" />
+        <mark key="[" line="88" column="37" />
+        <mark key="]" line="88" column="37" />
+        <mark key="^" line="89" column="42" />
+        <mark key="." line="88" column="37" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/transports.py" timestamp="1419596430478">
         <mark key="'" line="128" column="0" />
@@ -913,10 +913,10 @@
         <mark key="^" line="151" column="11" />
         <mark key="." line="174" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1442337829274">
+      <file name="/Python Console" timestamp="1442340689378">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1441736593190">
+      <file name="/fragment.py" timestamp="1442340715347">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/ietfparse/docs/conf.py" timestamp="1411266927643">
@@ -1416,7 +1416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="42" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="30" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="35" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
@@ -1437,7 +1436,6 @@
       <jump line="19" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="5" column="13" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1516,13 +1514,15 @@
       <jump line="26" column="0" filename="$USER_HOME$/Source/platform/scheduler/README.rst" />
       <jump line="31" column="0" filename="$USER_HOME$/Source/platform/scheduler/README.rst" />
       <jump line="37" column="0" filename="$USER_HOME$/Source/platform/scheduler/README.rst" />
+      <jump line="3" column="10" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="72" column="2" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBAZ2VuLmNvcm91dGluZQogICAgZGVmIF9jYWxsX3Byb2Moc2VsZiwgcHJvYywgKmFyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ2RiLnt9Jy5mb3JtYXQocHJvYykpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0geWllbGQgc2VsZi5jYW1wYWlnbl9zZXNzaW9uLmNhbGxwcm9jKHByb2MsIGFyZ3MpCiAgICAgICAgICAgICAgICByYWlzZSBnZW4uUmV0dXJuKHJlc3VsdCkKCiAgICAgICAgZXhjZXB0IHBzeWNvcGcyLkRhdGFFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHJhaXNlIHdlYi5IVFRQRXJyb3IoNDAwLCAnc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQ6ICVzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jLCBlcnIpCgogICAgICAgIGV4Y2VwdCBwc3ljb3BnMi5EYXRhYmFzZUVycm9yIGFzIGVycjoKICAgICAgICAgICAgcmFpc2Ugd2ViLkhUVFBFcnJvcig1MDAsICdzdG9yZWQgcHJvY2VkdXJlICVzIGZhaWxlZDogJXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2MsIGVycikK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dG8gc3RhcnQgdGhlIA==</text>
+        <text encoding="base64">IFJFVFVSTklORyBUUlVFOw==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3648,7 +3648,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dG8gc3RhcnQgdGhlIA==</text>
+        <text encoding="base64">IFJFVFVSTklORyBUUlVFOw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RpZmllZF9hdFw+</text>
@@ -3657,25 +3657,25 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3BvbnNlX2JvZHlbJ3RhcmdldF90aW1lJ10sIGJvZHlbJ3RhcmdldF90aW1lJ10pCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">dG8gc3RhcnQgdGhlIA==</text>
+        <text encoding="base64">IFJFVFVSTklORyBUUlVFOw==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>Control</text>
+        <text>BOOLEAN</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICNwcmFnbWEgbm8gY292ZXIK</text>
+      <register name="3" type="4">
+        <text>s</text>
       </register>
       <register name="4" type="4">
-        <text>, ensure_ascii=False)</text>
+        <text>)</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Y3VzdG9taXplcyB0aGUg</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>a</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5318,16 +5318,16 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgIDpyZXR1cm46</text>
+        <text encoding="base64">dG8gc3RhcnQgdGhlIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEpTT04gb2JqZWN0IGVuY29kZXIK</text>
+      <register name="8" type="4">
+        <text>Control</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICNwcmFnbWEgbm8gY292ZXIK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -5380,9 +5380,9 @@
         <entry>99</entry>
         <entry>129</entry>
         <entry>147</entry>
-        <entry>w</entry>
-        <entry>1</entry>
         <entry>wq</entry>
+        <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
