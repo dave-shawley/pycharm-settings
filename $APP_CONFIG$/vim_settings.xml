@@ -5330,7 +5330,7 @@
         <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -5384,8 +5384,8 @@
         <entry>129</entry>
         <entry>147</entry>
         <entry>wq</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
