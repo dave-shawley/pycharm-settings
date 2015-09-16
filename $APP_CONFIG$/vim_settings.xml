@@ -794,13 +794,13 @@
       <file name="$USER_HOME$/Source/platform/sprockets.logging/examples/tornado-app.py" timestamp="1441401944752">
         <mark key="'" line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1442409083778">
+      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1442419260415">
         <mark key="a" line="87" column="62" />
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="117" column="52" />
-        <mark key="]" line="118" column="24" />
-        <mark key="^" line="118" column="24" />
-        <mark key="." line="118" column="24" />
+        <mark key="'" line="90" column="17" />
+        <mark key="[" line="95" column="47" />
+        <mark key="]" line="96" column="43" />
+        <mark key="^" line="96" column="43" />
+        <mark key="." line="96" column="43" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/transports.py" timestamp="1419596430478">
         <mark key="'" line="128" column="0" />
@@ -1419,13 +1419,11 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="8" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/queries/session.py" />
       <jump line="54" column="25" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="91" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="123" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="120" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="106" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="115" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="98" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="111" column="24" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1519,13 +1517,15 @@
       <jump line="53" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="51" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="90" column="17" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="42" column="8" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBAZ2VuLmNvcm91dGluZQogICAgZGVmIF9jYWxsX3Byb2Moc2VsZiwgcHJvYywgKmFyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ2RiLnt9Jy5mb3JtYXQocHJvYykpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0geWllbGQgc2VsZi5jYW1wYWlnbl9zZXNzaW9uLmNhbGxwcm9jKHByb2MsIGFyZ3MpCiAgICAgICAgICAgICAgICByYWlzZSBnZW4uUmV0dXJuKHJlc3VsdCkKCiAgICAgICAgZXhjZXB0IHBzeWNvcGcyLkRhdGFFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHJhaXNlIHdlYi5IVFRQRXJyb3IoNDAwLCAnc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQ6ICVzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jLCBlcnIpCgogICAgICAgIGV4Y2VwdCBwc3ljb3BnMi5EYXRhYmFzZUVycm9yIGFzIGVycjoKICAgICAgICAgICAgcmFpc2Ugd2ViLkhUVFBFcnJvcig1MDAsICdzdG9yZWQgcHJvY2VkdXJlICVzIGZhaWxlZDogJXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2MsIGVycikK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Jywg</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3651,34 +3651,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Jywg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2RpZmllZF9hdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBTRUxFQ1QgWC5pZCwgRS5jcmVhdGVkX2F0LCBFLm1vZGlmaWVkX2F0LCBFLnBhdXNlZF9hdCwgRS50YXJnZXRfdGltZSwKICAgICAgICAgRS50YXJnZXRfdXJsLCBFLnNjaGVkdWxlLCBFLm1lc3NhZ2UsIFgubGFiZWwsIFgudGFnX2FycmF5CiAgICBGUk9NIChTRUxFQ1QKICAgICAgICAgICAgRS5pZCwKICAgICAgICAgICAgUy5sYWJlbCwKICAgICAgICAgICAgYXJyYXlfYWdnKERJU1RJTkNUIFQudGFnKSBBUyB0YWdfYXJyYXkKICAgICAgICAgIEZST00gZXZlbnRzIEFTIEUKICAgICAgICAgICAgSU5ORVIgSk9JTiBzdGF0ZXMgQVMgUyBPTiBTLmlkID0gRS5zdGF0ZV9pZAogICAgICAgICAgICBJTk5FUiBKT0lOIGV2ZW50X3RhZ3MgQVMgVCBPTiBULmV2ZW50X2lkID0gRS5pZAogICAgICAgICAgV0hFUkUgRS5pZCA9IGluX3RhZwogICAgICAgICAgR1JPVVAgQlkgRS5pZCwgUy5sYWJlbAogICAgKSBBUyBYIElOTkVSIEpPSU4gZXZlbnRzIEFTIEUgT04gRS5pZCA9IFguaWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jcmVhdGVfZXZlbnQoeyd0YWdzJzogWydpbicsICdvdXQnXX0pLAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Jywg</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZV9ib2R5ID0ganNvbi5sb2FkcyhyZXNwb25zZS5ib2R5LmRlY29kZSgndXRmLTgnKSkK</text>
+      <register name="2" type="4">
+        <text>in</text>
       </register>
       <register name="3" type="4">
-        <text>body</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>_</text>
+        <text encoding="base64">Jywg</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>in</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZV9ib2R5ID0ganNvbi5sb2FkcyhyZXNwb25zZS5ib2R5LmRlY29kZSgndXRmLTgnKSkK</text>
+      <register name="6" type="4">
+        <text>'</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5321,13 +5321,13 @@
         </keys>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXNwb25zZV9ib2R5ID0ganNvbi5sb2FkcyhyZXNwb25zZS5ib2R5LmRlY29kZSgndXRmLTgnKSkK</text>
+      </register>
+      <register name="9" type="4">
         <text>body</text>
-      </register>
-      <register name="8" type="4">
-        <text>_</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
