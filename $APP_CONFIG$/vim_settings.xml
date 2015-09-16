@@ -170,6 +170,9 @@
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/docker/utils/utils.py" timestamp="1440355074355">
         <mark key="'" line="314" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/platform/kqueue.py" timestamp="1442402216010">
+        <mark key="'" line="74" column="20" />
+      </file>
       <file name="$USER_HOME$/Source/flaskenv/src/readit/readit/templates/user-not-found.html" timestamp="1359220259082">
         <mark key="'" line="19" column="0" />
         <mark key="]" line="5" column="7" />
@@ -239,8 +242,8 @@
         <mark key="." line="4" column="57" />
         <mark key="[" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/pika/connection.py" timestamp="1442369092135">
-        <mark key="'" line="705" column="34" />
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/pika/connection.py" timestamp="1442401274744">
+        <mark key="'" line="726" column="17" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/mongo_client.py" timestamp="1434971316208">
         <mark key="'" line="289" column="40" />
@@ -252,12 +255,12 @@
         <mark key="." line="18" column="18" />
         <mark key="[" line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" timestamp="1442369081036">
-        <mark key="'" line="130" column="39" />
-        <mark key="]" line="130" column="49" />
-        <mark key="^" line="130" column="49" />
-        <mark key="." line="130" column="49" />
-        <mark key="[" line="130" column="47" />
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" timestamp="1442402427485">
+        <mark key="'" line="141" column="0" />
+        <mark key="]" line="176" column="26" />
+        <mark key="^" line="133" column="23" />
+        <mark key="." line="176" column="26" />
+        <mark key="[" line="176" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/sampson/decode.py" timestamp="1419647211311">
         <mark key="'" line="66" column="0" />
@@ -651,11 +654,12 @@
         <mark key="." line="104" column="0" />
         <mark key="[" line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" timestamp="1442367917221">
-        <mark key="'" line="175" column="0" />
-        <mark key="]" line="169" column="0" />
-        <mark key="." line="169" column="0" />
-        <mark key="[" line="169" column="0" />
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" timestamp="1442401739041">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="^" line="175" column="15" />
+        <mark key="." line="198" column="0" />
+        <mark key="[" line="198" column="0" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/transports.py" timestamp="1436355028146">
         <mark key="'" line="126" column="31" />
@@ -799,6 +803,9 @@
         <mark key="^" line="153" column="21" />
         <mark key="." line="153" column="21" />
         <mark key="[" line="152" column="21" />
+      </file>
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/ioloop.py" timestamp="1442402140847">
+        <mark key="'" line="800" column="64" />
       </file>
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1431883634285">
         <mark key="'" line="146" column="13" />
@@ -983,26 +990,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
-      <jump line="102" column="8" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
-      <jump line="97" column="4" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
-      <jump line="91" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
-      <jump line="75" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
       <jump line="48" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
       <jump line="52" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
       <jump line="57" column="0" filename="$USER_HOME$/Source/work/sprockets.logging/tests.py" />
@@ -1071,9 +1058,6 @@
       <jump line="199" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
       <jump line="193" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
       <jump line="187" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="184" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="179" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
-      <jump line="175" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
       <jump line="125" column="39" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
       <jump line="706" column="46" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/pika/connection.py" />
       <jump line="991" column="23" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/pika/connection.py" />
@@ -1083,10 +1067,33 @@
       <jump line="130" column="39" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
       <jump line="705" column="34" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/pika/connection.py" />
       <jump line="1177" column="8" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/pika/connection.py" />
+      <jump line="726" column="17" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/pika/connection.py" />
+      <jump line="958" column="17" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/pika/connection.py" />
+      <jump line="184" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
+      <jump line="179" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
+      <jump line="175" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
+      <jump line="524" column="8" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/ioloop.py" />
+      <jump line="94" column="26" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/pika/adapters/tornado_connection.py" />
+      <jump line="133" column="42" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
+      <jump line="908" column="8" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/ioloop.py" />
+      <jump line="131" column="30" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
+      <jump line="490" column="24" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/ioloop.py" />
+      <jump line="522" column="20" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/ioloop.py" />
+      <jump line="461" column="8" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/ioloop.py" />
+      <jump line="898" column="28" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/ioloop.py" />
+      <jump line="825" column="40" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/ioloop.py" />
+      <jump line="821" column="26" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/ioloop.py" />
+      <jump line="806" column="43" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/ioloop.py" />
+      <jump line="804" column="29" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/ioloop.py" />
+      <jump line="800" column="64" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/ioloop.py" />
+      <jump line="796" column="28" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/ioloop.py" />
+      <jump line="74" column="20" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/platform/kqueue.py" />
+      <jump line="141" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>future.set_result)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgcmV2ZXJzZV91cmwoc2VsZiwgbmFtZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB1cmwgPSBzdXBlcihSZWFkaW5ncywgc2VsZikucmV2ZXJzZV91cmwobmFtZSwgKmFyZ3MpCiAgICAgICAgaWYga3dhcmdzLmdldCgnYWJzb2x1dGUnKToKICAgICAgICAgICAgdXJsID0gJ3swfTovL3sxfXsyfScuZm9ybWF0KHNlbGYucmVxdWVzdC5wcm90b2NvbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdC5ob3N0LCB1cmwpCiAgICAgICAgcmV0dXJuIHVybAoKICAgIGRlZiBnZXRfbG9naW5fdXJsKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJldmVyc2VfdXJsKCdsb2dpbicsIGFic29sdXRlPVRydWUpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgYmluX3VzZXJfaWQgPSBzZWxmLmdldF9zZWN1cmVfY29va2llKCd1c2VyaWQnKQogICAgICAgIGlmIGJpbl91c2VyX2lkIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gYmluX3VzZXJfaWQuZGVjb2RlKCd1dGYtOCcpCg==</text>
@@ -3215,10 +3222,10 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>log_function</text>
+        <text encoding="base64">XDxfdGltZW91dHNcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>future.set_result)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4861,54 +4868,53 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0bW8gPSBjb25uZWN0aW9uLl9jb25uZWN0aW9uLmFkZF90aW1lb3V0KHRpbWVvdXQsIHRpbWVvdXRfZnVuYykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYWlzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlvbCA9IGlvbG9vcC5JT0xvb3AuY3VycmVudCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
       </register>
-      <register name="1" type="4">
-        <text>future.set_result)</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBfLCBsaW5lID0gc2VsZi5yZWNvcmRlci5lbWl0dGVkWzBdCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChsaW5lLCAnZXJyb3IgbWVzc2FnZSB7Q0lEIE5vbmV9JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0VYQ0VQVElPTiBJTiBDb25uZWN0aW9uLmNsb3NlOicsIHN0cihlcnIpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5kZWJ1ZygnY29ubmVjdGVkIHRvICVzJywgc2VsZikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsbHk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHlpZWxkIHNlbGYuY29ubi5jb25uZWN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiB0aW1lb3V0Ogo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCB0b19pb2xvb3Aoc2VsZi5pb19sb29wKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW9sLnJlbW92ZV90aW1lb3V0KHRtbykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29ubmVjdGlvbi5fY29ubmVjdGlvbi5yZW1vdmVfdGltZW91dCh0bW8pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
-      <last-search>log_function</last-search>
+      <last-search encoding="base64">XDxfdGltZW91dHNcPg==</last-search>
       <last-offset />
-      <last-pattern>log_function</last-pattern>
+      <last-pattern encoding="base64">XDxfdGltZW91dHNcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfcmVqZWN0X3VuZXhwZWN0ZWRfZnJhbWVcPg==</entry>
         <entry>class Appl</entry>
         <entry encoding="base64">XDxTaW1wbGVIYW5kbGVyXD4=</entry>
         <entry>fall_back</entry>
@@ -4928,6 +4934,7 @@
         <entry>app_log</entry>
         <entry>handle_excep</entry>
         <entry>log_function</entry>
+        <entry encoding="base64">XDxfdGltZW91dHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>278</entry>
