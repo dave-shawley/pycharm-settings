@@ -490,13 +490,13 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1442430214027">
-        <mark key="a" line="95" column="0" />
-        <mark key="'" line="33" column="17" />
-        <mark key="[" line="45" column="37" />
-        <mark key="]" line="46" column="71" />
-        <mark key="^" line="46" column="71" />
-        <mark key="." line="46" column="71" />
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1442431030261">
+        <mark key="a" line="102" column="0" />
+        <mark key="'" line="73" column="33" />
+        <mark key="[" line="79" column="62" />
+        <mark key="]" line="80" column="28" />
+        <mark key="^" line="80" column="28" />
+        <mark key="." line="80" column="28" />
       </file>
       <file name="$USER_HOME$/Source/python/glinda/setup.py" timestamp="1432206000373">
         <mark key="'" line="5" column="19" />
@@ -794,13 +794,13 @@
       <file name="$USER_HOME$/Source/platform/sprockets.logging/examples/tornado-app.py" timestamp="1441401944752">
         <mark key="'" line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1442429256259">
+      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1442430817454">
         <mark key="a" line="87" column="62" />
         <mark key="'" line="90" column="17" />
-        <mark key="[" line="111" column="65" />
-        <mark key="]" line="112" column="41" />
-        <mark key="^" line="112" column="41" />
-        <mark key="." line="112" column="41" />
+        <mark key="[" line="115" column="40" />
+        <mark key="]" line="116" column="42" />
+        <mark key="^" line="116" column="42" />
+        <mark key="." line="116" column="42" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/transports.py" timestamp="1419596430478">
         <mark key="'" line="128" column="0" />
@@ -1046,9 +1046,9 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1436986337106">
         <mark key="'" line="572" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1442329657100">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1442432252372">
         <mark key="a" line="230" column="44" />
-        <mark key="'" line="122" column="17" />
+        <mark key="'" line="148" column="20" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
@@ -1419,9 +1419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="89" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="122" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1493,7 +1490,6 @@
       <jump line="41" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="447" column="8" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/tornado/web.py" />
       <jump line="54" column="38" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="446" column="8" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/tornado/web.py" />
       <jump line="57" column="13" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="227" column="43" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/sprockets/mixins/mediatype.py" />
       <jump line="56" column="26" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
@@ -1519,6 +1515,10 @@
       <jump line="19" column="19" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="29" column="17" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="33" column="17" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="73" column="33" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="446" column="8" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/tornado/web.py" />
+      <jump line="148" column="20" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="223" column="28" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3665,20 +3665,20 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gYXJnczogCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gcHJvYzogCg==</text>
-      </register>
-      <register name="5" type="4">
+      <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
-        <text>.</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gYXJnczogCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gcHJvYzogCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5321,16 +5321,16 @@
         </keys>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="8" type="4">
+        <text>.</text>
+      </register>
+      <register name="9" type="4">
         <text>sql_session</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBzZWxmLnNxbF9zZXNzaW9uLmNhbGxwcm9jKCdkZWxldGVfZXZlbnQnLCBbZXZlbnRfaWRdKQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByb3cgPSByZXN1bHQuYXNfZGljdCgpCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -5384,8 +5384,8 @@
         <entry>147</entry>
         <entry>wq</entry>
         <entry>166</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
