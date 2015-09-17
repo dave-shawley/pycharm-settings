@@ -552,12 +552,13 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1442502396141">
+      <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1442503356453">
         <mark key="a" line="103" column="1" />
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="30" column="61" />
+        <mark key="." line="30" column="61" />
+        <mark key="^" line="30" column="61" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
         <mark key="'" line="8" column="0" />
@@ -1533,8 +1534,8 @@
       <register name="a" type="2">
         <text encoding="base64">CiAgICBAZ2VuLmNvcm91dGluZQogICAgZGVmIF9jYWxsX3Byb2Moc2VsZiwgcHJvYywgKmFyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ2RiLnt9Jy5mb3JtYXQocHJvYykpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0geWllbGQgc2VsZi5jYW1wYWlnbl9zZXNzaW9uLmNhbGxwcm9jKHByb2MsIGFyZ3MpCiAgICAgICAgICAgICAgICByYWlzZSBnZW4uUmV0dXJuKHJlc3VsdCkKCiAgICAgICAgZXhjZXB0IHBzeWNvcGcyLkRhdGFFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHJhaXNlIHdlYi5IVFRQRXJyb3IoNDAwLCAnc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQ6ICVzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jLCBlcnIpCgogICAgICAgIGV4Y2VwdCBwc3ljb3BnMi5EYXRhYmFzZUVycm9yIGFzIGVycjoKICAgICAgICAgICAgcmFpc2Ugd2ViLkhUVFBFcnJvcig1MDAsICdzdG9yZWQgcHJvY2VkdXJlICVzIGZhaWxlZDogJXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2MsIGVycikK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LS0gcHJlcAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">VGhpcyBpcyBnb3Zlcm5lZCBieSB0aGUg</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3660,7 +3661,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">VGhpcyBpcyBnb3Zlcm5lZCBieSB0aGUg</text>
       </register>
       <register name="/" type="4">
         <text>sql_session</text>
@@ -3668,14 +3669,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYuZmV0Y2goJy9ldmVudHM/dGFnPWluJywgbWV0aG9kPSdERUxFVEUnKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzcG9uc2UuY29kZSwgMjAwKQogICAgICAgIHJlc3BvbnNlX2JvZHkgPSBqc29uLmxvYWRzKHJlc3BvbnNlLmJvZHkuZGVjb2RlKCd1dGYtOCcpKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoCiAgICAgICAgICAgIHNldChbcmVzcG9uc2VzWzBdLmpzb25bJ2lkJ10sIHJlc3BvbnNlc1syXS5qc29uWydpZCddXSksCiAgICAgICAgICAgIHNldChyZXNwb25zZV9ib2R5KSwKICAgICAgICApCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">LS0gcHJlcAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">VGhpcyBpcyBnb3Zlcm5lZCBieSB0aGUg</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">LS0gcHJlcAo=</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">IA==</text>
@@ -3687,7 +3688,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>encode</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5329,17 +5330,17 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG1lbW9yeXZpZXcK</text>
+      <register name="7" type="4">
+        <text>encode</text>
       </register>
-      <register name="8" type="4">
-        <text>TEXT</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG1lbW9yeXZpZXcK</text>
       </register>
       <register name="9" type="4">
         <text>TEXT</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -5393,8 +5394,8 @@
         <entry>147</entry>
         <entry>wq</entry>
         <entry>166</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
