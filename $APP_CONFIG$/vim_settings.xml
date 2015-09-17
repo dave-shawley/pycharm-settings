@@ -486,13 +486,13 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1442512750310">
-        <mark key="a" line="97" column="0" />
-        <mark key="'" line="115" column="20" />
-        <mark key="[" line="148" column="27" />
-        <mark key="]" line="148" column="34" />
-        <mark key="." line="54" column="38" />
-        <mark key="^" line="148" column="34" />
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1442517167128">
+        <mark key="a" line="116" column="34" />
+        <mark key="'" line="0" column="12" />
+        <mark key="[" line="126" column="34" />
+        <mark key="]" line="126" column="40" />
+        <mark key="." line="126" column="40" />
+        <mark key="^" line="126" column="40" />
       </file>
       <file name="$USER_HOME$/Source/python/glinda/setup.py" timestamp="1432206000373">
         <mark key="'" line="5" column="19" />
@@ -1420,7 +1420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="97" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
       <jump line="80" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
       <jump line="66" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
@@ -1520,13 +1519,14 @@
       <jump line="1020" column="4" filename="$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-704701664/posix.py" />
       <jump line="4" column="12" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="115" column="20" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="0" column="12" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBAZ2VuLmNvcm91dGluZQogICAgZGVmIF9jYWxsX3Byb2Moc2VsZiwgcHJvYywgKmFyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ2RiLnt9Jy5mb3JtYXQocHJvYykpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0geWllbGQgc2VsZi5jYW1wYWlnbl9zZXNzaW9uLmNhbGxwcm9jKHByb2MsIGFyZ3MpCiAgICAgICAgICAgICAgICByYWlzZSBnZW4uUmV0dXJuKHJlc3VsdCkKCiAgICAgICAgZXhjZXB0IHBzeWNvcGcyLkRhdGFFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHJhaXNlIHdlYi5IVFRQRXJyb3IoNDAwLCAnc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQ6ICVzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jLCBlcnIpCgogICAgICAgIGV4Y2VwdCBwc3ljb3BnMi5EYXRhYmFzZUVycm9yIGFzIGVycjoKICAgICAgICAgICAgcmFpc2Ugd2ViLkhUVFBFcnJvcig1MDAsICdzdG9yZWQgcHJvY2VkdXJlICVzIGZhaWxlZDogJXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2MsIGVycikK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'',</text>
+        <text>['message']</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3652,7 +3652,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'',</text>
+        <text>['message']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZV90eXBlXD4=</text>
@@ -3661,25 +3661,25 @@
         <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYuZmV0Y2goJy9ldmVudHM/dGFnPWluJywgbWV0aG9kPSdERUxFVEUnKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzcG9uc2UuY29kZSwgMjAwKQogICAgICAgIHJlc3BvbnNlX2JvZHkgPSBqc29uLmxvYWRzKHJlc3BvbnNlLmJvZHkuZGVjb2RlKCd1dGYtOCcpKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoCiAgICAgICAgICAgIHNldChbcmVzcG9uc2VzWzBdLmpzb25bJ2lkJ10sIHJlc3BvbnNlc1syXS5qc29uWydpZCddXSksCiAgICAgICAgICAgIHNldChyZXNwb25zZV9ib2R5KSwKICAgICAgICApCg==</text>
       </register>
       <register name="1" type="4">
-        <text>'',</text>
+        <text>['message']</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>''</text>
+        <text>body</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnIK</text>
+      <register name="3" type="4">
+        <text>body</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlID0gYmFzZTY0LmI2NGRlY29kZShib2R5WydtZXNzYWdlJ10pIGlmIG5vdCBpc2luc3RhbmNlKGJvZHlbJ21lc3NhZ2UnXSwgYnl0ZXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q09NTUVOVCBPTiBET01BSU4gcHVibGljLnN0YXRlX3R5cGUgSVMgJ1ZhbGlkIHN0YXRlcyBmb3IgYW4gZXZlbnQuJzsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBDSEVDSyAoVkFMVUUgSU4gKCdzY2hlZHVsZWQnLCAncGF1c2VkJywgJ2FjdGl2ZScpKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5321,14 +5321,14 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Q1JFQVRFIERPTUFJTiBwdWJsaWMuc3RhdGVfdHlwZSBBUyBURVhUCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Q09OU1RSQUlOVCA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
