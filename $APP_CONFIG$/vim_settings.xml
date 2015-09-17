@@ -325,11 +325,7 @@
         <mark key="'" line="828" column="13" />
       </file>
       <file name="$USER_HOME$/Source/core-api/awsubscribers/awsubscribers/views/subscribers.py" timestamp="1439298724595">
-        <mark key="'" line="447" column="24" />
         <mark key="[" line="199" column="23" />
-        <mark key="]" line="201" column="43" />
-        <mark key="^" line="201" column="43" />
-        <mark key="." line="201" column="43" />
       </file>
       <file name="$USER_HOME$/Source/work/test-helpers/docs/http-services.rst" timestamp="1431307514605">
         <mark key="'" line="7" column="0" />
@@ -813,10 +809,6 @@
       </file>
       <file name="$USER_HOME$/Source/core-api/awsubscribers/tests/integration/views/test_subscribers.py" timestamp="1439312035894">
         <mark key="'" line="416" column="29" />
-        <mark key="[" line="906" column="48" />
-        <mark key="]" line="906" column="51" />
-        <mark key="." line="906" column="51" />
-        <mark key="^" line="906" column="51" />
       </file>
       <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/helpers.py" timestamp="1438703289617">
         <mark key="a" line="5" column="23" />
