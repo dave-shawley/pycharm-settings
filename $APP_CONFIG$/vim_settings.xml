@@ -552,12 +552,12 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1442501545867">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="61" column="10" />
-        <mark key="]" line="61" column="14" />
-        <mark key="." line="61" column="14" />
-        <mark key="^" line="61" column="14" />
+      <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1442502396141">
+        <mark key="a" line="103" column="1" />
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
         <mark key="'" line="8" column="0" />
@@ -1428,7 +1428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="46" column="8" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="57" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1528,13 +1527,14 @@
       <jump line="13" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
       <jump line="35" column="22" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
       <jump line="51" column="4" filename="$USER_HOME$/opt/lib/python3.5/base64.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBAZ2VuLmNvcm91dGluZQogICAgZGVmIF9jYWxsX3Byb2Moc2VsZiwgcHJvYywgKmFyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ2RiLnt9Jy5mb3JtYXQocHJvYykpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0geWllbGQgc2VsZi5jYW1wYWlnbl9zZXNzaW9uLmNhbGxwcm9jKHByb2MsIGFyZ3MpCiAgICAgICAgICAgICAgICByYWlzZSBnZW4uUmV0dXJuKHJlc3VsdCkKCiAgICAgICAgZXhjZXB0IHBzeWNvcGcyLkRhdGFFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHJhaXNlIHdlYi5IVFRQRXJyb3IoNDAwLCAnc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQ6ICVzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jLCBlcnIpCgogICAgICAgIGV4Y2VwdCBwc3ljb3BnMi5EYXRhYmFzZUVycm9yIGFzIGVycjoKICAgICAgICAgICAgcmFpc2Ugd2ViLkhUVFBFcnJvcig1MDAsICdzdG9yZWQgcHJvY2VkdXJlICVzIGZhaWxlZDogJXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2MsIGVycikK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>encode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LS0gcHJlcAo=</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3660,7 +3660,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>encode</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>sql_session</text>
@@ -3668,26 +3668,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYuZmV0Y2goJy9ldmVudHM/dGFnPWluJywgbWV0aG9kPSdERUxFVEUnKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzcG9uc2UuY29kZSwgMjAwKQogICAgICAgIHJlc3BvbnNlX2JvZHkgPSBqc29uLmxvYWRzKHJlc3BvbnNlLmJvZHkuZGVjb2RlKCd1dGYtOCcpKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoCiAgICAgICAgICAgIHNldChbcmVzcG9uc2VzWzBdLmpzb25bJ2lkJ10sIHJlc3BvbnNlc1syXS5qc29uWydpZCddXSksCiAgICAgICAgICAgIHNldChyZXNwb25zZV9ib2R5KSwKICAgICAgICApCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>encode</text>
+      <register name="1" type="2">
+        <text encoding="base64">LS0gcHJlcAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIG1lbW9yeXZpZXcK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>TEXT</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>TEXT</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Jwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Jwo=</text>
+      <register name="6" type="4">
+        <text>encode</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5329,14 +5329,14 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>creates a new event</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG1lbW9yeXZpZXcK</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>TEXT</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>TEXT</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
