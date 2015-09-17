@@ -552,12 +552,12 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1442434210223">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="74" column="17" />
-        <mark key="]" line="74" column="18" />
-        <mark key="." line="74" column="18" />
-        <mark key="^" line="74" column="18" />
+      <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1442497596026">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
         <mark key="'" line="8" column="0" />
@@ -1425,12 +1425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="447" column="8" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/tornado/web.py" />
-      <jump line="54" column="38" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="57" column="13" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="227" column="43" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/sprockets/mixins/mediatype.py" />
       <jump line="50" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="46" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="58" column="15" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
@@ -1525,14 +1519,19 @@
       <jump line="72" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="70" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="66" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
+      <jump line="23" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
+      <jump line="10" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
+      <jump line="4" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
+      <jump line="1" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBAZ2VuLmNvcm91dGluZQogICAgZGVmIF9jYWxsX3Byb2Moc2VsZiwgcHJvYywgKmFyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ2RiLnt9Jy5mb3JtYXQocHJvYykpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0geWllbGQgc2VsZi5jYW1wYWlnbl9zZXNzaW9uLmNhbGxwcm9jKHByb2MsIGFyZ3MpCiAgICAgICAgICAgICAgICByYWlzZSBnZW4uUmV0dXJuKHJlc3VsdCkKCiAgICAgICAgZXhjZXB0IHBzeWNvcGcyLkRhdGFFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHJhaXNlIHdlYi5IVFRQRXJyb3IoNDAwLCAnc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQ6ICVzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jLCBlcnIpCgogICAgICAgIGV4Y2VwdCBwc3ljb3BnMi5EYXRhYmFzZUVycm9yIGFzIGVycjoKICAgICAgICAgICAgcmFpc2Ugd2ViLkhUVFBFcnJvcig1MDAsICdzdG9yZWQgcHJvY2VkdXJlICVzIGZhaWxlZDogJXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2MsIGVycikK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>[self.reverse_url('event', event_id)
-                            for event_id in item_ids]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">JzsK</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3658,7 +3657,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>TEXT</text>
       </register>
       <register name="/" type="4">
         <text>sql_session</text>
@@ -3666,27 +3665,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYuZmV0Y2goJy9ldmVudHM/dGFnPWluJywgbWV0aG9kPSdERUxFVEUnKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzcG9uc2UuY29kZSwgMjAwKQogICAgICAgIHJlc3BvbnNlX2JvZHkgPSBqc29uLmxvYWRzKHJlc3BvbnNlLmJvZHkuZGVjb2RlKCd1dGYtOCcpKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoCiAgICAgICAgICAgIHNldChbcmVzcG9uc2VzWzBdLmpzb25bJ2lkJ10sIHJlc3BvbnNlc1syXS5qc29uWydpZCddXSksCiAgICAgICAgICAgIHNldChyZXNwb25zZV9ib2R5KSwKICAgICAgICApCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>[self.reverse_url('event', event_id)
-                            for event_id in item_ids]</text>
+      <register name="1" type="2">
+        <text encoding="base64">JzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBYnNvbHV0ZVJldmVyc2VVcmxNaXhpbiwK</text>
+        <text encoding="base64">Jwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09NTUVOVCBPTiBUQUJMRSBwdWJsaWMuc3RhdGVzIElTCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CmNsYXNzIEFic29sdXRlUmV2ZXJzZVVybE1peGluKHdlYi5SZXF1ZXN0SGFuZGxlcik6CiAgICBkZWYgcmV2ZXJzZV91cmwoc2VsZiwgbmFtZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICByZWxhdGl2ZV91cmwgPSBzdXBlcihBYnNvbHV0ZVJldmVyc2VVcmxNaXhpbiwgc2VsZikucmV2ZXJzZV91cmwoCiAgICAgICAgICAgIG5hbWUsICphcmdzKQogICAgICAgIGlmIGt3YXJncy5nZXQoJ21ha2VfYWJzb2x1dGUnLCBUcnVlKToKICAgICAgICAgICAgcmV0dXJuICd7fTovL3t9e30nLmZvcm1hdChzZWxmLnJlcXVlc3QucHJvdG9jb2wsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5yZXF1ZXN0Lmhvc3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVsYXRpdmVfdXJsKQogICAgICAgIHJldHVybiByZWxhdGl2ZV91cmwK</text>
+      <register name="4" type="4">
+        <text>TEXT</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>NULL</text>
       </register>
       <register name="6" type="4">
-        <text>name</text>
+        <text>'</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5329,13 +5327,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>c</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
