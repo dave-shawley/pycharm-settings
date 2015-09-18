@@ -1050,9 +1050,9 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1436986337106">
         <mark key="'" line="572" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1442599926707">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1442601413695">
         <mark key="a" line="127" column="17" />
-        <mark key="'" line="368" column="17" />
+        <mark key="'" line="136" column="50" />
         <mark key="[" line="122" column="33" />
         <mark key="]" line="122" column="33" />
         <mark key="." line="122" column="33" />
@@ -1420,7 +1420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="0" column="12" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="32" column="31" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1520,6 +1519,7 @@
       <jump line="129" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="127" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="368" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="136" column="50" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3655,7 +3655,7 @@
         <text encoding="base64">Jywg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkcm9wX21lc3NhZ2VcPg==</text>
+        <text>injected</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYuZmV0Y2goJy9ldmVudHMnLCBtZXRob2Q9J1BPU1QnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBib2R5PWpzb24uZHVtcHMoYm9keSkuZW5jb2RlKCd1dGYtOCcpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWFkZXJzPXsnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKipmZXRjaF9rd2FyZ3MpCg==</text>
@@ -5335,17 +5335,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkcm9wX21lc3NhZ2VcPg==</last-search>
+      <last-search>injected</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkcm9wX21lc3NhZ2VcPg==</last-pattern>
+      <last-pattern>injected</last-pattern>
       <last-replace>'\1': self.\1,</last-replace>
       <last-substitute>self.\([^ ]*\) = .*$</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>update_campaign_state</entry>
         <entry>_generate</entry>
         <entry>invalid_state</entry>
         <entry>KeyError</entry>
@@ -5365,6 +5364,7 @@
         <entry encoding="base64">XDxfc2VyaWFsaXplXD4=</entry>
         <entry>publish_message</entry>
         <entry encoding="base64">XDxkcm9wX21lc3NhZ2VcPg==</entry>
+        <entry>injected</entry>
       </history-search>
       <history-cmd>
         <entry>194</entry>
