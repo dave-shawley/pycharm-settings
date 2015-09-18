@@ -1050,13 +1050,13 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1436986337106">
         <mark key="'" line="572" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1442602180609">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1442609625488">
         <mark key="a" line="127" column="17" />
-        <mark key="'" line="269" column="35" />
-        <mark key="[" line="122" column="33" />
-        <mark key="]" line="122" column="33" />
-        <mark key="." line="122" column="33" />
-        <mark key="^" line="122" column="42" />
+        <mark key="'" line="127" column="17" />
+        <mark key="[" line="30" column="50" />
+        <mark key="]" line="30" column="24" />
+        <mark key="." line="30" column="24" />
+        <mark key="^" line="30" column="24" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
@@ -1072,9 +1072,9 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" timestamp="1438801031618">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" timestamp="1442609457880">
         <mark key="a" line="224" column="84" />
-        <mark key="'" line="16" column="46" />
+        <mark key="'" line="183" column="26" />
         <mark key="[" line="165" column="12" />
         <mark key="]" line="165" column="56" />
         <mark key="^" line="165" column="56" />
@@ -1420,9 +1420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1020" column="4" filename="$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-704701664/posix.py" />
-      <jump line="4" column="12" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="115" column="20" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="0" column="12" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="64" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="130" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1514,19 +1511,22 @@
       <jump line="108" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="125" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="129" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="127" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="368" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="136" column="50" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="173" column="29" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="269" column="35" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="120" column="15" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/geturl.py" />
+      <jump line="132" column="20" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="117" column="26" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="183" column="26" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="127" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBAZ2VuLmNvcm91dGluZQogICAgZGVmIF9jYWxsX3Byb2Moc2VsZiwgcHJvYywgKmFyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ2RiLnt9Jy5mb3JtYXQocHJvYykpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0geWllbGQgc2VsZi5jYW1wYWlnbl9zZXNzaW9uLmNhbGxwcm9jKHByb2MsIGFyZ3MpCiAgICAgICAgICAgICAgICByYWlzZSBnZW4uUmV0dXJuKHJlc3VsdCkKCiAgICAgICAgZXhjZXB0IHBzeWNvcGcyLkRhdGFFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHJhaXNlIHdlYi5IVFRQRXJyb3IoNDAwLCAnc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQ6ICVzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jLCBlcnIpCgogICAgICAgIGV4Y2VwdCBwc3ljb3BnMi5EYXRhYmFzZUVycm9yIGFzIGVycjoKICAgICAgICAgICAgcmFpc2Ugd2ViLkhUVFBFcnJvcig1MDAsICdzdG9yZWQgcHJvY2VkdXJlICVzIGZhaWxlZDogJXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2MsIGVycikK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Jywg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3652,7 +3652,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jywg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>injected</text>
@@ -3661,25 +3661,25 @@
         <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYuZmV0Y2goJy9ldmVudHMnLCBtZXRob2Q9J1BPU1QnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBib2R5PWpzb24uZHVtcHMoYm9keSkuZW5jb2RlKCd1dGYtOCcpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWFkZXJzPXsnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKipmZXRjaF9rd2FyZ3MpCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Jywg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>v1</text>
+        <text encoding="base64">Jywg</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>v1</text>
       </register>
       <register name="4" type="4">
-        <text>send</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>'</text>
+        <text>send</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wdWJsaXNoX21lc3NhZ2UoKQo=</text>
+      <register name="6" type="4">
+        <text>'</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5328,7 +5328,7 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wdWJsaXNoX21lc3NhZ2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wdWJsaXNoX21lc3NhZ2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
