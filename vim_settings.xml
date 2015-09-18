@@ -81,8 +81,8 @@
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/httputil.py" timestamp="1431258910727">
         <mark key="'" line="337" column="34" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" timestamp="1442589490199">
-        <mark key="'" line="76" column="24" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" timestamp="1442609832034">
+        <mark key="'" line="76" column="37" />
       </file>
       <file name="$USER_HOME$/Source/platform/rule/env/lib/python3.4/site-packages/sprockets/logging.py" timestamp="1441289520981">
         <mark key="a" line="150" column="39" />
@@ -1050,13 +1050,13 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1436986337106">
         <mark key="'" line="572" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1442609625488">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1442609795143">
         <mark key="a" line="127" column="17" />
-        <mark key="'" line="127" column="17" />
+        <mark key="'" line="30" column="59" />
         <mark key="[" line="30" column="50" />
-        <mark key="]" line="30" column="24" />
-        <mark key="." line="30" column="24" />
-        <mark key="^" line="30" column="24" />
+        <mark key="]" line="30" column="50" />
+        <mark key="." line="30" column="50" />
+        <mark key="^" line="30" column="50" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
@@ -1420,11 +1420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="12" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="130" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="138" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="146" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="156" column="13" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="49" column="13" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="8" column="13" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1484,7 +1479,6 @@
       <jump line="87" column="45" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
       <jump line="103" column="28" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
       <jump line="171" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
-      <jump line="76" column="24" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
       <jump line="95" column="16" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avroconsumer.py" />
       <jump line="444" column="16" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avro/io.py" />
       <jump line="489" column="18" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avro/io.py" />
@@ -1496,19 +1490,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="122" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="89" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="30" column="59" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="77" column="37" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
       <jump line="124" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="92" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="96" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="101" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="105" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="108" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="125" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="129" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="368" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
@@ -1519,7 +1501,25 @@
       <jump line="132" column="20" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
       <jump line="117" column="26" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
       <jump line="183" column="26" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="119" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="108" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="92" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="127" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="77" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="30" column="59" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="77" column="37" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
+      <jump line="137" column="6" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avroconsumer.py" />
+      <jump line="76" column="37" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
