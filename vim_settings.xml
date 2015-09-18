@@ -81,8 +81,8 @@
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/httputil.py" timestamp="1431258910727">
         <mark key="'" line="337" column="34" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" timestamp="1442609832034">
-        <mark key="'" line="76" column="37" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" timestamp="1442611236504">
+        <mark key="'" line="77" column="37" />
       </file>
       <file name="$USER_HOME$/Source/platform/rule/env/lib/python3.4/site-packages/sprockets/logging.py" timestamp="1441289520981">
         <mark key="a" line="150" column="39" />
@@ -405,8 +405,8 @@
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/connection.py" timestamp="1433103978025">
         <mark key="'" line="239" column="32" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avroconsumer.py" timestamp="1442589533773">
-        <mark key="'" line="95" column="16" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avroconsumer.py" timestamp="1442611245849">
+        <mark key="'" line="137" column="30" />
       </file>
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/mime/nonmultipart.py" timestamp="1434728842305">
         <mark key="'" line="13" column="23" />
@@ -1050,13 +1050,13 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1436986337106">
         <mark key="'" line="572" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1442609795143">
-        <mark key="a" line="127" column="17" />
-        <mark key="'" line="30" column="59" />
-        <mark key="[" line="30" column="50" />
-        <mark key="]" line="30" column="50" />
-        <mark key="." line="30" column="50" />
-        <mark key="^" line="30" column="50" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1442611342588">
+        <mark key="a" line="31" column="34" />
+        <mark key="'" line="31" column="33" />
+        <mark key="[" line="329" column="0" />
+        <mark key="]" line="329" column="0" />
+        <mark key="." line="329" column="0" />
+        <mark key="^" line="309" column="51" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
@@ -1420,19 +1420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="13" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="49" column="13" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="8" column="13" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="183" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="180" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="177" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="173" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="168" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="164" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="162" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="157" column="41" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="35" column="13" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="67" column="61" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
       <jump line="92" column="15" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/msgpack/fallback.py" />
       <jump line="570" column="13" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/msgpack/fallback.py" />
       <jump line="261" column="8" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/msgpack/fallback.py" />
@@ -1513,20 +1500,33 @@
       <jump line="78" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="127" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="77" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="30" column="59" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="72" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="70" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="63" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="58" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="30" column="59" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
-      <jump line="77" column="37" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
-      <jump line="137" column="6" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avroconsumer.py" />
+      <jump line="33" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="29" column="32" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="127" column="6" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/geturl.py" />
+      <jump line="32" column="34" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="811" column="6" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
+      <jump line="10" column="36" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="31" column="33" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="114" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
       <jump line="76" column="37" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
+      <jump line="222" column="24" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avroconsumer.py" />
+      <jump line="77" column="37" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
+      <jump line="137" column="30" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avroconsumer.py" />
+      <jump line="28" column="6" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avroconsumer.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBAZ2VuLmNvcm91dGluZQogICAgZGVmIF9jYWxsX3Byb2Moc2VsZiwgcHJvYywgKmFyZ3MpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBzZWxmLnRyYWNrX3RpbWUoJ2RiLnt9Jy5mb3JtYXQocHJvYykpOgogICAgICAgICAgICAgICAgcmVzdWx0ID0geWllbGQgc2VsZi5jYW1wYWlnbl9zZXNzaW9uLmNhbGxwcm9jKHByb2MsIGFyZ3MpCiAgICAgICAgICAgICAgICByYWlzZSBnZW4uUmV0dXJuKHJlc3VsdCkKCiAgICAgICAgZXhjZXB0IHBzeWNvcGcyLkRhdGFFcnJvciBhcyBlcnI6CiAgICAgICAgICAgIHJhaXNlIHdlYi5IVFRQRXJyb3IoNDAwLCAnc3RvcmVkIHByb2NlZHVyZSAlcyBmYWlsZWQ6ICVzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9jLCBlcnIpCgogICAgICAgIGV4Y2VwdCBwc3ljb3BnMi5EYXRhYmFzZUVycm9yIGFzIGVycjoKICAgICAgICAgICAgcmFpc2Ugd2ViLkhUVFBFcnJvcig1MDAsICdzdG9yZWQgcHJvY2VkdXJlICVzIGZhaWxlZDogJXMnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2MsIGVycikK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbGxlY3Rpb25fY3ljbGUgPSBzZWxmLnNldHRpbmdzLmdldCgnY29sbGVjdGlvbl9jeWNsZXMnKQo=</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3652,7 +3652,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>helpers.GarbageCollector,</text>
       </register>
       <register name="/" type="4">
         <text>injected</text>
@@ -3660,26 +3660,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYuZmV0Y2goJy9ldmVudHMnLCBtZXRob2Q9J1BPU1QnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBib2R5PWpzb24uZHVtcHMoYm9keSkuZW5jb2RlKCd1dGYtOCcpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWFkZXJzPXsnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKipmZXRjaF9rd2FyZ3MpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbGxlY3Rpb25fY3ljbGUgPSBzZWxmLnNldHRpbmdzLmdldCgnY29sbGVjdGlvbl9jeWNsZXMnKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Jywg</text>
+        <text>helpers.GarbageCollector,</text>
       </register>
       <register name="3" type="4">
-        <text>v1</text>
+        <text>.RejectedConsumerMixin,</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="4">
-        <text>send</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbGxlY3Rpb25fY3ljbGUgPSBzZWxmLnNldHRpbmdzLmdldCgnY29sbGVjdGlvbl9jeWNsZXMnKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>'</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGhlbHBlcnMuR2FyYmFnZUNvbGxlY3RvciwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5322,13 +5322,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wdWJsaXNoX21lc3NhZ2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHJlamVjdGVkLgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wdWJsaXNoX21lc3NhZ2UoKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5wdWJsaXNoX21lc3NhZ2UoKQo=</text>
+      <register name="9" type="4">
+        <text>.RejectedConsumerMixin,</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
