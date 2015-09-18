@@ -81,7 +81,9 @@
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/httputil.py" timestamp="1431258910727">
         <mark key="'" line="337" column="34" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" timestamp="1442329774092" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" timestamp="1442589490199">
+        <mark key="'" line="76" column="24" />
+      </file>
       <file name="$USER_HOME$/Source/platform/rule/env/lib/python3.4/site-packages/sprockets/logging.py" timestamp="1441289520981">
         <mark key="a" line="150" column="39" />
         <mark key="'" line="151" column="50" />
@@ -209,6 +211,9 @@
         <mark key="]" line="502" column="0" />
         <mark key="^" line="502" column="19" />
         <mark key="." line="502" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avro/io.py" timestamp="1442589702309">
+        <mark key="'" line="467" column="21" />
       </file>
       <file name="$USER_HOME$/Source/python/sampson/docs/conf.py" timestamp="1419690584296">
         <mark key="'" line="3" column="0" />
@@ -348,12 +353,6 @@
       <file name="$USER_HOME$/Source/core-api/followups/env/lib/python2.6/site-packages/queries/results.py" timestamp="1439988063329">
         <mark key="'" line="106" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/docker-compose.yml" timestamp="1442255638062">
-        <mark key="[" line="7" column="41" />
-        <mark key="]" line="9" column="9" />
-        <mark key="." line="9" column="9" />
-        <mark key="^" line="9" column="9" />
-      </file>
       <file name="$USER_HOME$/opt/lib/python2.7/distutils/spawn.py" timestamp="1419856999565">
         <mark key="'" line="33" column="8" />
       </file>
@@ -406,8 +405,8 @@
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/connection.py" timestamp="1433103978025">
         <mark key="'" line="239" column="32" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avroconsumer.py" timestamp="1438975668464">
-        <mark key="'" line="25" column="30" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avroconsumer.py" timestamp="1442589533773">
+        <mark key="'" line="95" column="16" />
       </file>
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/email/mime/nonmultipart.py" timestamp="1434728842305">
         <mark key="'" line="13" column="23" />
@@ -588,11 +587,13 @@
         <mark key="^" line="93" column="63" />
         <mark key="." line="93" column="63" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/docs/history.rst" timestamp="1442433141340">
-        <mark key="[" line="7" column="45" />
-        <mark key="]" line="7" column="54" />
-        <mark key="." line="7" column="54" />
-        <mark key="^" line="7" column="54" />
+      <file name="$USER_HOME$/Source/platform/scheduler/docs/history.rst" timestamp="1442588934680">
+        <mark key="a" line="12" column="27" />
+        <mark key="'" line="12" column="27" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+        <mark key="^" line="18" column="31" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/httpserver.py" timestamp="1434105755040">
         <mark key="'" line="304" column="23" />
@@ -1049,9 +1050,9 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1436986337106">
         <mark key="'" line="572" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1442432252372">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1442589483048">
         <mark key="a" line="230" column="44" />
-        <mark key="'" line="148" column="20" />
+        <mark key="'" line="30" column="59" />
       </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
         <mark key="'" line="8" column="61" />
@@ -1415,19 +1416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
-      <jump line="28" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
-      <jump line="50" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
-      <jump line="76" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
-      <jump line="60" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
-      <jump line="58" column="1" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
-      <jump line="67" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
-      <jump line="2" column="21" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
-      <jump line="4" column="25" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
-      <jump line="46" column="8" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="65" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="70" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="73" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1515,6 +1503,19 @@
       <jump line="206" column="21" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/psycopg2/extras.py" />
       <jump line="6" column="14" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="127" column="43" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="12" column="27" filename="$USER_HOME$/Source/platform/scheduler/docs/history.rst" />
+      <jump line="102" column="22" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
+      <jump line="87" column="45" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
+      <jump line="103" column="28" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
+      <jump line="171" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
+      <jump line="30" column="59" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
+      <jump line="76" column="24" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
+      <jump line="95" column="16" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avroconsumer.py" />
+      <jump line="444" column="16" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avro/io.py" />
+      <jump line="489" column="18" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avro/io.py" />
+      <jump line="183" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avro/io.py" />
+      <jump line="467" column="21" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avro/io.py" />
+      <jump line="227" column="6" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avro/io.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3650,7 +3651,7 @@
         <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text>msgpack</text>
+        <text encoding="base64">XDxfc2VyaWFsaXplXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYuZmV0Y2goJy9ldmVudHMnLCBtZXRob2Q9J1BPU1QnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBib2R5PWpzb24uZHVtcHMoYm9keSkuZW5jb2RlKCd1dGYtOCcpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWFkZXJzPXsnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKipmZXRjaF9rd2FyZ3MpCg==</text>
@@ -3661,14 +3662,14 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>escape</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>escape</text>
       </register>
       <register name="5" type="4">
         <text encoding="base64">IA==</text>
@@ -5317,31 +5318,29 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>)</text>
-      </register>
-      <register name="8" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>)</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>184</text>
       </register>
     </registers>
     <search>
-      <last-search>msgpack</last-search>
+      <last-search encoding="base64">XDxfc2VyaWFsaXplXD4=</last-search>
       <last-offset />
-      <last-pattern>msgpack</last-pattern>
+      <last-pattern encoding="base64">XDxfc2VyaWFsaXplXD4=</last-pattern>
       <last-replace>'\1': self.\1,</last-replace>
       <last-substitute>self.\([^ ]*\) = .*$</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFja190aW1lXD4=</entry>
-        <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
         <entry>update_camnpai</entry>
         <entry>update_campaign</entry>
         <entry>update_campaign_state</entry>
@@ -5360,12 +5359,10 @@
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>msgpac</entry>
         <entry>msgpack</entry>
+        <entry encoding="base64">XDxfZ2V0X3NjaGVtYVw+</entry>
+        <entry encoding="base64">XDxfc2VyaWFsaXplXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>120</entry>
-        <entry>45</entry>
-        <entry>152</entry>
-        <entry>208</entry>
         <entry>261</entry>
         <entry>194</entry>
         <entry>221</entry>
@@ -5379,9 +5376,13 @@
         <entry>129</entry>
         <entry>147</entry>
         <entry>166</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
         <entry>1</entry>
+        <entry>445</entry>
+        <entry>490</entry>
+        <entry>690</entry>
+        <entry>184</entry>
       </history-cmd>
       <history-expr />
       <history-input />
