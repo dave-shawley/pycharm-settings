@@ -1072,9 +1072,9 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" timestamp="1442609457880">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" timestamp="1442855664598">
         <mark key="a" line="224" column="84" />
-        <mark key="'" line="183" column="26" />
+        <mark key="'" line="117" column="26" />
         <mark key="[" line="165" column="12" />
         <mark key="]" line="165" column="56" />
         <mark key="^" line="165" column="56" />
@@ -1420,34 +1420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="15" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/msgpack/fallback.py" />
-      <jump line="570" column="13" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/msgpack/fallback.py" />
-      <jump line="261" column="8" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/msgpack/fallback.py" />
-      <jump line="89" column="8" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="104" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="112" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="114" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="120" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="5" column="26" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="119" column="25" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="233" column="0" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/tornado/escape.py" />
-      <jump line="65" column="61" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
-      <jump line="103" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
-      <jump line="31" column="4" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
-      <jump line="53" column="2" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
-      <jump line="96" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="76" column="4" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
       <jump line="75" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
@@ -1485,9 +1457,6 @@
       <jump line="173" column="29" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="269" column="35" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="120" column="15" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/geturl.py" />
-      <jump line="132" column="20" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="117" column="26" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="183" column="26" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
       <jump line="119" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="108" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
       <jump line="105" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" />
@@ -1520,6 +1489,37 @@
       <jump line="77" column="37" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/helpers.py" />
       <jump line="137" column="30" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avroconsumer.py" />
       <jump line="28" column="6" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/avroconsumer.py" />
+      <jump line="62" column="12" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="380" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="409" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="404" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="399" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="389" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="386" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="382" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="379" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="375" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="370" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="366" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="362" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="351" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="349" column="22" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="224" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="218" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="214" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="208" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="204" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="196" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="192" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="190" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="184" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="181" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="175" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="169" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="183" column="13" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="68" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/helpers.py" />
+      <jump line="132" column="13" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
+      <jump line="117" column="26" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3655,7 +3655,7 @@
         <text>helpers.GarbageCollector,</text>
       </register>
       <register name="/" type="4">
-        <text>injected</text>
+        <text>AttachmentTests</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYuZmV0Y2goJy9ldmVudHMnLCBtZXRob2Q9J1BPU1QnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBib2R5PWpzb24uZHVtcHMoYm9keSkuZW5jb2RlKCd1dGYtOCcpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoZWFkZXJzPXsnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKipmZXRjaF9rd2FyZ3MpCg==</text>
@@ -5331,13 +5331,13 @@
         <text>.RejectedConsumerMixin,</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
-      <last-search>injected</last-search>
+      <last-search>AttachmentTests</last-search>
       <last-offset />
-      <last-pattern>injected</last-pattern>
+      <last-pattern>AttachmentTests</last-pattern>
       <last-replace>'\1': self.\1,</last-replace>
       <last-substitute>self.\([^ ]*\) = .*$</last-substitute>
       <last-dir>1</last-dir>
@@ -5345,7 +5345,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_generate</entry>
         <entry>invalid_state</entry>
         <entry>KeyError</entry>
         <entry encoding="base64">XDxjcmVhdGVfY2FtcGFpZ25cPg==</entry>
@@ -5365,6 +5364,7 @@
         <entry>publish_message</entry>
         <entry encoding="base64">XDxkcm9wX21lc3NhZ2VcPg==</entry>
         <entry>injected</entry>
+        <entry>AttachmentTests</entry>
       </history-search>
       <history-cmd>
         <entry>194</entry>
@@ -5385,8 +5385,8 @@
         <entry>690</entry>
         <entry>184</entry>
         <entry>125</entry>
-        <entry>vsp</entry>
         <entry>1</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
