@@ -485,7 +485,8 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1442587056353">
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1442865210125">
+        <mark key="'" line="153" column="20" />
         <mark key="^" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Source/python/glinda/setup.py" timestamp="1432206000373">
@@ -536,12 +537,6 @@
         <mark key="]" line="14" column="31" />
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="31" />
-      </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1442511285380">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
         <mark key="'" line="8" column="0" />
@@ -1025,6 +1020,10 @@
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1436986337106">
         <mark key="'" line="572" column="20" />
       </file>
+      <file name="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" timestamp="1442865270029">
+        <mark key="a" line="1328" column="0" />
+        <mark key="'" line="1344" column="17" />
+      </file>
       <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumer.py" timestamp="1442611342588">
         <mark key="a" line="31" column="34" />
         <mark key="'" line="31" column="33" />
@@ -1398,28 +1397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="382" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="379" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="375" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="370" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="366" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="362" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="351" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="349" column="22" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="224" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="218" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="214" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="208" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="204" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="196" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="192" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="190" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="184" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="181" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="175" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="169" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="183" column="13" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
-      <jump line="132" column="13" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
       <jump line="117" column="26" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
       <jump line="127" column="57" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
       <jump line="104" column="40" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/formatter_tests.py" />
@@ -1498,6 +1475,28 @@
       <jump line="11" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="71" column="16" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
       <jump line="78" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/tests/spooler_tests.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" />
+      <jump line="1631" column="0" filename="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" />
+      <jump line="1625" column="0" filename="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" />
+      <jump line="1619" column="0" filename="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" />
+      <jump line="1613" column="0" filename="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" />
+      <jump line="1608" column="0" filename="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" />
+      <jump line="1602" column="0" filename="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" />
+      <jump line="1596" column="0" filename="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" />
+      <jump line="1575" column="8" filename="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" />
+      <jump line="454" column="6" filename="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" />
+      <jump line="312" column="17" filename="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" />
+      <jump line="310" column="17" filename="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" />
+      <jump line="75" column="20" filename="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" />
+      <jump line="1638" column="31" filename="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" />
+      <jump line="153" column="20" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="1083" column="8" filename="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" />
+      <jump line="1639" column="24" filename="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" />
+      <jump line="1884" column="20" filename="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" />
+      <jump line="1937" column="20" filename="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" />
+      <jump line="31" column="35" filename="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" />
+      <jump line="34" column="53" filename="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" />
+      <jump line="1344" column="17" filename="$USER_HOME$/opt/lib/python3.5/logging/__init__.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3633,7 +3632,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3NlcnRfYW1xcF9wcm9wZXJ0aWVzXD4=</text>
+        <text>class Logger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydF9hbXFwX3Byb3BlcnRpZXMoJ2Ryb3AudjEnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnYXBwbGljYXRpb24vdm5kLmFwYWNoZS5hdnJvLmRhdHVtJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvcHMpCg==</text>
@@ -5309,25 +5308,20 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICdhcHBsaWNhdGlvbi92bmQuYXBhY2hlLmF2cm8uZGF0dW0nKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>140</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc3NlcnRfYW1xcF9wcm9wZXJ0aWVzXD4=</last-search>
+      <last-search>class Logger</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3NlcnRfYW1xcF9wcm9wZXJ0aWVzXD4=</last-pattern>
+      <last-pattern>class Logger</last-pattern>
       <last-replace>'\1': self.\1,</last-replace>
       <last-substitute>self.\([^ ]*\) = .*$</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>coerce</entry>
-        <entry>HTTPError</entry>
-        <entry>HTTPRequest</entry>
-        <entry>class RequestHandler</entry>
-        <entry encoding="base64">XDx0aWNrXD4=</entry>
         <entry encoding="base64">XDxtb2RpZmllZF9hdFw+</entry>
         <entry>sql_session</entry>
         <entry encoding="base64">XDxzdGF0ZV90eXBlXD4=</entry>
@@ -5343,6 +5337,11 @@
         <entry encoding="base64">XDxwdWJsaXNoZWRfbWVzc2FnZVw+</entry>
         <entry>unittest</entry>
         <entry encoding="base64">XDxhc3NlcnRfYW1xcF9wcm9wZXJ0aWVzXD4=</entry>
+        <entry>LogAdapter</entry>
+        <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
+        <entry>Adapter</entry>
+        <entry>Logger</entry>
+        <entry>class Logger</entry>
       </history-search>
       <history-cmd>
         <entry>129</entry>
@@ -5354,7 +5353,6 @@
         <entry>184</entry>
         <entry>125</entry>
         <entry>vsp</entry>
-        <entry>1</entry>
         <entry>w</entry>
         <entry>404</entry>
         <entry>462</entry>
@@ -5365,6 +5363,7 @@
         <entry>55</entry>
         <entry>121</entry>
         <entry>140</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
