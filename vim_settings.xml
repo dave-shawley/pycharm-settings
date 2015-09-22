@@ -3,991 +3,996 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Source/python/readit2/static/index.html" timestamp="1434900890470">
-        <mark key="]" line="12" column="47" />
-        <mark key="^" line="12" column="47" />
-        <mark key="." line="12" column="47" />
-        <mark key="[" line="12" column="36" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/static/js/app.js" timestamp="1440808336358">
-        <mark key="'" line="21" column="22" />
-      </file>
-      <file name="$USER_HOME$/Source/family-tree/familytree/source.py" timestamp="1404575111376">
-        <mark key="'" line="22" column="0" />
-        <mark key="]" line="31" column="21" />
-        <mark key="^" line="31" column="21" />
-        <mark key="." line="31" column="21" />
-        <mark key="[" line="31" column="12" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/asyncio/selector_events.py" timestamp="1438549517613">
-        <mark key="'" line="658" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/glinda/docs/changelog.rst" timestamp="1439138971282">
-        <mark key="]" line="6" column="12" />
-        <mark key="^" line="6" column="12" />
-        <mark key="." line="6" column="12" />
-        <mark key="[" line="6" column="9" />
-      </file>
-      <file name="$USER_HOME$/Source/python/jester/docs/internals.rst" timestamp="1415708371906">
-        <mark key="'" line="23" column="11" />
-        <mark key="]" line="23" column="11" />
-        <mark key="^" line="23" column="11" />
-        <mark key="." line="23" column="11" />
-        <mark key="[" line="18" column="20" />
-      </file>
-      <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/blocking_connection.py" timestamp="1423053523371">
-        <mark key="'" line="305" column="28" />
-      </file>
-      <file name="$USER_HOME$/Source/python/setupext-janitor/env/lib/python3.4/site-packages/setuptools/__init__.py" timestamp="1416145393021">
-        <mark key="'" line="57" column="23" />
-      </file>
-      <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/ietfparse/headers.py" timestamp="1432339065376">
-        <mark key="'" line="57" column="26" />
-      </file>
-      <file name="$USER_HOME$/Source/python/fluent-test/doc/api.rst" timestamp="1409831257709">
-        <mark key="'" line="5" column="0" />
-        <mark key="]" line="6" column="35" />
-        <mark key="^" line="6" column="35" />
-        <mark key="." line="6" column="35" />
-        <mark key="[" line="6" column="26" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/static/style.css" timestamp="1434900636266">
-        <mark key="'" line="40" column="0" />
-        <mark key="]" line="7" column="12" />
-        <mark key="^" line="7" column="12" />
-        <mark key="." line="7" column="12" />
-        <mark key="[" line="7" column="12" />
-      </file>
-      <file name="/fragment.py" timestamp="1439295474029">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/setupext-janitor/README.rst" timestamp="1416452331069">
-        <mark key="'" line="7" column="0" />
-        <mark key="]" line="82" column="28" />
-        <mark key="^" line="82" column="28" />
-        <mark key="." line="82" column="28" />
-        <mark key="[" line="81" column="51" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python2.7/distutils/log.py" timestamp="1419856618754">
-        <mark key="'" line="51" column="18" />
-      </file>
-      <file name="$USER_HOME$/Source/python/setupext-gitversion/tests.py" timestamp="1419858442369">
-        <mark key="'" line="89" column="29" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="55" column="46" />
-        <mark key="." line="56" column="0" />
-        <mark key="[" line="56" column="0" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/selectors.py" timestamp="1438534721128">
-        <mark key="'" line="532" column="22" />
-      </file>
-      <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1429964429348">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/connection.py" timestamp="1433103978025">
-        <mark key="'" line="239" column="32" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm40/python_stubs/516270897/_io.py" timestamp="1437530623212">
-        <mark key="'" line="368" column="22" />
-      </file>
-      <file name="/" timestamp="1436701703073">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/messages/messages/errors.py" timestamp="1430963427235">
-        <mark key="'" line="0" column="22" />
-        <mark key="]" line="1" column="51" />
-        <mark key="^" line="1" column="47" />
-        <mark key="." line="1" column="51" />
-        <mark key="[" line="1" column="51" />
-      </file>
-      <file name="_mac/$APP_CONFIG$/keymap.xml" timestamp="1435431960820">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1431285143532">
-        <mark key="'" line="98" column="14" />
-      </file>
-      <file name="$USER_HOME$/Source/python/messages/tests/service_url_tests.py" timestamp="1430962861954">
-        <mark key="'" line="32" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="27" column="32" />
-        <mark key="." line="28" column="0" />
-        <mark key="[" line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/asyncio/proactor_events.py" timestamp="1423403274631">
-        <mark key="'" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/tests.py" timestamp="1440504616127">
-        <mark key="'" line="324" column="0" />
-        <mark key="]" line="325" column="36" />
-        <mark key="^" line="327" column="31" />
-        <mark key="." line="325" column="36" />
-        <mark key="[" line="325" column="35" />
-      </file>
-      <file name="$USER_HOME$/Source/python/sampson/tests/codec_tests.py" timestamp="1419710732321">
-        <mark key="'" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="88" column="33" />
-        <mark key="." line="57" column="0" />
-        <mark key="[" line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/hypermedia/setup.py" timestamp="1410655452614">
-        <mark key="'" line="30" column="32" />
-        <mark key="]" line="52" column="41" />
-        <mark key="^" line="52" column="41" />
-        <mark key="." line="52" column="41" />
-        <mark key="[" line="51" column="36" />
-      </file>
-      <file name="$USER_HOME$/Source/python/glinda/examples/contentneg.py" timestamp="1439138730671">
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="[" line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/locks.py" timestamp="1442157749773">
-        <mark key="'" line="227" column="23" />
-      </file>
-      <file name="$USER_HOME$/Source/work/sprockets.logging/sprockets/logging.py" timestamp="1442229852158">
-        <mark key="'" line="101" column="38" />
-        <mark key="a" line="150" column="52" />
-        <mark key="]" line="21" column="37" />
-        <mark key="^" line="21" column="37" />
-        <mark key="." line="21" column="37" />
-        <mark key="[" line="21" column="19" />
-      </file>
-      <file name="$USER_HOME$/Source/python/magician/docs/protocol.rst" timestamp="1437845457774">
-        <mark key="'" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="[" line="41" column="76" />
-      </file>
-      <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/httpserver.py" timestamp="1431174246372">
-        <mark key="'" line="283" column="23" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python2.7/subprocess.py" timestamp="1419812079829">
-        <mark key="'" line="797" column="20" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/docker/utils/utils.py" timestamp="1440355074355">
-        <mark key="'" line="314" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/platform/kqueue.py" timestamp="1442402216010">
-        <mark key="'" line="74" column="20" />
-      </file>
-      <file name="$USER_HOME$/Source/flaskenv/src/readit/readit/templates/user-not-found.html" timestamp="1359220259082">
-        <mark key="'" line="19" column="0" />
-        <mark key="]" line="5" column="7" />
-        <mark key="^" line="5" column="7" />
-        <mark key="." line="5" column="7" />
-        <mark key="[" line="5" column="8" />
-      </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/pika/adapters/base_connection.py" timestamp="1442081639616">
-        <mark key="'" line="30" column="32" />
-      </file>
-      <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
-        <mark key="'" line="8" column="61" />
-        <mark key="]" line="46" column="52" />
-        <mark key="^" line="46" column="52" />
-        <mark key="." line="46" column="52" />
-        <mark key="[" line="46" column="38" />
-      </file>
-      <file name="$USER_HOME$/Source/family-tree/tests/unit/source_tests.py" timestamp="1404575197435">
-        <mark key="'" line="1" column="13" />
-        <mark key="]" line="17" column="35" />
-        <mark key="^" line="17" column="35" />
-        <mark key="." line="17" column="35" />
-        <mark key="[" line="17" column="22" />
-      </file>
-      <file name="$USER_HOME$/Source/family-tree/tests/unit/neo_node_tests.py" timestamp="1408708945766">
-        <mark key="'" line="94" column="9" />
-        <mark key="]" line="91" column="51" />
-        <mark key="^" line="91" column="51" />
-        <mark key="." line="91" column="51" />
-        <mark key="[" line="91" column="42" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/distutils/command/bdist.py" timestamp="1416145909988">
-        <mark key="'" line="112" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/toto/docs/conf.py" timestamp="1431472523510">
-        <mark key="'" line="3" column="0" />
-        <mark key="]" line="31" column="49" />
-        <mark key="^" line="31" column="41" />
-        <mark key="." line="31" column="49" />
-        <mark key="[" line="31" column="49" />
-      </file>
-      <file name="$USER_HOME$/Source/python/jester/README.rst" timestamp="1415018539661">
-        <mark key="'" line="16" column="0" />
-        <mark key="]" line="47" column="34" />
-        <mark key="^" line="47" column="34" />
-        <mark key="." line="47" column="34" />
-        <mark key="[" line="47" column="12" />
-      </file>
-      <file name="$USER_HOME$/Source/family-tree/familytree/cli/console.py" timestamp="1407192703039">
-        <mark key="'" line="102" column="11" />
-        <mark key="]" line="97" column="77" />
-        <mark key="^" line="97" column="77" />
-        <mark key="." line="97" column="77" />
-        <mark key="[" line="97" column="68" />
-      </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/__init__.py" timestamp="1442160937018">
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="[" line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/uri_parser.py" timestamp="1434970823770">
-        <mark key="'" line="291" column="23" />
-      </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/docs/changelog.rst" timestamp="1442161775708">
-        <mark key="]" line="4" column="57" />
-        <mark key="^" line="4" column="57" />
-        <mark key="." line="4" column="57" />
-        <mark key="[" line="4" column="4" />
-      </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/pika/connection.py" timestamp="1442401274744">
-        <mark key="'" line="726" column="17" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/mongo_client.py" timestamp="1434971316208">
-        <mark key="'" line="289" column="40" />
-      </file>
-      <file name="$USER_HOME$/Source/python/ietfparse/tests/generic_parsing_tests.py" timestamp="1432563703836">
-        <mark key="'" line="18" column="18" />
-        <mark key="]" line="18" column="12" />
-        <mark key="^" line="9" column="18" />
-        <mark key="." line="18" column="18" />
-        <mark key="[" line="18" column="12" />
-      </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" timestamp="1442402427485">
-        <mark key="'" line="141" column="0" />
-        <mark key="]" line="176" column="26" />
-        <mark key="^" line="133" column="23" />
-        <mark key="." line="176" column="26" />
-        <mark key="[" line="176" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/sampson/decode.py" timestamp="1419647211311">
-        <mark key="'" line="66" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/family-tree/doc/conf.py" timestamp="1405283956274">
-        <mark key="'" line="3" column="35" />
-        <mark key="]" line="10" column="30" />
-        <mark key="^" line="10" column="30" />
-        <mark key="." line="10" column="30" />
-        <mark key="[" line="9" column="29" />
-      </file>
-      <file name="$USER_HOME$/Source/python/tokenauth/tokenauth/__main__.py" timestamp="1408966864241">
-        <mark key="'" line="0" column="13" />
-        <mark key="]" line="11" column="42" />
-        <mark key="^" line="11" column="42" />
-        <mark key="." line="11" column="42" />
-        <mark key="[" line="10" column="46" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/site-packages/setuptools/command/egg_info.py" timestamp="1416192058174">
-        <mark key="'" line="78" column="37" />
-      </file>
-      <file name="$USER_HOME$/Source/flaskenv/src/readit/tests/testing.py" timestamp="1359217455814">
-        <mark key="'" line="212" column="0" />
-        <mark key="]" line="226" column="64" />
-        <mark key="^" line="226" column="64" />
-        <mark key="." line="226" column="64" />
-        <mark key="[" line="226" column="7" />
-      </file>
-      <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/tornado_connection.py" timestamp="1430218293936">
-        <mark key="'" line="87" column="27" />
-      </file>
-      <file name="$USER_HOME$/Source/work/test-helpers/docs/http-services.rst" timestamp="1431307514605">
-        <mark key="'" line="7" column="0" />
-        <mark key="]" line="11" column="22" />
-        <mark key="^" line="11" column="22" />
-        <mark key="." line="11" column="22" />
-        <mark key="[" line="11" column="15" />
-      </file>
-      <file name="$USER_HOME$/Source/python/sprockets/sprockets.clients.postgresql/sprockets/clients/postgresql/__init__.py" timestamp="1415970594143">
-        <mark key="'" line="147" column="0" />
-        <mark key="]" line="140" column="42" />
-        <mark key="^" line="140" column="16" />
-        <mark key="." line="140" column="42" />
-        <mark key="[" line="140" column="42" />
-      </file>
-      <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/base_connection.py" timestamp="1430073332187">
-        <mark key="'" line="123" column="25" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/readit/handlers.py" timestamp="1440936109398">
-        <mark key="]" line="240" column="0" />
-        <mark key="^" line="239" column="26" />
-        <mark key="." line="240" column="0" />
-        <mark key="[" line="240" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/frame.py" timestamp="1429967866195">
-        <mark key="'" line="11" column="24" />
-      </file>
-      <file name="$USER_HOME$/Source/python/hypermedia/README.rst" timestamp="1410715530605">
-        <mark key="'" line="69" column="0" />
-        <mark key="]" line="93" column="63" />
-        <mark key="^" line="93" column="63" />
-        <mark key="." line="93" column="63" />
-        <mark key="[" line="93" column="63" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/asyncio/coroutines.py" timestamp="1438519552980">
-        <mark key="'" line="172" column="27" />
-      </file>
-      <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1431172526789">
-        <mark key="'" line="214" column="28" />
-      </file>
-      <file name="$USER_HOME$/Source/python/fluent-test/setup.py" timestamp="1409831951346">
-        <mark key="'" line="29" column="23" />
-        <mark key="]" line="29" column="34" />
-        <mark key="^" line="29" column="34" />
-        <mark key="." line="29" column="34" />
-        <mark key="[" line="29" column="12" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/motor/__init__.py" timestamp="1435146270906">
-        <mark key="'" line="1058" column="33" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/readit/compat.py" timestamp="1433157548498">
-        <mark key="'" line="14" column="0" />
-        <mark key="]" line="25" column="43" />
-        <mark key="^" line="25" column="43" />
-        <mark key="." line="28" column="40" />
-        <mark key="[" line="28" column="22" />
-      </file>
-      <file name="$USER_HOME$/Source/family-tree/tests/integration/source_tests.py" timestamp="1404573970786">
-        <mark key="'" line="9" column="30" />
-        <mark key="]" line="11" column="38" />
-        <mark key="^" line="21" column="33" />
-        <mark key="." line="11" column="38" />
-        <mark key="[" line="11" column="38" />
-      </file>
-      <file name="$USER_HOME$/Source/python/ietfparse/setup.py" timestamp="1411309267031">
-        <mark key="'" line="11" column="0" />
-        <mark key="]" line="64" column="40" />
-        <mark key="^" line="64" column="40" />
-        <mark key="." line="64" column="40" />
-        <mark key="[" line="64" column="40" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/jwt/jwt.py" timestamp="1440504304018">
-        <mark key="'" line="45" column="23" />
-      </file>
-      <file name="$USER_HOME$/Source/python/messages/env/lib/python3.4/site-packages/dns/resolver.py" timestamp="1431000085030">
-        <mark key="'" line="135" column="67" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/distutils/log.py" timestamp="1416151367694">
-        <mark key="'" line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/ietfparse/tests/parse_content_type_tests.py" timestamp="1411267519536">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="49" column="40" />
-        <mark key="^" line="49" column="40" />
-        <mark key="." line="49" column="40" />
-        <mark key="[" line="49" column="26" />
-      </file>
-      <file name="$USER_HOME$/Source/python/ietfparse/docs/conf.py" timestamp="1411266927643">
-        <mark key="'" line="12" column="0" />
-        <mark key="]" line="30" column="40" />
-        <mark key="^" line="30" column="40" />
-        <mark key="." line="30" column="40" />
-        <mark key="[" line="30" column="39" />
-      </file>
-      <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/ietfparse/datastructures.py" timestamp="1432339854427">
-        <mark key="'" line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/setupext-janitor/setup.py" timestamp="1416166851482">
-        <mark key="'" line="40" column="6" />
-        <mark key="]" line="43" column="51" />
-        <mark key="^" line="43" column="51" />
-        <mark key="." line="43" column="51" />
-        <mark key="[" line="42" column="31" />
-      </file>
-      <file name="$USER_HOME$/Source/python/messages/messages/environment.py" timestamp="1430962932149">
-        <mark key="'" line="8" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="39" />
-        <mark key="." line="14" column="0" />
-        <mark key="[" line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Temporary/env/tornadoservices.py" timestamp="1431303894814">
-        <mark key="'" line="188" column="0" />
-        <mark key="]" line="255" column="0" />
-        <mark key="^" line="107" column="3" />
-        <mark key="." line="255" column="0" />
-        <mark key="[" line="255" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1442404772286">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/ietfparse/README.rst" timestamp="1432559486459">
-        <mark key="'" line="3" column="46" />
-      </file>
-      <file name="$USER_HOME$/Source/work/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" timestamp="1442196098416">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/sampson/docs/conf.py" timestamp="1419690584296">
-        <mark key="'" line="3" column="0" />
-        <mark key="]" line="30" column="40" />
-        <mark key="^" line="30" column="40" />
-        <mark key="." line="30" column="40" />
-        <mark key="[" line="30" column="39" />
-      </file>
-      <file name="$USER_HOME$/Source/python/magician/docs/index.rst" timestamp="1437841982025">
-        <mark key="]" line="7" column="10" />
-        <mark key="^" line="7" column="10" />
-        <mark key="." line="7" column="10" />
-        <mark key="[" line="6" column="6" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/distutils/core.py" timestamp="1416700912892">
-        <mark key="'" line="98" column="16" />
-      </file>
-      <file name="$USER_HOME$/Source/python/toto/env/lib/python3.4/site-packages/tornado/testing.py" timestamp="1431474626140">
-        <mark key="'" line="336" column="16" />
-      </file>
-      <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/web.py" timestamp="1439035044996">
-        <mark key="'" line="1922" column="34" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/urllib/parse.py" timestamp="1442056474089">
-        <mark key="'" line="162" column="28" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/bson/objectid.py" timestamp="1434454912411">
-        <mark key="'" line="120" column="17" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/json/decoder.py" timestamp="1432989858806">
-        <mark key="'" line="334" column="45" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/asyncio/events.py" timestamp="1438549368121">
-        <mark key="'" line="378" column="13" />
-      </file>
-      <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/spec.py" timestamp="1429967841484">
-        <mark key="'" line="2777" column="22" />
-      </file>
-      <file name="$USER_HOME$/Source/family-tree/tests/unit/json_session_mixin_tests.py" timestamp="1405298663094">
-        <mark key="'" line="23" column="0" />
-        <mark key="]" line="26" column="50" />
-        <mark key="^" line="26" column="50" />
-        <mark key="." line="26" column="50" />
-        <mark key="[" line="28" column="38" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/readit/__main__.py" timestamp="1440806608914">
-        <mark key="'" line="34" column="34" />
-        <mark key="]" line="34" column="44" />
-        <mark key="^" line="34" column="44" />
-        <mark key="." line="34" column="44" />
-        <mark key="[" line="34" column="34" />
-      </file>
-      <file name="$USER_HOME$/Source/python/messages/tests/__init__.py" timestamp="1431000063425">
-        <mark key="'" line="23" column="53" />
-        <mark key="]" line="23" column="41" />
-        <mark key="^" line="23" column="41" />
-        <mark key="." line="23" column="41" />
-        <mark key="[" line="23" column="40" />
-      </file>
-      <file name="$USER_HOME$/opt/pypy3-2.4.0-osx64/lib-python/3/urllib/parse.py" timestamp="1420898560180">
-        <mark key="'" line="583" column="25" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/httputil.py" timestamp="1440453388237">
-        <mark key="'" line="446" column="25" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python2.7/distutils/spawn.py" timestamp="1419856999565">
-        <mark key="'" line="33" column="8" />
-      </file>
-      <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/conf.py" timestamp="1419799290891">
-        <mark key="'" line="13" column="0" />
-        <mark key="]" line="31" column="64" />
-        <mark key="^" line="31" column="64" />
-        <mark key="." line="31" column="64" />
-        <mark key="[" line="31" column="58" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python2.7/distutils/cmd.py" timestamp="1419856988518">
-        <mark key="'" line="384" column="36" />
-      </file>
-      <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/httputil.py" timestamp="1432331985726">
-        <mark key="'" line="437" column="8" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/distutils/cmd.py" timestamp="1416188567247">
-        <mark key="'" line="93" column="43" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/static/js/login.js" timestamp="1440808265308">
-        <mark key="]" line="22" column="36" />
-        <mark key="^" line="25" column="11" />
-        <mark key="." line="22" column="41" />
-        <mark key="[" line="22" column="36" />
-      </file>
-      <file name="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" timestamp="1442194878516">
-        <mark key="'" line="1" column="0" />
-        <mark key="a" line="43" column="30" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="47" column="3" />
-        <mark key="." line="1" column="0" />
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/haregel/haregel/application.py" timestamp="1424434445035">
-        <mark key="'" line="30" column="38" />
-      </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/pika/callback.py" timestamp="1442368650874">
-        <mark key="'" line="201" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/ietfparse/ietfparse/algorithms.py" timestamp="1432726806168">
-        <mark key="'" line="4" column="10" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="41" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="[" line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/family-tree/Makefile" timestamp="1401362902687">
-        <mark key="'" line="3" column="14" />
-        <mark key="]" line="26" column="20" />
-        <mark key="^" line="26" column="20" />
-        <mark key="." line="26" column="20" />
-        <mark key="[" line="25" column="25" />
-      </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/setup.cfg" timestamp="1442161383495">
-        <mark key="'" line="2" column="0" />
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="5" column="18" />
-        <mark key="[" line="5" column="15" />
-      </file>
-      <file name="$USER_HOME$/Source/python/hypermedia/docs/conf.py" timestamp="1411646723089">
-        <mark key="'" line="6" column="0" />
-        <mark key="]" line="30" column="40" />
-        <mark key="^" line="30" column="40" />
-        <mark key="." line="30" column="40" />
-        <mark key="[" line="30" column="39" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/asyncore.py" timestamp="1423401242971">
-        <mark key="'" line="439" column="17" />
-      </file>
-      <file name="$USER_HOME$/Source/python/glinda/setup.py" timestamp="1432206000373">
-        <mark key="'" line="5" column="19" />
-      </file>
-      <file name="$USER_HOME$/Source/python/glinda/docs/content.rst" timestamp="1439140143286">
-        <mark key="'" line="107" column="0" />
-        <mark key="]" line="126" column="4" />
-        <mark key="^" line="126" column="4" />
-        <mark key="." line="126" column="28" />
-        <mark key="[" line="125" column="72" />
-      </file>
-      <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/httputil.py" timestamp="1431258910727">
-        <mark key="'" line="337" column="34" />
-      </file>
-      <file name="$USER_HOME$/Source/python/jester/docs/grammar.rst" timestamp="1415191843816">
-        <mark key="'" line="23" column="14" />
-        <mark key="]" line="25" column="8" />
-        <mark key="^" line="25" column="14" />
-        <mark key="." line="25" column="20" />
-        <mark key="[" line="25" column="8" />
-      </file>
-      <file name="$USER_HOME$/Source/python/ietfparse/setup.cfg" timestamp="1411306959746">
-        <mark key="'" line="4" column="0" />
-        <mark key="]" line="20" column="7" />
-        <mark key="^" line="20" column="7" />
-        <mark key="." line="20" column="7" />
-        <mark key="[" line="16" column="28" />
-      </file>
-      <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/channel.py" timestamp="1430058303912">
-        <mark key="'" line="1056" column="24" />
-      </file>
-      <file name="$USER_HOME$/Source/family-tree/doc/python-api.rst" timestamp="1407931049866">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="28" column="11" />
-        <mark key="^" line="28" column="11" />
-        <mark key="." line="28" column="11" />
-        <mark key="[" line="25" column="12" />
-      </file>
-      <file name="$USER_HOME$/Source/python/ietfparse/tests/url_tests.py" timestamp="1412124807581">
-        <mark key="'" line="150" column="9" />
-        <mark key="]" line="174" column="68" />
-        <mark key="^" line="151" column="11" />
-        <mark key="." line="174" column="68" />
-        <mark key="[" line="174" column="68" />
-      </file>
-      <file name="$USER_HOME$/Source/family-tree/familytree/cli/utils.py" timestamp="1407931431923">
-        <mark key="'" line="23" column="0" />
-        <mark key="]" line="26" column="39" />
-        <mark key="^" line="26" column="39" />
-        <mark key="." line="26" column="39" />
-        <mark key="[" line="26" column="39" />
-      </file>
-      <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/tcpserver.py" timestamp="1431173123597">
-        <mark key="'" line="124" column="18" />
-      </file>
-      <file name="$USER_HOME$/Source/python/glinda/tests/example_test.py" timestamp="1439033678072">
-        <mark key="'" line="36" column="0" />
-      </file>
-      <file name="$APP_CONFIG$/packages.xml" timestamp="1435431998415">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1442367831903">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/asyncio/windows_events.py" timestamp="1438517317471">
-        <mark key="'" line="769" column="44" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/distutils/dir_util.py" timestamp="1416188794696">
-        <mark key="'" line="193" column="8" />
-        <mark key="]" line="195" column="56" />
-        <mark key="^" line="195" column="56" />
-        <mark key="." line="195" column="56" />
-        <mark key="[" line="194" column="11" />
-      </file>
-      <file name="$USER_HOME$/Source/work/sprockets.logging/tests.py" timestamp="1442229830403">
-        <mark key="'" line="176" column="41" />
-        <mark key="a" line="169" column="34" />
-        <mark key="]" line="190" column="61" />
-        <mark key="^" line="190" column="57" />
-        <mark key="." line="190" column="61" />
-        <mark key="[" line="190" column="61" />
-      </file>
-      <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
-        <mark key="'" line="8" column="0" />
-        <mark key="]" line="4" column="38" />
-        <mark key="^" line="4" column="38" />
-        <mark key="." line="4" column="38" />
-        <mark key="[" line="4" column="38" />
-      </file>
-      <file name="$USER_HOME$/Source/python/tokenauth/tokenauth/handlers.py" timestamp="1408967128579">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="107" column="38" />
-        <mark key="^" line="107" column="38" />
-        <mark key="." line="107" column="38" />
-        <mark key="[" line="106" column="70" />
-      </file>
-      <file name="$USER_HOME$/Source/family-tree/tests/unit/storage/sqlite_layer_tests.py" timestamp="1404568729530">
-        <mark key="'" line="101" column="0" />
-        <mark key="]" line="104" column="53" />
-        <mark key="^" line="86" column="51" />
-        <mark key="." line="104" column="0" />
-        <mark key="[" line="104" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" timestamp="1442404764093">
-        <mark key="'" line="71" column="0" />
-        <mark key="a" line="106" column="27" />
-        <mark key="]" line="216" column="53" />
-        <mark key="^" line="48" column="12" />
-        <mark key="." line="216" column="53" />
-        <mark key="[" line="216" column="53" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/asyncio/transports.py" timestamp="1436355028146">
-        <mark key="'" line="126" column="31" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/httpserver.py" timestamp="1434105755040">
-        <mark key="'" line="304" column="23" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/simple_httpclient.py" timestamp="1434107116390">
-        <mark key="'" line="409" column="28" />
-        <mark key="]" line="502" column="0" />
-        <mark key="^" line="502" column="19" />
-        <mark key="." line="502" column="0" />
-        <mark key="[" line="502" column="0" />
-      </file>
       <file name="$USER_HOME$/opt/lib/python2.7/distutils/dist.py" timestamp="1419858091830">
         <mark key="'" line="163" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/toto/README.rst" timestamp="1431474882771">
-        <mark key="'" line="42" column="0" />
-        <mark key="]" line="66" column="40" />
-        <mark key="^" line="66" column="40" />
-        <mark key="." line="66" column="40" />
-        <mark key="[" line="65" column="30" />
-      </file>
-      <file name="$USER_HOME$/Source/python/haregel/README.rst" timestamp="1423054830155">
-        <mark key="'" line="57" column="0" />
-        <mark key="]" line="56" column="53" />
-        <mark key="^" line="56" column="53" />
-        <mark key="." line="56" column="53" />
-        <mark key="[" line="55" column="22" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/unix_events.py" timestamp="1423403638263">
         <mark key="'" line="32" column="45" />
       </file>
-      <file name="$USER_HOME$/Source/python/ietfparse/docs/rfcs.rst" timestamp="1432682423581">
-        <mark key="'" line="29" column="0" />
-        <mark key="]" line="22" column="4" />
-        <mark key="^" line="22" column="4" />
-        <mark key="." line="53" column="7" />
-        <mark key="[" line="53" column="7" />
-      </file>
-      <file name="$USER_HOME$/Source/python/ietfparse/ietfparse/errors.py" timestamp="1429475409627">
-        <mark key="'" line="3" column="0" />
-        <mark key="]" line="22" column="7" />
-        <mark key="^" line="22" column="7" />
-        <mark key="." line="22" column="7" />
-        <mark key="[" line="21" column="7" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/testing.py" timestamp="1434075680219">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/testing.py" timestamp="1439037891369">
-        <mark key="'" line="379" column="25" />
-      </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/pika/adapters/tornado_connection.py" timestamp="1442081595761">
-        <mark key="'" line="10" column="40" />
-      </file>
-      <file name="$USER_HOME$/Source/python/zender/tests/lifecycle_tests.py" timestamp="1422883126045">
-        <mark key="'" line="20" column="27" />
-        <mark key="]" line="23" column="45" />
-        <mark key="^" line="23" column="45" />
-        <mark key="." line="23" column="45" />
-        <mark key="[" line="23" column="38" />
-      </file>
-      <file name="$USER_HOME$/Source/python/magician/debugin.py" timestamp="1436407008602">
-        <mark key="'" line="61" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/callback.py" timestamp="1430306850912">
-        <mark key="'" line="153" column="40" />
-      </file>
-      <file name="$USER_HOME$/Source/python/ietfparse/tests/parse_accept_header_tests.py" timestamp="1432640394227">
-        <mark key="'" line="32" column="3" />
-        <mark key="]" line="82" column="43" />
-        <mark key="^" line="82" column="43" />
-        <mark key="." line="82" column="43" />
-        <mark key="[" line="82" column="43" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1434071706329">
-        <mark key="'" line="125" column="18" />
-      </file>
-      <file name="$USER_HOME$/Source/python/ietfparse/docs/header-processing.rst" timestamp="1411303158226">
-        <mark key="'" line="18" column="0" />
-        <mark key="]" line="10" column="18" />
-        <mark key="^" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-        <mark key="[" line="7" column="27" />
-      </file>
-      <file name="keymaps/Mac OS X 10_5_ copy 1.xml" timestamp="1439295109503">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/httpclient.py" timestamp="1439037898001">
-        <mark key="'" line="226" column="26" />
-      </file>
-      <file name="$USER_HOME$/Source/python/sampson/bah.py" timestamp="1419598697139">
-        <mark key="'" line="91" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/requires/installation.txt" timestamp="1442055347714">
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-        <mark key="." line="1" column="9" />
-        <mark key="[" line="1" column="9" />
-      </file>
-      <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/web.py" timestamp="1431175512417">
-        <mark key="'" line="1862" column="42" />
-      </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/protocols.py" timestamp="1438435998247">
         <mark key="'" line="61" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/python/messages/env/lib/python3.4/site-packages/dns/rdataclass.py" timestamp="1431000019898">
-        <mark key="'" line="52" column="6" />
+      <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/conf.py" timestamp="1419799290891">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="31" column="58" />
+        <mark key="]" line="31" column="64" />
+        <mark key="^" line="31" column="64" />
+        <mark key="." line="31" column="64" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/tests/frames.py" timestamp="1437834472942">
-        <mark key="'" line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/common.py" timestamp="1434971322950">
-        <mark key="'" line="346" column="16" />
-      </file>
-      <file name="$USER_HOME$/Source/python/glinda/docs/conf.py" timestamp="1431950408054">
-        <mark key="'" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/fluent-test/fluenttest/test_case.py" timestamp="1410004245269">
-        <mark key="'" line="101" column="0" />
-        <mark key="]" line="56" column="20" />
-        <mark key="^" line="56" column="20" />
-        <mark key="." line="56" column="20" />
-        <mark key="[" line="56" column="8" />
-      </file>
-      <file name="$APP_CONFIG$/vim_settings.xml" timestamp="1435432129961">
+      <file name="/a.dummy" timestamp="1442404772286">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/family-tree/tests/unit/urls_tests.py" timestamp="1403228247057">
-        <mark key="'" line="3" column="26" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="25" column="7" />
-        <mark key="." line="22" column="0" />
-        <mark key="[" line="22" column="0" />
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/setup.cfg" timestamp="1442161383495">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/python/zender/docs/content-type.rst" timestamp="1422827426642">
-        <mark key="'" line="158" column="0" />
-        <mark key="]" line="153" column="21" />
-        <mark key="^" line="153" column="21" />
-        <mark key="." line="153" column="21" />
-        <mark key="[" line="152" column="21" />
+      <file name="$USER_HOME$/Source/python/haregel/haregel/application.py" timestamp="1424434445035">
+        <mark key="'" line="30" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/ioloop.py" timestamp="1442402140847">
-        <mark key="'" line="800" column="64" />
-      </file>
-      <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1431883634285">
-        <mark key="'" line="146" column="13" />
-      </file>
-      <file name="$USER_HOME$/Source/family-tree/familytree/cli/note.py" timestamp="1408708844242">
-        <mark key="'" line="69" column="28" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="36" column="23" />
-        <mark key="." line="33" column="0" />
-        <mark key="[" line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" timestamp="1442190372901">
-        <mark key="'" line="1406" column="22" />
-        <mark key="]" line="1364" column="37" />
-        <mark key="^" line="1364" column="37" />
-        <mark key="." line="1364" column="37" />
-        <mark key="[" line="1364" column="38" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/httpclient.py" timestamp="1435499159228">
-        <mark key="'" line="226" column="22" />
-      </file>
-      <file name="$USER_HOME$/Source/python/zender/env/lib/python3.4/site-packages/test_helpers/mixins/tornado.py" timestamp="1422882713529">
-        <mark key="'" line="128" column="19" />
-      </file>
-      <file name="$USER_HOME$/Source/python/messages/messages/compat.py" timestamp="1430964438621">
-        <mark key="'" line="6" column="0" />
-        <mark key="]" line="4" column="24" />
-        <mark key="^" line="4" column="24" />
-        <mark key="." line="4" column="24" />
-        <mark key="[" line="3" column="40" />
-      </file>
-      <file name="$USER_HOME$/Source/work/test-helpers/docs/index.rst" timestamp="1431307536836">
-        <mark key="'" line="39" column="0" />
-        <mark key="]" line="43" column="15" />
-        <mark key="^" line="43" column="15" />
-        <mark key="." line="43" column="15" />
-        <mark key="[" line="42" column="8" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/asyncio/futures.py" timestamp="1438437135080">
-        <mark key="'" line="252" column="0" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/email/mime/base.py" timestamp="1435277986631">
-        <mark key="'" line="24" column="13" />
-      </file>
-      <file name="$USER_HOME$/Source/python/ietfparse/docs/urls.rst" timestamp="1411922099037">
-        <mark key="'" line="51" column="0" />
-        <mark key="]" line="82" column="3" />
-        <mark key="^" line="82" column="3" />
-        <mark key="." line="82" column="3" />
-        <mark key="[" line="81" column="71" />
-      </file>
-      <file name="$USER_HOME$/Source/python/zender/zender/app.py" timestamp="1422882177064">
-        <mark key="'" line="9" column="0" />
-        <mark key="]" line="17" column="24" />
-        <mark key="^" line="17" column="24" />
-        <mark key="." line="17" column="24" />
-        <mark key="[" line="17" column="24" />
-      </file>
-      <file name="$USER_HOME$/Source/python/ietfparse/docs/header-parsing.rst" timestamp="1432641185616">
-        <mark key="'" line="91" column="0" />
-        <mark key="]" line="109" column="56" />
-        <mark key="^" line="109" column="56" />
-        <mark key="." line="109" column="56" />
-        <mark key="[" line="107" column="63" />
-      </file>
-      <file name="$USER_HOME$/Source/python/magician/tests/helpers.py" timestamp="1438548426171">
-        <mark key="'" line="102" column="0" />
-        <mark key="]" line="117" column="63" />
-        <mark key="^" line="117" column="63" />
-        <mark key="." line="117" column="63" />
-        <mark key="[" line="117" column="58" />
-      </file>
-      <file name="$USER_HOME$/Source/family-tree/setup.py" timestamp="1404670071151">
-        <mark key="'" line="3" column="0" />
-        <mark key="]" line="40" column="9" />
-        <mark key="^" line="40" column="9" />
-        <mark key="." line="40" column="9" />
-        <mark key="[" line="40" column="9" />
-      </file>
-      <file name="$USER_HOME$/Temporary/env/consumer.py" timestamp="1431263660452">
-        <mark key="'" line="42" column="22" />
-        <mark key="]" line="44" column="16" />
-        <mark key="^" line="44" column="16" />
-        <mark key="." line="44" column="16" />
-        <mark key="[" line="42" column="38" />
-      </file>
-      <file name="$USER_HOME$/Source/python/setupext-janitor/setupext/janitor.py" timestamp="1416452221428">
-        <mark key="'" line="127" column="35" />
-        <mark key="]" line="60" column="40" />
-        <mark key="^" line="60" column="40" />
-        <mark key="." line="60" column="40" />
-        <mark key="[" line="56" column="37" />
-      </file>
-      <file name="$USER_HOME$/Source/python/tokenauth/tests/main_tests.py" timestamp="1408828224955">
-        <mark key="'" line="20" column="22" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="20" column="32" />
-        <mark key="." line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/setupext-pip/README.rst" timestamp="1406512757544">
-        <mark key="'" line="4" column="0" />
-        <mark key="]" line="23" column="39" />
-        <mark key="^" line="23" column="39" />
-        <mark key="." line="23" column="39" />
-        <mark key="[" line="23" column="20" />
-      </file>
-      <file name="$USER_HOME$/Temporary/miming/tests.py" timestamp="1435279218629">
-        <mark key="'" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="29" column="12" />
-        <mark key="." line="20" column="0" />
-        <mark key="[" line="32" column="74" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/jwt/__init__.py" timestamp="1440504558521">
-        <mark key="'" line="24" column="23" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1439137374098">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/family-tree/doc/internals.rst" timestamp="1405283727374">
-        <mark key="'" line="23" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="34" column="11" />
-        <mark key="." line="11" column="0" />
-        <mark key="[" line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/distutils/command/sdist.py" timestamp="1416145958363">
-        <mark key="'" line="115" column="13" />
-      </file>
-      <file name="$USER_HOME$/Source/python/magician/docs/api.rst" timestamp="1437843435839">
-        <mark key="]" line="11" column="7" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="11" column="7" />
-        <mark key="[" line="10" column="21" />
+      <file name="$USER_HOME$/Source/python/glinda/docs/changelog.rst" timestamp="1439138971282">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="12" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/connection.py" timestamp="1430307116938">
         <mark key="'" line="619" column="23" />
       </file>
-      <file name="$USER_HOME$/Source/family-tree/tests/integration/command_line_tests.py" timestamp="1407930786433">
-        <mark key="'" line="67" column="32" />
-        <mark key="]" line="70" column="58" />
-        <mark key="^" line="70" column="58" />
-        <mark key="." line="70" column="58" />
-        <mark key="[" line="70" column="8" />
+      <file name="$USER_HOME$/Source/python/jester/README.rst" timestamp="1415018539661">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="47" column="12" />
+        <mark key="]" line="47" column="34" />
+        <mark key="^" line="47" column="34" />
+        <mark key="." line="47" column="34" />
+      </file>
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" timestamp="1442402427485">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="26" />
+        <mark key="^" line="133" column="23" />
+        <mark key="." line="176" column="26" />
+      </file>
+      <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/ietfparse/datastructures.py" timestamp="1432339854427">
+        <mark key="'" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/tasks.py" timestamp="1438519549469">
         <mark key="'" line="70" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/python/family-tree/tests/integration/storage_tests.py" timestamp="1400758994460">
-        <mark key="'" line="1" column="7" />
-        <mark key="]" line="180" column="74" />
-        <mark key="^" line="179" column="45" />
-        <mark key="." line="180" column="74" />
-        <mark key="[" line="180" column="74" />
+      <file name="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" timestamp="1442190372901">
+        <mark key="'" line="1406" column="22" />
+        <mark key="[" line="1364" column="38" />
+        <mark key="]" line="1364" column="37" />
+        <mark key="^" line="1364" column="37" />
+        <mark key="." line="1364" column="37" />
+      </file>
+      <file name="$USER_HOME$/Source/python/zender/env/lib/python3.4/site-packages/test_helpers/mixins/tornado.py" timestamp="1422882713529">
+        <mark key="'" line="128" column="19" />
+      </file>
+      <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/httputil.py" timestamp="1431258910727">
+        <mark key="'" line="337" column="34" />
+      </file>
+      <file name="$USER_HOME$/Source/python/messages/env/lib/python3.4/site-packages/dns/rdataclass.py" timestamp="1431000019898">
+        <mark key="'" line="52" column="6" />
+      </file>
+      <file name="$USER_HOME$/Source/python/toto/README.rst" timestamp="1431474882771">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="65" column="30" />
+        <mark key="]" line="66" column="40" />
+        <mark key="^" line="66" column="40" />
+        <mark key="." line="66" column="40" />
+      </file>
+      <file name="/" timestamp="1436701703073">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/ietfparse/tests/generic_parsing_tests.py" timestamp="1432563703836">
+        <mark key="'" line="18" column="18" />
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="12" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="18" column="18" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python3.4/distutils/dir_util.py" timestamp="1416188794696">
+        <mark key="'" line="193" column="8" />
+        <mark key="[" line="194" column="11" />
+        <mark key="]" line="195" column="56" />
+        <mark key="^" line="195" column="56" />
+        <mark key="." line="195" column="56" />
+      </file>
+      <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1431285143532">
+        <mark key="'" line="98" column="14" />
+      </file>
+      <file name="$USER_HOME$/Source/python/fluent-test/doc/api.rst" timestamp="1409831257709">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+      </file>
+      <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/frame.py" timestamp="1429967866195">
+        <mark key="'" line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/Source/family-tree/tests/unit/neo_node_tests.py" timestamp="1408708945766">
+        <mark key="'" line="94" column="9" />
+        <mark key="[" line="91" column="42" />
+        <mark key="]" line="91" column="51" />
+        <mark key="^" line="91" column="51" />
+        <mark key="." line="91" column="51" />
+      </file>
+      <file name="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" timestamp="1442194878516">
+        <mark key="a" line="43" column="30" />
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="47" column="3" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/static/index.html" timestamp="1434900890470">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="47" />
+        <mark key="^" line="12" column="47" />
+        <mark key="." line="12" column="47" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python3.4/selectors.py" timestamp="1438534721128">
+        <mark key="'" line="532" column="22" />
+      </file>
+      <file name="$USER_HOME$/Source/python/setupext-pip/README.rst" timestamp="1406512757544">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="39" />
+        <mark key="^" line="23" column="39" />
+        <mark key="." line="23" column="39" />
+      </file>
+      <file name="$USER_HOME$/Source/python/hypermedia/setup.py" timestamp="1410655452614">
+        <mark key="'" line="30" column="32" />
+        <mark key="[" line="51" column="36" />
+        <mark key="]" line="52" column="41" />
+        <mark key="^" line="52" column="41" />
+        <mark key="." line="52" column="41" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/simple_httpclient.py" timestamp="1434107116390">
+        <mark key="'" line="409" column="28" />
+        <mark key="[" line="502" column="0" />
+        <mark key="]" line="502" column="0" />
+        <mark key="^" line="502" column="19" />
+        <mark key="." line="502" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/sampson/docs/conf.py" timestamp="1419690584296">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="30" column="39" />
+        <mark key="]" line="30" column="40" />
+        <mark key="^" line="30" column="40" />
+        <mark key="." line="30" column="40" />
+      </file>
+      <file name="$USER_HOME$/Source/work/sprockets.logging/tests.py" timestamp="1442229830403">
+        <mark key="a" line="169" column="34" />
+        <mark key="'" line="176" column="41" />
+        <mark key="[" line="190" column="61" />
+        <mark key="]" line="190" column="61" />
+        <mark key="^" line="190" column="57" />
+        <mark key="." line="190" column="61" />
+      </file>
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" timestamp="1442404764093">
+        <mark key="a" line="106" column="27" />
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="216" column="53" />
+        <mark key="]" line="216" column="53" />
+        <mark key="^" line="48" column="12" />
+        <mark key="." line="216" column="53" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/testing.py" timestamp="1434075680219">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/family-tree/tests/unit/source_tests.py" timestamp="1404575197435">
+        <mark key="'" line="1" column="13" />
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="17" column="35" />
+        <mark key="^" line="17" column="35" />
+        <mark key="." line="17" column="35" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/motor/__init__.py" timestamp="1435146270906">
+        <mark key="'" line="1058" column="33" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/jwt/__init__.py" timestamp="1440504558521">
+        <mark key="'" line="24" column="23" />
+      </file>
+      <file name="$USER_HOME$/Source/family-tree/doc/internals.rst" timestamp="1405283727374">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="34" column="11" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python3.4/asyncio/coroutines.py" timestamp="1438519552980">
+        <mark key="'" line="172" column="27" />
+      </file>
+      <file name="$USER_HOME$/Source/family-tree/setup.py" timestamp="1404670071151">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="40" column="9" />
+        <mark key="]" line="40" column="9" />
+        <mark key="^" line="40" column="9" />
+        <mark key="." line="40" column="9" />
+      </file>
+      <file name="$USER_HOME$/Source/python/messages/messages/errors.py" timestamp="1430963427235">
+        <mark key="'" line="0" column="22" />
+        <mark key="[" line="1" column="51" />
+        <mark key="]" line="1" column="51" />
+        <mark key="^" line="1" column="47" />
+        <mark key="." line="1" column="51" />
+      </file>
+      <file name="$USER_HOME$/Temporary/env/consumer.py" timestamp="1431263660452">
+        <mark key="'" line="42" column="22" />
+        <mark key="[" line="42" column="38" />
+        <mark key="]" line="44" column="16" />
+        <mark key="^" line="44" column="16" />
+        <mark key="." line="44" column="16" />
       </file>
       <file name="$USER_HOME$/Source/python/ietfparse/ietfparse/url.py" timestamp="1429096269112">
         <mark key="'" line="63" column="0" />
+        <mark key="[" line="41" column="24" />
         <mark key="]" line="42" column="18" />
         <mark key="^" line="42" column="18" />
         <mark key="." line="42" column="18" />
-        <mark key="[" line="41" column="24" />
       </file>
-      <file name="$USER_HOME$/Source/python/zender/setup.py" timestamp="1416699635907">
-        <mark key="'" line="35" column="11" />
+      <file name="$USER_HOME$/Library/Caches/PyCharm40/python_stubs/516270897/_io.py" timestamp="1437530623212">
+        <mark key="'" line="368" column="22" />
       </file>
-      <file name="$USER_HOME$/opt/lib/python3.4/concurrent/futures/_base.py" timestamp="1437390150587">
-        <mark key="'" line="333" column="13" />
+      <file name="$USER_HOME$/Source/python/sprockets/sprockets.clients.postgresql/sprockets/clients/postgresql/__init__.py" timestamp="1415970594143">
+        <mark key="'" line="147" column="0" />
+        <mark key="[" line="140" column="42" />
+        <mark key="]" line="140" column="42" />
+        <mark key="^" line="140" column="16" />
+        <mark key="." line="140" column="42" />
       </file>
-      <file name="$USER_HOME$/Source/python/zender/env/lib/python3.4/site-packages/setuptools/__init__.py" timestamp="1416699639114">
-        <mark key="'" line="57" column="23" />
+      <file name="$USER_HOME$/Source/work/test-helpers/docs/http-services.rst" timestamp="1431307514605">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="22" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+      </file>
+      <file name="$USER_HOME$/Source/python/haregel/README.rst" timestamp="1423054830155">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="55" column="22" />
+        <mark key="]" line="56" column="53" />
+        <mark key="^" line="56" column="53" />
+        <mark key="." line="56" column="53" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/jwt/jwt.py" timestamp="1440504304018">
+        <mark key="'" line="45" column="23" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python2.7/distutils/spawn.py" timestamp="1419856999565">
+        <mark key="'" line="33" column="8" />
+      </file>
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/pika/adapters/base_connection.py" timestamp="1442081639616">
+        <mark key="'" line="30" column="32" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python3.4/asyncio/selector_events.py" timestamp="1438549517613">
+        <mark key="'" line="658" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/pika/callback.py" timestamp="1442368650874">
+        <mark key="'" line="201" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/family-tree/tests/integration/storage_tests.py" timestamp="1400758994460">
+        <mark key="'" line="1" column="7" />
+        <mark key="[" line="180" column="74" />
+        <mark key="]" line="180" column="74" />
+        <mark key="^" line="179" column="45" />
+        <mark key="." line="180" column="74" />
+      </file>
+      <file name="$USER_HOME$/Source/family-tree/tests/integration/source_tests.py" timestamp="1404573970786">
+        <mark key="'" line="9" column="30" />
+        <mark key="[" line="11" column="38" />
+        <mark key="]" line="11" column="38" />
+        <mark key="^" line="21" column="33" />
+        <mark key="." line="11" column="38" />
+      </file>
+      <file name="$USER_HOME$/Source/family-tree/tests/unit/urls_tests.py" timestamp="1403228247057">
+        <mark key="'" line="3" column="26" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="25" column="7" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python3.4/site-packages/setuptools/command/egg_info.py" timestamp="1416192058174">
+        <mark key="'" line="78" column="37" />
+      </file>
+      <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/web.py" timestamp="1431175512417">
+        <mark key="'" line="1862" column="42" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python3.4/asyncio/futures.py" timestamp="1438437135080">
+        <mark key="'" line="252" column="0" />
+      </file>
+      <file name="$USER_HOME$/Temporary/miming/tests.py" timestamp="1435279218629">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="32" column="74" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="29" column="12" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/platform/kqueue.py" timestamp="1442402216010">
+        <mark key="'" line="74" column="20" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/tests.py" timestamp="1440504616127">
+        <mark key="'" line="324" column="0" />
+        <mark key="[" line="325" column="35" />
+        <mark key="]" line="325" column="36" />
+        <mark key="^" line="327" column="31" />
+        <mark key="." line="325" column="36" />
+      </file>
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/pika/connection.py" timestamp="1442401274744">
+        <mark key="'" line="726" column="17" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/connection.py" timestamp="1433103978025">
+        <mark key="'" line="239" column="32" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/readit/compat.py" timestamp="1433157548498">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="25" column="43" />
+        <mark key="^" line="25" column="43" />
+        <mark key="." line="28" column="40" />
+      </file>
+      <file name="$USER_HOME$/Source/python/jester/docs/grammar.rst" timestamp="1415191843816">
+        <mark key="'" line="23" column="14" />
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="8" />
+        <mark key="^" line="25" column="14" />
+        <mark key="." line="25" column="20" />
+      </file>
+      <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/blocking_connection.py" timestamp="1423053523371">
+        <mark key="'" line="305" column="28" />
+      </file>
+      <file name="$USER_HOME$/Source/family-tree/familytree/cli/note.py" timestamp="1408708844242">
+        <mark key="'" line="69" column="28" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="36" column="23" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1431172526789">
+        <mark key="'" line="214" column="28" />
+      </file>
+      <file name="$USER_HOME$/Source/python/glinda/setup.py" timestamp="1432206000373">
+        <mark key="'" line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/Source/python/ietfparse/setup.cfg" timestamp="1411306959746">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="20" column="7" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="20" column="7" />
+      </file>
+      <file name="$USER_HOME$/Source/family-tree/tests/unit/json_session_mixin_tests.py" timestamp="1405298663094">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="28" column="38" />
+        <mark key="]" line="26" column="50" />
+        <mark key="^" line="26" column="50" />
+        <mark key="." line="26" column="50" />
+      </file>
+      <file name="$USER_HOME$/Source/python/magician/tests/helpers.py" timestamp="1438548426171">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="117" column="58" />
+        <mark key="]" line="117" column="63" />
+        <mark key="^" line="117" column="63" />
+        <mark key="." line="117" column="63" />
+      </file>
+      <file name="$USER_HOME$/Source/python/magician/docs/index.rst" timestamp="1437841982025">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+      </file>
+      <file name="$USER_HOME$/Source/python/glinda/docs/content.rst" timestamp="1439140143286">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="125" column="72" />
+        <mark key="]" line="126" column="4" />
+        <mark key="^" line="126" column="4" />
+        <mark key="." line="126" column="28" />
+      </file>
+      <file name="$USER_HOME$/Source/python/glinda/docs/conf.py" timestamp="1431950408054">
+        <mark key="'" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1431883634285">
+        <mark key="'" line="146" column="13" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" timestamp="1442866365858">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="38" />
+        <mark key="^" line="4" column="38" />
+        <mark key="." line="4" column="38" />
+      </file>
+      <file name="$USER_HOME$/Source/family-tree/tests/unit/storage/sqlite_layer_tests.py" timestamp="1404568729530">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="53" />
+        <mark key="^" line="86" column="51" />
+        <mark key="." line="104" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/mongo_client.py" timestamp="1434971316208">
+        <mark key="'" line="289" column="40" />
+      </file>
+      <file name="$USER_HOME$/Source/python/hypermedia/README.rst" timestamp="1410715530605">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="93" column="63" />
+        <mark key="]" line="93" column="63" />
+        <mark key="^" line="93" column="63" />
+        <mark key="." line="93" column="63" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/httpserver.py" timestamp="1434105755040">
+        <mark key="'" line="304" column="23" />
+      </file>
+      <file name="$APP_CONFIG$/packages.xml" timestamp="1435431998415">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/magician/docs/api.rst" timestamp="1437843435839">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1439137374098">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/json/scanner.py" timestamp="1432989862614">
         <mark key="'" line="72" column="33" />
       </file>
+      <file name="$USER_HOME$/Source/family-tree/doc/python-api.rst" timestamp="1407931049866">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="28" column="11" />
+        <mark key="^" line="28" column="11" />
+        <mark key="." line="28" column="11" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python3.4/asyncio/proactor_events.py" timestamp="1423403274631">
+        <mark key="'" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/family-tree/tests/integration/command_line_tests.py" timestamp="1407930786433">
+        <mark key="'" line="67" column="32" />
+        <mark key="[" line="70" column="8" />
+        <mark key="]" line="70" column="58" />
+        <mark key="^" line="70" column="58" />
+        <mark key="." line="70" column="58" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python2.7/subprocess.py" timestamp="1419812079829">
+        <mark key="'" line="797" column="20" />
+      </file>
+      <file name="$USER_HOME$/Source/python/sampson/tests/codec_tests.py" timestamp="1419710732321">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="88" column="33" />
+        <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/ietfparse/headers.py" timestamp="1432339065376">
+        <mark key="'" line="57" column="26" />
+      </file>
+      <file name="$USER_HOME$/Source/python/magician/tests/frames.py" timestamp="1437834472942">
+        <mark key="'" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/tornado_connection.py" timestamp="1430218293936">
+        <mark key="'" line="87" column="27" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/httpclient.py" timestamp="1435499159228">
+        <mark key="'" line="226" column="22" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/uri_parser.py" timestamp="1434970823770">
+        <mark key="'" line="291" column="23" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python3.4/urllib/parse.py" timestamp="1442056474089">
+        <mark key="'" line="162" column="28" />
+      </file>
+      <file name="$USER_HOME$/Source/flaskenv/src/readit/tests/testing.py" timestamp="1359217455814">
+        <mark key="'" line="212" column="0" />
+        <mark key="[" line="226" column="7" />
+        <mark key="]" line="226" column="64" />
+        <mark key="^" line="226" column="64" />
+        <mark key="." line="226" column="64" />
+      </file>
+      <file name="$USER_HOME$/Source/work/test-helpers/docs/index.rst" timestamp="1431307536836">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="42" column="8" />
+        <mark key="]" line="43" column="15" />
+        <mark key="^" line="43" column="15" />
+        <mark key="." line="43" column="15" />
+      </file>
+      <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/channel.py" timestamp="1430058303912">
+        <mark key="'" line="1056" column="24" />
+      </file>
+      <file name="$USER_HOME$/Source/python/tokenauth/tests/main_tests.py" timestamp="1408828224955">
+        <mark key="'" line="20" column="22" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="20" column="32" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Temporary/env/tornadoservices.py" timestamp="1431303894814">
+        <mark key="'" line="188" column="0" />
+        <mark key="[" line="255" column="0" />
+        <mark key="]" line="255" column="0" />
+        <mark key="^" line="107" column="3" />
+        <mark key="." line="255" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1429964429348">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/httpclient.py" timestamp="1439037898001">
+        <mark key="'" line="226" column="26" />
+      </file>
+      <file name="$USER_HOME$/Source/python/tokenauth/tokenauth/__main__.py" timestamp="1408966864241">
+        <mark key="'" line="0" column="13" />
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="11" column="42" />
+        <mark key="^" line="11" column="42" />
+        <mark key="." line="11" column="42" />
+      </file>
+      <file name="$USER_HOME$/Source/family-tree/familytree/cli/utils.py" timestamp="1407931431923">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="26" column="39" />
+        <mark key="^" line="26" column="39" />
+        <mark key="." line="26" column="39" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/readit/handlers.py" timestamp="1440936109398">
+        <mark key="[" line="240" column="0" />
+        <mark key="]" line="240" column="0" />
+        <mark key="^" line="239" column="26" />
+        <mark key="." line="240" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/ietfparse/docs/urls.rst" timestamp="1411922099037">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="81" column="71" />
+        <mark key="]" line="82" column="3" />
+        <mark key="^" line="82" column="3" />
+        <mark key="." line="82" column="3" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/static/js/app.js" timestamp="1440808336358">
+        <mark key="'" line="21" column="22" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python3.4/asyncio/transports.py" timestamp="1436355028146">
+        <mark key="'" line="126" column="31" />
+      </file>
+      <file name="$USER_HOME$/Source/python/fluent-test/setup.py" timestamp="1409831951346">
+        <mark key="'" line="29" column="23" />
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="34" />
+        <mark key="^" line="29" column="34" />
+        <mark key="." line="29" column="34" />
+      </file>
+      <file name="$USER_HOME$/Source/python/toto/docs/conf.py" timestamp="1431472523510">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="31" column="49" />
+        <mark key="]" line="31" column="49" />
+        <mark key="^" line="31" column="41" />
+        <mark key="." line="31" column="49" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python2.7/distutils/cmd.py" timestamp="1419856988518">
+        <mark key="'" line="384" column="36" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/httputil.py" timestamp="1440453388237">
+        <mark key="'" line="446" column="25" />
+      </file>
+      <file name="$USER_HOME$/Source/family-tree/familytree/source.py" timestamp="1404575111376">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="31" column="12" />
+        <mark key="]" line="31" column="21" />
+        <mark key="^" line="31" column="21" />
+        <mark key="." line="31" column="21" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python3.4/json/decoder.py" timestamp="1432989858806">
+        <mark key="'" line="334" column="45" />
+      </file>
+      <file name="$APP_CONFIG$/vim_settings.xml" timestamp="1435432129961">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/spec.py" timestamp="1429967841484">
+        <mark key="'" line="2777" column="22" />
+      </file>
+      <file name="$USER_HOME$/Source/python/setupext-janitor/setupext/janitor.py" timestamp="1416452221428">
+        <mark key="'" line="127" column="35" />
+        <mark key="[" line="56" column="37" />
+        <mark key="]" line="60" column="40" />
+        <mark key="^" line="60" column="40" />
+        <mark key="." line="60" column="40" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python3.4/distutils/command/sdist.py" timestamp="1416145958363">
+        <mark key="'" line="115" column="13" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python3.4/distutils/cmd.py" timestamp="1416188567247">
+        <mark key="'" line="93" column="43" />
+      </file>
+      <file name="$USER_HOME$/Source/flaskenv/src/readit/readit/templates/user-not-found.html" timestamp="1359220259082">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="7" />
+        <mark key="^" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/static/js/login.js" timestamp="1440808265308">
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="36" />
+        <mark key="^" line="25" column="11" />
+        <mark key="." line="22" column="41" />
+      </file>
+      <file name="$USER_HOME$/Source/python/glinda/tests/example_test.py" timestamp="1439033678072">
+        <mark key="'" line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/ietfparse/tests/url_tests.py" timestamp="1412124807581">
+        <mark key="'" line="150" column="9" />
+        <mark key="[" line="174" column="68" />
+        <mark key="]" line="174" column="68" />
+        <mark key="^" line="151" column="11" />
+        <mark key="." line="174" column="68" />
+      </file>
+      <file name="/Python Console" timestamp="1442866368761">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1442866403065">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/work/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" timestamp="1442196098416">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/ietfparse/docs/conf.py" timestamp="1411266927643">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="30" column="39" />
+        <mark key="]" line="30" column="40" />
+        <mark key="^" line="30" column="40" />
+        <mark key="." line="30" column="40" />
+      </file>
+      <file name="$USER_HOME$/Source/python/ietfparse/setup.py" timestamp="1411309267031">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="64" column="40" />
+        <mark key="]" line="64" column="40" />
+        <mark key="^" line="64" column="40" />
+        <mark key="." line="64" column="40" />
+      </file>
+      <file name="$USER_HOME$/Source/family-tree/familytree/cli/console.py" timestamp="1407192703039">
+        <mark key="'" line="102" column="11" />
+        <mark key="[" line="97" column="68" />
+        <mark key="]" line="97" column="77" />
+        <mark key="^" line="97" column="77" />
+        <mark key="." line="97" column="77" />
+      </file>
+      <file name="$USER_HOME$/Source/python/ietfparse/docs/header-processing.rst" timestamp="1411303158226">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+      </file>
+      <file name="$USER_HOME$/Source/python/ietfparse/tests/parse_content_type_tests.py" timestamp="1411267519536">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="49" column="26" />
+        <mark key="]" line="49" column="40" />
+        <mark key="^" line="49" column="40" />
+        <mark key="." line="49" column="40" />
+      </file>
+      <file name="$USER_HOME$/Source/python/zender/setup.py" timestamp="1416699635907">
+        <mark key="'" line="35" column="11" />
+      </file>
+      <file name="$USER_HOME$/Source/python/toto/env/lib/python3.4/site-packages/tornado/testing.py" timestamp="1431474626140">
+        <mark key="'" line="336" column="16" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1434071706329">
+        <mark key="'" line="125" column="18" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/readit/__main__.py" timestamp="1440806608914">
+        <mark key="'" line="34" column="34" />
+        <mark key="[" line="34" column="34" />
+        <mark key="]" line="34" column="44" />
+        <mark key="^" line="34" column="44" />
+        <mark key="." line="34" column="44" />
+      </file>
+      <file name="$USER_HOME$/Source/python/jester/docs/internals.rst" timestamp="1415708371906">
+        <mark key="'" line="23" column="11" />
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="23" column="11" />
+        <mark key="^" line="23" column="11" />
+        <mark key="." line="23" column="11" />
+      </file>
+      <file name="$USER_HOME$/Source/python/hypermedia/docs/conf.py" timestamp="1411646723089">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="30" column="39" />
+        <mark key="]" line="30" column="40" />
+        <mark key="^" line="30" column="40" />
+        <mark key="." line="30" column="40" />
+      </file>
+      <file name="$USER_HOME$/Source/python/ietfparse/tests/parse_accept_header_tests.py" timestamp="1432640394227">
+        <mark key="'" line="32" column="3" />
+        <mark key="[" line="82" column="43" />
+        <mark key="]" line="82" column="43" />
+        <mark key="^" line="82" column="43" />
+        <mark key="." line="82" column="43" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/common.py" timestamp="1434971322950">
+        <mark key="'" line="346" column="16" />
+      </file>
+      <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/versioning.rst" timestamp="1419818333182">
+        <mark key="'" line="8" column="61" />
+        <mark key="[" line="46" column="38" />
+        <mark key="]" line="46" column="52" />
+        <mark key="^" line="46" column="52" />
+        <mark key="." line="46" column="52" />
+      </file>
+      <file name="$USER_HOME$/Source/python/ietfparse/ietfparse/errors.py" timestamp="1429475409627">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="21" column="7" />
+        <mark key="]" line="22" column="7" />
+        <mark key="^" line="22" column="7" />
+        <mark key="." line="22" column="7" />
+      </file>
+      <file name="_mac/$APP_CONFIG$/keymap.xml" timestamp="1435431960820">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/messages/env/lib/python3.4/site-packages/dns/resolver.py" timestamp="1431000085030">
+        <mark key="'" line="135" column="67" />
+      </file>
+      <file name="$USER_HOME$/Source/python/messages/messages/environment.py" timestamp="1430962932149">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="39" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/bson/objectid.py" timestamp="1434454912411">
+        <mark key="'" line="120" column="17" />
+      </file>
+      <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/testing.py" timestamp="1439037891369">
+        <mark key="'" line="379" column="25" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/docker/utils/utils.py" timestamp="1440355074355">
+        <mark key="'" line="314" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/zender/docs/content-type.rst" timestamp="1422827426642">
+        <mark key="'" line="158" column="0" />
+        <mark key="[" line="152" column="21" />
+        <mark key="]" line="153" column="21" />
+        <mark key="^" line="153" column="21" />
+        <mark key="." line="153" column="21" />
+      </file>
+      <file name="$USER_HOME$/opt/pypy3-2.4.0-osx64/lib-python/3/urllib/parse.py" timestamp="1420898560180">
+        <mark key="'" line="583" column="25" />
+      </file>
+      <file name="$USER_HOME$/Source/python/glinda/examples/contentneg.py" timestamp="1439138730671">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python3.4/asyncio/events.py" timestamp="1438549368121">
+        <mark key="'" line="378" column="13" />
+      </file>
+      <file name="$USER_HOME$/Source/python/ietfparse/docs/rfcs.rst" timestamp="1432682423581">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="53" column="7" />
+        <mark key="]" line="22" column="4" />
+        <mark key="^" line="22" column="4" />
+        <mark key="." line="53" column="7" />
+      </file>
+      <file name="$USER_HOME$/Source/python/messages/tests/__init__.py" timestamp="1431000063425">
+        <mark key="'" line="23" column="53" />
+        <mark key="[" line="23" column="40" />
+        <mark key="]" line="23" column="41" />
+        <mark key="^" line="23" column="41" />
+        <mark key="." line="23" column="41" />
+      </file>
+      <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/tcpserver.py" timestamp="1431173123597">
+        <mark key="'" line="124" column="18" />
+      </file>
+      <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/callback.py" timestamp="1430306850912">
+        <mark key="'" line="153" column="40" />
+      </file>
+      <file name="$USER_HOME$/Source/python/magician/docs/protocol.rst" timestamp="1437845457774">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="41" column="76" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/work/sprockets.logging/sprockets/logging.py" timestamp="1442229852158">
+        <mark key="a" line="150" column="52" />
+        <mark key="'" line="101" column="38" />
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="37" />
+        <mark key="^" line="21" column="37" />
+        <mark key="." line="21" column="37" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python3.4/asyncio/windows_events.py" timestamp="1438517317471">
+        <mark key="'" line="769" column="44" />
+      </file>
+      <file name="keymaps/Mac OS X 10_5_ copy 1.xml" timestamp="1439295109503">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/family-tree/Makefile" timestamp="1401362902687">
+        <mark key="'" line="3" column="14" />
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="26" column="20" />
+        <mark key="^" line="26" column="20" />
+        <mark key="." line="26" column="20" />
+      </file>
+      <file name="$USER_HOME$/Source/python/ietfparse/docs/header-parsing.rst" timestamp="1432641185616">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="107" column="63" />
+        <mark key="]" line="109" column="56" />
+        <mark key="^" line="109" column="56" />
+        <mark key="." line="109" column="56" />
+      </file>
+      <file name="$USER_HOME$/Source/family-tree/doc/conf.py" timestamp="1405283956274">
+        <mark key="'" line="3" column="35" />
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+      </file>
+      <file name="$USER_HOME$/Source/python/setupext-janitor/setup.py" timestamp="1416166851482">
+        <mark key="'" line="40" column="6" />
+        <mark key="[" line="42" column="31" />
+        <mark key="]" line="43" column="51" />
+        <mark key="^" line="43" column="51" />
+        <mark key="." line="43" column="51" />
+      </file>
+      <file name="$USER_HOME$/Source/python/fluent-test/fluenttest/test_case.py" timestamp="1410004245269">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="56" column="8" />
+        <mark key="]" line="56" column="20" />
+        <mark key="^" line="56" column="20" />
+        <mark key="." line="56" column="20" />
+      </file>
+      <file name="$USER_HOME$/Source/python/setupext-janitor/env/lib/python3.4/site-packages/setuptools/__init__.py" timestamp="1416145393021">
+        <mark key="'" line="57" column="23" />
+      </file>
+      <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/httputil.py" timestamp="1432331985726">
+        <mark key="'" line="437" column="8" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python3.4/asyncore.py" timestamp="1423401242971">
+        <mark key="'" line="439" column="17" />
+      </file>
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/__init__.py" timestamp="1442160937018">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/ioloop.py" timestamp="1442402140847">
+        <mark key="'" line="800" column="64" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python3.4/distutils/core.py" timestamp="1416700912892">
+        <mark key="'" line="98" column="16" />
+      </file>
+      <file name="$USER_HOME$/Source/python/readit2/static/style.css" timestamp="1434900636266">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+      </file>
+      <file name="$USER_HOME$/Source/python/messages/messages/compat.py" timestamp="1430964438621">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="3" column="40" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/Source/python/messages/tests/service_url_tests.py" timestamp="1430962861954">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="27" column="32" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/zender/env/lib/python3.4/site-packages/setuptools/__init__.py" timestamp="1416699639114">
+        <mark key="'" line="57" column="23" />
+      </file>
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/locks.py" timestamp="1442157749773">
+        <mark key="'" line="227" column="23" />
+      </file>
+      <file name="$USER_HOME$/Source/python/tokenauth/tokenauth/handlers.py" timestamp="1408967128579">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="106" column="70" />
+        <mark key="]" line="107" column="38" />
+        <mark key="^" line="107" column="38" />
+        <mark key="." line="107" column="38" />
+      </file>
+      <file name="$USER_HOME$/Source/python/magician/debugin.py" timestamp="1436407008602">
+        <mark key="'" line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/docs/changelog.rst" timestamp="1442161775708">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="57" />
+        <mark key="^" line="4" column="57" />
+        <mark key="." line="4" column="57" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python3.4/distutils/command/bdist.py" timestamp="1416145909988">
+        <mark key="'" line="112" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/ietfparse/ietfparse/algorithms.py" timestamp="1432726806168">
+        <mark key="'" line="4" column="10" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="41" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/setupext-janitor/README.rst" timestamp="1416452331069">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="81" column="51" />
+        <mark key="]" line="82" column="28" />
+        <mark key="^" line="82" column="28" />
+        <mark key="." line="82" column="28" />
+      </file>
+      <file name="$USER_HOME$/Source/python/sampson/decode.py" timestamp="1419647211311">
+        <mark key="'" line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/zender/tests/lifecycle_tests.py" timestamp="1422883126045">
+        <mark key="'" line="20" column="27" />
+        <mark key="[" line="23" column="38" />
+        <mark key="]" line="23" column="45" />
+        <mark key="^" line="23" column="45" />
+        <mark key="." line="23" column="45" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python3.4/distutils/log.py" timestamp="1416151367694">
+        <mark key="'" line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python3.4/concurrent/futures/_base.py" timestamp="1437390150587">
+        <mark key="'" line="333" column="13" />
+      </file>
+      <file name="$USER_HOME$/Source/python/sampson/bah.py" timestamp="1419598697139">
+        <mark key="'" line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/ietfparse/README.rst" timestamp="1432559486459">
+        <mark key="'" line="3" column="46" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python3.4/email/mime/base.py" timestamp="1435277986631">
+        <mark key="'" line="24" column="13" />
+      </file>
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/pika/adapters/tornado_connection.py" timestamp="1442081595761">
+        <mark key="'" line="10" column="40" />
+      </file>
       <file name="$USER_HOME$/Source/python/magician/tests/__init__.py" timestamp="1438516709810">
         <mark key="'" line="3" column="14" />
+        <mark key="[" line="7" column="65" />
         <mark key="]" line="7" column="64" />
         <mark key="^" line="7" column="64" />
         <mark key="." line="7" column="64" />
-        <mark key="[" line="7" column="65" />
+      </file>
+      <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/base_connection.py" timestamp="1430073332187">
+        <mark key="'" line="123" column="25" />
+      </file>
+      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/requires/installation.txt" timestamp="1442055347714">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/opt/lib/python2.7/distutils/log.py" timestamp="1419856618754">
+        <mark key="'" line="51" column="18" />
+      </file>
+      <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/httpserver.py" timestamp="1431174246372">
+        <mark key="'" line="283" column="23" />
+      </file>
+      <file name="$USER_HOME$/Source/python/setupext-gitversion/tests.py" timestamp="1419858442369">
+        <mark key="'" line="89" column="29" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="55" column="46" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/web.py" timestamp="1439035044996">
+        <mark key="'" line="1922" column="34" />
+      </file>
+      <file name="$USER_HOME$/Source/python/zender/zender/app.py" timestamp="1422882177064">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="24" />
+        <mark key="^" line="17" column="24" />
+        <mark key="." line="17" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -1093,11 +1098,11 @@
       <jump line="71" column="0" filename="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
-      </register>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgcmV2ZXJzZV91cmwoc2VsZiwgbmFtZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB1cmwgPSBzdXBlcihSZWFkaW5ncywgc2VsZikucmV2ZXJzZV91cmwobmFtZSwgKmFyZ3MpCiAgICAgICAgaWYga3dhcmdzLmdldCgnYWJzb2x1dGUnKToKICAgICAgICAgICAgdXJsID0gJ3swfTovL3sxfXsyfScuZm9ybWF0KHNlbGYucmVxdWVzdC5wcm90b2NvbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdC5ob3N0LCB1cmwpCiAgICAgICAgcmV0dXJuIHVybAoKICAgIGRlZiBnZXRfbG9naW5fdXJsKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJldmVyc2VfdXJsKCdsb2dpbicsIGFic29sdXRlPVRydWUpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgYmluX3VzZXJfaWQgPSBzZWxmLmdldF9zZWN1cmVfY29va2llKCd1c2VyaWQnKQogICAgICAgIGlmIGJpbl91c2VyX2lkIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gYmluX3VzZXJfaWQuZGVjb2RlKCd1dGYtOCcpCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGQgPSBvYmouX19kaWN0X18K</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3222,10 +3227,34 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
+      <register name="-" type="4">
+        <text>)</text>
+      </register>
       <register name="/" type="4">
         <text>amqp_connections</text>
       </register>
-      <register name="-" type="4">
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBodHRwY2xpZW50LkFzeW5jSFRUUENsaWVudChpb19sb29wPXNlbGYuaW9fbG9vcCkKICAgICAgICByZXNwb25zZSA9IGNsaWVudC5mZXRjaChzZWxmLl9nZXRfYWRtaW5fdXJsKCdjb25uZWN0aW9ucycpKQogICAgICAgIGFzc2VydCByZXNwb25zZS5jb2RlID09IDIwMAogICAgICAgIHJldHVybiBqc29uLmxvYWRzKHJlc3BvbnNlLmJvZHkuZGVjb2RlKCd1dGYtOCcpKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGQgPSBvYmouX19kaWN0X18K</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
+        <text>)</text>
+      </register>
+      <register name="3" type="4">
+        <text>(</text>
+      </register>
+      <register name="4" type="4">
+        <text>)</text>
+      </register>
+      <register name="5" type="4">
+        <text>(</text>
+      </register>
+      <register name="6" type="4">
         <text>)</text>
       </register>
       <register name="w" type="4">
@@ -4868,41 +4897,17 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="3" type="4">
-        <text>)</text>
-      </register>
-      <register name="2" type="4">
-        <text>(</text>
-      </register>
-      <register name="1" type="4">
-        <text>)</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBodHRwY2xpZW50LkFzeW5jSFRUUENsaWVudChpb19sb29wPXNlbGYuaW9fbG9vcCkKICAgICAgICByZXNwb25zZSA9IGNsaWVudC5mZXRjaChzZWxmLl9nZXRfYWRtaW5fdXJsKCdjb25uZWN0aW9ucycpKQogICAgICAgIGFzc2VydCByZXNwb25zZS5jb2RlID09IDIwMAogICAgICAgIHJldHVybiBqc29uLmxvYWRzKHJlc3BvbnNlLmJvZHkuZGVjb2RlKCd1dGYtOCcpKQo=</text>
-      </register>
       <register name="7" type="4">
-        <text>)</text>
-      </register>
-      <register name="6" type="4">
         <text>(</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>)</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>(</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
-      </register>
-      <register name="9" type="4">
-        <text>)</text>
-      </register>
-      <register name="8" type="4">
-        <text>(</text>
       </register>
     </registers>
     <search>
