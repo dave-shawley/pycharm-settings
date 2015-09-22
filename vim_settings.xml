@@ -399,11 +399,7 @@
         <mark key="^" line="41" column="72" />
       </file>
       <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1442943003926">
-        <mark key="'" line="161" column="2" />
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="18" column="32" />
-        <mark key="^" line="18" column="68" />
-        <mark key="." line="18" column="27" />
+        <mark key="'" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
         <mark key="'" line="8" column="0" />
