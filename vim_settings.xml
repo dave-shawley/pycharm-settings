@@ -343,13 +343,11 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1442936709619">
-        <mark key="a" line="226" column="0" />
-        <mark key="'" line="78" column="8" />
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="246" column="12" />
-        <mark key="^" line="241" column="12" />
-        <mark key="." line="246" column="12" />
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1442948784794">
+        <mark key="a" line="223" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1431172526789">
         <mark key="'" line="214" column="28" />
@@ -956,7 +954,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="146" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="144" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="140" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
@@ -1008,7 +1005,6 @@
       <jump line="37" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="45" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="54" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="232" column="8" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="229" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="219" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
@@ -1056,13 +1052,15 @@
       <jump line="239" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="200" column="2" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
       <jump line="161" column="2" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
+      <jump line="55" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICBjcmVhdGVkX2F0IFRJTUVTVEFNUFRaIE5PVCBOVUxMIERFRkFVTFQgTk9XKCksCiAgdGFyZ2V0X3VybCBURVhUIE5PVCBOVUxMLAogIHNjaGVkdWxlIFRFWFQsCiAgbWVzc2FnZSBCWVRFQSBOT1QgTlVMTCwK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IE9OIERFTEVURSBDQVNDQURFIE9OIFVQREFURSBDQVNDQURF</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3196,26 +3194,26 @@
       <register name="0" type="2">
         <text encoding="base64">LSBJbXBsZW1lbnQgZXZlbnQgcGF1c2luZyB2aWEgYGBQT1NUIC9ycGMvcGF1c2U/dGFnPTx0YWc+YGAK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IE9OIERFTEVURSBDQVNDQURFIE9OIFVQREFURSBDQVNDQURF</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CmNsYXNzIExvZ2dpbmdNaXhpbihvYmplY3QpOgogICAgCiAgICBkZWYgaW5pdGlhbGl6ZShzZWxmKToKICAgICAgICBzdXBlcihMb2dnaW5nTWl4aW4sIHNlbGYpLmluaXRpYWxpemUoKQogICAgICAgIGlmIG5vdCBoYXNhdHRyKHNlbGYsICdsb2dnZXInKToKICAgICAgICAgICAgc2VsZi5sb2dnZXIgPSBsb2dnZXIuZ2V0Q2hpbGQoc2VsZi5fX2NsYXNzX18uX19uYW1lX18pCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IE9OIERFTEVURSBDQVNDQURFIE9OIFVQREFURSBDQVNDQURF</text>
       </register>
       <register name="4" type="4">
-        <text>pause</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>25</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>now</text>
+        <text>pause</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4858,13 +4856,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>datetime.timedelta(seconds=delta)</text>
+        <text>25</text>
       </register>
       <register name="8" type="4">
-        <text>()</text>
+        <text>now</text>
       </register>
       <register name="9" type="4">
-        <text>time</text>
+        <text>datetime.timedelta(seconds=delta)</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
