@@ -408,15 +408,8 @@
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1431883634285">
         <mark key="'" line="146" column="13" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" timestamp="1443029254285">
-        <mark key="'" line="72" column="13" />
-      </file>
       <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1443030310963">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="231" column="34" />
-        <mark key="]" line="231" column="46" />
-        <mark key="^" line="231" column="46" />
-        <mark key="." line="231" column="46" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
         <mark key="'" line="8" column="0" />
