@@ -357,10 +357,10 @@
       </file>
       <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1443018316309">
         <mark key="'" line="1" column="14" />
-        <mark key="[" line="158" column="52" />
-        <mark key="]" line="158" column="63" />
-        <mark key="^" line="158" column="63" />
-        <mark key="." line="158" column="63" />
+        <mark key="[" line="1" column="52" />
+        <mark key="]" line="1" column="63" />
+        <mark key="^" line="1" column="63" />
+        <mark key="." line="1" column="63" />
       </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1431172526789">
         <mark key="'" line="214" column="28" />
@@ -407,9 +407,6 @@
       </file>
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1431883634285">
         <mark key="'" line="146" column="13" />
-      </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1443030310963">
-        <mark key="'" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
         <mark key="'" line="8" column="0" />
