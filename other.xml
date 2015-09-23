@@ -102,6 +102,7 @@
         <entry key="$USER_HOME$/Source/work/sprockets.logging/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Temporary/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Temporary/miming/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/opt/bin/python" value="false" />
         <entry key="$USER_HOME$/opt/bin/python3.4" value="false" />
       </map>
     </option>

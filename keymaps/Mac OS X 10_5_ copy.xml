@@ -1,4 +1,6 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Console.TableResult.Reload" />
+  <action id="CopyElement" />
   <action id="MarkExcludeRoot">
     <keyboard-shortcut first-keystroke="shift control E" />
   </action>
@@ -24,5 +26,9 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="control alt UP" />
   </action>
+  <action id="UML.ApplyCurrentLayout" />
   <action id="Vcs.UpdateProject" />
+  <action id="com.jetbrains.python.console.RunPythonConsoleAction">
+    <keyboard-shortcut first-keystroke="F5" />
+  </action>
 </keymap>
