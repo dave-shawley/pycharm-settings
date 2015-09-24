@@ -74,6 +74,7 @@
         <entry key="$USER_HOME$/Source/core-api/voyager/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/family-tree/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/platform/authorization/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Source/platform/campaign/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/platform/scheduler/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/platform/spoolconsumer/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/platform/sprockets.http/env/bin/python" value="true" />
