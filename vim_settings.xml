@@ -445,17 +445,6 @@
       </file>
       <file name="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" timestamp="1443124201358">
         <mark key="'" line="85" column="19" />
-        <mark key="[" line="74" column="73" />
-        <mark key="]" line="74" column="73" />
-        <mark key="." line="74" column="73" />
-        <mark key="^" line="74" column="73" />
-      </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1443119194493">
-        <mark key="'" line="120" column="0" />
-        <mark key="[" line="279" column="56" />
-        <mark key="]" line="279" column="66" />
-        <mark key="." line="279" column="66" />
-        <mark key="^" line="279" column="66" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
         <mark key="'" line="8" column="0" />
@@ -718,7 +707,7 @@
         <mark key="^" line="151" column="11" />
         <mark key="." line="174" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1443119042482">
+      <file name="/Python Console" timestamp="1443125913907">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1443119024761">
