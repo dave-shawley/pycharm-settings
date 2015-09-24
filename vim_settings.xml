@@ -446,6 +446,13 @@
       <file name="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" timestamp="1443124201358">
         <mark key="'" line="85" column="19" />
       </file>
+      <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1443126838795">
+        <mark key="'" line="270" column="0" />
+        <mark key="[" line="260" column="18" />
+        <mark key="]" line="260" column="32" />
+        <mark key="." line="260" column="32" />
+        <mark key="^" line="260" column="32" />
+      </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="4" column="38" />
@@ -1099,9 +1106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="43" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="40" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1199,13 +1203,16 @@
       <jump line="225" column="0" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
       <jump line="84" column="19" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
       <jump line="67" column="20" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python2.7/site-packages/sprockets/http/__init__.py" />
+      <jump line="222" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
+      <jump line="244" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
+      <jump line="269" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICBjcmVhdGVkX2F0IFRJTUVTVEFNUFRaIE5PVCBOVUxMIERFRkFVTFQgTk9XKCksCiAgdGFyZ2V0X3VybCBURVhUIE5PVCBOVUxMLAogIHNjaGVkdWxlIFRFWFQsCiAgbWVzc2FnZSBCWVRFQSBOT1QgTlVMTCwK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">OiA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3331,7 +3338,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>def parse</text>
@@ -3340,37 +3347,37 @@
         <text encoding="base64">ICAgICAgICA6cGFyYW0gaW50IG51bWJlcl9vZl9wcm9jczogbnVtYmVyIG9mIHByb2Nlc3NlcyB0byBwYXNzIHRvCiAgICAgICAgICAgIFRvcm5hZG8ncyBgYGh0dHBzZXJ2ZXIuSFRUUFNlcnZlci5zdGFydGBgLgo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">OiA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>lambda</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICBPUkRFUiBCWSBFLnRhcmdldF90aW1lIEFTQwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAvKiB3aXRoIG11bHRpcGxlIGV4ZWN1dG9ycyB3ZSB3YW50IHNvbWV0aGluZyBsaWtlIHRoaXMK</text>
       </register>
-      <register name="4" type="4">
-        <text>(</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgT1JERVIgQlkgRS50YXJnZXRfdGltZSBBU0M7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICBBTkQgU0NIRURVTEVELmxhYmVsID0gJ3NjaGVkdWxlZCcK</text>
       </register>
-      <register name="6" type="4">
-        <text>application</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICBBTkQgRS5zdGF0ZV9pZCA9IFNDSEVEVUxFRC5pZAo=</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNldGF0dHIoYXBwLnNldHRpbmdzCg==</text>
+        <text encoding="base64">ICAgV0hFUkUgRS50YXJnZXRfdGltZSA8IGluX2JlZm9yZV90aW1lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFwcC5zZXR0aW5nc1tdCg==</text>
+        <text encoding="base64">ICAgICAgICAgcHVibGljLnN0YXRlcyBBUyBTQ0hFRFVMRUQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgSU5ORVIgSk9JTiBwdWJsaWMuZXZlbnRfcGF5bG9hZHMgQVMgUCBPTiBQLmV2ZW50X2lkID0gRS5pZCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
