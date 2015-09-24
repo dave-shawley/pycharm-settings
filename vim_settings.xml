@@ -681,10 +681,11 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
-      <file name="$USER_HOME$/Source/platform/sprockets.http/docs/api.rst" timestamp="1443102059742">
+      <file name="$USER_HOME$/Source/platform/sprockets.http/docs/api.rst" timestamp="1443103094364">
         <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="]" line="14" column="64" />
+        <mark key="." line="14" column="64" />
+        <mark key="^" line="14" column="64" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/static/js/login.js" timestamp="1440808265308">
         <mark key="[" line="22" column="36" />
@@ -948,11 +949,6 @@
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncore.py" timestamp="1423401242971">
         <mark key="'" line="439" column="17" />
-      </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/__init__.py" timestamp="1442160937018">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/ioloop.py" timestamp="1442402140847">
         <mark key="'" line="800" column="64" />
