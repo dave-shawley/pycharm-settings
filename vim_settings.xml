@@ -411,13 +411,12 @@
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1431883634285">
         <mark key="'" line="146" column="13" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1443050379767">
-        <mark key="a" line="280" column="1" />
-        <mark key="'" line="277" column="0" />
-        <mark key="[" line="273" column="38" />
-        <mark key="]" line="275" column="36" />
-        <mark key="." line="275" column="36" />
-        <mark key="^" line="275" column="36" />
+      <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1443055156395">
+        <mark key="'" line="276" column="36" />
+        <mark key="[" line="307" column="2" />
+        <mark key="]" line="307" column="2" />
+        <mark key="." line="307" column="2" />
+        <mark key="^" line="307" column="2" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
         <mark key="'" line="8" column="0" />
@@ -577,13 +576,13 @@
         <mark key="^" line="82" column="3" />
         <mark key="." line="82" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1443038204978">
-        <mark key="a" line="286" column="0" />
-        <mark key="'" line="293" column="24" />
-        <mark key="[" line="292" column="19" />
-        <mark key="]" line="292" column="20" />
-        <mark key="^" line="292" column="20" />
-        <mark key="." line="292" column="20" />
+      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1443055347388">
+        <mark key="a" line="292" column="0" />
+        <mark key="'" line="66" column="48" />
+        <mark key="[" line="304" column="19" />
+        <mark key="]" line="304" column="21" />
+        <mark key="^" line="304" column="21" />
+        <mark key="." line="304" column="21" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/static/js/app.js" timestamp="1440808336358">
         <mark key="'" line="21" column="22" />
@@ -669,10 +668,10 @@
         <mark key="^" line="151" column="11" />
         <mark key="." line="174" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1443049153382">
+      <file name="/Python Console" timestamp="1443054672126">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1442926865463">
+      <file name="/fragment.py" timestamp="1443054404527">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/work/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" timestamp="1442196098416">
@@ -802,13 +801,13 @@
         <mark key="^" line="153" column="21" />
         <mark key="." line="153" column="21" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" timestamp="1443052388190">
-        <mark key="a" line="77" column="0" />
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="71" column="23" />
-        <mark key="]" line="71" column="27" />
-        <mark key="^" line="71" column="27" />
-        <mark key="." line="71" column="27" />
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" timestamp="1443055235310">
+        <mark key="a" line="85" column="0" />
+        <mark key="'" line="98" column="8" />
+        <mark key="[" line="94" column="16" />
+        <mark key="]" line="94" column="20" />
+        <mark key="." line="94" column="20" />
+        <mark key="^" line="94" column="20" />
       </file>
       <file name="$USER_HOME$/Source/platform/scheduler/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1442929042436">
         <mark key="'" line="226" column="22" />
@@ -831,6 +830,9 @@
         <mark key="]" line="22" column="4" />
         <mark key="^" line="22" column="4" />
         <mark key="." line="53" column="7" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/scheduler/env/lib/python2.7/site-packages/queries/tornado_session.py" timestamp="1443052444156">
+        <mark key="'" line="123" column="29" />
       </file>
       <file name="$USER_HOME$/Source/python/messages/tests/__init__.py" timestamp="1431000063425">
         <mark key="'" line="23" column="53" />
@@ -972,6 +974,9 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform/scheduler/env/lib/python2.7/site-packages/queries/session.py" timestamp="1443052494769">
+        <mark key="'" line="258" column="33" />
+      </file>
       <file name="$USER_HOME$/Source/python/setupext-janitor/README.rst" timestamp="1416452331069">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="81" column="51" />
@@ -1048,34 +1053,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="274" column="8" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="34" column="11" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
-      <jump line="11" column="39" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="72" column="13" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="277" column="20" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="44" column="20" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="281" column="8" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python2.7/site-packages/tornado/testing.py" />
-      <jump line="7" column="24" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="754" column="4" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python2.7/site-packages/tornado/gen.py" />
-      <jump line="284" column="29" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="56" column="20" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="62" column="50" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="371" column="8" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python2.7/site-packages/tornado/testing.py" />
-      <jump line="286" column="13" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="310" column="21" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python2.7/site-packages/tornado/testing.py" />
       <jump line="25" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
       <jump line="260" column="13" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
       <jump line="243" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
@@ -1112,14 +1089,11 @@
       <jump line="5" column="13" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="92" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="83" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
-      <jump line="61" column="4" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="52" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="276" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
       <jump line="273" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
       <jump line="267" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
       <jump line="62" column="46" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
-      <jump line="43" column="24" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="88" column="36" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="85" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="71" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
@@ -1136,25 +1110,56 @@
       <jump line="57" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="89" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="31" column="8" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
-      <jump line="40" column="4" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="39" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="36" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="64" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="157" column="8" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python2.7/site-packages/queries/tornado_session.py" />
       <jump line="45" column="23" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="145" column="8" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python2.7/site-packages/queries/tornado_session.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
+      <jump line="123" column="29" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python2.7/site-packages/queries/tornado_session.py" />
+      <jump line="258" column="33" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python2.7/site-packages/queries/session.py" />
+      <jump line="361" column="8" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python2.7/site-packages/queries/pool.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
+      <jump line="61" column="24" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="60" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="49" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
+      <jump line="97" column="70" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
+      <jump line="54" column="10" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
+      <jump line="275" column="36" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
+      <jump line="58" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="16" column="32" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="98" column="8" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
+      <jump line="296" column="26" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="297" column="8" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="292" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="52" column="17" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="44" column="8" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="304" column="13" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="66" column="48" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICBjcmVhdGVkX2F0IFRJTUVTVEFNUFRaIE5PVCBOVUxMIERFRkFVTFQgTk9XKCksCiAgdGFyZ2V0X3VybCBURVhUIE5PVCBOVUxMLAogIHNjaGVkdWxlIFRFWFQsCiAgbWVzc2FnZSBCWVRFQSBOT1QgTlVMTCwK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>1</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3280,55 +3285,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>CREATE TYPE</text>
+        <text encoding="base64">XDxzbGVlcFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB5aWVsZCBzZXNzaW9uLmNhbGxwcm9jKCdwdWJsaWMuY29tcGxldGVfZXZlbnRzJywgW2NvbXBsZXRlZF9pdGVtc10pCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>1</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>session</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Useful method to sleep for a</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICBkZWYgc2xlZXAoc2VsZiwgdGltZW91dCk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBzZWxmLndhaXQodGltZW91dD10aW1lb3V0KQogICAgICAgIGV4Y2VwdCBBc3NlcnRpb25FcnJvcjoKICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="6" type="4">
-        <text>session</text>
+        <text>we are</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">cmV0dXJuaW5nLgo=</text>
       </register>
       <register name="8" type="4">
-        <text>session</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYuZ2V0X3Nlc3Npb24oKSBhcyBzZXNzaW9uOg==</text>
+        <text>time_used</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>CREATE TYPE</last-search>
+      <last-search encoding="base64">XDxzbGVlcFw+</last-search>
       <last-offset />
-      <last-pattern>CREATE TYPE</last-pattern>
+      <last-pattern encoding="base64">XDxzbGVlcFw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -3336,7 +3341,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxGYWtlT0F1dGgyU2VydmVyXD4=</entry>
         <entry encoding="base64">XDxhZGRfb2F1dGhfYXBwbGljYXRpb25cPg==</entry>
         <entry encoding="base64">XDxib2R5X2FyZ3VtZW50c1w+</entry>
         <entry encoding="base64">XDxhZGRfdXNlclw+</entry>
@@ -3356,11 +3360,9 @@
         <entry>00:00</entry>
         <entry encoding="base64">XDx1bm5lc3RcPg==</entry>
         <entry>CREATE TYPE</entry>
+        <entry encoding="base64">XDxzbGVlcFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>157</entry>
-        <entry>162</entry>
-        <entry>306</entry>
         <entry>375</entry>
         <entry>118</entry>
         <entry>112</entry>
@@ -3376,8 +3378,11 @@
         <entry>we</entry>
         <entry>wq</entry>
         <entry>sp</entry>
-        <entry>1</entry>
+        <entry>43</entry>
+        <entry>82</entry>
+        <entry>129</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
