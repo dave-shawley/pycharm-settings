@@ -387,13 +387,13 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1443194701000">
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1443203624056">
         <mark key="a" line="151" column="4" />
         <mark key="'" line="144" column="0" />
-        <mark key="[" line="140" column="61" />
-        <mark key="]" line="141" column="17" />
-        <mark key="^" line="141" column="17" />
-        <mark key="." line="141" column="33" />
+        <mark key="[" line="160" column="45" />
+        <mark key="]" line="160" column="66" />
+        <mark key="^" line="160" column="66" />
+        <mark key="." line="160" column="66" />
       </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1431172526789">
         <mark key="'" line="214" column="28" />
@@ -484,7 +484,7 @@
       </file>
       <file name="$USER_HOME$/Source/platform/scheduler/docs/history.rst" timestamp="1443195189025">
         <mark key="'" line="9" column="13" />
-        <mark key="^" line="36" column="73" />
+        <mark key="^" line="37" column="73" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/httpserver.py" timestamp="1434105755040">
         <mark key="'" line="304" column="23" />
@@ -616,13 +616,13 @@
         <mark key="^" line="82" column="3" />
         <mark key="." line="82" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1443194784149">
-        <mark key="a" line="317" column="59" />
-        <mark key="'" line="178" column="0" />
-        <mark key="[" line="192" column="50" />
-        <mark key="]" line="192" column="60" />
-        <mark key="." line="192" column="60" />
-        <mark key="^" line="192" column="60" />
+      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1443203532823">
+        <mark key="a" line="322" column="59" />
+        <mark key="'" line="189" column="0" />
+        <mark key="[" line="197" column="49" />
+        <mark key="]" line="197" column="73" />
+        <mark key="." line="197" column="73" />
+        <mark key="^" line="197" column="73" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/static/js/app.js" timestamp="1440808336358">
         <mark key="'" line="21" column="22" />
@@ -1117,9 +1117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="101" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="105" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="108" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="117" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="121" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1217,13 +1214,16 @@
       <jump line="74" column="8" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="76" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="9" column="13" filename="$USER_HOME$/Source/platform/scheduler/docs/history.rst" />
+      <jump line="191" column="8" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="184" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="189" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICBjcmVhdGVkX2F0IFRJTUVTVEFNUFRaIE5PVCBOVUxMIERFRkFVTFQgTk9XKCksCiAgdGFyZ2V0X3VybCBURVhUIE5PVCBOVUxMLAogIHNjaGVkdWxlIFRFWFQsCiAgbWVzc2FnZSBCWVRFQSBOT1QgTlVMTCwK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LSBUYXJnZXQgVVJMcyBhcmUgcmVzdHJpY3RlZCB0byB0aGUgImFtcXA6Ly8iIHNjaGVtZQo=</text>
+      <register name="&quot;" type="4">
+        <text>Exchange</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3349,46 +3349,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>Exchange</text>
       </register>
       <register name="/" type="4">
         <text>import</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Li4gXzAuMi4wOiBodHRwczovL2dpdGh1Yi5hd2ViZXIuaW8vUGxhdGZvcm0vc2NoZWR1bGVyL2NvbXBhcmUvMC4xLjAuLi4wLjIuMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2Ugd2ViLkhUVFBFcnJvcig0MDAsIHJlYXNvbj0nTWlzc2luZyBFeGNoYW5nZScpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">LSBUYXJnZXQgVVJMcyBhcmUgcmVzdHJpY3RlZCB0byB0aGUgImFtcXA6Ly8iIHNjaGVtZQo=</text>
+      <register name="1" type="4">
+        <text>Exchange</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>2</text>
+        <text encoding="base64">TWlzc2luZyA=</text>
       </register>
       <register name="3" type="4">
-        <text>2</text>
+        <text>beer</text>
       </register>
       <register name="4" type="4">
-        <text>1</text>
+        <text>/</text>
       </register>
       <register name="5" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>-------</text>
+        <text>=</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICgyMDE1LVNlcC0yNSk=</text>
+        <text>routing_key</text>
       </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text>?</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>amqp</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
