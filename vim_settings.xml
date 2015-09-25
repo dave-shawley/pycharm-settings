@@ -484,10 +484,7 @@
       </file>
       <file name="$USER_HOME$/Source/platform/scheduler/docs/history.rst" timestamp="1443195189025">
         <mark key="'" line="9" column="13" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="52" />
-        <mark key="^" line="37" column="73" />
-        <mark key="." line="10" column="0" />
+        <mark key="^" line="36" column="73" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/httpserver.py" timestamp="1434105755040">
         <mark key="'" line="304" column="23" />
