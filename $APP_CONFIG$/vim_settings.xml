@@ -4911,7 +4911,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>1</text>
       </register>
       <register name="9" type="4">
         <text>encode</text>
@@ -4971,8 +4971,8 @@
         <entry>22</entry>
         <entry>174</entry>
         <entry>sp</entry>
-        <entry>1</entry>
         <entry>vsp</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
