@@ -387,13 +387,13 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1443203624056">
-        <mark key="a" line="151" column="4" />
-        <mark key="'" line="144" column="0" />
-        <mark key="[" line="160" column="45" />
-        <mark key="]" line="160" column="66" />
-        <mark key="^" line="160" column="66" />
-        <mark key="." line="160" column="66" />
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1443443959531">
+        <mark key="a" line="93" column="15" />
+        <mark key="'" line="4" column="10" />
+        <mark key="[" line="98" column="16" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="94" column="31" />
       </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1431172526789">
         <mark key="'" line="214" column="28" />
@@ -444,15 +444,15 @@
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1431883634285">
         <mark key="'" line="146" column="13" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" timestamp="1443128633360">
-        <mark key="'" line="85" column="19" />
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" timestamp="1443220945937">
+        <mark key="'" line="47" column="0" />
         <mark key="[" line="8" column="20" />
         <mark key="]" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1443128049435">
+      <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1443443689892">
         <mark key="a" line="178" column="44" />
-        <mark key="'" line="55" column="2" />
+        <mark key="'" line="164" column="17" />
         <mark key="[" line="70" column="3" />
         <mark key="]" line="70" column="12" />
         <mark key="." line="70" column="12" />
@@ -715,9 +715,6 @@
         <mark key="]" line="174" column="68" />
         <mark key="^" line="151" column="11" />
         <mark key="." line="174" column="68" />
-      </file>
-      <file name="/Python Console" timestamp="1443190490412">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1443119024761">
         <mark key="[" line="0" column="0" />
@@ -1116,21 +1113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="117" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="121" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="128" column="12" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="350" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="341" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="336" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="328" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="324" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="312" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="301" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="302" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="8" column="37" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1216,13 +1198,28 @@
       <jump line="191" column="8" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="184" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="189" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="49" column="9" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
+      <jump line="144" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
+      <jump line="146" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
+      <jump line="162" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
+      <jump line="185" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
+      <jump line="164" column="17" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
+      <jump line="4" column="10" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICBjcmVhdGVkX2F0IFRJTUVTVEFNUFRaIE5PVCBOVUxMIERFRkFVTFQgTk9XKCksCiAgdGFyZ2V0X3VybCBURVhUIE5PVCBOVUxMLAogIHNjaGVkdWxlIFRFWFQsCiAgbWVzc2FnZSBCWVRFQSBOT1QgTlVMTCwK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Exchange</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgaywgdiBpbiBvYmouaXRlbXMoKToK</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3348,55 +3345,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Exchange</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
-        <text>import</text>
+        <text encoding="base64">XDxldmVudF90eXBlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmFpc2Ugd2ViLkhUVFBFcnJvcig0MDAsIHJlYXNvbj0nTWlzc2luZyBFeGNoYW5nZScpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>Exchange</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgaywgdiBpbiBvYmouaXRlbXMoKToK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">TWlzc2luZyA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGQgPSB7fQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>beer</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UK</text>
       </register>
-      <register name="4" type="4">
-        <text>/</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHQK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pass</text>
       </register>
-      <register name="6" type="4">
-        <text>=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkW2tdIAo=</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
       </register>
       <register name="7" type="4">
-        <text>routing_key</text>
+        <text>pass</text>
       </register>
       <register name="8" type="4">
-        <text>?</text>
+        <text>P</text>
       </register>
       <register name="9" type="4">
-        <text>amqp</text>
+        <text>Exchange</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>import</last-search>
+      <last-search encoding="base64">XDxldmVudF90eXBlXD4=</last-search>
       <last-offset />
-      <last-pattern>import</last-pattern>
+      <last-pattern encoding="base64">XDxldmVudF90eXBlXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>-1</last-dir>
@@ -3404,7 +3401,6 @@
     </search>
     <history>
       <history-search>
-        <entry>class</entry>
         <entry>query_</entry>
         <entry encoding="base64">XDxkaXNhYmxlZFw+</entry>
         <entry>app_log</entry>
@@ -3424,6 +3420,7 @@
         <entry>creation_fails</entry>
         <entry>iumport</entry>
         <entry>import</entry>
+        <entry encoding="base64">XDxldmVudF90eXBlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>118</entry>
