@@ -442,9 +442,9 @@
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1431883634285">
         <mark key="'" line="146" column="13" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" timestamp="1443451784148">
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" timestamp="1443471016893">
         <mark key="a" line="56" column="0" />
-        <mark key="'" line="57" column="16" />
+        <mark key="'" line="63" column="0" />
         <mark key="[" line="82" column="0" />
         <mark key="]" line="87" column="23" />
         <mark key="." line="87" column="23" />
@@ -1116,7 +1116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="338" column="40" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="100" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="104" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1216,6 +1215,7 @@
       <jump line="1090" column="6" filename="$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-704701664/__builtin__.py" />
       <jump line="57" column="16" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
       <jump line="606" column="0" filename="$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-704701664/sys.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
