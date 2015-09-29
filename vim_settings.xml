@@ -622,13 +622,13 @@
         <mark key="^" line="82" column="3" />
         <mark key="." line="82" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1443451176269">
+      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1443556220880">
         <mark key="a" line="330" column="59" />
         <mark key="'" line="84" column="50" />
-        <mark key="[" line="233" column="49" />
-        <mark key="]" line="233" column="49" />
-        <mark key="." line="233" column="49" />
-        <mark key="^" line="233" column="55" />
+        <mark key="[" line="201" column="41" />
+        <mark key="]" line="201" column="62" />
+        <mark key="." line="201" column="62" />
+        <mark key="^" line="201" column="62" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/static/js/app.js" timestamp="1440808336358">
         <mark key="'" line="21" column="22" />
@@ -1226,7 +1226,7 @@
         <text encoding="base64">ICBjcmVhdGVkX2F0IFRJTUVTVEFNUFRaIE5PVCBOVUxMIERFRkFVTFQgTk9XKCksCiAgdGFyZ2V0X3VybCBURVhUIE5PVCBOVUxMLAogIHNjaGVkdWxlIFRFWFQsCiAgbWVzc2FnZSBCWVRFQSBOT1QgTlVMTCwK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>&quot;</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3352,49 +3352,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIF9NU0dQQUNLX1NVUFBPUlRFRF9UWVBFUyA9IChib29sLCBpbnQsIGZsb2F0LCBzdHIsIGJ5dGVzLCB1bmljb2RlKQo=</text>
+      <register name="0" type="4">
+        <text>('MO', 'TU', 'WE', 'TH', 'FR', 'SA', 'SU')</text>
       </register>
       <register name="1" type="4">
-        <text>\</text>
+        <text>&quot;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>\</text>
+        <text>=</text>
       </register>
-      <register name="3" type="4">
-        <text>\</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ1JSVScK</text>
       </register>
-      <register name="4" type="4">
-        <text>\</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBub3RfdG9kYXkgPSAnLCcuam9pbihkYXlfc3BlY1tkXSBmb3IgZCBpbiBvcmRfZGF5cykK</text>
       </register>
-      <register name="5" type="4">
-        <text>\</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBvcmRfZGF5cy5yZW1vdmUoZGF0ZXRpbWUuZGF0ZXRpbWUudXRjbm93KCkud2Vla2RheSgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgdGhlIG9ubHkgY29sbGVjdGlvbiB0eXBlcyB0aGF0IGFyZSBkaXJlY3RseSBzdXBwb3J0ZWQgYXJlCiAgICAjIGJ5dGVzLCBzdHIsIGxpc3QsIHR1cGxlLCBhbmQgZGljdCwgc28gd2UgaGF2ZSB0byBjYXRjaAogICAgIyBhbnl0aGluZyBlbHNlIGFuZCB0cmFuc2Zvcm0gaXQgKipSRUNVUlNJVkVMWSoqCg==</text>
+        <text encoding="base64">ICAgICAgICBvcmRfZGF5cyA9IGxpc3QocmFuZ2UoMCwgNykpCg==</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfdHJhbnNmb3JtX3RvX2J5dGVzCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXlfc3BlYyA9ICgnTU8nLCAnVFUnLCAnV0UnLCAnVEgnLCAnRlInLCAnU0EnLCAnU1UnKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
         <text>)</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -3443,13 +3443,13 @@
         <entry>43</entry>
         <entry>82</entry>
         <entry>129</entry>
-        <entry>vsp</entry>
         <entry>wq</entry>
         <entry>sp</entry>
         <entry>351</entry>
         <entry>192</entry>
         <entry>1</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
