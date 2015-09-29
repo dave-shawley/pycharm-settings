@@ -401,13 +401,12 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1443559553331">
-        <mark key="a" line="148" column="0" />
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1443561227948">
+        <mark key="a" line="149" column="0" />
         <mark key="'" line="9" column="25" />
-        <mark key="[" line="151" column="59" />
-        <mark key="]" line="154" column="49" />
-        <mark key="." line="154" column="49" />
-        <mark key="^" line="154" column="49" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1431172526789">
         <mark key="'" line="214" column="28" />
@@ -631,13 +630,13 @@
         <mark key="^" line="82" column="3" />
         <mark key="." line="82" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1443559873453">
+      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1443560976504">
         <mark key="a" line="210" column="50" />
         <mark key="'" line="35" column="43" />
-        <mark key="[" line="213" column="16" />
-        <mark key="]" line="213" column="16" />
-        <mark key="." line="213" column="16" />
-        <mark key="^" line="215" column="70" />
+        <mark key="[" line="235" column="69" />
+        <mark key="]" line="236" column="42" />
+        <mark key="." line="236" column="42" />
+        <mark key="^" line="236" column="42" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/static/js/app.js" timestamp="1440808336358">
         <mark key="'" line="21" column="22" />
@@ -1238,7 +1237,7 @@
         <text encoding="base64">ICBjcmVhdGVkX2F0IFRJTUVTVEFNUFRaIE5PVCBOVUxMIERFRkFVTFQgTk9XKCksCiAgdGFyZ2V0X3VybCBURVhUIE5PVCBOVUxMLAogIHNjaGVkdWxlIFRFWFQsCiAgbWVzc2FnZSBCWVRFQSBOT1QgTlVMTCwK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3364,46 +3363,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhY3R1YWwgPSBkYXRldGltZS5kYXRldGltZS5zdHJwdGltZShhY3R1YWwsICclWS0lbS0lZFQlSDolTTolUy4lZiswMDowMCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNjaGVkdWxlIGFuIGV2ZW50IHRvIG9jY3VyIG9uIHNhdHVyZGF5IGFuZCBzdW5kYXkgb25seSBidXQKICAgICAgICBub3cgPSBkYXRldGltZS5kYXRldGltZS51dGNub3coKQogICAgICAgIGRheXNfdW50aWxfc2F0dXJkYXkgPSAoNSBpZiBub3cud2Vla2RheSgpIDwgMiBlbHNlIDEyKSAtIG5vdy53ZWVrZGF5KCkKICAgICAgICAjIGRheXNfdW50aWxfd2VkbmVzZGF5ID0gKDIgaWYgbm93LndlZWtkYXkoKSA8IDIgZWxzZSA5KSAtIG5vdy53ZWVrZGF5KCkKICAgICAgICByZXNwb25zZSA9IHNlbGYuY3JlYXRlX2V2ZW50KGV2ZW50X2JvZHk9ewogICAgICAgICAgICAnc2NoZWR1bGUnOiAnUlJVTEU6RlJFUT1EQUlMWTtCWURBWT1TVSxTQScsCiAgICAgICAgICAgICMgJ2RlbGF5JzogJ1B7fUQnLmZvcm1hdChkYXlzX3VudGlsX3dlZG5lc2RheSksCiAgICAgICAgfSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3BvbnNlLmNvZGUsIDIwMCkKCiAgICAgICAgIyBkYXlzX3VudGlsX3NhdHVyZGF5ID0gZGF5c191bnRpbF93ZWRuZXNkYXkgKyAzCiAgICAgICAgc3RhcnQgPSBub3cgKyBkYXRldGltZS50aW1lZGVsdGEoZGF5c191bnRpbF9zYXR1cmRheSkKICAgICAgICBzdGFydCA9IHN0YXJ0LnJlcGxhY2UoaG91cj0wLCBtaW51dGU9MCwgc2Vjb25kPTAsIG1pY3Jvc2Vjb25kPTApCiAgICAgICAgYXNzZXJ0X2RhdGV0aW1lX2JldHdlZW4ocmVzcG9uc2UuanNvblsndGFyZ2V0X3RpbWUnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGFydCwgc3RhcnQgKyBkYXRldGltZS50aW1lZGVsdGEoaG91cnM9MjQpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>(</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaG91cj0wLCBtaW51dGU9MCwgc2Vjb25kPTAsIG1pY3Jvc2Vjb25kPTApCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="3" type="4">
-        <text>).replace(</text>
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGVuID0gKG5vdyArIGRhdGV0aW1lLnRpbWVkZWx0YShkYXlzPWRheXNfdW50aWxfc2F0dXJkYXkpKS5yZXBsYWNlKAo=</text>
+      <register name="5" type="4">
+        <text>,</text>
       </register>
       <register name="6" type="4">
-        <text>then, then + datetime.timedelta(days=1))</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXlzX3VudGlsX3dlZG5lc2RheSArPSA3Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXlzX3VudGlsX3dlZG5lc2RheSA9ICgyIGlmIG5vdy53ZWVrZGF5KCkgPCAyIGVsc2UgOSkgLSBub3cud2Vla2RheSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaG91cj0wLCBtaW51dGU9MCwgc2Vjb25kPTAsIG1pY3Jvc2Vjb25kPTApCg==</text>
+        <text encoding="base64">ICAgICAgICBub3cucmVwbGFjZShtb250aD0xMCwgZGF5PTQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
