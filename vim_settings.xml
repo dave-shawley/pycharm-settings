@@ -405,13 +405,13 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1443642797426">
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1443651610566">
         <mark key="a" line="338" column="26" />
         <mark key="'" line="239" column="30" />
-        <mark key="[" line="346" column="63" />
-        <mark key="]" line="346" column="63" />
-        <mark key="." line="346" column="63" />
-        <mark key="^" line="346" column="63" />
+        <mark key="[" line="347" column="49" />
+        <mark key="]" line="347" column="68" />
+        <mark key="." line="347" column="68" />
+        <mark key="^" line="347" column="68" />
       </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1431172526789">
         <mark key="'" line="214" column="28" />
@@ -644,13 +644,13 @@
         <mark key="^" line="82" column="3" />
         <mark key="." line="82" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1443642658883">
-        <mark key="a" line="351" column="21" />
-        <mark key="'" line="364" column="33" />
-        <mark key="[" line="371" column="62" />
-        <mark key="]" line="371" column="63" />
-        <mark key="." line="371" column="63" />
-        <mark key="^" line="371" column="63" />
+      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1443651200837">
+        <mark key="a" line="372" column="0" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="375" column="35" />
+        <mark key="]" line="375" column="37" />
+        <mark key="." line="372" column="59" />
+        <mark key="^" line="375" column="37" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/static/js/app.js" timestamp="1440808336358">
         <mark key="'" line="21" column="22" />
@@ -1142,9 +1142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="34" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="191" column="8" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python2.7/site-packages/sprockets/mixins/mediatype.py" />
-      <jump line="174" column="24" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="84" column="50" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="371" column="8" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python2.7/site-packages/tornado/testing.py" />
       <jump line="1090" column="6" filename="$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-704701664/__builtin__.py" />
@@ -1218,7 +1215,6 @@
       <jump line="360" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="363" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="369" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="499" column="8" filename="$APPLICATION_HOME_DIR$/helpers/python-skeletons/datetime.py" />
       <jump line="379" column="34" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="375" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1242,13 +1238,17 @@
       <jump line="196" column="22" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" />
       <jump line="364" column="33" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="81" column="8" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="439" column="8" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="383" column="8" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICBjcmVhdGVkX2F0IFRJTUVTVEFNUFRaIE5PVCBOVUxMIERFRkFVTFQgTk9XKCksCiAgdGFyZ2V0X3VybCBURVhUIE5PVCBOVUxMLAogIHNjaGVkdWxlIFRFWFQsCiAgbWVzc2FnZSBCWVRFQSBOT1QgTlVMTCwK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, cache=False)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3NlcnQgbm93IDwgZXZlbnRbJ3RhcmdldF90aW1lJ10K</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3374,46 +3374,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, cache=False)</text>
+        <text encoding="base64">ICsgZGF0ZXRpbWUudGltZWRlbHRhKHNlY29uZHM9MSkp</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIF93ZWVrZGF5X21hcCA9IHsiTU8iOjAsIlRVIjoxLCJXRSI6MiwiVEgiOjMsIkZSIjo0LCJTQSI6NSwiU1UiOjZ9Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ3N0YXJ0aW5nIHdhaXQgZm9yIDMuMTQgc2Vjb25kcyBAICVzJywKICAgICAgICAgICAgICAgICAgICAgc2NoZWR1bGVyLmhhbmRsZXJzLnV0Y19ub3coKS5pc29mb3JtYXQoKSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>, cache=False)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3NlcnQgbm93IDwgZXZlbnRbJ3RhcmdldF90aW1lJ10K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>618</text>
+        <text encoding="base64">ICsgZGF0ZXRpbWUudGltZWRlbHRhKHNlY29uZHM9MSkp</text>
       </register>
-      <register name="3" type="4">
-        <text>2</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoZW4gPSBtYXgodGhlbiwgZXZlbnRbJ3RhcmdldF90aW1lJ10pCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IHNlY29uZHM=</text>
       </register>
       <register name="5" type="4">
-        <text>datetime.datetime.utcnow().replace(tzinfo=isodate.tzinfo.UTC)</text>
+        <text>.14</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">LCA=</text>
+        <text encoding="base64">IDM=</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
       </register>
       <register name="7" type="4">
-        <text>second</text>
+        <text encoding="base64">IGZvcg==</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>starting</text>
       </register>
-      <register name="9" type="4">
-        <text>now</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuCg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
