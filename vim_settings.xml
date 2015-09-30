@@ -514,6 +514,12 @@
       <file name="/Dummy.txt" timestamp="1439137374098">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform/scheduler/foo.py" timestamp="1443620243131">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/opt/lib/python3.4/json/scanner.py" timestamp="1432989862614">
         <mark key="'" line="72" column="33" />
       </file>
@@ -3404,7 +3410,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>sp</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -3453,13 +3459,13 @@
         <entry>43</entry>
         <entry>82</entry>
         <entry>129</entry>
-        <entry>wq</entry>
         <entry>351</entry>
         <entry>192</entry>
         <entry>vsp</entry>
         <entry>w</entry>
         <entry>1</entry>
         <entry>sp</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
