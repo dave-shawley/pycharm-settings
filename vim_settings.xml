@@ -401,13 +401,13 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1443562732235">
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1443617072299">
         <mark key="a" line="149" column="0" />
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="155" column="29" />
-        <mark key="]" line="155" column="29" />
-        <mark key="." line="155" column="29" />
-        <mark key="^" line="155" column="29" />
+        <mark key="'" line="155" column="17" />
+        <mark key="[" line="167" column="47" />
+        <mark key="]" line="168" column="33" />
+        <mark key="." line="168" column="33" />
+        <mark key="^" line="168" column="33" />
       </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1431172526789">
         <mark key="'" line="214" column="28" />
@@ -631,13 +631,13 @@
         <mark key="^" line="82" column="3" />
         <mark key="." line="82" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1443560976504">
+      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1443616908143">
         <mark key="a" line="210" column="50" />
         <mark key="'" line="35" column="43" />
-        <mark key="[" line="235" column="69" />
-        <mark key="]" line="236" column="42" />
-        <mark key="." line="236" column="42" />
-        <mark key="^" line="236" column="42" />
+        <mark key="[" line="240" column="55" />
+        <mark key="]" line="241" column="42" />
+        <mark key="." line="241" column="42" />
+        <mark key="^" line="241" column="42" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/static/js/app.js" timestamp="1440808336358">
         <mark key="'" line="21" column="22" />
@@ -1132,8 +1132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="304" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="299" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="296" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="291" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="268" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1232,13 +1230,15 @@
       <jump line="3" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="8" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="15" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="155" column="17" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="968" column="8" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/tornado/web.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICBjcmVhdGVkX2F0IFRJTUVTVEFNUFRaIE5PVCBOVUxMIERFRkFVTFQgTk9XKCksCiAgdGFyZ2V0X3VybCBURVhUIE5PVCBOVUxMLAogIHNjaGVkdWxlIFRFWFQsCiAgbWVzc2FnZSBCWVRFQSBOT1QgTlVMTCwK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>target_time</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3364,7 +3364,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>target_time</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
@@ -3373,25 +3373,25 @@
         <text encoding="base64">ICAgICAgICAjIHNjaGVkdWxlIGFuIGV2ZW50IHRvIG9jY3VyIG9uIHNhdHVyZGF5IGFuZCBzdW5kYXkgb25seSBidXQKICAgICAgICBub3cgPSBkYXRldGltZS5kYXRldGltZS51dGNub3coKQogICAgICAgIGRheXNfdW50aWxfc2F0dXJkYXkgPSAoNSBpZiBub3cud2Vla2RheSgpIDwgMiBlbHNlIDEyKSAtIG5vdy53ZWVrZGF5KCkKICAgICAgICAjIGRheXNfdW50aWxfd2VkbmVzZGF5ID0gKDIgaWYgbm93LndlZWtkYXkoKSA8IDIgZWxzZSA5KSAtIG5vdy53ZWVrZGF5KCkKICAgICAgICByZXNwb25zZSA9IHNlbGYuY3JlYXRlX2V2ZW50KGV2ZW50X2JvZHk9ewogICAgICAgICAgICAnc2NoZWR1bGUnOiAnUlJVTEU6RlJFUT1EQUlMWTtCWURBWT1TVSxTQScsCiAgICAgICAgICAgICMgJ2RlbGF5JzogJ1B7fUQnLmZvcm1hdChkYXlzX3VudGlsX3dlZG5lc2RheSksCiAgICAgICAgfSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3BvbnNlLmNvZGUsIDIwMCkKCiAgICAgICAgIyBkYXlzX3VudGlsX3NhdHVyZGF5ID0gZGF5c191bnRpbF93ZWRuZXNkYXkgKyAzCiAgICAgICAgc3RhcnQgPSBub3cgKyBkYXRldGltZS50aW1lZGVsdGEoZGF5c191bnRpbF9zYXR1cmRheSkKICAgICAgICBzdGFydCA9IHN0YXJ0LnJlcGxhY2UoaG91cj0wLCBtaW51dGU9MCwgc2Vjb25kPTAsIG1pY3Jvc2Vjb25kPTApCiAgICAgICAgYXNzZXJ0X2RhdGV0aW1lX2JldHdlZW4ocmVzcG9uc2UuanNvblsndGFyZ2V0X3RpbWUnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGFydCwgc3RhcnQgKyBkYXRldGltZS50aW1lZGVsdGEoaG91cnM9MjQpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>4</text>
+        <text>target_time</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoJ2FkanVzdGluZyB0YXJnZXQgdGltZSBmcm9tJykK</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
@@ -3399,11 +3399,11 @@
       <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXlzX3VudGlsX3dlZG5lc2RheSArPSA3Cg==</text>
+      <register name="8" type="4">
+        <text>friday</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYXlzX3VudGlsX3dlZG5lc2RheSA9ICgyIGlmIG5vdy53ZWVrZGF5KCkgPCAyIGVsc2UgOSkgLSBub3cud2Vla2RheSgpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
