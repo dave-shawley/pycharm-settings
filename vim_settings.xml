@@ -641,13 +641,13 @@
         <mark key="^" line="82" column="3" />
         <mark key="." line="82" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1443635439087">
+      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1443637917568">
         <mark key="a" line="363" column="33" />
         <mark key="'" line="368" column="0" />
-        <mark key="[" line="357" column="48" />
-        <mark key="]" line="357" column="49" />
-        <mark key="." line="357" column="49" />
-        <mark key="^" line="357" column="49" />
+        <mark key="[" line="357" column="58" />
+        <mark key="]" line="358" column="35" />
+        <mark key="." line="358" column="35" />
+        <mark key="^" line="358" column="35" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/static/js/app.js" timestamp="1440808336358">
         <mark key="'" line="21" column="22" />
@@ -1245,7 +1245,7 @@
         <text encoding="base64">ICBjcmVhdGVkX2F0IFRJTUVTVEFNUFRaIE5PVCBOVUxMIERFRkFVTFQgTk9XKCksCiAgdGFyZ2V0X3VybCBURVhUIE5PVCBOVUxMLAogIHNjaGVkdWxlIFRFWFQsCiAgbWVzc2FnZSBCWVRFQSBOT1QgTlVMTCwK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3371,7 +3371,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
@@ -3380,37 +3380,37 @@
         <text encoding="base64">ICAgIF93ZWVrZGF5X21hcCA9IHsiTU8iOjAsIlRVIjoxLCJXRSI6MiwiVEgiOjMsIkZSIjo0LCJTQSI6NSwiU1UiOjZ9Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>1</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBzdGFydCA9IGRhdGV0aW1lLmRhdGV0aW1lLnV0Y25vdygpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>start</text>
-      </register>
       <register name="4" type="4">
-        <text>1</text>
+        <text>start</text>
       </register>
       <register name="5" type="4">
         <text>1</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydCA9IGRhdGV0aW1lLmRhdGV0aW1lLnV0Y25vdygpCg==</text>
+      <register name="6" type="4">
+        <text>1</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzdGFydCA9IGRhdGV0aW1lLmRhdGV0aW1lLnV0Y25vdygpCg==</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICsgZGF0ZXRpbWUudGltZWRlbHRhKGhvdXJzPTYp</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
