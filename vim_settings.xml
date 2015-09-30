@@ -405,13 +405,13 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1443641828779">
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1443642797426">
         <mark key="a" line="338" column="26" />
         <mark key="'" line="239" column="30" />
-        <mark key="[" line="230" column="47" />
-        <mark key="]" line="230" column="47" />
-        <mark key="." line="230" column="47" />
-        <mark key="^" line="230" column="47" />
+        <mark key="[" line="346" column="63" />
+        <mark key="]" line="346" column="63" />
+        <mark key="." line="346" column="63" />
+        <mark key="^" line="346" column="63" />
       </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1431172526789">
         <mark key="'" line="214" column="28" />
@@ -644,13 +644,13 @@
         <mark key="^" line="82" column="3" />
         <mark key="." line="82" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1443641849994">
+      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1443642658883">
         <mark key="a" line="351" column="21" />
-        <mark key="'" line="437" column="8" />
-        <mark key="[" line="350" column="39" />
-        <mark key="]" line="350" column="39" />
-        <mark key="." line="350" column="39" />
-        <mark key="^" line="350" column="39" />
+        <mark key="'" line="364" column="33" />
+        <mark key="[" line="371" column="62" />
+        <mark key="]" line="371" column="63" />
+        <mark key="." line="371" column="63" />
+        <mark key="^" line="371" column="63" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/static/js/app.js" timestamp="1440808336358">
         <mark key="'" line="21" column="22" />
@@ -1142,7 +1142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="4" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="229" column="34" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="191" column="8" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python2.7/site-packages/sprockets/mixins/mediatype.py" />
       <jump line="174" column="24" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1220,7 +1219,6 @@
       <jump line="363" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="369" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="364" column="47" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="499" column="8" filename="$APPLICATION_HOME_DIR$/helpers/python-skeletons/datetime.py" />
       <jump line="379" column="34" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="375" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1242,13 +1240,15 @@
       <jump line="1228" column="0" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" />
       <jump line="239" column="30" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="196" column="22" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" />
+      <jump line="364" column="33" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="81" column="8" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICBjcmVhdGVkX2F0IFRJTUVTVEFNUFRaIE5PVCBOVUxMIERFRkFVTFQgTk9XKCksCiAgdGFyZ2V0X3VybCBURVhUIE5PVCBOVUxMLAogIHNjaGVkdWxlIFRFWFQsCiAgbWVzc2FnZSBCWVRFQSBOT1QgTlVMTCwK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICsgZGF0ZXRpbWUudGltZWRlbHRhKHNlY29uZHM9MSkpLnJlcGxhY2UobWljcm9zZWNvbmQ9MCk=</text>
+        <text>, cache=False)</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3374,7 +3374,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgZGF0ZXRpbWUudGltZWRlbHRhKHNlY29uZHM9MSkpLnJlcGxhY2UobWljcm9zZWNvbmQ9MCk=</text>
+        <text>, cache=False)</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
@@ -3383,37 +3383,37 @@
         <text encoding="base64">ICAgIF93ZWVrZGF5X21hcCA9IHsiTU8iOjAsIlRVIjoxLCJXRSI6MiwiVEgiOjMsIkZSIjo0LCJTQSI6NSwiU1UiOjZ9Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICsgZGF0ZXRpbWUudGltZWRlbHRhKHNlY29uZHM9MSkpLnJlcGxhY2UobWljcm9zZWNvbmQ9MCk=</text>
+        <text>, cache=False)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>.replace(microsecond=0)</text>
+        <text>618</text>
       </register>
       <register name="3" type="4">
-        <text>milliseconds</text>
+        <text>2</text>
       </register>
       <register name="4" type="4">
-        <text>microseconds</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>datetime.datetime.utcnow().replace(tzinfo=isodate.tzinfo.UTC)</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>second</text>
       </register>
       <register name="8" type="4">
-        <text>datetime.datetime.utcnow()</text>
+        <text>.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRbJ3RhcmdldF90aW1lJ10gPSBkYXRldGltZS5kYXRldGltZS51dGNub3coKSArIGRlbGF5Cg==</text>
+      <register name="9" type="4">
+        <text>now</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
