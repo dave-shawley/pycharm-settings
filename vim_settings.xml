@@ -941,6 +941,9 @@
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/tcpserver.py" timestamp="1431173123597">
         <mark key="'" line="124" column="18" />
       </file>
+      <file name="$USER_HOME$/Source/platform/tagging/tagging.py" timestamp="1443730027160">
+        <mark key="'" line="86" column="33" />
+      </file>
       <file name="$USER_HOME$/Source/platform/scheduler/env/lib/python2.7/site-packages/sprockets/http/__init__.py" timestamp="1443124081747">
         <mark key="'" line="67" column="20" />
       </file>
@@ -1157,8 +1160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1177" column="0" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" />
-      <jump line="1180" column="0" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" />
       <jump line="1183" column="0" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" />
       <jump line="1221" column="20" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" />
       <jump line="1228" column="0" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" />
@@ -1257,6 +1258,8 @@
       <jump line="165" column="17" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="435" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="142" column="19" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
+      <jump line="86" column="33" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="60" column="6" filename="$USER_HOME$/Source/platform/tagging/env/lib/python3.4/site-packages/sprockets/mixins/avro_publisher/__init__.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
