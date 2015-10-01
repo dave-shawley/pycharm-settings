@@ -93,6 +93,13 @@
         <mark key="^" line="66" column="40" />
         <mark key="." line="66" column="40" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" timestamp="1443711859795">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="11" column="40" />
+      </file>
       <file name="/" timestamp="1436701703073">
         <mark key="[" line="0" column="0" />
       </file>
@@ -744,9 +751,6 @@
         <mark key="^" line="151" column="11" />
         <mark key="." line="174" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1443652907448">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1443559276758">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1144,9 +1148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="232" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="236" column="12" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="243" column="15" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="3496" column="6" filename="$USER_HOME$/Library/Caches/PyCharm40/python_stubs/-704701664/builtins.py" />
       <jump line="173" column="12" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
@@ -1244,13 +1245,16 @@
       <jump line="253" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
       <jump line="221" column="40" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="498" column="8" filename="$APPLICATION_HOME_DIR$/helpers/python-skeletons/datetime.py" />
+      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" />
+      <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" />
+      <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ZGVmIHV0Y19ub3coKToKICAgICIiIlJldHVybnMgYSBUWi1hd2FyZSB2ZXJzaW9uIG9mIDptZXRoOmBkYXRldGltZS5kYXRldGltZS51dGNub3dgIiIiCiAgICByZXR1cm4gZGF0ZXRpbWUuZGF0ZXRpbWUudXRjbm93KCkucmVwbGFjZSh0emluZm89aXNvZGF0ZS50emluZm8uVVRDKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF5c191bnRpbF93ZWRuZXNkYXkgPSA5IC0gbm93LndlZWtkYXkoKQo=</text>
+        <text encoding="base64">cnNldC5ycnVsZSh3ZWVrZGF5cykK</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3376,7 +3380,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, now)</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>utcnow</text>
@@ -3385,40 +3389,40 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmZldGNoKCcvcnBjL3BhdXNlP3RhZz17fScuZm9ybWF0KHRhZyksIG1ldGhvZD0nUE9TVCcsIGJvZHk9JycpCiAgICAgICAgc2VsZi5pb19sb29wLmFkZF90aW1lb3V0KGRhdGV0aW1lLnRpbWVkZWx0YShzZWNvbmRzPTIuMTQpLCBzZWxmLnN0b3ApCiAgICAgICAgc2VsZi53YWl0KCkKICAgICAgICBzZWxmLmZldGNoKCcvcnBjL3Jlc3VtZT90YWc9e30nLmZvcm1hdCh0YWcpLCBtZXRob2Q9J1BPU1QnLCBib2R5PScnKQogICAgICAgIGVuZCA9IHV0Y19ub3coKQoKICAgICAgICByZXNwb25zZSA9IHNlbGYuZmV0Y2goJy9ldmVudC97fScuZm9ybWF0KGV2ZW50X2lkKSkKICAgICAgICBzZWxmLmFzc2VydE5vdEVxdWFsKHJlc3BvbnNlLmpzb25bJ3RhcmdldF90aW1lJ10sIGluaXRpYWxfdGFyZ2V0X3RpbWUpCiAgICAgICAgYXNzZXJ0X2RhdGV0aW1lX2JldHdlZW4ocmVzcG9uc2UuanNvblsndGFyZ2V0X3RpbWUnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBub3cgKyBkYXRldGltZS50aW1lZGVsdGEoZGF5cz03KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbmQgKyBkYXRldGltZS50aW1lZGVsdGEoZGF5cz03KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF5c191bnRpbF93ZWRuZXNkYXkgPSA5IC0gbm93LndlZWtkYXkoKQo=</text>
+        <text encoding="base64">cnNldC5ycnVsZSh3ZWVrZGF5cykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      <register name="2" type="4">
+        <text>'</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF5c191bnRpbF93ZWRuZXNkYXkgPSAyIC0gbm93LndlZWtkYXkoKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3cud2Vla2RheSgpIDwgMjoK</text>
+      <register name="4" type="4">
+        <text>'</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYXlzX3VudGlsX3dlZG5lc2RheSA9IChhYnMobm93LndlZWtkYXkoKSAtIDIpICUgNykgKyA3Cg==</text>
+      <register name="5" type="4">
+        <text>,</text>
       </register>
-      <register name="6" type="4">
-        <text>, now)</text>
+      <register name="6" type="2">
+        <text encoding="base64">bm93ID0gZGF0ZXRpbWUuZGF0ZXRpbWUudXRjbm93KCkucmVwbGFjZSh0emluZm89dHouZ2V0dHooJ3V0YycpKQo=</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
       </register>
       <register name="7" type="4">
-        <text>, out['target_time'])</text>
+        <text>num_days</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>chosen = rs</text>
       </register>
       <register name="9" type="4">
-        <text>now</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -3471,9 +3475,9 @@
         <entry>7</entry>
         <entry>89</entry>
         <entry>218</entry>
-        <entry>1</entry>
         <entry>351</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
