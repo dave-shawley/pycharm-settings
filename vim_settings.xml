@@ -99,6 +99,20 @@
         <mark key="^" line="66" column="40" />
         <mark key="." line="66" column="40" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5" timestamp="1443734046119">
+        <mark key="'" line="3" column="55" />
+        <mark key="[" line="7" column="50" />
+        <mark key="]" line="7" column="50" />
+        <mark key="." line="7" column="50" />
+        <mark key="^" line="7" column="50" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4" timestamp="1443733780292">
+        <mark key="'" line="6" column="48" />
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="6" column="46" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="6" column="46" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" timestamp="1443711859795">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="16" column="0" />
@@ -941,12 +955,12 @@
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/tcpserver.py" timestamp="1431173123597">
         <mark key="'" line="124" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/tagging/tagging.py" timestamp="1443730462953">
-        <mark key="'" line="1093" column="0" />
-        <mark key="[" line="1095" column="8" />
-        <mark key="]" line="1095" column="8" />
-        <mark key="^" line="444" column="38" />
-        <mark key="." line="1095" column="8" />
+      <file name="$USER_HOME$/Source/platform/tagging/tagging.py" timestamp="1443734172356">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="82" column="57" />
+        <mark key="]" line="82" column="57" />
+        <mark key="." line="82" column="57" />
+        <mark key="^" line="82" column="57" />
       </file>
       <file name="$USER_HOME$/Source/platform/scheduler/env/lib/python2.7/site-packages/sprockets/http/__init__.py" timestamp="1443124081747">
         <mark key="'" line="67" column="20" />
@@ -1164,17 +1178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="268" column="31" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
-      <jump line="251" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
-      <jump line="231" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
-      <jump line="253" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
-      <jump line="221" column="40" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="498" column="8" filename="$APPLICATION_HOME_DIR$/helpers/python-skeletons/datetime.py" />
-      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" />
-      <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" />
-      <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3" />
-      <jump line="206" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="202" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="186" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="199" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1264,13 +1267,24 @@
       <jump line="1073" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
       <jump line="1078" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
       <jump line="1093" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="6" column="48" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4" />
+      <jump line="3" column="55" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5" />
+      <jump line="79" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ZGVmIHV0Y19ub3coKToKICAgICIiIlJldHVybnMgYSBUWi1hd2FyZSB2ZXJzaW9uIG9mIDptZXRoOmBkYXRldGltZS5kYXRldGltZS51dGNub3dgIiIiCiAgICByZXR1cm4gZGF0ZXRpbWUuZGF0ZXRpbWUudXRjbm93KCkucmVwbGFjZSh0emluZm89aXNvZGF0ZS50emluZm8uVVRDKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>lib</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3396,49 +3410,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>lib</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>updated_when_resumed</text>
       </register>
-      <register name="0" type="4">
-        <text>[
-                'RRULE:FREQ=DAILY;BYDAY=MO,TU,WE,TH,FR;BYHOUR=9',
-                'RRULE:FREQ=DAILY;BYDAY=SA,SU;BYHOUR=12',
-            ]</text>
+      <register name="0" type="2">
+        <text encoding="base64">bm93ID0gZGF0ZXRpbWUuZGF0ZXRpbWUubm93KHR6PXB5dHoudGltZXpvbmUoJ1VTL0Vhc3Rlcm4nKSkKcHJpbnQobm93Lmlzb2Zvcm1hdCgpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>lib</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB1cmxsaWIucGFyc2UgaW1wb3J0IHVybHNwbGl0Cg==</text>
+      <register name="2" type="4">
+        <text>pytz.timezone('/etc/localtime'))</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0ZXV0aWwudHouZ2V0dHooKQo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>from</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>import</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZGF0ZXV0aWwudGltZQo=</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>.timezone())</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>'</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
