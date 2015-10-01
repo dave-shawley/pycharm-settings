@@ -643,13 +643,13 @@
         <mark key="^" line="82" column="3" />
         <mark key="." line="82" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1443654453190">
+      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1443708989315">
         <mark key="a" line="372" column="0" />
-        <mark key="'" line="348" column="0" />
-        <mark key="[" line="368" column="62" />
-        <mark key="]" line="368" column="62" />
-        <mark key="." line="368" column="62" />
-        <mark key="^" line="368" column="26" />
+        <mark key="'" line="221" column="40" />
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="0" />
+        <mark key="." line="221" column="0" />
+        <mark key="^" line="225" column="77" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/static/js/app.js" timestamp="1440808336358">
         <mark key="'" line="21" column="22" />
@@ -1144,8 +1144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="248" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="241" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="232" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="236" column="12" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
@@ -1244,13 +1242,15 @@
       <jump line="251" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
       <jump line="231" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
       <jump line="253" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
+      <jump line="221" column="40" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="498" column="8" filename="$APPLICATION_HOME_DIR$/helpers/python-skeletons/datetime.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ZGVmIHV0Y19ub3coKToKICAgICIiIlJldHVybnMgYSBUWi1hd2FyZSB2ZXJzaW9uIG9mIDptZXRoOmBkYXRldGltZS5kYXRldGltZS51dGNub3dgIiIiCiAgICByZXR1cm4gZGF0ZXRpbWUuZGF0ZXRpbWUudXRjbm93KCkucmVwbGFjZSh0emluZm89aXNvZGF0ZS50emluZm8uVVRDKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, now)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF5c191bnRpbF93ZWRuZXNkYXkgPSA5IC0gbm93LndlZWtkYXkoKQo=</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3384,38 +3384,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmZldGNoKCcvcnBjL3BhdXNlP3RhZz17fScuZm9ybWF0KHRhZyksIG1ldGhvZD0nUE9TVCcsIGJvZHk9JycpCiAgICAgICAgc2VsZi5pb19sb29wLmFkZF90aW1lb3V0KGRhdGV0aW1lLnRpbWVkZWx0YShzZWNvbmRzPTIuMTQpLCBzZWxmLnN0b3ApCiAgICAgICAgc2VsZi53YWl0KCkKICAgICAgICBzZWxmLmZldGNoKCcvcnBjL3Jlc3VtZT90YWc9e30nLmZvcm1hdCh0YWcpLCBtZXRob2Q9J1BPU1QnLCBib2R5PScnKQogICAgICAgIGVuZCA9IHV0Y19ub3coKQoKICAgICAgICByZXNwb25zZSA9IHNlbGYuZmV0Y2goJy9ldmVudC97fScuZm9ybWF0KGV2ZW50X2lkKSkKICAgICAgICBzZWxmLmFzc2VydE5vdEVxdWFsKHJlc3BvbnNlLmpzb25bJ3RhcmdldF90aW1lJ10sIGluaXRpYWxfdGFyZ2V0X3RpbWUpCiAgICAgICAgYXNzZXJ0X2RhdGV0aW1lX2JldHdlZW4ocmVzcG9uc2UuanNvblsndGFyZ2V0X3RpbWUnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBub3cgKyBkYXRldGltZS50aW1lZGVsdGEoZGF5cz03KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbmQgKyBkYXRldGltZS50aW1lZGVsdGEoZGF5cz03KSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>, now)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF5c191bnRpbF93ZWRuZXNkYXkgPSA5IC0gbm93LndlZWtkYXkoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>, out['target_time'])</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF5c191bnRpbF93ZWRuZXNkYXkgPSAyIC0gbm93LndlZWtkYXkoKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>now</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBub3cud2Vla2RheSgpIDwgMjoK</text>
       </register>
-      <register name="5" type="4">
-        <text>s</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkYXlzX3VudGlsX3dlZG5lc2RheSA9IChhYnMobm93LndlZWtkYXkoKSAtIDIpICUgNykgKyA3Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>%</text>
+        <text>, now)</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, out['target_time'])</text>
       </register>
       <register name="8" type="4">
-        <text>=</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>now</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
