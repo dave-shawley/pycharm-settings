@@ -412,13 +412,13 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1443715317243">
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1443718557369">
         <mark key="a" line="338" column="26" />
-        <mark key="'" line="252" column="0" />
-        <mark key="[" line="254" column="73" />
-        <mark key="]" line="254" column="73" />
-        <mark key="." line="254" column="73" />
-        <mark key="^" line="254" column="73" />
+        <mark key="'" line="162" column="8" />
+        <mark key="[" line="364" column="71" />
+        <mark key="]" line="364" column="71" />
+        <mark key="." line="364" column="71" />
+        <mark key="^" line="364" column="71" />
       </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1431172526789">
         <mark key="'" line="214" column="28" />
@@ -885,6 +885,12 @@
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/docker/utils/utils.py" timestamp="1440355074355">
         <mark key="'" line="314" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform/scheduler/docs/api.rst" timestamp="1443718599589">
+        <mark key="[" line="18" column="46" />
+        <mark key="]" line="18" column="45" />
+        <mark key="^" line="18" column="45" />
+        <mark key="." line="18" column="45" />
+      </file>
       <file name="$USER_HOME$/Source/python/zender/docs/content-type.rst" timestamp="1422827426642">
         <mark key="'" line="158" column="0" />
         <mark key="[" line="152" column="21" />
@@ -1151,7 +1157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="360" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="363" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="369" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="499" column="8" filename="$APPLICATION_HOME_DIR$/helpers/python-skeletons/datetime.py" />
@@ -1251,6 +1256,7 @@
       <jump line="227" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="241" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="252" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="162" column="8" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3398,19 +3404,19 @@
         <text />
       </register>
       <register name="2" type="4">
-        <text>schedule</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
         <text>schedule</text>
       </register>
-      <register name="4" type="4">
-        <text>schedule</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzY2hlZHVsZSA9IHJydWxlLnJydWxlc3RyKGV2ZW50WydzY2hlZHVsZSddLCBkdHN0YXJ0PW5vdykK</text>
       </register>
       <register name="5" type="4">
-        <text>chedule</text>
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>schedule</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
@@ -3422,10 +3428,10 @@
         <text>schedule</text>
       </register>
       <register name="9" type="4">
-        <text>schedule</text>
+        <text>chedule</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3479,8 +3485,8 @@
         <entry>218</entry>
         <entry>351</entry>
         <entry>229</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
