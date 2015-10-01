@@ -653,12 +653,12 @@
         <mark key="^" line="82" column="3" />
         <mark key="." line="82" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1443718884788">
+      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1443726201110">
         <mark key="a" line="247" column="34" />
-        <mark key="'" line="224" column="41" />
-        <mark key="[" line="251" column="33" />
-        <mark key="]" line="251" column="37" />
-        <mark key="." line="251" column="37" />
+        <mark key="'" line="435" column="0" />
+        <mark key="[" line="368" column="0" />
+        <mark key="]" line="368" column="55" />
+        <mark key="." line="368" column="0" />
         <mark key="^" line="251" column="37" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/static/js/app.js" timestamp="1440808336358">
@@ -1157,7 +1157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1370" column="20" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" />
       <jump line="1169" column="0" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" />
       <jump line="1177" column="0" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" />
       <jump line="1180" column="0" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" />
@@ -1257,13 +1256,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="99" column="23" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="165" column="17" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="435" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ZGVmIHV0Y19ub3coKToKICAgICIiIlJldHVybnMgYSBUWi1hd2FyZSB2ZXJzaW9uIG9mIDptZXRoOmBkYXRldGltZS5kYXRldGltZS51dGNub3dgIiIiCiAgICByZXR1cm4gZGF0ZXRpbWUuZGF0ZXRpbWUudXRjbm93KCkucmVwbGFjZSh0emluZm89aXNvZGF0ZS50emluZm8uVVRDKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>str</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdGFydCA9IHV0Y19ub3coKSArIGRhdGV0aW1lLnRpbWVkZWx0YShob3Vycz02KQo=</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3392,7 +3392,7 @@
         <text>str</text>
       </register>
       <register name="/" type="4">
-        <text>'schedule</text>
+        <text>updated_when_resumed</text>
       </register>
       <register name="0" type="4">
         <text>[
@@ -3400,26 +3400,26 @@
                 'RRULE:FREQ=DAILY;BYDAY=SA,SU;BYHOUR=12',
             ]</text>
       </register>
-      <register name="1" type="4">
-        <text>str</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzdGFydCA9IHV0Y19ub3coKSArIGRhdGV0aW1lLnRpbWVkZWx0YShob3Vycz02KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>schedule</text>
+        <text>str</text>
       </register>
       <register name="3" type="4">
-        <text>Take a row from the database and transform it into s</text>
+        <text>schedule</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>Take a row from the database and transform it into s</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="6" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
@@ -3427,20 +3427,20 @@
       <register name="7" type="4">
         <text>'</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlbCByb3dbJ3NjaGVkdWxlJ10K</text>
+      <register name="8" type="4">
+        <text>'</text>
       </register>
-      <register name="9" type="4">
-        <text>row['schedule'].split('\n')</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlbCByb3dbJ3NjaGVkdWxlJ10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>'schedule</last-search>
+      <last-search>updated_when_resumed</last-search>
       <last-offset />
-      <last-pattern>'schedule</last-pattern>
+      <last-pattern>updated_when_resumed</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -3448,7 +3448,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fetch(</entry>
         <entry>00:00</entry>
         <entry encoding="base64">XDx1bm5lc3RcPg==</entry>
         <entry>CREATE TYPE</entry>
@@ -3468,6 +3467,7 @@
         <entry>'schedule'</entry>
         <entry encoding="base64">XDxCWURBWVw+</entry>
         <entry>'schedule</entry>
+        <entry>updated_when_resumed</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
