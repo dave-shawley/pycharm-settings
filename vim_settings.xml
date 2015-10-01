@@ -58,6 +58,12 @@
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/ietfparse/datastructures.py" timestamp="1432339854427">
         <mark key="'" line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform/tagging/tests.py" timestamp="1443730511295">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+      </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/tasks.py" timestamp="1438519549469">
         <mark key="'" line="70" column="26" />
       </file>
@@ -384,12 +390,6 @@
         <mark key="]" line="25" column="8" />
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="20" />
-      </file>
-      <file name="$USER_HOME$/Source/platform/campaign/campaign.py" timestamp="1443121807085">
-        <mark key="'" line="225" column="0" />
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="0" />
-        <mark key="." line="239" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/blocking_connection.py" timestamp="1423053523371">
         <mark key="'" line="305" column="28" />
@@ -941,8 +941,12 @@
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/tcpserver.py" timestamp="1431173123597">
         <mark key="'" line="124" column="18" />
       </file>
-      <file name="$USER_HOME$/Source/platform/tagging/tagging.py" timestamp="1443730027160">
-        <mark key="'" line="86" column="33" />
+      <file name="$USER_HOME$/Source/platform/tagging/tagging.py" timestamp="1443730462953">
+        <mark key="'" line="1093" column="0" />
+        <mark key="[" line="1095" column="8" />
+        <mark key="]" line="1095" column="8" />
+        <mark key="^" line="444" column="38" />
+        <mark key="." line="1095" column="8" />
       </file>
       <file name="$USER_HOME$/Source/platform/scheduler/env/lib/python2.7/site-packages/sprockets/http/__init__.py" timestamp="1443124081747">
         <mark key="'" line="67" column="20" />
@@ -1160,43 +1164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1183" column="0" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" />
-      <jump line="1221" column="20" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" />
-      <jump line="1228" column="0" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" />
-      <jump line="239" column="30" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="196" column="22" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" />
-      <jump line="364" column="33" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="81" column="8" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="439" column="8" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="383" column="8" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="38" column="7" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="10" column="10" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="47" column="6" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/tz.py" />
-      <jump line="352" column="14" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="34" column="4" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="35" column="29" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="217" column="8" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="376" column="7" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="375" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="366" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="355" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="348" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="45" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="268" column="31" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
       <jump line="251" column="0" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
@@ -1260,13 +1227,50 @@
       <jump line="142" column="19" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
       <jump line="86" column="33" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
       <jump line="60" column="6" filename="$USER_HOME$/Source/platform/tagging/env/lib/python3.4/site-packages/sprockets/mixins/avro_publisher/__init__.py" />
+      <jump line="373" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="378" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="381" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="383" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="390" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="396" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="405" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="406" column="8" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="407" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="409" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="411" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="415" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="417" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="419" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="425" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="427" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="430" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="433" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="438" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="444" column="8" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="445" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="448" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="452" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="556" column="8" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="558" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="974" column="8" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="982" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="985" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="997" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="1012" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="1018" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="1056" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="1062" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="1068" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="1073" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="1078" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
+      <jump line="1093" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ZGVmIHV0Y19ub3coKToKICAgICIiIlJldHVybnMgYSBUWi1hd2FyZSB2ZXJzaW9uIG9mIDptZXRoOmBkYXRldGltZS5kYXRldGltZS51dGNub3dgIiIiCiAgICByZXR1cm4gZGF0ZXRpbWUuZGF0ZXRpbWUudXRjbm93KCkucmVwbGFjZSh0emluZm89aXNvZGF0ZS50emluZm8uVVRDKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydCA9IHV0Y19ub3coKSArIGRhdGV0aW1lLnRpbWVkZWx0YShob3Vycz02KQo=</text>
+      <register name="&quot;" type="4">
+        <text>lib</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3392,7 +3396,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>lib</text>
       </register>
       <register name="/" type="4">
         <text>updated_when_resumed</text>
@@ -3403,41 +3407,41 @@
                 'RRULE:FREQ=DAILY;BYDAY=SA,SU;BYHOUR=12',
             ]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydCA9IHV0Y19ub3coKSArIGRhdGV0aW1lLnRpbWVkZWx0YShob3Vycz02KQo=</text>
+      <register name="1" type="4">
+        <text>lib</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>str</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSB1cmxsaWIucGFyc2UgaW1wb3J0IHVybHNwbGl0Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>schedule</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>Take a row from the database and transform it into s</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="5" type="4">
-        <text>,</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
       </register>
       <register name="7" type="4">
-        <text>'</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="8" type="4">
-        <text>'</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlbCByb3dbJ3NjaGVkdWxlJ10K</text>
+      <register name="9" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -3491,8 +3495,8 @@
         <entry>218</entry>
         <entry>351</entry>
         <entry>229</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
