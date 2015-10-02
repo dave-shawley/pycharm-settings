@@ -400,13 +400,13 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1443813668380">
-        <mark key="a" line="337" column="26" />
-        <mark key="'" line="98" column="26" />
-        <mark key="[" line="101" column="46" />
-        <mark key="]" line="102" column="68" />
-        <mark key="." line="102" column="68" />
-        <mark key="^" line="102" column="68" />
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1443815685406">
+        <mark key="a" line="338" column="26" />
+        <mark key="'" line="98" column="54" />
+        <mark key="[" line="98" column="46" />
+        <mark key="]" line="98" column="65" />
+        <mark key="." line="98" column="65" />
+        <mark key="^" line="98" column="65" />
       </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1431172526789">
         <mark key="'" line="214" column="28" />
@@ -1230,10 +1230,10 @@
       <jump line="115" column="11" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
       <jump line="10" column="35" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="53" column="4" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/sprockets/clients/statsd/__init__.py" />
-      <jump line="98" column="26" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="84" column="6" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/sprockets/mixins/statsd/__init__.py" />
       <jump line="116" column="15" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
       <jump line="189" column="8" filename="$USER_HOME$/opt/lib/python3.5/site-packages/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" />
+      <jump line="98" column="54" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3380,32 +3380,32 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHN0YXRzZF9wcmVmaXggPSBvcy5lbnZpcm9uLmdldCgnU1RBVFNEX1BSRUZJWCcsICdhcHBsaWNhdGlvbi5zY2hlZHVsZXInKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>pass</text>
-      </register>
       <register name="4" type="4">
-        <text>os.environ.get('STATSD_PREFIX', 'application.scheduler'))</text>
+        <text>pass</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">c3RhdHNkX3ByZWZpeCA9IA==</text>
+        <text>os.environ.get('STATSD_PREFIX', 'application.scheduler'))</text>
       </register>
       <register name="6" type="4">
-        <text>pass</text>
+        <text encoding="base64">c3RhdHNkX3ByZWZpeCA9IA==</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text>pass</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIG9zLmVudmlyb24uc2V0ZGVmYXVsdCgnU1RBVFNEX1BSRUZJWCcsICdhcHBsaWNhdGlvbnMuc2NoZWR1bGVyJykK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>os.environ['STATSD_PREFIX'], prefix)</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9zLmVudmlyb25bJ1NUQVRTRF9QUkVGSVgnXSwgJ2FwcGxpY2F0aW9ucy5zY2hlZHVsZXInKQo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
