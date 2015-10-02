@@ -99,6 +99,12 @@
         <mark key="^" line="66" column="40" />
         <mark key="." line="66" column="40" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6" timestamp="1443801961850">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="2630" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5" timestamp="1443734046119">
         <mark key="'" line="3" column="55" />
         <mark key="[" line="7" column="50" />
@@ -1283,8 +1289,8 @@
       <register name="a" type="2">
         <text encoding="base64">ZGVmIHV0Y19ub3coKToKICAgICIiIlJldHVybnMgYSBUWi1hd2FyZSB2ZXJzaW9uIG9mIDptZXRoOmBkYXRldGltZS5kYXRldGltZS51dGNub3dgIiIiCiAgICByZXR1cm4gZGF0ZXRpbWUuZGF0ZXRpbWUudXRjbm93KCkucmVwbGFjZSh0emluZm89aXNvZGF0ZS50emluZm8uVVRDKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IiwgInByb2Nlc3MiOiAiTWFpblByb2Nlc3MiLCAibGluZV9udW1iZXIiOiAxNDQ2LCAidGltZXN0YW1wIjogIjIwMTUtMTAtMDIgMTY6MDM6MDQsODQ0IiwgIm1vZHVsZSI6ICJ3ZWIiLCAiZmlsZSI6ICJ3ZWIucHkiLCAibmFtZSI6ICJ0b3JuYWRvLmFjY2VzcyJ9Cg==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3418,35 +3424,35 @@
       <register name="0" type="2">
         <text encoding="base64">bm93ID0gZGF0ZXRpbWUuZGF0ZXRpbWUubm93KHR6PXB5dHoudGltZXpvbmUoJ1VTL0Vhc3Rlcm4nKSkKcHJpbnQobm93Lmlzb2Zvcm1hdCgpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">IiwgInByb2Nlc3MiOiAiTWFpblByb2Nlc3MiLCAibGluZV9udW1iZXIiOiAxNDQ2LCAidGltZXN0YW1wIjogIjIwMTUtMTAtMDIgMTY6MDM6MDQsODQ0IiwgIm1vZHVsZSI6ICJ3ZWIiLCAiZmlsZSI6ICJ3ZWIucHkiLCAibmFtZSI6ICJ0b3JuYWRvLmFjY2VzcyJ9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="3" type="4">
         <text>pytz.timezone('/etc/localtime'))</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ZGF0ZXV0aWwudHouZ2V0dHooKQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>from</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>import</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGF0ZXV0aWwudGltZQo=</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
       </register>
-      <register name="7" type="4">
-        <text>.timezone())</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZGF0ZXV0aWwudGltZQo=</text>
       </register>
       <register name="8" type="4">
-        <text>'</text>
+        <text>.timezone())</text>
       </register>
       <register name="9" type="4">
         <text>'</text>
