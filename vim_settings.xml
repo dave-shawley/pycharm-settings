@@ -19,11 +19,11 @@
         <mark key="^" line="31" column="64" />
         <mark key="." line="31" column="64" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/docs/metrics.rst" timestamp="1443821120070">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="30" />
-        <mark key="^" line="8" column="30" />
-        <mark key="." line="8" column="30" />
+      <file name="$USER_HOME$/Source/platform/scheduler/docs/metrics.rst" timestamp="1443822884760">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="75" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="14" column="72" />
       </file>
       <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/setup.cfg" timestamp="1442161383495">
         <mark key="'" line="2" column="0" />
@@ -397,7 +397,7 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1443821967779">
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1443822749419">
         <mark key="a" line="340" column="26" />
         <mark key="'" line="98" column="26" />
         <mark key="[" line="104" column="61" />
@@ -1124,7 +1124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="406" column="8" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
       <jump line="407" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
       <jump line="409" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
       <jump line="411" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
@@ -1169,7 +1168,6 @@
       <jump line="82" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="87" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="95" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="103" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="109" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="110" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="124" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
@@ -1207,7 +1205,6 @@
       <jump line="53" column="4" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/sprockets/clients/statsd/__init__.py" />
       <jump line="116" column="12" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/sprockets/mixins/statsd/__init__.py" />
       <jump line="43" column="4" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/sprockets/clients/statsd/__init__.py" />
-      <jump line="98" column="26" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="124" column="14" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
       <jump line="60" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="487" column="12" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1224,13 +1221,16 @@
       <jump line="1756" column="17" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/tornado/web.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
+      <jump line="103" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="98" column="26" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ZGVmIHV0Y19ub3coKToKICAgICIiIlJldHVybnMgYSBUWi1hd2FyZSB2ZXJzaW9uIG9mIDptZXRoOmBkYXRldGltZS5kYXRldGltZS51dGNub3dgIiIiCiAgICByZXR1cm4gZGF0ZXRpbWUuZGF0ZXRpbWUudXRjbm93KCkucmVwbGFjZSh0emluZm89aXNvZGF0ZS50emluZm8uVVRDKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">YXBwbGljYXRpb24uc2NoZWR1bGVyLmNvdW50ZXJzLnNjaGVkdWxlci5oYW5kbGVycy5FdmVudHNIYW5kbGVyLkdFVC4kU1RBVFVTCg==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3356,46 +3356,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>EventHandler.DELETE.$STATUS</text>
       </register>
       <register name="/" type="4">
         <text>updated_when_resumed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YXRzZF91c2VfaG9zdG5hbWUgPSBkaXN0dXRpbHMudXRpbC5zdHJ0b2Jvb2woCg==</text>
+        <text encoding="base64">YXBwbGljYXRpb24uc2NoZWR1bGVyLmNvdW50ZXJzLnNjaGVkdWxlci5oYW5kbGVycy5FdmVudHNIYW5kbGVyLkdFVC4kU1RBVFVTCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>EventHandler.DELETE.$STATUS</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>False</text>
+        <text>GET</text>
       </register>
       <register name="3" type="4">
-        <text>True</text>
+        <text>GET.$STATUS</text>
       </register>
       <register name="4" type="4">
-        <text>get</text>
+        <text>POST</text>
       </register>
       <register name="5" type="4">
-        <text>True</text>
+        <text>s</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>POST</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICBkZWYgdGVzdF90aGF0X3N0YXRzZF91c2VfaG9zdG5hbWVfaXNfZGlzYWJsZWRfYnlfZGVmYXVsdChzZWxmKToKICAgICAgICBvcy5lbnZpcm9uLnBvcCgnU1RBVFNEX1VTRV9IT1NUTkFNRScsIE5vbmUpCiAgICAgICAgYXBwID0gc2VsZi5nZXRfYXBwKCkKICAgICAgICBmb3IgXywgc3BlY3MgaW4gYXBwLmhhbmRsZXJzOgogICAgICAgICAgICBmb3Igc3BlYyBpbiBzcGVjczoKICAgICAgICAgICAgICAgIHBhc3MK</text>
+      <register name="7" type="4">
+        <text>POST</text>
       </register>
       <register name="8" type="4">
-        <text>handlers</text>
+        <text>$HANDLER.$METHOD.$STATUS</text>
       </register>
-      <register name="9" type="4">
-        <text>handl</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
