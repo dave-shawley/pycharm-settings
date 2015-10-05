@@ -398,13 +398,13 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1443822749419">
-        <mark key="a" line="340" column="26" />
-        <mark key="'" line="98" column="26" />
-        <mark key="[" line="104" column="61" />
-        <mark key="]" line="105" column="11" />
-        <mark key="." line="105" column="11" />
-        <mark key="^" line="105" column="11" />
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1444060760741">
+        <mark key="a" line="342" column="26" />
+        <mark key="'" line="166" column="0" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="61" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="106" column="67" />
       </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1431172526789">
         <mark key="'" line="214" column="28" />
@@ -455,13 +455,13 @@
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1431883634285">
         <mark key="'" line="146" column="13" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" timestamp="1443821882616">
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" timestamp="1444060676112">
         <mark key="a" line="120" column="51" />
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="121" column="62" />
-        <mark key="]" line="122" column="63" />
-        <mark key="." line="122" column="63" />
-        <mark key="^" line="122" column="63" />
+        <mark key="[" line="124" column="47" />
+        <mark key="]" line="125" column="47" />
+        <mark key="." line="125" column="47" />
+        <mark key="^" line="125" column="47" />
       </file>
       <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1443654593810">
         <mark key="a" line="178" column="44" />
@@ -1125,13 +1125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="997" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
-      <jump line="1012" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
-      <jump line="1018" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
-      <jump line="1056" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
-      <jump line="1062" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
-      <jump line="1068" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
-      <jump line="1073" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
       <jump line="1078" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
       <jump line="1093" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform/tagging/tagging.py" />
@@ -1204,7 +1197,6 @@
       <jump line="3" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
       <jump line="103" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="106" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="98" column="26" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Source/platform/scheduler/docs/metrics.rst" />
       <jump line="21" column="0" filename="$USER_HOME$/Source/platform/scheduler/docs/metrics.rst" />
       <jump line="27" column="0" filename="$USER_HOME$/Source/platform/scheduler/docs/metrics.rst" />
@@ -1225,13 +1217,21 @@
       <jump line="41" column="0" filename="$USER_HOME$/Source/platform/scheduler/docs/metrics.rst" />
       <jump line="38" column="0" filename="$USER_HOME$/Source/platform/scheduler/docs/metrics.rst" />
       <jump line="10" column="0" filename="$USER_HOME$/Source/platform/scheduler/docs/metrics.rst" />
+      <jump line="118" column="6" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/sprockets/mixins/statsd/__init__.py" />
+      <jump line="115" column="20" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="98" column="54" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/sprockets/mixins/sentry/__init__.py" />
+      <jump line="176" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="171" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="168" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="166" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">YXBwbGljYXRpb24uc2NoZWR1bGVyLmNvdW50ZXJzLnNjaGVkdWxlci5oYW5kbGVycy5FdmVudHNIYW5kbGVyLkdFVC4kU1RBVFVTCmFwcGxpY2F0aW9uLnNjaGVkdWxlci5jb3VudGVycy5zY2hlZHVsZXIuaGFuZGxlcnMuRXZlbnRzSGFuZGxlci5QT1NULiRTVEFUVVMKYXBwbGljYXRpb24uc2NoZWR1bGVyLmNvdW50ZXJzLnNjaGVkdWxlci5oYW5kbGVycy5FdmVudHNIYW5kbGVyLkRFTEVURS4kU1RBVFVTCmFwcGxpY2F0aW9uLnNjaGVkdWxlci5jb3VudGVycy5zY2hlZHVsZXIuaGFuZGxlcnMuRXZlbnRIYW5kbGVyLkdFVC4kU1RBVFVTCmFwcGxpY2F0aW9uLnNjaGVkdWxlci5jb3VudGVycy5zY2hlZHVsZXIuaGFuZGxlcnMuRXZlbnRIYW5kbGVyLkRFTEVURS4kU1RBVFVTCmFwcGxpY2F0aW9uLnNjaGVkdWxlci5jb3VudGVycy5zY2hlZHVsZXIuaGFuZGxlcnMuUlBDSGFuZGxlci5QT1NULiRTVEFUVVMK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlbnRyeV90YWdzWydoYW5kbGVyJ10gPSBzZWxmLl9fY2xhc3NfXy5fX25hbWVfXwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3389,8 +3389,8 @@
       <register name="0" type="4">
         <text encoding="base64">CmFwcGxpY2F0aW9uLnNjaGVkdWxlci5jb3VudGVycy5zY2hlZHVsZXIuaGFuZGxlcnMuRXZlbnRzSGFuZGxlci5HRVQuJFNUQVRVUwp+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn4KUmVjb3JkcyB0aGUgcmVzdWx0IG9mIHNlYXJjaGluZyBmb3IgZXZlbnRzLgoKYXBwbGljYXRpb24uc2NoZWR1bGVyLmNvdW50ZXJzLnNjaGVkdWxlci5oYW5kbGVycy5FdmVudHNIYW5kbGVyLlBPU1QuJFNUQVRVUwp+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+ClJlY29yZHMgdGhlIHJlc3VsdCBvZiBhZGRpbmcgbmV3IGV2ZW50cyB0byB0aGUgc3lzdGVtLgoKYXBwbGljYXRpb24uc2NoZWR1bGVyLmNvdW50ZXJzLnNjaGVkdWxlci5oYW5kbGVycy5FdmVudHNIYW5kbGVyLkRFTEVURS4kU1RBVFVTCn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fgpSZWNvcmRzIHRoZSByZXN1bHQgb2YgcmVtb3ZpbmcgZXZlbnRzIGJhc2VkIG9uIHRoZSByZXN1bHQgb2Ygc2VhcmNoaW5nLgoKYXBwbGljYXRpb24uc2NoZWR1bGVyLmNvdW50ZXJzLnNjaGVkdWxlci5oYW5kbGVycy5FdmVudEhhbmRsZXIuR0VULiRTVEFUVVMKfn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn4KUmVjb3JkcyB0aGUgcmVzdWx0IG9mIHJldHJpZXZpbmcgYSBzaW5nbGUgZXZlbnQuICBDcmVhdGluZyBhIG5ldyBldmVudApyZXN1bHRzIGluIGEgInJlZGlyZWN0IiB0byByZXRyaWV2ZSB0aGUgZXZlbnQgZnJvbSB0aGlzIGVuZHBvaW50LgoKYXBwbGljYXRpb24uc2NoZWR1bGVyLmNvdW50ZXJzLnNjaGVkdWxlci5oYW5kbGVycy5FdmVudEhhbmRsZXIuREVMRVRFLiRTVEFUVVMKfn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn4KUmVjb3JkcyB0aGUgcmVzdWx0IG9mIHJlbW92aW5nIGEgc2luZ2xlIGV2ZW50IGdpdmVuIGl0J3MgdW5pcXVlIGlkZW50aWZpZXIuClRoaXMgZW5kcG9pbnQgKmlzIG5vdCogdXNlZCB3aGVuIHJlbW92aW5nIGV2ZW50cyBiYXNlZCBvbiB0aGUgcmVzdWx0IG9mIGEKc2VhcmNoIChlLmcuLCBieSB0YWdzKS4KCmFwcGxpY2F0aW9uLnNjaGVkdWxlci5jb3VudGVycy5zY2hlZHVsZXIuaGFuZGxlcnMuUlBDSGFuZGxlci5QT1NULiRTVEFUVVMKfn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fgpSZWNvcmRzIHRoZSByZXN1bHQgb2YgcGF1c2luZyBvciByZXN1bWluZyBldmVudHMgdXNpbmcgYSBzZWFyY2guCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlbnRyeV90YWdzWydoYW5kbGVyJ10gPSBzZWxmLl9fY2xhc3NfXy5fX25hbWVfXwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3430,7 +3430,7 @@
         <text>wwww</text>
       </register>
       <register name="7" type="4">
-        <text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</text>
+        <text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</text>
       </register>
       <register name="8" type="4">
         <text>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</text>
