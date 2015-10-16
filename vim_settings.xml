@@ -390,6 +390,9 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="20" />
       </file>
+      <file name="$USER_HOME$/Source/platform/campaign/campaign.py" timestamp="1445015492221">
+        <mark key="'" line="406" column="28" />
+      </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/blocking_connection.py" timestamp="1423053523371">
         <mark key="'" line="305" column="28" />
       </file>
@@ -1155,8 +1158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="501" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="496" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="492" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="483" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="481" column="72" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1255,6 +1256,8 @@
       <jump line="370" column="29" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="67" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="517" column="20" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
+      <jump line="406" column="28" filename="$USER_HOME$/Source/platform/campaign/campaign.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
