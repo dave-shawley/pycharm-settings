@@ -26,6 +26,9 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1442404772286">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/setup.cfg" timestamp="1442161383495">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="5" column="15" />
@@ -129,6 +132,9 @@
         <mark key="]" line="16" column="20" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="11" column="40" />
+      </file>
+      <file name="/" timestamp="1436701703073">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2" timestamp="1443558870347">
         <mark key="'" line="2" column="0" />
@@ -387,6 +393,9 @@
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/blocking_connection.py" timestamp="1423053523371">
         <mark key="'" line="305" column="28" />
       </file>
+      <file name="/PostgresPLSQL Fragment (scheduler.sql:9650).sql" timestamp="1443037963080">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/cli/note.py" timestamp="1408708844242">
         <mark key="'" line="69" column="28" />
         <mark key="[" line="33" column="0" />
@@ -394,13 +403,13 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1445007934364">
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1445010976721">
         <mark key="a" line="342" column="26" />
         <mark key="'" line="98" column="54" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="61" />
-        <mark key="." line="107" column="0" />
-        <mark key="^" line="106" column="67" />
+        <mark key="[" line="396" column="31" />
+        <mark key="]" line="396" column="35" />
+        <mark key="." line="396" column="35" />
+        <mark key="^" line="396" column="35" />
       </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1431172526789">
         <mark key="'" line="214" column="28" />
@@ -492,11 +501,17 @@
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/httpserver.py" timestamp="1434105755040">
         <mark key="'" line="304" column="23" />
       </file>
+      <file name="$APP_CONFIG$/packages.xml" timestamp="1435431998415">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/python/magician/docs/api.rst" timestamp="1437843435839">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="11" column="7" />
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1439137374098">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform/scheduler/foo.py" timestamp="1443620243131">
         <mark key="[" line="39" column="0" />
@@ -625,7 +640,7 @@
         <mark key="^" line="82" column="3" />
         <mark key="." line="82" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1445009591120">
+      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1445011382584">
         <mark key="a" line="373" column="0" />
         <mark key="'" line="0" column="0" />
         <mark key="[" line="372" column="58" />
@@ -678,6 +693,9 @@
       <file name="$USER_HOME$/opt/lib/python3.4/json/decoder.py" timestamp="1432989858806">
         <mark key="'" line="334" column="45" />
       </file>
+      <file name="$APP_CONFIG$/vim_settings.xml" timestamp="1435432129961">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/spec.py" timestamp="1429967841484">
         <mark key="'" line="2777" column="22" />
       </file>
@@ -722,6 +740,12 @@
         <mark key="]" line="174" column="68" />
         <mark key="^" line="151" column="11" />
         <mark key="." line="174" column="68" />
+      </file>
+      <file name="/Python Console" timestamp="1445010996399">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1443559276758">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/work/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" timestamp="1442196098416">
         <mark key="'" line="0" column="0" />
@@ -830,6 +854,9 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
       </file>
+      <file name="_mac/$APP_CONFIG$/keymap.xml" timestamp="1435431960820">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/python/messages/env/lib/python3.4/site-packages/dns/resolver.py" timestamp="1431000085030">
         <mark key="'" line="135" column="67" />
       </file>
@@ -930,6 +957,9 @@
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/windows_events.py" timestamp="1438517317471">
         <mark key="'" line="769" column="44" />
+      </file>
+      <file name="keymaps/Mac OS X 10_5_ copy 1.xml" timestamp="1439295109503">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/Makefile" timestamp="1401362902687">
         <mark key="'" line="3" column="14" />
@@ -1230,8 +1260,8 @@
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgX2hhbmRsZV9leGNlcHRpb24oc2VsZiwgc3RhcnRfdGltZSwgKipkYXRhKToKICAgICAgICBpZiBzZWxmLnNlbnRyeV9jbGllbnQgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuCgogICAgICAgIGt3YXJncyA9IHsKICAgICAgICAgICAgJ2RhdGEnOiB7CiAgICAgICAgICAgICAgICAnbG9nZ2VyJzogc2VsZi5sb2dnZXIubmFtZSwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgJ3RhZ3MnOiB7CiAgICAgICAgICAgICAgICAnaGFuZGxlcic6IHNlbGYuX19jbGFzc19fLl9fbmFtZV9fLAogICAgICAgICAgICAgICAgJ2Vudmlyb25tZW50Jzogb3MuZW52aXJvbi5nZXQoJ0VOVklST05NRU5UJywgTm9uZSksCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICd0aW1lX3NwZW50JzogKCh1dGNfbm93KCkgLSBzdGFydF90aW1lKS50b3RhbF9zZWNvbmRzKCkpLAogICAgICAgIH0KICAgICAgICBrd2FyZ3NbJ2RhdGEnXS51cGRhdGUoZGF0YSkKICAgICAgICBzZWxmLnNlbnRyeV9jbGllbnQuY2FwdHVyZUV4Y2VwdGlvbihUcnVlLCAqKmt3YXJncykK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1dGNfbm93KCkgKyBkYXRldGltZS50aW1lZGVsdGEoaG91cnM9Ni41KSkK</text>
+      <register name="&quot;" type="4">
+        <text>[item['resume_events'] for item in result]</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3381,7 +3411,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.sentry_client)</text>
+        <text>[item['resume_events'] for item in result]</text>
       </register>
       <register name="/" type="4">
         <text>counters</text>
@@ -3389,8 +3419,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGt3YXJnc1snZGF0YSddWydsb2dnZXInXSwgYXBwLl9leGVjdXRvci5sb2dnZXIubmFtZSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1dGNfbm93KCkgKyBkYXRldGltZS50aW1lZGVsdGEoaG91cnM9Ni41KSkK</text>
+      <register name="1" type="4">
+        <text>[item['resume_events'] for item in result]</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3411,32 +3441,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1dGNfbm93KCkgLSBkYXRldGltZS50aW1lZGVsdGEoaG91cnM9NS41KSwK</text>
+      <register name="2" type="4">
+        <text>(now - event['paused_at'])</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRfZGF0ZXRpbWVfYmV0d2Vlbihpbml0aWFsX3RhcmdldF90aW1lLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1dGNfbm93KCkgKyBkYXRldGltZS50aW1lZGVsdGEoaG91cnM9Ni41KSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHJhdmVuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1dGNfbm93KCkgLSBkYXRldGltZS50aW1lZGVsdGEoaG91cnM9NS41KSwK</text>
       </register>
-      <register name="5" type="4">
-        <text>.sentry_client)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRfZGF0ZXRpbWVfYmV0d2Vlbihpbml0aWFsX3RhcmdldF90aW1lLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJhdmVuCg==</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VudHJ5X2NsaWVudCA9IE5vbmUK</text>
+      <register name="7" type="4">
+        <text>.sentry_client)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0YXR0cihhcHBsaWNhdGlvbiwgJ3NlbnRyeV9jbGllbnQnLCBzZW50cnlfY2xpZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VudHJ5X2NsaWVudCA9IE5vbmUK</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
