@@ -406,9 +406,9 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1445019052677">
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1445021064325">
         <mark key="a" line="351" column="26" />
-        <mark key="'" line="73" column="24" />
+        <mark key="'" line="392" column="35" />
         <mark key="[" line="381" column="48" />
         <mark key="]" line="382" column="45" />
         <mark key="^" line="382" column="45" />
@@ -643,13 +643,13 @@
         <mark key="^" line="82" column="3" />
         <mark key="." line="82" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1445019165171">
+      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1445021076583">
         <mark key="a" line="372" column="57" />
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="392" column="8" />
-        <mark key="]" line="392" column="10" />
-        <mark key="." line="392" column="10" />
-        <mark key="^" line="392" column="10" />
+        <mark key="[" line="398" column="43" />
+        <mark key="]" line="398" column="44" />
+        <mark key="." line="398" column="44" />
+        <mark key="^" line="398" column="44" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/static/js/app.js" timestamp="1440808336358">
         <mark key="'" line="21" column="22" />
@@ -1158,8 +1158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Source/platform/scheduler/docs/metrics.rst" />
-      <jump line="21" column="0" filename="$USER_HOME$/Source/platform/scheduler/docs/metrics.rst" />
       <jump line="27" column="0" filename="$USER_HOME$/Source/platform/scheduler/docs/metrics.rst" />
       <jump line="37" column="0" filename="$USER_HOME$/Source/platform/scheduler/docs/metrics.rst" />
       <jump line="8" column="0" filename="$USER_HOME$/Source/platform/scheduler/docs/metrics.rst" />
@@ -1258,13 +1256,15 @@
       <jump line="59" column="8" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="73" column="24" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="351" column="26" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="392" column="35" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="193" column="8" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgX2hhbmRsZV9leGNlcHRpb24oc2VsZiwgc3RhcnRfdGltZSwgKipkYXRhKToKICAgICAgICBpZiBzZWxmLnNlbnRyeV9jbGllbnQgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuCgogICAgICAgIGt3YXJncyA9IHsKICAgICAgICAgICAgJ2RhdGEnOiB7CiAgICAgICAgICAgICAgICAnbG9nZ2VyJzogc2VsZi5sb2dnZXIubmFtZSwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgJ3RhZ3MnOiB7CiAgICAgICAgICAgICAgICAnaGFuZGxlcic6IHNlbGYuX19jbGFzc19fLl9fbmFtZV9fLAogICAgICAgICAgICAgICAgJ2Vudmlyb25tZW50Jzogb3MuZW52aXJvbi5nZXQoJ0VOVklST05NRU5UJywgTm9uZSksCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICd0aW1lX3NwZW50JzogKCh1dGNfbm93KCkgLSBzdGFydF90aW1lKS50b3RhbF9zZWNvbmRzKCkpLAogICAgICAgIH0KICAgICAgICBrd2FyZ3NbJ2RhdGEnXS51cGRhdGUoZGF0YSkKICAgICAgICBzZWxmLnNlbnRyeV9jbGllbnQuY2FwdHVyZUV4Y2VwdGlvbihUcnVlLCAqKmt3YXJncykK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>start</text>
+        <text encoding="base64">ICsgMSks</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3414,7 +3414,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text encoding="base64">ICsgMSks</text>
       </register>
       <register name="/" type="4">
         <text>counters</text>
@@ -3423,7 +3423,7 @@
         <text encoding="base64">ICAgICAgICBpbml0aWFsX3RhcmdldF90aW1lID0gcmVzcG9uc2UuanNvblsndGFyZ2V0X3RpbWUnXQo=</text>
       </register>
       <register name="1" type="4">
-        <text>start</text>
+        <text encoding="base64">ICsgMSks</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3445,31 +3445,31 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>now</text>
+        <text>) % 60),</text>
       </register>
       <register name="3" type="4">
-        <text>,</text>
+        <text>(</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>start</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnY3JlYXRlZCBldmVudCAlcicsIHJlc3BvbnNlLmpzb24pCg==</text>
+      <register name="5" type="4">
+        <text>now</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnZGVsdGEgJXInLCBkZWx0YSkK</text>
+      <register name="6" type="4">
+        <text>,</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnY3JlYXRlZCBldmVudCAlcicsIHJlc3BvbnNlLmpzb24pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmZyZWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnZGVsdGEgJXInLCBkZWx0YSkK</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
