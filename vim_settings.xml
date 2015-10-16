@@ -26,9 +26,6 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1442404772286">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/setup.cfg" timestamp="1442161383495">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="5" column="15" />
@@ -132,9 +129,6 @@
         <mark key="]" line="16" column="20" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="11" column="40" />
-      </file>
-      <file name="/" timestamp="1436701703073">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2" timestamp="1443558870347">
         <mark key="'" line="2" column="0" />
@@ -393,9 +387,6 @@
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/blocking_connection.py" timestamp="1423053523371">
         <mark key="'" line="305" column="28" />
       </file>
-      <file name="/PostgresPLSQL Fragment (scheduler.sql:9650).sql" timestamp="1443037963080">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/cli/note.py" timestamp="1408708844242">
         <mark key="'" line="69" column="28" />
         <mark key="[" line="33" column="0" />
@@ -403,9 +394,9 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1444060760741">
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1444999353345">
         <mark key="a" line="342" column="26" />
-        <mark key="'" line="166" column="0" />
+        <mark key="'" line="264" column="35" />
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="61" />
         <mark key="." line="107" column="0" />
@@ -468,13 +459,6 @@
         <mark key="." line="125" column="47" />
         <mark key="^" line="125" column="47" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1443654593810">
-        <mark key="a" line="178" column="44" />
-        <mark key="[" line="231" column="0" />
-        <mark key="]" line="231" column="85" />
-        <mark key="." line="231" column="85" />
-        <mark key="^" line="231" column="85" />
-      </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="4" column="38" />
@@ -508,17 +492,11 @@
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/httpserver.py" timestamp="1434105755040">
         <mark key="'" line="304" column="23" />
       </file>
-      <file name="$APP_CONFIG$/packages.xml" timestamp="1435431998415">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/python/magician/docs/api.rst" timestamp="1437843435839">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="11" column="7" />
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1439137374098">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform/scheduler/foo.py" timestamp="1443620243131">
         <mark key="[" line="39" column="0" />
@@ -526,8 +504,8 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" timestamp="1443640817500">
-        <mark key="'" line="1228" column="0" />
+      <file name="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" timestamp="1444999220387">
+        <mark key="'" line="1372" column="11" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/json/scanner.py" timestamp="1432989862614">
         <mark key="'" line="72" column="33" />
@@ -700,9 +678,6 @@
       <file name="$USER_HOME$/opt/lib/python3.4/json/decoder.py" timestamp="1432989858806">
         <mark key="'" line="334" column="45" />
       </file>
-      <file name="$APP_CONFIG$/vim_settings.xml" timestamp="1435432129961">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/spec.py" timestamp="1429967841484">
         <mark key="'" line="2777" column="22" />
       </file>
@@ -747,12 +722,6 @@
         <mark key="]" line="174" column="68" />
         <mark key="^" line="151" column="11" />
         <mark key="." line="174" column="68" />
-      </file>
-      <file name="/Python Console" timestamp="1444067799323">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1443559276758">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/work/sprockets.logging/env/lib/python3.4/site-packages/tornado/web.py" timestamp="1442196098416">
         <mark key="'" line="0" column="0" />
@@ -861,9 +830,6 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
       </file>
-      <file name="_mac/$APP_CONFIG$/keymap.xml" timestamp="1435431960820">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/python/messages/env/lib/python3.4/site-packages/dns/resolver.py" timestamp="1431000085030">
         <mark key="'" line="135" column="67" />
       </file>
@@ -962,9 +928,6 @@
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/windows_events.py" timestamp="1438517317471">
         <mark key="'" line="769" column="44" />
-      </file>
-      <file name="keymaps/Mac OS X 10_5_ copy 1.xml" timestamp="1439295109503">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/Makefile" timestamp="1401362902687">
         <mark key="'" line="3" column="14" />
@@ -1160,9 +1123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="4" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/sprockets/clients/statsd/__init__.py" />
-      <jump line="116" column="12" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/sprockets/mixins/statsd/__init__.py" />
-      <jump line="43" column="4" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/sprockets/clients/statsd/__init__.py" />
       <jump line="124" column="14" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
       <jump line="60" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="487" column="12" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1260,6 +1220,9 @@
       <jump line="474" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="11" column="14" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="264" column="35" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="1372" column="11" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" />
+      <jump line="1327" column="20" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
