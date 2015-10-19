@@ -636,13 +636,13 @@
         <mark key="^" line="82" column="3" />
         <mark key="." line="82" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1445266858177">
+      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1445275053640">
         <mark key="a" line="303" column="0" />
         <mark key="'" line="355" column="0" />
-        <mark key="[" line="304" column="60" />
-        <mark key="]" line="304" column="62" />
-        <mark key="." line="304" column="62" />
-        <mark key="^" line="304" column="62" />
+        <mark key="[" line="311" column="25" />
+        <mark key="]" line="311" column="33" />
+        <mark key="." line="311" column="33" />
+        <mark key="^" line="311" column="33" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/static/js/app.js" timestamp="1440808336358">
         <mark key="'" line="21" column="22" />
@@ -1263,7 +1263,7 @@
         <text encoding="base64">CiAgICBkZWYgX2hhbmRsZV9leGNlcHRpb24oc2VsZiwgc3RhcnRfdGltZSwgKipkYXRhKToKICAgICAgICBpZiBzZWxmLnNlbnRyeV9jbGllbnQgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuCgogICAgICAgIGt3YXJncyA9IHsKICAgICAgICAgICAgJ2RhdGEnOiB7CiAgICAgICAgICAgICAgICAnbG9nZ2VyJzogc2VsZi5sb2dnZXIubmFtZSwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgJ3RhZ3MnOiB7CiAgICAgICAgICAgICAgICAnaGFuZGxlcic6IHNlbGYuX19jbGFzc19fLl9fbmFtZV9fLAogICAgICAgICAgICAgICAgJ2Vudmlyb25tZW50Jzogb3MuZW52aXJvbi5nZXQoJ0VOVklST05NRU5UJywgTm9uZSksCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICd0aW1lX3NwZW50JzogKCh1dGNfbm93KCkgLSBzdGFydF90aW1lKS50b3RhbF9zZWNvbmRzKCkpLAogICAgICAgIH0KICAgICAgICBrd2FyZ3NbJ2RhdGEnXS51cGRhdGUoZGF0YSkKICAgICAgICBzZWxmLnNlbnRyeV9jbGllbnQuY2FwdHVyZUV4Y2VwdGlvbihUcnVlLCAqKmt3YXJncykK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>delay</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3413,7 +3413,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>delay</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dfbWVzc2FnZVw+</text>
@@ -3422,7 +3422,7 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmlvX2xvb3AuYWRkX3RpbWVvdXQoZGF0ZXRpbWUudGltZWRlbHRhKHNlY29uZHM9MS42MTgpLCBzZWxmLnN0b3ApCiAgICAgICAgc2VsZi53YWl0KCkK</text>
       </register>
       <register name="1" type="4">
-        <text>8</text>
+        <text>delay</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3444,31 +3444,31 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>1</text>
+        <text>, now + until_dst)</text>
       </register>
       <register name="3" type="4">
-        <text>6</text>
+        <text>delay</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>8</text>
       </register>
       <register name="5" type="4">
         <text>1</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndhaXQoMy4wKQo=</text>
+      <register name="6" type="4">
+        <text>6</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
       </register>
       <register name="7" type="4">
-        <text>5</text>
+        <text>.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>1</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndhaXQoMy4wKQo=</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
