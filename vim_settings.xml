@@ -3574,13 +3574,13 @@
         <entry>218</entry>
         <entry>351</entry>
         <entry>229</entry>
-        <entry>vsp</entry>
         <entry>s/./~/g</entry>
         <entry>s/./\~/g</entry>
         <entry>.,+25s/counters/timers/g</entry>
         <entry>sp</entry>
         <entry>60</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
         <entry>1</entry>
       </history-cmd>
       <history-expr />
