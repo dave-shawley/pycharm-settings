@@ -399,14 +399,7 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1445255840155">
-        <mark key="a" line="255" column="11" />
-        <mark key="'" line="256" column="22" />
-        <mark key="[" line="256" column="48" />
-        <mark key="]" line="257" column="50" />
-        <mark key="." line="257" column="50" />
-        <mark key="^" line="257" column="50" />
-      </file>
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1445255840155" />
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1431172526789">
         <mark key="'" line="214" column="28" />
       </file>
