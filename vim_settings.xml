@@ -399,9 +399,9 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1445265625125">
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1445278217314">
         <mark key="a" line="191" column="36" />
-        <mark key="'" line="262" column="0" />
+        <mark key="'" line="108" column="26" />
         <mark key="[" line="264" column="70" />
         <mark key="]" line="265" column="29" />
         <mark key="." line="265" column="29" />
@@ -891,9 +891,9 @@
         <mark key="^" line="153" column="21" />
         <mark key="." line="153" column="21" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" timestamp="1445023550297">
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" timestamp="1445278153691">
         <mark key="a" line="176" column="38" />
-        <mark key="'" line="82" column="17" />
+        <mark key="'" line="156" column="27" />
         <mark key="[" line="64" column="21" />
         <mark key="]" line="64" column="29" />
         <mark key="^" line="64" column="29" />
@@ -1157,13 +1157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="68" column="8" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="417" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="412" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="402" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="172" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="217" column="8" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="177" column="20" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="232" column="52" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
       <jump line="107" column="4" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1257,6 +1250,13 @@
       <jump line="282" column="37" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="276" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="272" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="146" column="12" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
+      <jump line="82" column="18" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
+      <jump line="144" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
+      <jump line="156" column="27" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
+      <jump line="671" column="31" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/raven/base.py" />
+      <jump line="108" column="26" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="113" column="6" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/sprockets/mixins/statsd/__init__.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3416,7 +3416,7 @@
         <text>delay</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dfbWVzc2FnZVw+</text>
+        <text>handle_exception</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmlvX2xvb3AuYWRkX3RpbWVvdXQoZGF0ZXRpbWUudGltZWRlbHRhKHNlY29uZHM9MS42MTgpLCBzZWxmLnN0b3ApCiAgICAgICAgc2VsZi53YWl0KCkK</text>
@@ -3475,18 +3475,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dfbWVzc2FnZVw+</last-search>
+      <last-search>handle_exception</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dfbWVzc2FnZVw+</last-pattern>
+      <last-pattern>handle_exception</last-pattern>
       <last-replace>timers</last-replace>
       <last-substitute>counters</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\\</entry>
-        <entry>utcnow</entry>
         <entry>schedule</entry>
         <entry>'schedule'</entry>
         <entry encoding="base64">XDxCWURBWVw+</entry>
@@ -3505,9 +3503,10 @@
         <entry encoding="base64">XDxERUZBVUxUX1RJTUVaT05FXD4=</entry>
         <entry encoding="base64">XDx0aW1lem9uZVw+</entry>
         <entry encoding="base64">XDxsb2dfbWVzc2FnZVw+</entry>
+        <entry>except:</entry>
+        <entry>handle_exception</entry>
       </history-search>
       <history-cmd>
-        <entry>174</entry>
         <entry>we</entry>
         <entry>43</entry>
         <entry>82</entry>
@@ -3526,6 +3525,7 @@
         <entry>60</entry>
         <entry>vsp</entry>
         <entry>w</entry>
+        <entry>141</entry>
         <entry>1</entry>
       </history-cmd>
       <history-expr />
