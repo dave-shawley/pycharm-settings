@@ -399,7 +399,14 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1445255840155" />
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" timestamp="1445260109079">
+        <mark key="a" line="185" column="36" />
+        <mark key="'" line="38" column="7" />
+        <mark key="[" line="122" column="41" />
+        <mark key="]" line="122" column="56" />
+        <mark key="." line="122" column="56" />
+        <mark key="^" line="122" column="56" />
+      </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1431172526789">
         <mark key="'" line="214" column="28" />
       </file>
@@ -1150,10 +1157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="310" column="31" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="52" column="32" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="373" column="32" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="50" column="8" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="380" column="32" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="59" column="8" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="73" column="24" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
@@ -1193,8 +1196,6 @@
       <jump line="413" column="31" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="411" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="401" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="15" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="68" column="8" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
       <jump line="417" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1250,13 +1251,19 @@
       <jump line="18" column="10" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="41" column="4" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="316" column="31" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
+      <jump line="38" column="7" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgX2hhbmRsZV9leGNlcHRpb24oc2VsZiwgc3RhcnRfdGltZSwgKipkYXRhKToKICAgICAgICBpZiBzZWxmLnNlbnRyeV9jbGllbnQgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuCgogICAgICAgIGt3YXJncyA9IHsKICAgICAgICAgICAgJ2RhdGEnOiB7CiAgICAgICAgICAgICAgICAnbG9nZ2VyJzogc2VsZi5sb2dnZXIubmFtZSwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgJ3RhZ3MnOiB7CiAgICAgICAgICAgICAgICAnaGFuZGxlcic6IHNlbGYuX19jbGFzc19fLl9fbmFtZV9fLAogICAgICAgICAgICAgICAgJ2Vudmlyb25tZW50Jzogb3MuZW52aXJvbi5nZXQoJ0VOVklST05NRU5UJywgTm9uZSksCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICd0aW1lX3NwZW50JzogKCh1dGNfbm93KCkgLSBzdGFydF90aW1lKS50b3RhbF9zZWNvbmRzKCkpLAogICAgICAgIH0KICAgICAgICBrd2FyZ3NbJ2RhdGEnXS51cGRhdGUoZGF0YSkKICAgICAgICBzZWxmLnNlbnRyeV9jbGllbnQuY2FwdHVyZUV4Y2VwdGlvbihUcnVlLCAqKmt3YXJncykK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>saved</text>
+        <text>'America/New_York'</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3406,16 +3413,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>saved</text>
+        <text>'America/New_York'</text>
       </register>
       <register name="/" type="4">
-        <text>utc_now</text>
+        <text>New_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGVuIC0gZGF0ZXRpbWUudGltZWRlbHRhKHNlY29uZHM9NjApLAo=</text>
       </register>
       <register name="1" type="4">
-        <text>saved</text>
+        <text>'America/New_York'</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3436,41 +3443,41 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>,</text>
+        <text>New_York</text>
       </register>
       <register name="4" type="4">
-        <text>-</text>
+        <text>/</text>
       </register>
       <register name="5" type="4">
-        <text>now</text>
+        <text>America</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0YXJnZXRfdGltZSA9IHBhcnNlci5wYXJzZShyZXNwb25zZS5qc29uWyd0YXJnZXRfdGltZSddKQo=</text>
+      <register name="6" type="4">
+        <text>timezone</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHRhcmdldF90aW1lLnR6bmFtZSgpLCAnTkRUJykK</text>
+      <register name="7" type="4">
+        <text>timezone</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmIHJvdy5nZXQoJ3RpbWV6b25lJykgCg==</text>
       </register>
       <register name="9" type="4">
-        <text>datetime.datetime().utcnow().replace(tzinfo=pytz.utc)</text>
+        <text>saved</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>utc_now</last-search>
+      <last-search>New_</last-search>
       <last-offset />
-      <last-pattern>utc_now</last-pattern>
+      <last-pattern>New_</last-pattern>
       <last-replace>timers</last-replace>
       <last-substitute>counters</last-substitute>
       <last-dir>1</last-dir>
@@ -3478,7 +3485,6 @@
     </search>
     <history>
       <history-search>
-        <entry>iumport</entry>
         <entry>import</entry>
         <entry encoding="base64">XDxldmVudF90eXBlXD4=</entry>
         <entry encoding="base64">XDxfc2FuaXRpemVfZXZlbnRcPg==</entry>
@@ -3498,6 +3504,7 @@
         <entry encoding="base64">XDxnZXRfZGF0YWJhc2VfdGltZVw+</entry>
         <entry encoding="base64">XDxfcGFyc2VfcmVxdWVzdFw+</entry>
         <entry>utc_now</entry>
+        <entry>New_</entry>
       </history-search>
       <history-cmd>
         <entry>174</entry>
