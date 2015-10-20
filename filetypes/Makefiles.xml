@@ -10,8 +10,8 @@
     <keywords ignore_case="false" />
   </highlighting>
   <extensionMap>
-    <mapping pattern="Makefile" />
     <mapping pattern="GNUmakefile" />
+    <mapping pattern="Makefile" />
     <mapping pattern="GNUMakefile" />
   </extensionMap>
 </filetype>
