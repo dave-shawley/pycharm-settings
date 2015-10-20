@@ -39,12 +39,6 @@
       <file name="$USER_HOME$/Source/python/haregel/haregel/application.py" timestamp="1424434445035">
         <mark key="'" line="30" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/python/glinda/docs/changelog.rst" timestamp="1439138971282">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="12" />
-        <mark key="^" line="6" column="12" />
-        <mark key="." line="6" column="12" />
-      </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/connection.py" timestamp="1430307116938">
         <mark key="'" line="619" column="23" />
       </file>
@@ -65,20 +59,8 @@
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/ietfparse/datastructures.py" timestamp="1432339854427">
         <mark key="'" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/tagging/tests.py" timestamp="1443730511295">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="16" />
-        <mark key="." line="11" column="16" />
-        <mark key="^" line="11" column="16" />
-      </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/tasks.py" timestamp="1438519549469">
         <mark key="'" line="70" column="26" />
-      </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/requires/installation.txt" timestamp="1443183652733">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="29" />
-        <mark key="." line="7" column="29" />
-        <mark key="^" line="7" column="29" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/logging/__init__.py" timestamp="1442190372901">
         <mark key="'" line="1406" column="22" />
@@ -111,12 +93,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="27" column="46" />
         <mark key="." line="28" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6" timestamp="1443801961850">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="2630" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5" timestamp="1443734046119">
         <mark key="'" line="3" column="55" />
@@ -166,12 +142,6 @@
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1431285143532">
         <mark key="'" line="98" column="14" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/env/lib/python2.7/site-packages/sprockets/http/runner.py" timestamp="1443121185168">
-        <mark key="[" line="90" column="37" />
-        <mark key="]" line="90" column="53" />
-        <mark key="^" line="90" column="53" />
-        <mark key="." line="90" column="53" />
-      </file>
       <file name="$USER_HOME$/Source/python/fluent-test/doc/api.rst" timestamp="1409831257709">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="6" column="26" />
@@ -191,12 +161,6 @@
       </file>
       <file name="$USER_HOME$/Source/platform/scheduler/env/lib/python2.7/site-packages/tornado/testing.py" timestamp="1442929037660">
         <mark key="'" line="379" column="25" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/static/index.html" timestamp="1434900890470">
-        <mark key="[" line="12" column="36" />
-        <mark key="]" line="12" column="47" />
-        <mark key="^" line="12" column="47" />
-        <mark key="." line="12" column="47" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/selectors.py" timestamp="1438534721128">
         <mark key="'" line="532" column="22" />
@@ -356,6 +320,9 @@
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/web.py" timestamp="1431175512417">
         <mark key="'" line="1862" column="42" />
       </file>
+      <file name="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/queries/tornado_session.py" timestamp="1445353690068">
+        <mark key="'" line="202" column="20" />
+      </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/futures.py" timestamp="1438437135080">
         <mark key="'" line="252" column="0" />
       </file>
@@ -446,12 +413,6 @@
         <mark key="^" line="117" column="63" />
         <mark key="." line="117" column="63" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/docs/index.rst" timestamp="1437841982025">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="7" column="10" />
-        <mark key="^" line="7" column="10" />
-        <mark key="." line="7" column="10" />
-      </file>
       <file name="$USER_HOME$/Source/python/glinda/docs/content.rst" timestamp="1439140143286">
         <mark key="'" line="107" column="0" />
         <mark key="[" line="125" column="72" />
@@ -516,20 +477,8 @@
       <file name="$APP_CONFIG$/packages.xml" timestamp="1435431998415">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/docs/api.rst" timestamp="1437843435839">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="11" column="7" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="11" column="7" />
-      </file>
       <file name="/Dummy.txt" timestamp="1439137374098">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/foo.py" timestamp="1443620243131">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="40" column="0" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/dateutil/rrule.py" timestamp="1444999220387">
         <mark key="'" line="1372" column="11" />
@@ -639,12 +588,6 @@
         <mark key="^" line="26" column="39" />
         <mark key="." line="26" column="39" />
       </file>
-      <file name="$USER_HOME$/Source/python/readit2/readit/handlers.py" timestamp="1440936109398">
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="240" column="0" />
-        <mark key="^" line="239" column="26" />
-        <mark key="." line="240" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/python/ietfparse/docs/urls.rst" timestamp="1411922099037">
         <mark key="'" line="51" column="0" />
         <mark key="[" line="81" column="71" />
@@ -652,13 +595,13 @@
         <mark key="^" line="82" column="3" />
         <mark key="." line="82" column="3" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1445281246750">
+      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1445352977066">
         <mark key="a" line="413" column="36" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="278" column="38" />
-        <mark key="]" line="280" column="42" />
-        <mark key="." line="280" column="42" />
-        <mark key="^" line="280" column="42" />
+        <mark key="'" line="297" column="0" />
+        <mark key="[" line="237" column="57" />
+        <mark key="]" line="238" column="29" />
+        <mark key="." line="238" column="29" />
+        <mark key="^" line="238" column="29" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/static/js/app.js" timestamp="1440808336358">
         <mark key="'" line="21" column="22" />
@@ -734,18 +677,6 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
-      <file name="$USER_HOME$/Source/platform/sprockets.http/docs/api.rst" timestamp="1443103837624">
-        <mark key="[" line="14" column="61" />
-        <mark key="]" line="15" column="28" />
-        <mark key="." line="15" column="28" />
-        <mark key="^" line="15" column="28" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/static/js/login.js" timestamp="1440808265308">
-        <mark key="[" line="22" column="36" />
-        <mark key="]" line="22" column="36" />
-        <mark key="^" line="25" column="11" />
-        <mark key="." line="22" column="41" />
-      </file>
       <file name="$USER_HOME$/Source/python/glinda/tests/example_test.py" timestamp="1439033678072">
         <mark key="'" line="36" column="0" />
       </file>
@@ -803,12 +734,6 @@
         <mark key="^" line="49" column="40" />
         <mark key="." line="49" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/platform/sprockets.http/docs/history.rst" timestamp="1443120573903">
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-        <mark key="^" line="7" column="20" />
-      </file>
       <file name="$USER_HOME$/Source/python/zender/setup.py" timestamp="1416699635907">
         <mark key="'" line="35" column="11" />
       </file>
@@ -856,12 +781,6 @@
         <mark key="^" line="46" column="52" />
         <mark key="." line="46" column="52" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/docs/index.rst" timestamp="1443820712997">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="6" column="9" />
-        <mark key="^" line="6" column="9" />
-        <mark key="." line="6" column="9" />
-      </file>
       <file name="$USER_HOME$/Source/python/ietfparse/ietfparse/errors.py" timestamp="1429475409627">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="21" column="7" />
@@ -908,9 +827,9 @@
         <mark key="^" line="153" column="21" />
         <mark key="." line="153" column="21" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" timestamp="1445291405428">
+      <file name="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" timestamp="1445353685467">
         <mark key="a" line="176" column="38" />
-        <mark key="'" line="140" column="8" />
+        <mark key="'" line="105" column="36" />
         <mark key="[" line="64" column="21" />
         <mark key="]" line="64" column="29" />
         <mark key="^" line="64" column="29" />
@@ -921,12 +840,6 @@
       </file>
       <file name="$USER_HOME$/opt/pypy3-2.4.0-osx64/lib-python/3/urllib/parse.py" timestamp="1420898560180">
         <mark key="'" line="583" column="25" />
-      </file>
-      <file name="$USER_HOME$/Source/python/glinda/examples/contentneg.py" timestamp="1439138730671">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/events.py" timestamp="1438549368121">
         <mark key="'" line="378" column="13" />
@@ -1079,12 +992,6 @@
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="51" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/docs/changelog.rst" timestamp="1442161775708">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="57" />
-        <mark key="^" line="4" column="57" />
-        <mark key="." line="4" column="57" />
-      </file>
       <file name="$USER_HOME$/opt/lib/python3.4/distutils/command/bdist.py" timestamp="1416145909988">
         <mark key="'" line="112" column="0" />
       </file>
@@ -1143,12 +1050,6 @@
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/base_connection.py" timestamp="1430073332187">
         <mark key="'" line="123" column="25" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/requires/installation.txt" timestamp="1442055347714">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-        <mark key="." line="1" column="9" />
-      </file>
       <file name="$USER_HOME$/opt/lib/python2.7/distutils/log.py" timestamp="1419856618754">
         <mark key="'" line="51" column="18" />
       </file>
@@ -1181,11 +1082,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="224" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="235" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="241" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="245" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="261" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="268" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="264" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1281,13 +1177,18 @@
       <jump line="149" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="144" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="140" column="8" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
+      <jump line="297" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
+      <jump line="121" column="37" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
+      <jump line="105" column="36" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
+      <jump line="202" column="20" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/queries/tornado_session.py" />
+      <jump line="342" column="4" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/queries/tornado_session.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgX2hhbmRsZV9leGNlcHRpb24oc2VsZiwgc3RhcnRfdGltZSwgKipkYXRhKToKICAgICAgICBpZiBzZWxmLnNlbnRyeV9jbGllbnQgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuCgogICAgICAgIGt3YXJncyA9IHsKICAgICAgICAgICAgJ2RhdGEnOiB7CiAgICAgICAgICAgICAgICAnbG9nZ2VyJzogc2VsZi5sb2dnZXIubmFtZSwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgJ3RhZ3MnOiB7CiAgICAgICAgICAgICAgICAnaGFuZGxlcic6IHNlbGYuX19jbGFzc19fLl9fbmFtZV9fLAogICAgICAgICAgICAgICAgJ2Vudmlyb25tZW50Jzogb3MuZW52aXJvbi5nZXQoJ0VOVklST05NRU5UJywgTm9uZSksCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICd0aW1lX3NwZW50JzogKCh1dGNfbm93KCkgLSBzdGFydF90aW1lKS50b3RhbF9zZWNvbmRzKCkpLAogICAgICAgIH0KICAgICAgICBrd2FyZ3NbJ2RhdGEnXS51cGRhdGUoZGF0YSkKICAgICAgICBzZWxmLnNlbnRyeV9jbGllbnQuY2FwdHVyZUV4Y2VwdGlvbihUcnVlLCAqKmt3YXJncykK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>S</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3437,16 +3338,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaGFuZGxlX2V4Y2VwdGlvblw+</text>
+        <text>obeys_schedule</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Li4gXzAuNi4wOiBodHRwczovL2dpdGh1Yi5hd2ViZXIuaW8vUGxhdGZvcm0vc2NoZWR1bGVyL2NvbXBhcmUvMC41LjAuLi4wLjYuMAo=</text>
       </register>
       <register name="1" type="4">
-        <text>:</text>
+        <text>S</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3468,48 +3369,47 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>_</text>
+        <text>U</text>
       </register>
       <register name="3" type="4">
-        <text>[</text>
+        <text>,</text>
       </register>
       <register name="4" type="4">
-        <text>]</text>
+        <text encoding="base64">b25seSA=</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
+        <text encoding="base64">c3VuZGF5IA==</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="w" type="4">
         <text>wwww</text>
       </register>
       <register name="7" type="4">
-        <text>6</text>
+        <text>,</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>U</text>
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text>S</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfaGFuZGxlX2V4Y2VwdGlvblw+</last-search>
+      <last-search>obeys_schedule</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaGFuZGxlX2V4Y2VwdGlvblw+</last-pattern>
+      <last-pattern>obeys_schedule</last-pattern>
       <last-replace>timers</last-replace>
       <last-substitute>counters</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCWURBWVw+</entry>
         <entry>'schedule</entry>
         <entry>updated_when_resumed</entry>
         <entry>.</entry>
@@ -3529,6 +3429,7 @@
         <entry encoding="base64">XDxweXR6XD4=</entry>
         <entry encoding="base64">XDxERUZBVUxUX1RJTUVaT05FXD4=</entry>
         <entry encoding="base64">XDxfaGFuZGxlX2V4Y2VwdGlvblw+</entry>
+        <entry>obeys_schedule</entry>
       </history-search>
       <history-cmd>
         <entry>82</entry>
@@ -3549,8 +3450,8 @@
         <entry>126</entry>
         <entry>254</entry>
         <entry>wq</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
