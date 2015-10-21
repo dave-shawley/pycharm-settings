@@ -409,6 +409,9 @@
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1431883634285">
         <mark key="'" line="146" column="13" />
       </file>
+      <file name="$USER_HOME$/Source/platform/ruleset/tests/test_change_rule_state.py" timestamp="1445435202164">
+        <mark key="'" line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="4" column="38" />
@@ -453,6 +456,13 @@
       </file>
       <file name="/Dummy.txt" timestamp="1439137374098">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/ruleset/tests/test_change_event_states.py" timestamp="1445435402338">
+        <mark key="'" line="2" column="40" />
+        <mark key="[" line="2" column="41" />
+        <mark key="]" line="2" column="41" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="2" column="41" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/json/scanner.py" timestamp="1432989862614">
         <mark key="'" line="72" column="33" />
@@ -1035,21 +1045,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="0" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
-      <jump line="227" column="0" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
-      <jump line="247" column="57" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
-      <jump line="250" column="45" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
-      <jump line="717" column="4" filename="$USER_HOME$/opt/lib/python3.4/_collections_abc.py" />
-      <jump line="693" column="10" filename="$USER_HOME$/opt/lib/python3.4/_collections_abc.py" />
-      <jump line="688" column="19" filename="$USER_HOME$/opt/lib/python3.4/_collections_abc.py" />
-      <jump line="602" column="11" filename="$USER_HOME$/opt/lib/python3.4/_collections_abc.py" />
-      <jump line="601" column="8" filename="$USER_HOME$/opt/lib/python3.4/_collections_abc.py" />
-      <jump line="531" column="10" filename="$USER_HOME$/opt/lib/python3.4/_collections_abc.py" />
-      <jump line="525" column="38" filename="$USER_HOME$/opt/lib/python3.4/_collections_abc.py" />
-      <jump line="479" column="0" filename="$USER_HOME$/opt/lib/python3.4/_collections_abc.py" />
-      <jump line="469" column="15" filename="$USER_HOME$/opt/lib/python3.4/_collections_abc.py" />
-      <jump line="158" column="26" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/tests.py" />
-      <jump line="133" column="0" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/tests.py" />
       <jump line="24" column="18" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
       <jump line="258" column="0" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
       <jump line="235" column="0" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
@@ -1135,13 +1130,28 @@
       <jump line="145" column="0" filename="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/http.py" />
       <jump line="142" column="0" filename="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/http.py" />
       <jump line="126" column="0" filename="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/http.py" />
+      <jump line="14" column="13" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_rule_state.py" />
+      <jump line="49" column="33" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_rule_state.py" />
+      <jump line="48" column="42" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_rule_state.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_event_states.py" />
+      <jump line="0" column="46" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_event_states.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_event_states.py" />
+      <jump line="29" column="4" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_rule_state.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_rule_state.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_rule_state.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_rule_state.py" />
+      <jump line="22" column="4" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_event_states.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_event_states.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_event_states.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_event_states.py" />
+      <jump line="2" column="40" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_event_states.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgcmV2ZXJzZV91cmwoc2VsZiwgbmFtZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB1cmwgPSBzdXBlcihSZWFkaW5ncywgc2VsZikucmV2ZXJzZV91cmwobmFtZSwgKmFyZ3MpCiAgICAgICAgaWYga3dhcmdzLmdldCgnYWJzb2x1dGUnKToKICAgICAgICAgICAgdXJsID0gJ3swfTovL3sxfXsyfScuZm9ybWF0KHNlbGYucmVxdWVzdC5wcm90b2NvbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdC5ob3N0LCB1cmwpCiAgICAgICAgcmV0dXJuIHVybAoKICAgIGRlZiBnZXRfbG9naW5fdXJsKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJldmVyc2VfdXJsKCdsb2dpbicsIGFic29sdXRlPVRydWUpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgYmluX3VzZXJfaWQgPSBzZWxmLmdldF9zZWN1cmVfY29va2llKCd1c2VyaWQnKQogICAgICAgIGlmIGJpbl91c2VyX2lkIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gYmluX3VzZXJfaWQuZGVjb2RlKCd1dGYtOCcpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, http</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3267,34 +3277,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, http</text>
       </register>
       <register name="/" type="4">
-        <text>-</text>
+        <text encoding="base64">XDxtb2Nrc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Li4gXzEuMC40OiBodHRwczovL2dpdGh1Yi5jb20vc3Byb2NrZXRzL3Nwcm9ja2V0cy5taXhpbnMubWVkaWFfdHlwZS9jb21wYXJlLzEuMC4zLi4uMS4wLjQK</text>
+        <text encoding="base64">ICAgIEBnZW4uY29yb3V0aW5lCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, http</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQubG9nZ2VyLmluZm8oJycpCg==</text>
+      <register name="2" type="4">
+        <text>pass</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQubG9nZ2VyLgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnN1bWVyLl9wcm9jZXNzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBodHRwLkhUVFBFcnJvciBhcyBlcnJvcjoKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4937,22 +4947,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGFjdGlvbiA9IE5vbmUK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="4">
-        <text>return False</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnRleHQubG9nZ2VyLmluZm8oJycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>set</last-search>
+      <last-search encoding="base64">XDxtb2Nrc1w+</last-search>
       <last-offset />
-      <last-pattern>-</last-pattern>
+      <last-pattern encoding="base64">XDxtb2Nrc1w+</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>-1</last-dir>
@@ -4960,7 +4970,6 @@
     </search>
     <history>
       <history-search>
-        <entry>return self</entry>
         <entry>statuc_url</entry>
         <entry>static_url</entry>
         <entry>class</entry>
@@ -4980,6 +4989,7 @@
         <entry encoding="base64">XDxjb21wYXRpYmlsaXR5XD4=</entry>
         <entry>set</entry>
         <entry>-</entry>
+        <entry encoding="base64">XDxtb2Nrc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>306</entry>
@@ -4995,11 +5005,11 @@
         <entry>2</entry>
         <entry>22</entry>
         <entry>174</entry>
-        <entry>vsp</entry>
         <entry>250</entry>
         <entry>s/-/=/g</entry>
         <entry>e!</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
         <entry>sp</entry>
         <entry>1</entry>
       </history-cmd>
