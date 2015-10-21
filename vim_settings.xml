@@ -425,6 +425,9 @@
       <file name="$USER_HOME$/Source/platform/ruleset/tests/test_change_rule_state.py" timestamp="1445435202164">
         <mark key="'" line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1445456818354">
+        <mark key="'" line="194" column="17" />
+      </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="4" column="38" />
@@ -1059,7 +1062,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="246" column="0" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
       <jump line="243" column="0" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
       <jump line="240" column="0" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
       <jump line="238" column="0" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
@@ -1159,6 +1161,7 @@
       <jump line="91" column="26" filename="$USER_HOME$/Source/platform/ruleset/ruleset/schedule/action.py" />
       <jump line="164" column="4" filename="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/http.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Source/platform/ruleset/tests/__init__.py" />
+      <jump line="194" column="17" filename="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3294,7 +3297,7 @@
         <text>response.json()['id']</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2Nrc1w+</text>
+        <text>select_events</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICBAdGVzdGluZy5nZW5fdGVzdAogICAgZGVmIHRlc3RfdGhhdF9ldmVudHNfYXJlX3Jlc3VtZWRfd2hlbl9zdGF0ZV9pc19kcmFpbmluZyhzZWxmKToKICAgICAgICBldmVudF9pZCA9IHNlbGYuY3JlYXRlX2V2ZW50KCkKICAgICAgICBzZWxmLnBhdXNlX2V2ZW50cygpCiAgICAgICAgcmVzdWx0ID0geWllbGQgY2hhbmdlX2V2ZW50X3N0YXRlc192MShzZWxmLmNvbnRleHQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBydWxlc2V0PXNlbGYucnVsZXNldCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdkcmFpbmluZycpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXN1bHQsIFRydWUpCgogICAgICAgIHJlc3VsdCA9IHJlcXVlc3RzLmdldCgKICAgICAgICAgICAgc2VsZi5jb250ZXh0LmdldF9zZXJ2aWNlX3VybCgnc2NoZWR1bGVyJywgJ2V2ZW50JywgZXZlbnRfaWQpKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzdWx0LnN0YXR1c19jb2RlLCAyMDApCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXN1bHQuanNvbigpWydzdGF0ZSddLCAnc2NoZWR1bGVkJykK</text>
@@ -4974,17 +4977,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb2Nrc1w+</last-search>
+      <last-search>select_events</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2Nrc1w+</last-pattern>
+      <last-pattern>select_events</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>-</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>statuc_url</entry>
         <entry>static_url</entry>
         <entry>class</entry>
         <entry>query_</entry>
@@ -5004,6 +5006,7 @@
         <entry>set</entry>
         <entry>-</entry>
         <entry encoding="base64">XDxtb2Nrc1w+</entry>
+        <entry>select_events</entry>
       </history-search>
       <history-cmd>
         <entry>375</entry>
