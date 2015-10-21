@@ -903,8 +903,8 @@
       <file name="$USER_HOME$/opt/lib/python3.4/distutils/core.py" timestamp="1416700912892">
         <mark key="'" line="98" column="16" />
       </file>
-      <file name="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/http.py" timestamp="1445372666247">
-        <mark key="'" line="131" column="36" />
+      <file name="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/http.py" timestamp="1445433094935">
+        <mark key="'" line="126" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/static/style.css" timestamp="1434900636266">
         <mark key="'" line="40" column="0" />
@@ -1035,14 +1035,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="416" column="9" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/env/lib/python3.4/site-packages/umsgpack.py" />
-      <jump line="406" column="11" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/env/lib/python3.4/site-packages/umsgpack.py" />
-      <jump line="370" column="9" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/env/lib/python3.4/site-packages/umsgpack.py" />
-      <jump line="368" column="9" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/env/lib/python3.4/site-packages/umsgpack.py" />
-      <jump line="358" column="11" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/env/lib/python3.4/site-packages/umsgpack.py" />
-      <jump line="210" column="59" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/env/lib/python3.4/site-packages/umsgpack.py" />
-      <jump line="221" column="7" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
-      <jump line="223" column="0" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
       <jump line="231" column="0" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
       <jump line="227" column="0" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
       <jump line="247" column="57" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
@@ -1135,6 +1127,14 @@
       <jump line="48" column="10" filename="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/http.py" />
       <jump line="131" column="36" filename="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/http.py" />
       <jump line="205" column="8" filename="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/tornado/httpclient.py" />
+      <jump line="173" column="0" filename="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/http.py" />
+      <jump line="167" column="0" filename="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/http.py" />
+      <jump line="162" column="0" filename="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/http.py" />
+      <jump line="156" column="0" filename="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/http.py" />
+      <jump line="150" column="0" filename="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/http.py" />
+      <jump line="145" column="0" filename="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/http.py" />
+      <jump line="142" column="0" filename="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/http.py" />
+      <jump line="126" column="0" filename="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/http.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
