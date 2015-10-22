@@ -29,12 +29,11 @@
       <file name="$USER_HOME$/Source/python/haregel/haregel/application.py" timestamp="1424434445035">
         <mark key="'" line="30" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/platform/ruleset/tests/test_recipient.py" timestamp="1445517504355">
-        <mark key="'" line="59" column="23" />
-        <mark key="[" line="21" column="55" />
-        <mark key="]" line="22" column="39" />
-        <mark key="^" line="22" column="39" />
-        <mark key="." line="22" column="39" />
+      <file name="$USER_HOME$/Source/platform/ruleset/tests/test_recipient.py" timestamp="1445520457458">
+        <mark key="'" line="58" column="23" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/glinda/docs/changelog.rst" timestamp="1439138971282">
         <mark key="[" line="6" column="9" />
@@ -1171,8 +1170,8 @@
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgcmV2ZXJzZV91cmwoc2VsZiwgbmFtZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB1cmwgPSBzdXBlcihSZWFkaW5ncywgc2VsZikucmV2ZXJzZV91cmwobmFtZSwgKmFyZ3MpCiAgICAgICAgaWYga3dhcmdzLmdldCgnYWJzb2x1dGUnKToKICAgICAgICAgICAgdXJsID0gJ3swfTovL3sxfXsyfScuZm9ybWF0KHNlbGYucmVxdWVzdC5wcm90b2NvbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdC5ob3N0LCB1cmwpCiAgICAgICAgcmV0dXJuIHVybAoKICAgIGRlZiBnZXRfbG9naW5fdXJsKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJldmVyc2VfdXJsKCdsb2dpbicsIGFic29sdXRlPVRydWUpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgYmluX3VzZXJfaWQgPSBzZWxmLmdldF9zZWN1cmVfY29va2llKCd1c2VyaWQnKQogICAgICAgIGlmIGJpbl91c2VyX2lkIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gYmluX3VzZXJfaWQuZGVjb2RlKCd1dGYtOCcpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KCdyZWNpcGllbnRfdXJsJywgcmVjaXBpZW50X3VybCkK</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3306,26 +3305,26 @@
       <register name="0" type="2">
         <text encoding="base64">CiAgICBAdGVzdGluZy5nZW5fdGVzdAogICAgZGVmIHRlc3RfdGhhdF9ldmVudHNfYXJlX3Jlc3VtZWRfd2hlbl9zdGF0ZV9pc19kcmFpbmluZyhzZWxmKToKICAgICAgICBldmVudF9pZCA9IHNlbGYuY3JlYXRlX2V2ZW50KCkKICAgICAgICBzZWxmLnBhdXNlX2V2ZW50cygpCiAgICAgICAgcmVzdWx0ID0geWllbGQgY2hhbmdlX2V2ZW50X3N0YXRlc192MShzZWxmLmNvbnRleHQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBydWxlc2V0PXNlbGYucnVsZXNldCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdkcmFpbmluZycpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXN1bHQsIFRydWUpCgogICAgICAgIHJlc3VsdCA9IHJlcXVlc3RzLmdldCgKICAgICAgICAgICAgc2VsZi5jb250ZXh0LmdldF9zZXJ2aWNlX3VybCgnc2NoZWR1bGVyJywgJ2V2ZW50JywgZXZlbnRfaWQpKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzdWx0LnN0YXR1c19jb2RlLCAyMDApCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXN1bHQuanNvbigpWydzdGF0ZSddLCAnc2NoZWR1bGVkJykK</text>
       </register>
-      <register name="1" type="4">
-        <text>,</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50KCdyZWNpcGllbnRfdXJsJywgcmVjaXBpZW50X3VybCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>,</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNjaGVtZT0naHR0cCcpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>o</text>
       </register>
-      <register name="5" type="4">
-        <text>[</text>
-      </register>
       <register name="6" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>[</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4968,13 +4967,13 @@
         </keys>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">LCA=</text>
+      </register>
+      <register name="8" type="4">
         <text>gen</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBnZW4uY29yb3V0aW5lCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBnZW4uY29yb3V0aW5lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
