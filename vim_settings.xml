@@ -428,8 +428,8 @@
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1431883634285">
         <mark key="'" line="146" column="13" />
       </file>
-      <file name="$USER_HOME$/Source/platform/ruleset/tests/test_change_rule_state.py" timestamp="1445435202164">
-        <mark key="'" line="53" column="0" />
+      <file name="$USER_HOME$/Source/platform/ruleset/tests/test_change_rule_state.py" timestamp="1445522314891">
+        <mark key="'" line="66" column="23" />
       </file>
       <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1445456818354">
         <mark key="'" line="194" column="17" />
@@ -1065,7 +1065,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
       <jump line="27" column="16" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
       <jump line="7" column="64" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
       <jump line="190" column="0" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
@@ -1165,6 +1164,7 @@
       <jump line="29" column="0" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_event_states.py" />
       <jump line="20" column="4" filename="$USER_HOME$/Source/platform/ruleset/tests/test_recipient.py" />
       <jump line="58" column="23" filename="$USER_HOME$/Source/platform/ruleset/tests/test_recipient.py" />
+      <jump line="66" column="23" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_rule_state.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
