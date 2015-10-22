@@ -428,8 +428,10 @@
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/tornado/tcpserver.py" timestamp="1431883634285">
         <mark key="'" line="146" column="13" />
       </file>
-      <file name="$USER_HOME$/Source/platform/ruleset/tests/test_change_rule_state.py" timestamp="1445522314891">
+      <file name="$USER_HOME$/Source/platform/ruleset/tests/test_change_rule_state.py" timestamp="1445530451505">
         <mark key="'" line="66" column="23" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="58" />
       </file>
       <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1445456818354">
         <mark key="'" line="194" column="17" />
@@ -479,13 +481,13 @@
       <file name="/Dummy.txt" timestamp="1439137374098">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/ruleset/tests/test_change_event_states.py" timestamp="1445517168904">
+      <file name="$USER_HOME$/Source/platform/ruleset/tests/test_change_event_states.py" timestamp="1445530455750">
         <mark key="a" line="23" column="0" />
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="31" column="64" />
-        <mark key="]" line="31" column="63" />
-        <mark key="^" line="31" column="63" />
-        <mark key="." line="31" column="63" />
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="58" />
+        <mark key="^" line="117" column="41" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/json/scanner.py" timestamp="1432989862614">
         <mark key="'" line="72" column="33" />
@@ -923,12 +925,10 @@
       <file name="$USER_HOME$/opt/lib/python3.4/asyncore.py" timestamp="1423401242971">
         <mark key="'" line="439" column="17" />
       </file>
-      <file name="$USER_HOME$/Source/platform/ruleset/ruleset/schedule/action.py" timestamp="1445517187125">
-        <mark key="'" line="89" column="18" />
-        <mark key="[" line="90" column="61" />
-        <mark key="]" line="90" column="61" />
-        <mark key="." line="90" column="61" />
-        <mark key="^" line="90" column="61" />
+      <file name="$USER_HOME$/Source/platform/ruleset/ruleset/schedule/action.py" timestamp="1445530361615">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/ioloop.py" timestamp="1442402140847">
         <mark key="'" line="800" column="64" />
@@ -1065,13 +1065,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="16" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
-      <jump line="7" column="64" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
-      <jump line="190" column="0" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
-      <jump line="187" column="0" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
-      <jump line="183" column="0" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
-      <jump line="175" column="0" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
-      <jump line="172" column="0" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
       <jump line="158" column="4" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
       <jump line="229" column="0" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
       <jump line="232" column="0" filename="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" />
@@ -1126,7 +1119,6 @@
       <jump line="0" column="8" filename="$USER_HOME$/Source/platform/ruleset/tests/__init__.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Source/platform/ruleset/tests/__init__.py" />
       <jump line="7" column="8" filename="$USER_HOME$/Source/platform/ruleset/tests/__init__.py" />
-      <jump line="93" column="18" filename="$USER_HOME$/Source/platform/ruleset/ruleset/schedule/action.py" />
       <jump line="61" column="0" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_event_states.py" />
       <jump line="57" column="0" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_event_states.py" />
       <jump line="48" column="0" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_event_states.py" />
@@ -1165,13 +1157,21 @@
       <jump line="20" column="4" filename="$USER_HOME$/Source/platform/ruleset/tests/test_recipient.py" />
       <jump line="58" column="23" filename="$USER_HOME$/Source/platform/ruleset/tests/test_recipient.py" />
       <jump line="66" column="23" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_rule_state.py" />
+      <jump line="69" column="8" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_event_states.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_event_states.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_event_states.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_event_states.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/Source/platform/ruleset/tests/test_change_event_states.py" />
+      <jump line="93" column="31" filename="$USER_HOME$/Source/platform/ruleset/ruleset/schedule/action.py" />
+      <jump line="98" column="26" filename="$USER_HOME$/Source/platform/ruleset/ruleset/schedule/action.py" />
+      <jump line="163" column="0" filename="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/http.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgcmV2ZXJzZV91cmwoc2VsZiwgbmFtZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB1cmwgPSBzdXBlcihSZWFkaW5ncywgc2VsZikucmV2ZXJzZV91cmwobmFtZSwgKmFyZ3MpCiAgICAgICAgaWYga3dhcmdzLmdldCgnYWJzb2x1dGUnKToKICAgICAgICAgICAgdXJsID0gJ3swfTovL3sxfXsyfScuZm9ybWF0KHNlbGYucmVxdWVzdC5wcm90b2NvbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdC5ob3N0LCB1cmwpCiAgICAgICAgcmV0dXJuIHVybAoKICAgIGRlZiBnZXRfbG9naW5fdXJsKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJldmVyc2VfdXJsKCdsb2dpbicsIGFic29sdXRlPVRydWUpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgYmluX3VzZXJfaWQgPSBzZWxmLmdldF9zZWN1cmVfY29va2llKCd1c2VyaWQnKQogICAgICAgIGlmIGJpbl91c2VyX2lkIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gYmluX3VzZXJfaWQuZGVjb2RlKCd1dGYtOCcpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdyZWNpcGllbnRfdXJsJywgcmVjaXBpZW50X3VybCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnN1bWVyLl9wcm9jZXNzLnNlbnRyeV9jbGllbnQgPSBtb2NrLk1vY2soKQo=</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3297,34 +3297,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>get_ser</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBAdGVzdGluZy5nZW5fdGVzdAogICAgZGVmIHRlc3RfdGhhdF9ldmVudHNfYXJlX3Jlc3VtZWRfd2hlbl9zdGF0ZV9pc19kcmFpbmluZyhzZWxmKToKICAgICAgICBldmVudF9pZCA9IHNlbGYuY3JlYXRlX2V2ZW50KCkKICAgICAgICBzZWxmLnBhdXNlX2V2ZW50cygpCiAgICAgICAgcmVzdWx0ID0geWllbGQgY2hhbmdlX2V2ZW50X3N0YXRlc192MShzZWxmLmNvbnRleHQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBydWxlc2V0PXNlbGYucnVsZXNldCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlPSdkcmFpbmluZycpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXN1bHQsIFRydWUpCgogICAgICAgIHJlc3VsdCA9IHJlcXVlc3RzLmdldCgKICAgICAgICAgICAgc2VsZi5jb250ZXh0LmdldF9zZXJ2aWNlX3VybCgnc2NoZWR1bGVyJywgJ2V2ZW50JywgZXZlbnRfaWQpKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzdWx0LnN0YXR1c19jb2RlLCAyMDApCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChyZXN1bHQuanNvbigpWydzdGF0ZSddLCAnc2NoZWR1bGVkJykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnN1bWVyLl9wcm9jZXNzLnNlbnRyeV9jbGllbnQgPSBtb2NrLk1vY2soKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdyZWNpcGllbnRfdXJsJywgcmVjaXBpZW50X3VybCkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNjaGVtZT0naHR0cCcpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>o</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="6" type="4">
-        <text>[</text>
+        <text>paused</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4967,16 +4967,16 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>resumed</text>
       </register>
-      <register name="8" type="4">
-        <text>gen</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSAncmVzdW1lZCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBnZW4uY29yb3V0aW5lCg==</text>
+        <text encoding="base64">ICAgIGNvbnRleHQubG9nZ2VyLmluZm8oJ3Jlc3VtZWQgJWQgZXZlbnRzIGZvciBydWxlc2V0ICVzJywgbGVuKHJlc3BvbnNlKSwgcnVsZXNldCkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -5027,11 +5027,11 @@
         <entry>250</entry>
         <entry>s/-/=/g</entry>
         <entry>e!</entry>
-        <entry>vsp</entry>
         <entry>sp</entry>
         <entry>73</entry>
         <entry>1</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
