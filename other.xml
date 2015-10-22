@@ -45,6 +45,7 @@
       <map>
         <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
         <entry key="$USER_HOME$/Source/family-tree/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Source/platform/rule/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/platform/ruleset/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/platform/scheduler/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/platform/scheduler/env35/bin/python" value="false" />
@@ -77,6 +78,7 @@
         <entry key="$USER_HOME$/Source/family-tree/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/platform/authorization/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/platform/campaign/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Source/platform/rule/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/platform/ruleset/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/platform/scheduler/env/bin/python" value="true" />
         <entry key="$USER_HOME$/Source/platform/scheduler/env35/bin/python" value="true" />
@@ -116,6 +118,7 @@
     <option name="SDK_TO_ATTEST">
       <map>
         <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/Source/platform/rule/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/platform/ruleset/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/platform/scheduler/env/bin/python" value="false" />
         <entry key="$USER_HOME$/Source/platform/scheduler/env35/bin/python" value="false" />

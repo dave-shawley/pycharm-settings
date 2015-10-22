@@ -29,6 +29,12 @@
       <file name="$USER_HOME$/Source/python/haregel/haregel/application.py" timestamp="1424434445035">
         <mark key="'" line="30" column="38" />
       </file>
+      <file name="$USER_HOME$/Source/platform/ruleset/tests/test_recipient.py" timestamp="1445520457458">
+        <mark key="'" line="58" column="23" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/python/glinda/docs/changelog.rst" timestamp="1439138971282">
         <mark key="[" line="6" column="9" />
         <mark key="]" line="6" column="12" />
@@ -55,8 +61,8 @@
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/ietfparse/datastructures.py" timestamp="1432339854427">
         <mark key="'" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/context.py" timestamp="1445517112380">
-        <mark key="'" line="78" column="30" />
+      <file name="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/context.py" timestamp="1445546828503">
+        <mark key="'" line="125" column="16" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/tasks.py" timestamp="1438519549469">
         <mark key="'" line="70" column="26" />
@@ -159,9 +165,9 @@
         <mark key="^" line="52" column="41" />
         <mark key="." line="52" column="41" />
       </file>
-      <file name="$USER_HOME$/Source/platform/rule/rule.py" timestamp="1445543061904">
+      <file name="$USER_HOME$/Source/platform/rule/rule.py" timestamp="1445547410520">
         <mark key="a" line="177" column="0" />
-        <mark key="'" line="439" column="21" />
+        <mark key="'" line="62" column="25" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/simple_httpclient.py" timestamp="1434107116390">
         <mark key="'" line="409" column="28" />
@@ -418,6 +424,9 @@
       </file>
       <file name="$USER_HOME$/Source/platform/scheduler/platform/postgres/scheduler.sql" timestamp="1445456818354">
         <mark key="'" line="194" column="17" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/rulesengine/tests/consumer_tests.py" timestamp="1445547166688">
+        <mark key="'" line="208" column="51" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/urls.py" timestamp="1403176823145">
         <mark key="'" line="8" column="0" />
@@ -938,7 +947,8 @@
       <file name="$USER_HOME$/opt/lib/python3.4/asyncore.py" timestamp="1423401242971">
         <mark key="'" line="439" column="17" />
       </file>
-      <file name="$USER_HOME$/Source/platform/ruleset/ruleset/schedule/action.py" timestamp="1445540076932">
+      <file name="$USER_HOME$/Source/platform/ruleset/ruleset/schedule/action.py" timestamp="1445546799925">
+        <mark key="'" line="81" column="22" />
         <mark key="[" line="103" column="28" />
         <mark key="]" line="103" column="28" />
         <mark key="." line="103" column="28" />
@@ -1033,6 +1043,10 @@
         <mark key="^" line="23" column="45" />
         <mark key="." line="23" column="45" />
       </file>
+      <file name="$USER_HOME$/Source/platform/rulesengine/rulesengine/consumer.py" timestamp="1445547186324">
+        <mark key="a" line="105" column="8" />
+        <mark key="'" line="67" column="29" />
+      </file>
       <file name="$USER_HOME$/opt/lib/python3.4/distutils/log.py" timestamp="1416151367694">
         <mark key="'" line="74" column="0" />
       </file>
@@ -1092,33 +1106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="309" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="319" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="325" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="328" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="330" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="334" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="339" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="346" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="353" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="197" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="416" column="12" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="415" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="394" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="382" column="0" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="454" column="13" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="456" column="17" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="88" column="8" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="5" column="14" filename="$USER_HOME$/Source/platform/scheduler/docs/history.rst" />
-      <jump line="108" column="54" filename="$USER_HOME$/Source/platform/scheduler/scheduler/handlers.py" />
-      <jump line="105" column="13" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/sprockets/mixins/sentry/__init__.py" />
-      <jump line="108" column="0" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/sprockets/mixins/sentry/__init__.py" />
-      <jump line="106" column="0" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/sprockets/mixins/sentry/__init__.py" />
-      <jump line="102" column="0" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/sprockets/mixins/sentry/__init__.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/sprockets/mixins/sentry/__init__.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/sprockets/mixins/sentry/__init__.py" />
-      <jump line="69" column="27" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/sprockets/mixins/sentry/__init__.py" />
-      <jump line="165" column="10" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/raven/base.py" />
       <jump line="185" column="12" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/raven/base.py" />
       <jump line="194" column="16" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/raven/base.py" />
       <jump line="200" column="16" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/raven/base.py" />
@@ -1192,6 +1179,33 @@
       <jump line="110" column="8" filename="$USER_HOME$/Source/platform/rule/rule.py" />
       <jump line="497" column="33" filename="$USER_HOME$/Source/platform/rule/rule.py" />
       <jump line="439" column="21" filename="$USER_HOME$/Source/platform/rule/rule.py" />
+      <jump line="335" column="0" filename="$USER_HOME$/Source/platform/rule/rule.py" />
+      <jump line="337" column="0" filename="$USER_HOME$/Source/platform/rule/rule.py" />
+      <jump line="341" column="0" filename="$USER_HOME$/Source/platform/rule/rule.py" />
+      <jump line="348" column="0" filename="$USER_HOME$/Source/platform/rule/rule.py" />
+      <jump line="354" column="0" filename="$USER_HOME$/Source/platform/rule/rule.py" />
+      <jump line="362" column="0" filename="$USER_HOME$/Source/platform/rule/rule.py" />
+      <jump line="367" column="0" filename="$USER_HOME$/Source/platform/rule/rule.py" />
+      <jump line="372" column="0" filename="$USER_HOME$/Source/platform/rule/rule.py" />
+      <jump line="376" column="0" filename="$USER_HOME$/Source/platform/rule/rule.py" />
+      <jump line="378" column="0" filename="$USER_HOME$/Source/platform/rule/rule.py" />
+      <jump line="399" column="20" filename="$USER_HOME$/Source/platform/rule/rule.py" />
+      <jump line="81" column="22" filename="$USER_HOME$/Source/platform/ruleset/ruleset/schedule/action.py" />
+      <jump line="125" column="16" filename="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/context.py" />
+      <jump line="53" column="4" filename="$USER_HOME$/opt/lib/python2.7/contextlib.py" />
+      <jump line="113" column="42" filename="$USER_HOME$/Source/platform/rulesengine/rulesengine/consumer.py" />
+      <jump line="32" column="13" filename="$USER_HOME$/Source/platform/rulesengine/rulesengine/consumer.py" />
+      <jump line="14" column="24" filename="$USER_HOME$/Source/platform/rulesengine/rulesengine/consumer.py" />
+      <jump line="285" column="43" filename="$USER_HOME$/Source/platform/rulesengine/rulesengine/consumer.py" />
+      <jump line="271" column="40" filename="$USER_HOME$/Source/platform/rulesengine/rulesengine/consumer.py" />
+      <jump line="231" column="39" filename="$USER_HOME$/Source/platform/rulesengine/rulesengine/consumer.py" />
+      <jump line="184" column="39" filename="$USER_HOME$/Source/platform/rulesengine/rulesengine/consumer.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Source/platform/rulesengine/tests/consumer_tests.py" />
+      <jump line="208" column="51" filename="$USER_HOME$/Source/platform/rulesengine/tests/consumer_tests.py" />
+      <jump line="105" column="8" filename="$USER_HOME$/Source/platform/rulesengine/rulesengine/consumer.py" />
+      <jump line="63" column="29" filename="$USER_HOME$/Source/platform/rulesengine/rulesengine/consumer.py" />
+      <jump line="67" column="29" filename="$USER_HOME$/Source/platform/rulesengine/rulesengine/consumer.py" />
+      <jump line="62" column="25" filename="$USER_HOME$/Source/platform/rule/rule.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3327,7 +3341,7 @@
         <text encoding="base64">Jywg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSdWxlc2V0U2VhcmNoSGFuZGxlclw+</text>
+        <text encoding="base64">XDxoYXNfY2hlY2twb2ludHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Li4gXzIuMS41OiBodHRwczovL2dpdGh1Yi5hd2ViZXIuaW8vUGxhdGZvcm0vc3Bvb2xlci9jb21wYXJlLzIuMS40Li4uMi4xLjUK</text>
@@ -5003,23 +5017,20 @@
         <text>Release</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>1415</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSdWxlc2V0U2VhcmNoSGFuZGxlclw+</last-search>
+      <last-search encoding="base64">XDxoYXNfY2hlY2twb2ludHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSdWxlc2V0U2VhcmNoSGFuZGxlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxoYXNfY2hlY2twb2ludHNcPg==</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>-</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>amqp_connections</entry>
-        <entry>packb</entry>
-        <entry>ByteString</entry>
         <entry>def pack</entry>
         <entry>def _pack</entry>
         <entry encoding="base64">XDxfcGFja19iaW5hcnlcPg==</entry>
@@ -5037,11 +5048,11 @@
         <entry>DropMessage</entry>
         <entry encoding="base64">XDxfY2FsbF9odHRwX3NlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxSdWxlc2V0U2VhcmNoSGFuZGxlclw+</entry>
+        <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
+        <entry>has_check</entry>
+        <entry encoding="base64">XDxoYXNfY2hlY2twb2ludHNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>375</entry>
-        <entry>118</entry>
-        <entry>112</entry>
         <entry>set paste</entry>
         <entry>242</entry>
         <entry>60</entry>
@@ -5053,12 +5064,15 @@
         <entry>250</entry>
         <entry>s/-/=/g</entry>
         <entry>e!</entry>
-        <entry>sp</entry>
         <entry>73</entry>
         <entry>vsp</entry>
         <entry>wq</entry>
         <entry>w</entry>
         <entry>1</entry>
+        <entry>115</entry>
+        <entry>114</entry>
+        <entry>sp</entry>
+        <entry>1415</entry>
       </history-cmd>
       <history-expr />
       <history-input />

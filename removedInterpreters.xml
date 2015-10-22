@@ -36,7 +36,6 @@
         <option value="$USER_HOME$/Source/platform/marley/env/bin/python" />
         <option value="$USER_HOME$/Source/platform/recipient/env/bin/python" />
         <option value="$USER_HOME$/Source/platform/routing/env/bin/python" />
-        <option value="$USER_HOME$/Source/platform/rule/env/bin/python" />
         <option value="$USER_HOME$/Source/platform/scheduler/env/bin/python" />
         <option value="$USER_HOME$/Source/platform/search_recipients/env/bin/python" />
         <option value="$USER_HOME$/Source/platform/spoolconsumer/env/bin/python" />
