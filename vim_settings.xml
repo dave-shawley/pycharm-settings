@@ -184,8 +184,8 @@
         <mark key="^" line="502" column="19" />
         <mark key="." line="502" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" timestamp="1445882889876">
-        <mark key="'" line="135" column="30" />
+      <file name="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" timestamp="1445888438466">
+        <mark key="'" line="136" column="43" />
       </file>
       <file name="$USER_HOME$/Source/python/sampson/docs/conf.py" timestamp="1419690584296">
         <mark key="'" line="3" column="0" />
@@ -313,8 +313,8 @@
         <mark key="^" line="179" column="45" />
         <mark key="." line="180" column="74" />
       </file>
-      <file name="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/consumer.py" timestamp="1445881973535">
-        <mark key="'" line="202" column="13" />
+      <file name="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/consumer.py" timestamp="1445888448243">
+        <mark key="'" line="699" column="25" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/tests/integration/source_tests.py" timestamp="1404573970786">
         <mark key="'" line="9" column="30" />
@@ -551,8 +551,8 @@
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/ietfparse/headers.py" timestamp="1432339065376">
         <mark key="'" line="57" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" timestamp="1445882887852">
-        <mark key="'" line="27" column="45" />
+      <file name="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" timestamp="1445888856204">
+        <mark key="'" line="213" column="13" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/_collections_abc.py" timestamp="1443401220601">
         <mark key="'" line="469" column="15" />
@@ -1167,15 +1167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="0" filename="$USER_HOME$/Source/platform/rule/rule.py" />
-      <jump line="348" column="0" filename="$USER_HOME$/Source/platform/rule/rule.py" />
-      <jump line="354" column="0" filename="$USER_HOME$/Source/platform/rule/rule.py" />
-      <jump line="362" column="0" filename="$USER_HOME$/Source/platform/rule/rule.py" />
-      <jump line="367" column="0" filename="$USER_HOME$/Source/platform/rule/rule.py" />
-      <jump line="372" column="0" filename="$USER_HOME$/Source/platform/rule/rule.py" />
-      <jump line="376" column="0" filename="$USER_HOME$/Source/platform/rule/rule.py" />
-      <jump line="378" column="0" filename="$USER_HOME$/Source/platform/rule/rule.py" />
-      <jump line="399" column="20" filename="$USER_HOME$/Source/platform/rule/rule.py" />
       <jump line="81" column="22" filename="$USER_HOME$/Source/platform/ruleset/ruleset/schedule/action.py" />
       <jump line="125" column="16" filename="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/context.py" />
       <jump line="53" column="4" filename="$USER_HOME$/opt/lib/python2.7/contextlib.py" />
@@ -1232,12 +1223,9 @@
       <jump line="606" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="14" column="37" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="51" column="27" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="80" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="159" column="45" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" />
       <jump line="79" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="136" column="45" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" />
-      <jump line="699" column="25" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/consumer.py" />
       <jump line="615" column="13" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/consumer.py" />
       <jump line="202" column="13" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/consumer.py" />
       <jump line="183" column="8" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/consumer.py" />
@@ -1264,9 +1252,21 @@
       <jump line="6" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="236" column="22" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" />
       <jump line="199" column="6" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" />
-      <jump line="27" column="45" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="135" column="30" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" />
       <jump line="26" column="6" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" />
+      <jump line="27" column="45" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="136" column="43" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" />
+      <jump line="699" column="25" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/consumer.py" />
+      <jump line="86" column="15" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="287" column="15" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="290" column="4" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="90" column="17" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="131" column="8" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="94" column="21" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="198" column="34" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="315" column="4" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="213" column="13" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="142" column="8" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
