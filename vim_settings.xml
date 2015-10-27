@@ -930,12 +930,12 @@
         <mark key="^" line="23" column="41" />
         <mark key="." line="23" column="41" />
       </file>
-      <file name="$USER_HOME$/Source/platform/sprockets.http/tests.py" timestamp="1445955969367">
-        <mark key="'" line="35" column="4" />
-        <mark key="[" line="29" column="46" />
-        <mark key="]" line="29" column="46" />
-        <mark key="." line="29" column="46" />
-        <mark key="^" line="44" column="61" />
+      <file name="$USER_HOME$/Source/platform/sprockets.http/tests.py" timestamp="1445958825892">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="36" column="64" />
       </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/tcpserver.py" timestamp="1431173123597">
         <mark key="'" line="124" column="18" />
@@ -1174,18 +1174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="43" filename="$USER_HOME$/Source/platform/scheduler/env/lib/python3.5/site-packages/sprockets/mixins/amqp/__init__.py" />
-      <jump line="528" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="542" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="561" column="42" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="625" column="11" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="624" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="618" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="612" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="607" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="601" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="595" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="590" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="585" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="580" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="576" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
@@ -1274,13 +1262,25 @@
       <jump line="7" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="16" column="8" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="35" column="4" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="49" column="7" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="54" column="8" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="65" column="4" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="72" column="63" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgcmV2ZXJzZV91cmwoc2VsZiwgbmFtZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB1cmwgPSBzdXBlcihSZWFkaW5ncywgc2VsZikucmV2ZXJzZV91cmwobmFtZSwgKmFyZ3MpCiAgICAgICAgaWYga3dhcmdzLmdldCgnYWJzb2x1dGUnKToKICAgICAgICAgICAgdXJsID0gJ3swfTovL3sxfXsyfScuZm9ybWF0KHNlbGYucmVxdWVzdC5wcm90b2NvbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdC5ob3N0LCB1cmwpCiAgICAgICAgcmV0dXJuIHVybAoKICAgIGRlZiBnZXRfbG9naW5fdXJsKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJldmVyc2VfdXJsKCdsb2dpbicsIGFic29sdXRlPVRydWUpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgYmluX3VzZXJfaWQgPSBzZWxmLmdldF9zZWN1cmVfY29va2llKCd1c2VyaWQnKQogICAgICAgIGlmIGJpbl91c2VyX2lkIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gYmluX3VzZXJfaWQuZGVjb2RlKCd1dGYtOCcpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.Runner</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIG1vY2sucGF0Y2goJ3Nwcm9ja2V0cy5odHRwLnJ1bm5lci5SdW5uZXInKSBhcyBydW5uZXI6Cg==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3406,34 +3406,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.Runner</text>
+        <text>create_app.assert_called_once_with(mock.ANY)</text>
       </register>
       <register name="/" type="4">
         <text>execute</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVfYXBwID0gbW9jay5Nb2NrKCkKICAgICAgICB3aXRoIG1vY2sucGF0Y2goJ3Nwcm9ja2V0cy5odHRwLnJ1bm5lci5SdW5uZXInKToKICAgICAgICAgICAgd2l0aCBvdmVycmlkZGVuX2Vudmlyb25tZW50X3ZhcmlhYmxlKCdERUJVRycsICcwJyk6CiAgICAgICAgICAgICAgICBodHRwLnJ1bihjcmVhdGVfYXBwKQogICAgICAgICAgICAgICAgY3JlYXRlX2FwcC5hc3NlcnRfY2FsbGVkX29uY2Vfd2l0aChkZWJ1Zz1GYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG1vY2sucGF0Y2goJ3Nwcm9ja2V0cy5odHRwLnJ1bm5lci5SdW5uZXInKToK</text>
       </register>
-      <register name="1" type="4">
-        <text>.Runner</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIG1vY2sucGF0Y2goJ3Nwcm9ja2V0cy5odHRwLnJ1bm5lci5SdW5uZXInKSBhcyBydW5uZXI6Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>.Runner</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJ1bm5lci5yZXR1cm5fdmFsdWUuX2NvbmZpZ3VyZV9sb2dnaW5nLmFzc2VydF9jYWxsZWRfb25jZV93aXRoKFRydWUpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>'</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcnVubgo=</text>
       </register>
       <register name="4" type="4">
-        <text>0</text>
+        <text>create_app.assert_called_once_with(mock.ANY)</text>
       </register>
       <register name="5" type="4">
-        <text>'</text>
+        <text>0</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5076,13 +5076,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>pass</text>
+        <text>=</text>
       </register>
-      <register name="8" type="4">
-        <text>get</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="4">
+        <text>8000</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
