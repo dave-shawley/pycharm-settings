@@ -930,6 +930,13 @@
         <mark key="^" line="23" column="41" />
         <mark key="." line="23" column="41" />
       </file>
+      <file name="$USER_HOME$/Source/platform/sprockets.http/tests.py" timestamp="1445954454376">
+        <mark key="'" line="19" column="33" />
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="8" />
+        <mark key="." line="25" column="8" />
+        <mark key="^" line="16" column="35" />
+      </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/tcpserver.py" timestamp="1431173123597">
         <mark key="'" line="124" column="18" />
       </file>
@@ -1167,10 +1174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="22" filename="$USER_HOME$/Source/platform/ruleset/ruleset/schedule/action.py" />
-      <jump line="125" column="16" filename="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/rulesengine/context.py" />
-      <jump line="53" column="4" filename="$USER_HOME$/opt/lib/python2.7/contextlib.py" />
-      <jump line="113" column="42" filename="$USER_HOME$/Source/platform/rulesengine/rulesengine/consumer.py" />
       <jump line="32" column="13" filename="$USER_HOME$/Source/platform/rulesengine/rulesengine/consumer.py" />
       <jump line="14" column="24" filename="$USER_HOME$/Source/platform/rulesengine/rulesengine/consumer.py" />
       <jump line="285" column="43" filename="$USER_HOME$/Source/platform/rulesengine/rulesengine/consumer.py" />
@@ -1267,13 +1270,17 @@
       <jump line="315" column="4" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="213" column="13" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="142" column="8" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="9" column="15" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="717" column="0" filename="$USER_HOME$/opt/lib/python3.4/os.py" />
+      <jump line="19" column="33" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgcmV2ZXJzZV91cmwoc2VsZiwgbmFtZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB1cmwgPSBzdXBlcihSZWFkaW5ncywgc2VsZikucmV2ZXJzZV91cmwobmFtZSwgKmFyZ3MpCiAgICAgICAgaWYga3dhcmdzLmdldCgnYWJzb2x1dGUnKToKICAgICAgICAgICAgdXJsID0gJ3swfTovL3sxfXsyfScuZm9ybWF0KHNlbGYucmVxdWVzdC5wcm90b2NvbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdC5ob3N0LCB1cmwpCiAgICAgICAgcmV0dXJuIHVybAoKICAgIGRlZiBnZXRfbG9naW5fdXJsKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJldmVyc2VfdXJsKCdsb2dpbicsIGFic29sdXRlPVRydWUpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgYmluX3VzZXJfaWQgPSBzZWxmLmdldF9zZWN1cmVfY29va2llKCd1c2VyaWQnKQogICAgICAgIGlmIGJpbl91c2VyX2lkIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gYmluX3VzZXJfaWQuZGVjb2RlKCd1dGYtOCcpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBvcy5lbnZpcm9uWydBTVFQX1VSTCddLCAncicsIHNlbGYuZXhjaGFuZ2VfbmFtZSkK</text>
+      <register name="&quot;" type="4">
+        <text>pass</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3399,7 +3406,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>urlsplit</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>execute</text>
@@ -3407,26 +3414,26 @@
       <register name="0" type="2">
         <text encoding="base64">Li4gXzIuMS41OiBodHRwczovL2dpdGh1Yi5hd2ViZXIuaW8vUGxhdGZvcm0vc3Bvb2xlci9jb21wYXJlLzIuMS40Li4uMi4xLjUK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBvcy5lbnZpcm9uWydBTVFQX1VSTCddLCAncicsIHNlbGYuZXhjaGFuZ2VfbmFtZSkK</text>
+      <register name="1" type="4">
+        <text>pass</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuZXZlbnRfYm9keVsndGFyZ2V0J10gPSAne30/cm91dGluZ19rZXk9e30mZXhjaGFuZ2U9e30nLmZvcm1hdCgK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbGw6Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTm9uZSkpCg==</text>
+      <register name="4" type="4">
+        <text>sys</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW1xcF91cmwucGF0aCwgcGFyc2UudXJsZW5jb2RlKHF1ZXJ5KSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFtcXBfdXJsID0gcGFyc2UudXJsdW5zcGxpdCgoYW1xcF91cmwuc2NoZW1lLCBhbXFwX3VybC5uZXRsb2MsCg==</text>
+      <register name="6" type="4">
+        <text>class Env</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5068,14 +5075,14 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHF1ZXJ5Wydyb3V0aW5nX2tleSddID0gJ3InCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHF1ZXJ5WydleGNoYW5nZSddID0gJ2UnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHF1ZXJ5ID0gZGljdChwYXJzZS5wYXJzZV9xc2woYW1xcF91cmwucXVlcnkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBvcy5lbnZpcm9uWydBTVFQX1VSTCddLCAncicsIHNlbGYuZXhjaGFuZ2VfbmFtZSkK</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
