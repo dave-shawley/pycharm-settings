@@ -930,12 +930,12 @@
         <mark key="^" line="23" column="41" />
         <mark key="." line="23" column="41" />
       </file>
-      <file name="$USER_HOME$/Source/platform/sprockets.http/tests.py" timestamp="1445958825892">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="36" column="64" />
+      <file name="$USER_HOME$/Source/platform/sprockets.http/tests.py" timestamp="1445959534083">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/tcpserver.py" timestamp="1431173123597">
         <mark key="'" line="124" column="18" />
@@ -1174,33 +1174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="585" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="580" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="576" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="567" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="563" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="15" column="27" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="632" column="20" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="321" column="4" filename="$USER_HOME$/opt/lib/python3.5/urllib/parse.py" />
-      <jump line="12" column="27" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
-      <jump line="139" column="43" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
-      <jump line="85" column="16" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="129" column="41" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="214" column="12" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="219" column="12" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="224" column="12" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="98" column="8" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="135" column="41" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="220" column="12" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="225" column="12" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="230" column="12" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="507" column="59" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="153" column="29" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="10" column="31" filename="$USER_HOME$/Source/platform/scheduler/scheduler/app.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="606" column="0" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
-      <jump line="14" column="37" filename="$USER_HOME$/Source/platform/scheduler/tests.py" />
       <jump line="51" column="27" filename="$USER_HOME$/Source/platform/scheduler/scheduler/executor.py" />
       <jump line="80" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="159" column="45" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" />
@@ -1251,36 +1224,63 @@
       <jump line="19" column="33" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="6" column="25" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="27" column="31" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="41" column="11" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="25" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="16" column="8" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="35" column="4" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="49" column="7" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="54" column="8" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="65" column="4" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="72" column="63" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="68" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="63" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="52" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="34" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="32" column="11" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="96" column="3" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="117" column="43" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="114" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="109" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="103" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="110" column="8" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="100" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgcmV2ZXJzZV91cmwoc2VsZiwgbmFtZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB1cmwgPSBzdXBlcihSZWFkaW5ncywgc2VsZikucmV2ZXJzZV91cmwobmFtZSwgKmFyZ3MpCiAgICAgICAgaWYga3dhcmdzLmdldCgnYWJzb2x1dGUnKToKICAgICAgICAgICAgdXJsID0gJ3swfTovL3sxfXsyfScuZm9ybWF0KHNlbGYucmVxdWVzdC5wcm90b2NvbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdC5ob3N0LCB1cmwpCiAgICAgICAgcmV0dXJuIHVybAoKICAgIGRlZiBnZXRfbG9naW5fdXJsKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJldmVyc2VfdXJsKCdsb2dpbicsIGFic29sdXRlPVRydWUpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgYmluX3VzZXJfaWQgPSBzZWxmLmdldF9zZWN1cmVfY29va2llKCd1c2VyaWQnKQogICAgICAgIGlmIGJpbl91c2VyX2lkIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gYmluX3VzZXJfaWQuZGVjb2RlKCd1dGYtOCcpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG1vY2sucGF0Y2goJ3Nwcm9ja2V0cy5odHRwLnJ1bm5lci5SdW5uZXInKSBhcyBydW5uZXI6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3406,34 +3406,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>create_app.assert_called_once_with(mock.ANY)</text>
+        <text>RunTests</text>
       </register>
       <register name="/" type="4">
         <text>execute</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG1vY2sucGF0Y2goJ3Nwcm9ja2V0cy5odHRwLnJ1bm5lci5SdW5uZXInKToK</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgICBkZWYgc2V0VXAoc2VsZik6CiAgICAgICAgc3VwZXIoUnVuVGVzdHMsIHNlbGYpLnNldFVwKCkKICAgICAgICBzZWxmLl9tb2NrcyA9IFtdCiAgICAgICAgc2VsZi5ydW5uZXJfY2xzID0gc2VsZi5zdGFydF9tb2NrKCdzcHJvY2tldHMuaHR0cC5ydW5uZXIuUnVubmVyJykKICAgICAgICBzZWxmLmNvbmZpZ3VyZV9sb2dnaW5nID0gc2VsZi5zdGFydF9tb2NrKAogICAgICAgICAgICAnc3Byb2NrZXRzLmh0dHAucnVubmVyLl9jb25maWd1cmVfbG9nZ2luZycpCgogICAgZGVmIHRlYXJEb3duKHNlbGYpOgogICAgICAgIHN1cGVyKFJ1blRlc3RzLCBzZWxmKS50ZWFyRG93bigpCiAgICAgICAgZm9yIG1vY2tlciBpbiBzZWxmLl9tb2NrczoKICAgICAgICAgICAgbW9ja2VyLnN0b3AoKQogICAgICAgIGRlbCBzZWxmLl9tb2Nrc1s6XQoKICAgIGRlZiBzdGFydF9tb2NrKHNlbGYsIHRhcmdldCk6CiAgICAgICAgbW9ja2VkID0gbW9jay5wYXRjaCh0YXJnZXQpCiAgICAgICAgc2VsZi5fbW9ja3MuYXBwZW5kKG1vY2tlZCkKICAgICAgICByZXR1cm4gbW9ja2VkLnN0YXJ0KCkKCiAgICBAcHJvcGVydHkKICAgIGRlZiBydW5uZXJfaW5zdGFuY2Uoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYucnVubmVyX2Nscy5yZXR1cm5fdmFsdWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG1vY2sucGF0Y2goJ3Nwcm9ja2V0cy5odHRwLnJ1bm5lci5SdW5uZXInKSBhcyBydW5uZXI6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJ1bm5lci5yZXR1cm5fdmFsdWUuX2NvbmZpZ3VyZV9sb2dnaW5nLmFzc2VydF9jYWxsZWRfb25jZV93aXRoKFRydWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVubgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>create_app.assert_called_once_with(mock.ANY)</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>0</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbW9ja2VkLnN0YXJ0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9tb2Nrcy5hcHBlbmQobW9ja2VkKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5075,14 +5075,14 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtb2NrZWQgPSBtb2NrLnBhdGNoKHRhcmdldCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGRlZiBzdGFydF9tb2NrKHNlbGYsIHRhcmdldCk6Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>8000</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
