@@ -551,9 +551,9 @@
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/ietfparse/headers.py" timestamp="1432339065376">
         <mark key="'" line="57" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" timestamp="1446042545266">
+      <file name="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" timestamp="1446044511552">
         <mark key="a" line="99" column="43" />
-        <mark key="'" line="211" column="34" />
+        <mark key="'" line="110" column="24" />
         <mark key="[" line="13" column="22" />
         <mark key="]" line="14" column="23" />
         <mark key="^" line="14" column="23" />
@@ -1179,19 +1179,11 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="441" column="33" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/process.py" />
-      <jump line="86" column="4" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/process.py" />
-      <jump line="447" column="33" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/process.py" />
-      <jump line="90" column="4" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/process.py" />
-      <jump line="448" column="17" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/process.py" />
-      <jump line="449" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/process.py" />
-      <jump line="455" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/process.py" />
       <jump line="462" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/process.py" />
       <jump line="473" column="33" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/process.py" />
       <jump line="87" column="4" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/process.py" />
       <jump line="75" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="67" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="116" column="17" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="231" column="8" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/consumer.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="236" column="22" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" />
@@ -1279,6 +1271,14 @@
       <jump line="97" column="23" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="211" column="34" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="333" column="34" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="234" column="8" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="130" column="25" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="835" column="8" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/models.py" />
+      <jump line="127" column="33" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="556" column="4" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/sessions.py" />
+      <jump line="116" column="24" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="45" column="6" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/exceptions.py" />
+      <jump line="110" column="24" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3414,7 +3414,7 @@
         <text>RunTests</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRfdG9fc2V0XD4=</text>
+        <text encoding="base64">XDxwdWJsaXNoX3Vuc3Vic2NyaWJlX2V2ZW50XD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CiAgICBkZWYgc2V0VXAoc2VsZik6CiAgICAgICAgc3VwZXIoUnVuVGVzdHMsIHNlbGYpLnNldFVwKCkKICAgICAgICBzZWxmLl9tb2NrcyA9IFtdCiAgICAgICAgc2VsZi5ydW5uZXJfY2xzID0gc2VsZi5zdGFydF9tb2NrKCdzcHJvY2tldHMuaHR0cC5ydW5uZXIuUnVubmVyJykKICAgICAgICBzZWxmLmNvbmZpZ3VyZV9sb2dnaW5nID0gc2VsZi5zdGFydF9tb2NrKAogICAgICAgICAgICAnc3Byb2NrZXRzLmh0dHAucnVubmVyLl9jb25maWd1cmVfbG9nZ2luZycpCgogICAgZGVmIHRlYXJEb3duKHNlbGYpOgogICAgICAgIHN1cGVyKFJ1blRlc3RzLCBzZWxmKS50ZWFyRG93bigpCiAgICAgICAgZm9yIG1vY2tlciBpbiBzZWxmLl9tb2NrczoKICAgICAgICAgICAgbW9ja2VyLnN0b3AoKQogICAgICAgIGRlbCBzZWxmLl9tb2Nrc1s6XQoKICAgIGRlZiBzdGFydF9tb2NrKHNlbGYsIHRhcmdldCk6CiAgICAgICAgbW9ja2VkID0gbW9jay5wYXRjaCh0YXJnZXQpCiAgICAgICAgc2VsZi5fbW9ja3MuYXBwZW5kKG1vY2tlZCkKICAgICAgICByZXR1cm4gbW9ja2VkLnN0YXJ0KCkKCiAgICBAcHJvcGVydHkKICAgIGRlZiBydW5uZXJfaW5zdGFuY2Uoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYucnVubmVyX2Nscy5yZXR1cm5fdmFsdWUK</text>
@@ -5094,9 +5094,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRfdG9fc2V0XD4=</last-search>
+      <last-search encoding="base64">XDxwdWJsaXNoX3Vuc3Vic2NyaWJlX2V2ZW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRfdG9fc2V0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwdWJsaXNoX3Vuc3Vic2NyaWJlX2V2ZW50XD4=</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>-1</last-dir>
@@ -5104,7 +5104,6 @@
     </search>
     <history>
       <history-search>
-        <entry>-</entry>
         <entry encoding="base64">XDxtb2Nrc1w+</entry>
         <entry>select_events</entry>
         <entry>get_service</entry>
@@ -5124,6 +5123,7 @@
         <entry>rejected</entry>
         <entry>info</entry>
         <entry encoding="base64">XDxhZGRfdG9fc2V0XD4=</entry>
+        <entry encoding="base64">XDxwdWJsaXNoX3Vuc3Vic2NyaWJlX2V2ZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set paste</entry>
