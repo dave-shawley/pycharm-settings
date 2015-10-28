@@ -551,9 +551,9 @@
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/ietfparse/headers.py" timestamp="1432339065376">
         <mark key="'" line="57" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" timestamp="1446044511552">
+      <file name="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" timestamp="1446055159249">
         <mark key="a" line="99" column="43" />
-        <mark key="'" line="110" column="24" />
+        <mark key="'" line="95" column="21" />
         <mark key="[" line="13" column="22" />
         <mark key="]" line="14" column="23" />
         <mark key="^" line="14" column="23" />
@@ -1179,7 +1179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="462" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/process.py" />
       <jump line="473" column="33" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/process.py" />
       <jump line="87" column="4" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/process.py" />
       <jump line="75" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
@@ -1279,6 +1278,7 @@
       <jump line="116" column="24" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="45" column="6" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/exceptions.py" />
       <jump line="110" column="24" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="95" column="21" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
