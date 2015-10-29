@@ -35,12 +35,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/python/glinda/docs/changelog.rst" timestamp="1439138971282">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="12" />
-        <mark key="^" line="6" column="12" />
-        <mark key="." line="6" column="12" />
-      </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/connection.py" timestamp="1430307116938">
         <mark key="'" line="619" column="23" />
       </file>
@@ -116,12 +110,6 @@
       <file name="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1445436718722">
         <mark key="'" line="226" column="22" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/__init__.py" timestamp="1445539557503">
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="1" column="22" />
-        <mark key="." line="1" column="22" />
-        <mark key="^" line="1" column="22" />
-      </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1431285143532">
         <mark key="'" line="98" column="14" />
       </file>
@@ -134,6 +122,9 @@
       </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/frame.py" timestamp="1429967866195">
         <mark key="'" line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/process.py" timestamp="1446126744868">
+        <mark key="'" line="130" column="13" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/tests/unit/neo_node_tests.py" timestamp="1408708945766">
         <mark key="'" line="94" column="9" />
@@ -149,12 +140,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="47" column="3" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/static/index.html" timestamp="1434900890470">
-        <mark key="[" line="12" column="36" />
-        <mark key="]" line="12" column="47" />
-        <mark key="^" line="12" column="47" />
-        <mark key="." line="12" column="47" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/selectors.py" timestamp="1438534721128">
         <mark key="'" line="532" column="22" />
@@ -438,12 +423,6 @@
         <mark key="^" line="117" column="63" />
         <mark key="." line="117" column="63" />
       </file>
-      <file name="$USER_HOME$/Source/python/magician/docs/index.rst" timestamp="1437841982025">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="7" column="10" />
-        <mark key="^" line="7" column="10" />
-        <mark key="." line="7" column="10" />
-      </file>
       <file name="$USER_HOME$/Source/python/glinda/docs/content.rst" timestamp="1439140143286">
         <mark key="'" line="107" column="0" />
         <mark key="[" line="125" column="72" />
@@ -477,12 +456,6 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/__init__.py" timestamp="1443405209059">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="22" />
-      </file>
       <file name="$USER_HOME$/Source/family-tree/tests/unit/storage/sqlite_layer_tests.py" timestamp="1404568729530">
         <mark key="'" line="101" column="0" />
         <mark key="[" line="104" column="0" />
@@ -508,12 +481,6 @@
       </file>
       <file name="$APP_CONFIG$/packages.xml" timestamp="1435431998415">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/python/magician/docs/api.rst" timestamp="1437843435839">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="11" column="7" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="11" column="7" />
       </file>
       <file name="/Dummy.txt" timestamp="1439137374098">
         <mark key="[" line="0" column="0" />
@@ -643,12 +610,6 @@
         <mark key="^" line="26" column="39" />
         <mark key="." line="26" column="39" />
       </file>
-      <file name="$USER_HOME$/Source/python/readit2/readit/handlers.py" timestamp="1440936109398">
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="240" column="0" />
-        <mark key="^" line="239" column="26" />
-        <mark key="." line="240" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/python/ietfparse/docs/urls.rst" timestamp="1411922099037">
         <mark key="'" line="51" column="0" />
         <mark key="[" line="81" column="71" />
@@ -729,12 +690,6 @@
         <mark key="]" line="5" column="7" />
         <mark key="^" line="5" column="7" />
         <mark key="." line="5" column="7" />
-      </file>
-      <file name="$USER_HOME$/Source/python/readit2/static/js/login.js" timestamp="1440808265308">
-        <mark key="[" line="22" column="36" />
-        <mark key="]" line="22" column="36" />
-        <mark key="^" line="25" column="11" />
-        <mark key="." line="22" column="41" />
       </file>
       <file name="$USER_HOME$/Source/python/glinda/tests/example_test.py" timestamp="1439033678072">
         <mark key="'" line="36" column="0" />
@@ -882,12 +837,6 @@
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/docker/utils/utils.py" timestamp="1440355074355">
         <mark key="'" line="314" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/docs/api.rst" timestamp="1445533796751">
-        <mark key="[" line="21" column="71" />
-        <mark key="]" line="23" column="45" />
-        <mark key="^" line="23" column="45" />
-        <mark key="." line="23" column="45" />
-      </file>
       <file name="$USER_HOME$/Source/python/zender/docs/content-type.rst" timestamp="1422827426642">
         <mark key="'" line="158" column="0" />
         <mark key="[" line="152" column="21" />
@@ -905,15 +854,9 @@
       <file name="$USER_HOME$/opt/pypy3-2.4.0-osx64/lib-python/3/urllib/parse.py" timestamp="1420898560180">
         <mark key="'" line="583" column="25" />
       </file>
-      <file name="$USER_HOME$/Source/python/glinda/examples/contentneg.py" timestamp="1439138730671">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" timestamp="1445536741034">
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" timestamp="1446126834718">
         <mark key="a" line="1000" column="0" />
-        <mark key="'" line="611" column="17" />
+        <mark key="'" line="119" column="4" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/events.py" timestamp="1438549368121">
         <mark key="'" line="378" column="13" />
@@ -1076,12 +1019,6 @@
         <mark key="^" line="130" column="72" />
         <mark key="." line="130" column="72" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/docs/changelog.rst" timestamp="1442161775708">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="57" />
-        <mark key="^" line="4" column="57" />
-        <mark key="." line="4" column="57" />
-      </file>
       <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/base.py" timestamp="1445538197434">
         <mark key="'" line="51" column="17" />
         <mark key="[" line="49" column="0" />
@@ -1148,12 +1085,6 @@
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/base_connection.py" timestamp="1430073332187">
         <mark key="'" line="123" column="25" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/requires/installation.txt" timestamp="1442055347714">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-        <mark key="." line="1" column="9" />
-      </file>
       <file name="$USER_HOME$/opt/lib/python2.7/distutils/log.py" timestamp="1419856618754">
         <mark key="'" line="51" column="18" />
       </file>
@@ -1179,17 +1110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="231" column="8" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="236" column="22" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" />
-      <jump line="199" column="6" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" />
-      <jump line="135" column="30" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" />
-      <jump line="26" column="6" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" />
-      <jump line="27" column="45" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="136" column="43" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" />
-      <jump line="699" column="25" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/consumer.py" />
       <jump line="86" column="15" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="287" column="15" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="290" column="4" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
@@ -1279,6 +1199,17 @@
       <jump line="95" column="21" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="165" column="21" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumers.py" />
       <jump line="663" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/process.py" />
+      <jump line="842" column="46" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/process.py" />
+      <jump line="737" column="13" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/process.py" />
+      <jump line="130" column="13" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/process.py" />
+      <jump line="558" column="60" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
+      <jump line="556" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
+      <jump line="560" column="37" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
+      <jump line="104" column="9" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
+      <jump line="106" column="35" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
+      <jump line="119" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -3414,7 +3345,7 @@
         <text>RunTests</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwdWJsaXNoX3Vuc3Vic2NyaWJlX2V2ZW50XD4=</text>
+        <text encoding="base64">XDxFUlJPUl9NQVhfUkVUUllcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CiAgICBkZWYgc2V0VXAoc2VsZik6CiAgICAgICAgc3VwZXIoUnVuVGVzdHMsIHNlbGYpLnNldFVwKCkKICAgICAgICBzZWxmLl9tb2NrcyA9IFtdCiAgICAgICAgc2VsZi5ydW5uZXJfY2xzID0gc2VsZi5zdGFydF9tb2NrKCdzcHJvY2tldHMuaHR0cC5ydW5uZXIuUnVubmVyJykKICAgICAgICBzZWxmLmNvbmZpZ3VyZV9sb2dnaW5nID0gc2VsZi5zdGFydF9tb2NrKAogICAgICAgICAgICAnc3Byb2NrZXRzLmh0dHAucnVubmVyLl9jb25maWd1cmVfbG9nZ2luZycpCgogICAgZGVmIHRlYXJEb3duKHNlbGYpOgogICAgICAgIHN1cGVyKFJ1blRlc3RzLCBzZWxmKS50ZWFyRG93bigpCiAgICAgICAgZm9yIG1vY2tlciBpbiBzZWxmLl9tb2NrczoKICAgICAgICAgICAgbW9ja2VyLnN0b3AoKQogICAgICAgIGRlbCBzZWxmLl9tb2Nrc1s6XQoKICAgIGRlZiBzdGFydF9tb2NrKHNlbGYsIHRhcmdldCk6CiAgICAgICAgbW9ja2VkID0gbW9jay5wYXRjaCh0YXJnZXQpCiAgICAgICAgc2VsZi5fbW9ja3MuYXBwZW5kKG1vY2tlZCkKICAgICAgICByZXR1cm4gbW9ja2VkLnN0YXJ0KCkKCiAgICBAcHJvcGVydHkKICAgIGRlZiBydW5uZXJfaW5zdGFuY2Uoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYucnVubmVyX2Nscy5yZXR1cm5fdmFsdWUK</text>
@@ -5090,23 +5021,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>156</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwdWJsaXNoX3Vuc3Vic2NyaWJlX2V2ZW50XD4=</last-search>
+      <last-search encoding="base64">XDxFUlJPUl9NQVhfUkVUUllcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwdWJsaXNoX3Vuc3Vic2NyaWJlX2V2ZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxFUlJPUl9NQVhfUkVUUllcPg==</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>-</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb2Nrc1w+</entry>
-        <entry>select_events</entry>
-        <entry>get_service</entry>
         <entry>get_ser</entry>
         <entry>server</entry>
         <entry>log_exception</entry>
@@ -5124,6 +5052,9 @@
         <entry>info</entry>
         <entry encoding="base64">XDxhZGRfdG9fc2V0XD4=</entry>
         <entry encoding="base64">XDxwdWJsaXNoX3Vuc3Vic2NyaWJlX2V2ZW50XD4=</entry>
+        <entry>max_err</entry>
+        <entry encoding="base64">XDxtYXhfZXJyb3JfY291bnRcPg==</entry>
+        <entry encoding="base64">XDxFUlJPUl9NQVhfUkVUUllcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>242</entry>
@@ -5144,8 +5075,8 @@
         <entry>sp</entry>
         <entry>1415</entry>
         <entry>w</entry>
-        <entry>1</entry>
         <entry>156</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
