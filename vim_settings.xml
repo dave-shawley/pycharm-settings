@@ -568,8 +568,8 @@
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/tornado_connection.py" timestamp="1430218293936">
         <mark key="'" line="87" column="27" />
       </file>
-      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumers.py" timestamp="1445539475766">
-        <mark key="'" line="112" column="8" />
+      <file name="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumers.py" timestamp="1446122243239">
+        <mark key="'" line="165" column="21" />
         <mark key="[" line="263" column="67" />
         <mark key="]" line="263" column="67" />
         <mark key="." line="263" column="67" />
@@ -1179,8 +1179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="473" column="33" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/process.py" />
-      <jump line="87" column="4" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/process.py" />
       <jump line="75" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="67" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="231" column="8" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/consumer.py" />
@@ -1279,6 +1277,8 @@
       <jump line="45" column="6" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/exceptions.py" />
       <jump line="110" column="24" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="95" column="21" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="165" column="21" filename="$USER_HOME$/Source/platform/spoolconsumer/spoolconsumer/consumers.py" />
+      <jump line="663" column="8" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -5090,7 +5090,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>156</text>
       </register>
     </registers>
     <search>
@@ -5126,7 +5126,6 @@
         <entry encoding="base64">XDxwdWJsaXNoX3Vuc3Vic2NyaWJlX2V2ZW50XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>set paste</entry>
         <entry>242</entry>
         <entry>60</entry>
         <entry>q</entry>
@@ -5146,6 +5145,7 @@
         <entry>1415</entry>
         <entry>w</entry>
         <entry>1</entry>
+        <entry>156</entry>
       </history-cmd>
       <history-expr />
       <history-input />
