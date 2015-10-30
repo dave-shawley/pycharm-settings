@@ -703,7 +703,7 @@
         <mark key="^" line="151" column="11" />
         <mark key="." line="174" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1445602562568">
+      <file name="/Python Console" timestamp="1446215928738">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1445602584947">
@@ -998,8 +998,12 @@
       <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/locks.py" timestamp="1442157749773">
         <mark key="'" line="227" column="23" />
       </file>
-      <file name="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" timestamp="1446211532626">
-        <mark key="'" line="270" column="13" />
+      <file name="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" timestamp="1446215926311">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="58" column="12" />
+        <mark key="]" line="58" column="16" />
+        <mark key="." line="58" column="16" />
+        <mark key="^" line="58" column="16" />
       </file>
       <file name="$USER_HOME$/Source/python/tokenauth/tokenauth/handlers.py" timestamp="1408967128579">
         <mark key="'" line="0" column="0" />
@@ -1109,13 +1113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="32" column="11" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="96" column="3" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="85" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="81" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="76" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
@@ -1209,13 +1206,20 @@
       <jump line="249" column="12" filename="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" />
       <jump line="270" column="13" filename="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" />
       <jump line="261" column="29" filename="$USER_HOME$/Source/platform/ruleproxy/env/lib/python3.4/site-packages/sprockets/mixins/mediatype.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgcmV2ZXJzZV91cmwoc2VsZiwgbmFtZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB1cmwgPSBzdXBlcihSZWFkaW5ncywgc2VsZikucmV2ZXJzZV91cmwobmFtZSwgKmFyZ3MpCiAgICAgICAgaWYga3dhcmdzLmdldCgnYWJzb2x1dGUnKToKICAgICAgICAgICAgdXJsID0gJ3swfTovL3sxfXsyfScuZm9ybWF0KHNlbGYucmVxdWVzdC5wcm90b2NvbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdC5ob3N0LCB1cmwpCiAgICAgICAgcmV0dXJuIHVybAoKICAgIGRlZiBnZXRfbG9naW5fdXJsKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJldmVyc2VfdXJsKCdsb2dpbicsIGFic29sdXRlPVRydWUpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgYmluX3VzZXJfaWQgPSBzZWxmLmdldF9zZWN1cmVfY29va2llKCd1c2VyaWQnKQogICAgICAgIGlmIGJpbl91c2VyX2lkIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gYmluX3VzZXJfaWQuZGVjb2RlKCd1dGYtOCcpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3341,7 +3345,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>RunTests</text>
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFUlJPUl9NQVhfUkVUUllcPg==</text>
@@ -3349,14 +3353,14 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICBkZWYgc2V0VXAoc2VsZik6CiAgICAgICAgc3VwZXIoUnVuVGVzdHMsIHNlbGYpLnNldFVwKCkKICAgICAgICBzZWxmLl9tb2NrcyA9IFtdCiAgICAgICAgc2VsZi5ydW5uZXJfY2xzID0gc2VsZi5zdGFydF9tb2NrKCdzcHJvY2tldHMuaHR0cC5ydW5uZXIuUnVubmVyJykKICAgICAgICBzZWxmLmNvbmZpZ3VyZV9sb2dnaW5nID0gc2VsZi5zdGFydF9tb2NrKAogICAgICAgICAgICAnc3Byb2NrZXRzLmh0dHAucnVubmVyLl9jb25maWd1cmVfbG9nZ2luZycpCgogICAgZGVmIHRlYXJEb3duKHNlbGYpOgogICAgICAgIHN1cGVyKFJ1blRlc3RzLCBzZWxmKS50ZWFyRG93bigpCiAgICAgICAgZm9yIG1vY2tlciBpbiBzZWxmLl9tb2NrczoKICAgICAgICAgICAgbW9ja2VyLnN0b3AoKQogICAgICAgIGRlbCBzZWxmLl9tb2Nrc1s6XQoKICAgIGRlZiBzdGFydF9tb2NrKHNlbGYsIHRhcmdldCk6CiAgICAgICAgbW9ja2VkID0gbW9jay5wYXRjaCh0YXJnZXQpCiAgICAgICAgc2VsZi5fbW9ja3MuYXBwZW5kKG1vY2tlZCkKICAgICAgICByZXR1cm4gbW9ja2VkLnN0YXJ0KCkKCiAgICBAcHJvcGVydHkKICAgIGRlZiBydW5uZXJfaW5zdGFuY2Uoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYucnVubmVyX2Nscy5yZXR1cm5fdmFsdWUK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3MuZW52aXJvbltsaW5lXQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -3365,10 +3369,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbW9ja2VkLnN0YXJ0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9tb2Nrcy5hcHBlbmQobW9ja2VkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5011,13 +5015,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrZWQgPSBtb2NrLnBhdGNoKHRhcmdldCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbW9ja2VkLnN0YXJ0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBzdGFydF9tb2NrKHNlbGYsIHRhcmdldCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9tb2Nrcy5hcHBlbmQobW9ja2VkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrZWQgPSBtb2NrLnBhdGNoKHRhcmdldCkK</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
