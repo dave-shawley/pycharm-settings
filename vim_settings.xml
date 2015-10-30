@@ -77,10 +77,12 @@
       <file name="$USER_HOME$/Source/python/messages/env/lib/python3.4/site-packages/dns/rdataclass.py" timestamp="1431000019898">
         <mark key="'" line="52" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" timestamp="1446225458389">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" timestamp="1446226487569">
+        <mark key="'" line="43" column="35" />
+        <mark key="[" line="48" column="25" />
+        <mark key="]" line="49" column="35" />
+        <mark key="." line="49" column="35" />
+        <mark key="^" line="49" column="35" />
       </file>
       <file name="$USER_HOME$/Source/python/toto/README.rst" timestamp="1431474882771">
         <mark key="'" line="42" column="0" />
@@ -115,12 +117,12 @@
       <file name="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1445436718722">
         <mark key="'" line="226" column="22" />
       </file>
-      <file name="$USER_HOME$/Source/platform/ruleproxy/env/lib/python3.4/site-packages/sprockets/mixins/mediatype.py" timestamp="1446223988810">
+      <file name="$USER_HOME$/Source/platform/ruleproxy/env/lib/python3.4/site-packages/sprockets/mixins/mediatype.py" timestamp="1446227017468">
         <mark key="'" line="273" column="0" />
-        <mark key="[" line="266" column="0" />
-        <mark key="]" line="297" column="19" />
-        <mark key="^" line="261" column="7" />
-        <mark key="." line="261" column="0" />
+        <mark key="[" line="289" column="78" />
+        <mark key="]" line="301" column="13" />
+        <mark key="^" line="301" column="13" />
+        <mark key="." line="301" column="13" />
       </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1431285143532">
         <mark key="'" line="98" column="14" />
@@ -1081,17 +1083,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="99" column="43" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="199" column="8" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="89" column="21" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="105" column="32" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="169" column="8" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="97" column="23" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="211" column="34" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="333" column="34" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="234" column="8" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="130" column="25" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="835" column="8" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/models.py" />
       <jump line="127" column="33" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="556" column="4" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/sessions.py" />
@@ -1161,17 +1152,8 @@
       <jump line="278" column="0" filename="$USER_HOME$/Source/platform/ruleproxy/env/lib/python3.4/site-packages/sprockets/mixins/mediatype.py" />
       <jump line="273" column="0" filename="$USER_HOME$/Source/platform/ruleproxy/env/lib/python3.4/site-packages/sprockets/mixins/mediatype.py" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
-      <jump line="34" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
-      <jump line="33" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
-      <jump line="31" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
-      <jump line="30" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
-      <jump line="26" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
-      <jump line="22" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
       <jump line="15" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
       <jump line="32" column="34" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
-      <jump line="28" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
-      <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
-      <jump line="20" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
       <jump line="1" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
       <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
       <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
@@ -1179,15 +1161,35 @@
       <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
       <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
       <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
-      <jump line="17" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
       <jump line="533" column="4" filename="$USER_HOME$/Library/Caches/PyCharm40/python_stubs/326522377/sys.py" />
+      <jump line="30" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+      <jump line="29" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+      <jump line="25" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+      <jump line="21" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+      <jump line="17" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+      <jump line="20" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+      <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+      <jump line="10" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+      <jump line="16" column="16" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+      <jump line="19" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+      <jump line="23" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+      <jump line="27" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+      <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+      <jump line="34" column="26" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+      <jump line="33" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+      <jump line="28" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+      <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+      <jump line="22" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+      <jump line="26" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+      <jump line="31" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+      <jump line="43" column="35" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgcmV2ZXJzZV91cmwoc2VsZiwgbmFtZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB1cmwgPSBzdXBlcihSZWFkaW5ncywgc2VsZikucmV2ZXJzZV91cmwobmFtZSwgKmFyZ3MpCiAgICAgICAgaWYga3dhcmdzLmdldCgnYWJzb2x1dGUnKToKICAgICAgICAgICAgdXJsID0gJ3swfTovL3sxfXsyfScuZm9ybWF0KHNlbGYucmVxdWVzdC5wcm90b2NvbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdC5ob3N0LCB1cmwpCiAgICAgICAgcmV0dXJuIHVybAoKICAgIGRlZiBnZXRfbG9naW5fdXJsKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJldmVyc2VfdXJsKCdsb2dpbicsIGFic29sdXRlPVRydWUpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgYmluX3VzZXJfaWQgPSBzZWxmLmdldF9zZWN1cmVfY29va2llKCd1c2VyaWQnKQogICAgICAgIGlmIGJpbl91c2VyX2lkIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gYmluX3VzZXJfaWQuZGVjb2RlKCd1dGYtOCcpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhY3RpdmUsIHRhcmdldCwga2V5ID0gd29ya19xdWV1ZS5wb3AoMCkK</text>
+        <text encoding="base64">CgpkZWYgX3ByaW1pdGl2ZV90b191bmljb2RlKG9iaik6CiAgICBpZiBpc2luc3RhbmNlKG9iaiwgYnl0ZXMpOgogICAgICAgIHJldHVybiBvYmouZGVjb2RlKCd1dGYtOCcpCiAgICByZXR1cm4gb2JqCgoKZGVmIHRvX3VuaWNvZGUob2JqKToKICAgIGQgPSB7J3Jvb3QnOiBvYmp9CiAgICBkZWYgc3RvcmVfcm9vdCh2KToKICAgICAgICBkWydyb290J10gPSB2CgogICAgd29ya19xdWV1ZSA9IFsob2JqLCBOb25lKV0KICAgIHdoaWxlIHdvcmtfcXVldWU6CiAgICAgICAgYWN0aXZlLCBhY3Rpb24gPSB3b3JrX3F1ZXVlLnBvcCgwKQogICAgICAgIGlmIGlzaW5zdGFuY2UoYWN0aXZlLCBkaWN0KToKICAgICAgICAgICAgZm9yIGssIHYgaW4gYWN0aXZlLml0ZW1zKCk6CiAgICAgICAgICAgICAgICBkZWYgZihuZXdfdik6CiAgICAgICAgICAgICAgICAgICAgYWN0aXZlW19wcmltaXRpdmVfdG9fdW5pY29kZShrKV0gPSBuZXdfdgogICAgICAgICAgICAgICAgd29ya19xdWV1ZS5hcHBlbmQoKHYsIGYpKQogICAgICAgIGVsaWYgaXNpbnN0YW5jZShhY3RpdmUsIGxpc3QpOgogICAgICAgICAgICBmb3IgaWR4LCB2YWx1ZSBpbiBlbnVtZXJhdGUoYWN0aXZlKToKICAgICAgICAgICAgICAgIGRlZiBmKG5ld192KToKICAgICAgICAgICAgICAgICAgICBvYmpbaWR4XSA9IG5ld192CiAgICAgICAgICAgICAgICB3b3JrX3F1ZXVlLmFwcGVuZCgodmFsdWUsIGYpKQogICAgICAgIGVsaWYgYWN0aW9uIGlzIG5vdCBOb25lOgogICAgICAgICAgICBhY3Rpb24oX3ByaW1pdGl2ZV90b191bmljb2RlKGFjdGl2ZSkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc3RvcmVfcm9vdChhY3RpdmUpCgogICAgcmV0dXJuIGRbJ3Jvb3QnXQo=</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3313,7 +3315,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>import limit</text>
+        <text>_primitive_to_unicode(k)))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -3322,25 +3324,25 @@
         <text encoding="base64">CgpkZWYgX3ByaW1pdGl2ZV90b191bmljb2RlKG9iaik6CiAgICBpZiBpc2luc3RhbmNlKG9iaiwgYnl0ZXMpOgogICAgICAgIHJldHVybiBvYmouZGVjb2RlKCd1dGYtOCcpCiAgICByZXR1cm4gb2JqCgoKZGVmIHRvX3VuaWNvZGUob2JqKToKICAgIGQgPSB7J3Jvb3QnOiBvYmp9CiAgICBkZWYgc3RvcmVfcm9vdCh2KToKICAgICAgICBkWydyb290J10gPSB2CgogICAgd29ya19xdWV1ZSA9IFsob2JqLCBOb25lKV0KICAgIHdoaWxlIHdvcmtfcXVldWU6CiAgICAgICAgYWN0aXZlLCBhY3Rpb24gPSB3b3JrX3F1ZXVlLnBvcCgwKQogICAgICAgIGlmIGlzaW5zdGFuY2UoYWN0aXZlLCBkaWN0KToKICAgICAgICAgICAgZm9yIGssIHYgaW4gYWN0aXZlLml0ZW1zKCk6CiAgICAgICAgICAgICAgICBkZWYgZihuZXdfdik6CiAgICAgICAgICAgICAgICAgICAgYWN0aXZlW19wcmltaXRpdmVfdG9fdW5pY29kZShrKV0gPSBuZXdfdgogICAgICAgICAgICAgICAgd29ya19xdWV1ZS5hcHBlbmQoKHYsIGYpKQogICAgICAgIGVsaWYgaXNpbnN0YW5jZShhY3RpdmUsIGxpc3QpOgogICAgICAgICAgICBmb3IgaWR4LCB2YWx1ZSBpbiBlbnVtZXJhdGUoYWN0aXZlKToKICAgICAgICAgICAgICAgIGRlZiBmKG5ld192KToKICAgICAgICAgICAgICAgICAgICBvYmpbaWR4XSA9IG5ld192CiAgICAgICAgICAgICAgICB3b3JrX3F1ZXVlLmFwcGVuZCgodmFsdWUsIGYpKQogICAgICAgIGVsaWYgYWN0aW9uIGlzIG5vdCBOb25lOgogICAgICAgICAgICBhY3Rpb24oX3ByaW1pdGl2ZV90b191bmljb2RlKGFjdGl2ZSkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc3RvcmVfcm9vdChhY3RpdmUpCgogICAgcmV0dXJuIGRbJ3Jvb3QnXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhY3RpdmUsIHRhcmdldCwga2V5ID0gd29ya19xdWV1ZS5wb3AoMCkK</text>
+        <text encoding="base64">CgpkZWYgX3ByaW1pdGl2ZV90b191bmljb2RlKG9iaik6CiAgICBpZiBpc2luc3RhbmNlKG9iaiwgYnl0ZXMpOgogICAgICAgIHJldHVybiBvYmouZGVjb2RlKCd1dGYtOCcpCiAgICByZXR1cm4gb2JqCgoKZGVmIHRvX3VuaWNvZGUob2JqKToKICAgIGQgPSB7J3Jvb3QnOiBvYmp9CiAgICBkZWYgc3RvcmVfcm9vdCh2KToKICAgICAgICBkWydyb290J10gPSB2CgogICAgd29ya19xdWV1ZSA9IFsob2JqLCBOb25lKV0KICAgIHdoaWxlIHdvcmtfcXVldWU6CiAgICAgICAgYWN0aXZlLCBhY3Rpb24gPSB3b3JrX3F1ZXVlLnBvcCgwKQogICAgICAgIGlmIGlzaW5zdGFuY2UoYWN0aXZlLCBkaWN0KToKICAgICAgICAgICAgZm9yIGssIHYgaW4gYWN0aXZlLml0ZW1zKCk6CiAgICAgICAgICAgICAgICBkZWYgZihuZXdfdik6CiAgICAgICAgICAgICAgICAgICAgYWN0aXZlW19wcmltaXRpdmVfdG9fdW5pY29kZShrKV0gPSBuZXdfdgogICAgICAgICAgICAgICAgd29ya19xdWV1ZS5hcHBlbmQoKHYsIGYpKQogICAgICAgIGVsaWYgaXNpbnN0YW5jZShhY3RpdmUsIGxpc3QpOgogICAgICAgICAgICBmb3IgaWR4LCB2YWx1ZSBpbiBlbnVtZXJhdGUoYWN0aXZlKToKICAgICAgICAgICAgICAgIGRlZiBmKG5ld192KToKICAgICAgICAgICAgICAgICAgICBvYmpbaWR4XSA9IG5ld192CiAgICAgICAgICAgICAgICB3b3JrX3F1ZXVlLmFwcGVuZCgodmFsdWUsIGYpKQogICAgICAgIGVsaWYgYWN0aW9uIGlzIG5vdCBOb25lOgogICAgICAgICAgICBhY3Rpb24oX3ByaW1pdGl2ZV90b191bmljb2RlKGFjdGl2ZSkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc3RvcmVfcm9vdChhY3RpdmUpCgogICAgcmV0dXJuIGRbJ3Jvb3QnXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KHJlcHIoYWN0aXZlKSwgaWQocGFyZW50KSwgcmVwcihpZHgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBhY3RpdmUuY2xlYXIoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdvcmtfcXVldWUgPSBbKG9iaiwgZCwgJ3Jvb3QnKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsIG9ialtdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdpZCcsIGlkKGQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbCBwYXJlbnRbaWR4XQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGQgPSB7fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShwYXJlbnQsIGRpY3QpOgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4982,17 +4984,17 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBtYXRoCg==</text>
+      <register name="7" type="4">
+        <text>_primitive_to_unicode(k)))</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN5cy5pbnRfaW5mbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="4">
-        <text>import limit</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -5046,8 +5048,8 @@
         <entry>156</entry>
         <entry>573</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
