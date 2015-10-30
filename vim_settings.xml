@@ -77,6 +77,12 @@
       <file name="$USER_HOME$/Source/python/messages/env/lib/python3.4/site-packages/dns/rdataclass.py" timestamp="1431000019898">
         <mark key="'" line="52" column="6" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" timestamp="1446224249968">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="25" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/python/toto/README.rst" timestamp="1431474882771">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="65" column="30" />
@@ -110,7 +116,13 @@
       <file name="$USER_HOME$/Source/platform/ruleset/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1445436718722">
         <mark key="'" line="226" column="22" />
       </file>
-      <file name="$USER_HOME$/Source/platform/ruleproxy/env/lib/python3.4/site-packages/sprockets/mixins/mediatype.py" timestamp="1446217733727" />
+      <file name="$USER_HOME$/Source/platform/ruleproxy/env/lib/python3.4/site-packages/sprockets/mixins/mediatype.py" timestamp="1446223988810">
+        <mark key="'" line="273" column="0" />
+        <mark key="[" line="266" column="0" />
+        <mark key="]" line="297" column="19" />
+        <mark key="^" line="261" column="7" />
+        <mark key="." line="261" column="0" />
+      </file>
       <file name="$USER_HOME$/Temporary/env/lib/python2.7/site-packages/tornado/httpclient.py" timestamp="1431285143532">
         <mark key="'" line="98" column="14" />
       </file>
@@ -133,14 +145,6 @@
         <mark key="]" line="91" column="51" />
         <mark key="^" line="91" column="51" />
         <mark key="." line="91" column="51" />
-      </file>
-      <file name="$USER_HOME$/Source/work/sprockets.logging/examples/jsonlogging.py" timestamp="1442194878516">
-        <mark key="a" line="43" column="30" />
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="47" column="3" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/selectors.py" timestamp="1438534721128">
         <mark key="'" line="532" column="22" />
@@ -180,22 +184,6 @@
         <mark key="^" line="30" column="40" />
         <mark key="." line="30" column="40" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.logging/tests.py" timestamp="1442229830403">
-        <mark key="a" line="169" column="34" />
-        <mark key="'" line="176" column="41" />
-        <mark key="[" line="190" column="61" />
-        <mark key="]" line="190" column="61" />
-        <mark key="^" line="190" column="57" />
-        <mark key="." line="190" column="61" />
-      </file>
-      <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/tests.py" timestamp="1442404764093">
-        <mark key="a" line="106" column="27" />
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="216" column="53" />
-        <mark key="]" line="216" column="53" />
-        <mark key="^" line="48" column="12" />
-        <mark key="." line="216" column="53" />
-      </file>
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/tornado/testing.py" timestamp="1434075680219">
         <mark key="'" line="0" column="0" />
       </file>
@@ -209,13 +197,13 @@
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/motor/__init__.py" timestamp="1435146270906">
         <mark key="'" line="1058" column="33" />
       </file>
-      <file name="$USER_HOME$/Source/platform/ruleproxy/env/lib/python3.4/site-packages/tornado/escape.py" timestamp="1446219091659">
+      <file name="$USER_HOME$/Source/platform/ruleproxy/env/lib/python3.4/site-packages/tornado/escape.py" timestamp="1446223426998">
         <mark key="a" line="262" column="0" />
         <mark key="'" line="257" column="0" />
-        <mark key="[" line="276" column="27" />
-        <mark key="]" line="278" column="36" />
-        <mark key="^" line="278" column="36" />
-        <mark key="." line="278" column="36" />
+        <mark key="[" line="261" column="64" />
+        <mark key="]" line="262" column="19" />
+        <mark key="^" line="262" column="19" />
+        <mark key="." line="262" column="19" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/jwt/__init__.py" timestamp="1440504558521">
         <mark key="'" line="24" column="23" />
@@ -385,14 +373,6 @@
       </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/adapters/blocking_connection.py" timestamp="1423053523371">
         <mark key="'" line="305" column="28" />
-      </file>
-      <file name="$USER_HOME$/Source/work/sprockets.mixins.media_type/sprockets/mixins/mediatype/transcoders.py" timestamp="1443404887009">
-        <mark key="a" line="25" column="0" />
-        <mark key="'" line="239" column="0" />
-        <mark key="[" line="244" column="45" />
-        <mark key="]" line="244" column="45" />
-        <mark key="^" line="8" column="70" />
-        <mark key="." line="244" column="45" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/familytree/cli/note.py" timestamp="1408708844242">
         <mark key="'" line="69" column="28" />
@@ -576,14 +556,6 @@
         <mark key="^" line="43" column="15" />
         <mark key="." line="43" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.mixins.media_type/tests.py" timestamp="1443402560006">
-        <mark key="a" line="131" column="0" />
-        <mark key="'" line="145" column="0" />
-        <mark key="[" line="163" column="25" />
-        <mark key="]" line="163" column="39" />
-        <mark key="^" line="163" column="39" />
-        <mark key="." line="163" column="39" />
-      </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/channel.py" timestamp="1430058303912">
         <mark key="'" line="1056" column="24" />
       </file>
@@ -627,14 +599,6 @@
         <mark key="]" line="82" column="3" />
         <mark key="^" line="82" column="3" />
         <mark key="." line="82" column="3" />
-      </file>
-      <file name="$USER_HOME$/Source/platform/scheduler/tests.py" timestamp="1445603606012">
-        <mark key="a" line="636" column="8" />
-        <mark key="'" line="14" column="37" />
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="37" />
-        <mark key="^" line="14" column="37" />
-        <mark key="." line="14" column="37" />
       </file>
       <file name="$USER_HOME$/Source/python/readit2/static/js/app.js" timestamp="1440808336358">
         <mark key="'" line="21" column="22" />
@@ -712,7 +676,7 @@
         <mark key="^" line="151" column="11" />
         <mark key="." line="174" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1446218886238">
+      <file name="/Python Console" timestamp="1446224089730">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1446218554907">
@@ -919,14 +883,6 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/work/sprockets.logging/sprockets/logging.py" timestamp="1442229852158">
-        <mark key="a" line="150" column="52" />
-        <mark key="'" line="101" column="38" />
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="21" column="37" />
-        <mark key="^" line="21" column="37" />
-        <mark key="." line="21" column="37" />
-      </file>
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/windows_events.py" timestamp="1438517317471">
         <mark key="'" line="769" column="44" />
       </file>
@@ -1010,9 +966,9 @@
       <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/locks.py" timestamp="1442157749773">
         <mark key="'" line="227" column="23" />
       </file>
-      <file name="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" timestamp="1446219458339">
+      <file name="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" timestamp="1446223082722">
         <mark key="a" line="55" column="8" />
-        <mark key="'" line="4" column="0" />
+        <mark key="'" line="279" column="13" />
         <mark key="[" line="279" column="0" />
         <mark key="]" line="279" column="0" />
         <mark key="." line="279" column="0" />
@@ -1126,17 +1082,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="117" column="43" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="114" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="109" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="103" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="110" column="8" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="106" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="100" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="94" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="89" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
@@ -1211,7 +1156,6 @@
       <jump line="328" column="8" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/sessions.py" />
       <jump line="249" column="12" filename="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" />
       <jump line="270" column="13" filename="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" />
-      <jump line="261" column="29" filename="$USER_HOME$/Source/platform/ruleproxy/env/lib/python3.4/site-packages/sprockets/mixins/mediatype.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" />
       <jump line="19" column="0" filename="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" />
@@ -1226,13 +1170,25 @@
       <jump line="255" column="0" filename="$USER_HOME$/Source/platform/ruleproxy/env/lib/python3.4/site-packages/tornado/escape.py" />
       <jump line="257" column="0" filename="$USER_HOME$/Source/platform/ruleproxy/env/lib/python3.4/site-packages/tornado/escape.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" />
+      <jump line="279" column="13" filename="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" />
+      <jump line="261" column="8" filename="$USER_HOME$/Source/platform/ruleproxy/env/lib/python3.4/site-packages/sprockets/mixins/mediatype.py" />
+      <jump line="271" column="27" filename="$USER_HOME$/Source/platform/ruleproxy/env/lib/python3.4/site-packages/sprockets/mixins/mediatype.py" />
+      <jump line="3524" column="8" filename="$USER_HOME$/Library/Caches/PyCharm40/python_stubs/326522377/builtins.py" />
+      <jump line="274" column="0" filename="$USER_HOME$/Source/platform/ruleproxy/env/lib/python3.4/site-packages/sprockets/mixins/mediatype.py" />
+      <jump line="275" column="0" filename="$USER_HOME$/Source/platform/ruleproxy/env/lib/python3.4/site-packages/sprockets/mixins/mediatype.py" />
+      <jump line="297" column="17" filename="$USER_HOME$/Source/platform/ruleproxy/env/lib/python3.4/site-packages/sprockets/mixins/mediatype.py" />
+      <jump line="296" column="0" filename="$USER_HOME$/Source/platform/ruleproxy/env/lib/python3.4/site-packages/sprockets/mixins/mediatype.py" />
+      <jump line="278" column="0" filename="$USER_HOME$/Source/platform/ruleproxy/env/lib/python3.4/site-packages/sprockets/mixins/mediatype.py" />
+      <jump line="273" column="0" filename="$USER_HOME$/Source/platform/ruleproxy/env/lib/python3.4/site-packages/sprockets/mixins/mediatype.py" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
+      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgcmV2ZXJzZV91cmwoc2VsZiwgbmFtZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB1cmwgPSBzdXBlcihSZWFkaW5ncywgc2VsZikucmV2ZXJzZV91cmwobmFtZSwgKmFyZ3MpCiAgICAgICAgaWYga3dhcmdzLmdldCgnYWJzb2x1dGUnKToKICAgICAgICAgICAgdXJsID0gJ3swfTovL3sxfXsyfScuZm9ybWF0KHNlbGYucmVxdWVzdC5wcm90b2NvbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdC5ob3N0LCB1cmwpCiAgICAgICAgcmV0dXJuIHVybAoKICAgIGRlZiBnZXRfbG9naW5fdXJsKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJldmVyc2VfdXJsKCdsb2dpbicsIGFic29sdXRlPVRydWUpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgYmluX3VzZXJfaWQgPSBzZWxmLmdldF9zZWN1cmVfY29va2llKCd1c2VyaWQnKQogICAgICAgIGlmIGJpbl91c2VyX2lkIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gYmluX3VzZXJfaWQuZGVjb2RlKCd1dGYtOCcpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh3b3JrX3F1ZXVlKQo=</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3358,34 +3314,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFUlJPUl9NQVhfUkVUUllcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICBkZWYgc2V0VXAoc2VsZik6CiAgICAgICAgc3VwZXIoUnVuVGVzdHMsIHNlbGYpLnNldFVwKCkKICAgICAgICBzZWxmLl9tb2NrcyA9IFtdCiAgICAgICAgc2VsZi5ydW5uZXJfY2xzID0gc2VsZi5zdGFydF9tb2NrKCdzcHJvY2tldHMuaHR0cC5ydW5uZXIuUnVubmVyJykKICAgICAgICBzZWxmLmNvbmZpZ3VyZV9sb2dnaW5nID0gc2VsZi5zdGFydF9tb2NrKAogICAgICAgICAgICAnc3Byb2NrZXRzLmh0dHAucnVubmVyLl9jb25maWd1cmVfbG9nZ2luZycpCgogICAgZGVmIHRlYXJEb3duKHNlbGYpOgogICAgICAgIHN1cGVyKFJ1blRlc3RzLCBzZWxmKS50ZWFyRG93bigpCiAgICAgICAgZm9yIG1vY2tlciBpbiBzZWxmLl9tb2NrczoKICAgICAgICAgICAgbW9ja2VyLnN0b3AoKQogICAgICAgIGRlbCBzZWxmLl9tb2Nrc1s6XQoKICAgIGRlZiBzdGFydF9tb2NrKHNlbGYsIHRhcmdldCk6CiAgICAgICAgbW9ja2VkID0gbW9jay5wYXRjaCh0YXJnZXQpCiAgICAgICAgc2VsZi5fbW9ja3MuYXBwZW5kKG1vY2tlZCkKICAgICAgICByZXR1cm4gbW9ja2VkLnN0YXJ0KCkKCiAgICBAcHJvcGVydHkKICAgIGRlZiBydW5uZXJfaW5zdGFuY2Uoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYucnVubmVyX2Nscy5yZXR1cm5fdmFsdWUK</text>
+      <register name="0" type="2">
+        <text encoding="base64">CgpkZWYgX3ByaW1pdGl2ZV90b191bmljb2RlKG9iaik6CiAgICBpZiBpc2luc3RhbmNlKG9iaiwgYnl0ZXMpOgogICAgICAgIHJldHVybiBvYmouZGVjb2RlKCd1dGYtOCcpCiAgICByZXR1cm4gb2JqCgoKZGVmIHRvX3VuaWNvZGUob2JqKToKICAgIGQgPSB7J3Jvb3QnOiBvYmp9CiAgICBkZWYgc3RvcmVfcm9vdCh2KToKICAgICAgICBkWydyb290J10gPSB2CgogICAgd29ya19xdWV1ZSA9IFsob2JqLCBOb25lKV0KICAgIHdoaWxlIHdvcmtfcXVldWU6CiAgICAgICAgYWN0aXZlLCBhY3Rpb24gPSB3b3JrX3F1ZXVlLnBvcCgwKQogICAgICAgIGlmIGlzaW5zdGFuY2UoYWN0aXZlLCBkaWN0KToKICAgICAgICAgICAgZm9yIGssIHYgaW4gYWN0aXZlLml0ZW1zKCk6CiAgICAgICAgICAgICAgICBkZWYgZihuZXdfdik6CiAgICAgICAgICAgICAgICAgICAgYWN0aXZlW19wcmltaXRpdmVfdG9fdW5pY29kZShrKV0gPSBuZXdfdgogICAgICAgICAgICAgICAgd29ya19xdWV1ZS5hcHBlbmQoKHYsIGYpKQogICAgICAgIGVsaWYgaXNpbnN0YW5jZShhY3RpdmUsIGxpc3QpOgogICAgICAgICAgICBmb3IgaWR4LCB2YWx1ZSBpbiBlbnVtZXJhdGUoYWN0aXZlKToKICAgICAgICAgICAgICAgIGRlZiBmKG5ld192KToKICAgICAgICAgICAgICAgICAgICBvYmpbaWR4XSA9IG5ld192CiAgICAgICAgICAgICAgICB3b3JrX3F1ZXVlLmFwcGVuZCgodmFsdWUsIGYpKQogICAgICAgIGVsaWYgYWN0aW9uIGlzIG5vdCBOb25lOgogICAgICAgICAgICBhY3Rpb24oX3ByaW1pdGl2ZV90b191bmljb2RlKGFjdGl2ZSkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc3RvcmVfcm9vdChhY3RpdmUpCgogICAgcmV0dXJuIGRbJ3Jvb3QnXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh3b3JrX3F1ZXVlKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>str</text>
+        <text>)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+      <register name="3" type="4">
+        <text>v</text>
       </register>
-      <register name="4" type="4">
-        <text>'id']</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>[</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBfaWRfY2FjaGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5027,17 +4983,17 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>th</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkdW1wZWQgPSBzZWxmLl9kdW1wcyhlc2NhcGUucmVjdXJzaXZlX3VuaWNvZGUoZGF0YV9kaWN0KSkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdkZXB0aCcsIGRlcHRoKQo=</text>
+      <register name="8" type="4">
+        <text>obj</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlcHRoID0gbGVuKHRiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -5090,9 +5046,9 @@
         <entry>1415</entry>
         <entry>156</entry>
         <entry>573</entry>
+        <entry>w</entry>
         <entry>vsp</entry>
         <entry>1</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
