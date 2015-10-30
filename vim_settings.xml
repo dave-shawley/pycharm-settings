@@ -12,6 +12,9 @@
       <file name="$USER_HOME$/opt/lib/python3.4/asyncio/protocols.py" timestamp="1438435998247">
         <mark key="'" line="61" column="15" />
       </file>
+      <file name="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/packages/urllib3/util/timeout.py" timestamp="1446209178320">
+        <mark key="'" line="91" column="22" />
+      </file>
       <file name="$USER_HOME$/Source/python/setupext-gitversion/docs/conf.py" timestamp="1419799290891">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="31" column="58" />
@@ -28,12 +31,6 @@
       </file>
       <file name="$USER_HOME$/Source/python/haregel/haregel/application.py" timestamp="1424434445035">
         <mark key="'" line="30" column="38" />
-      </file>
-      <file name="$USER_HOME$/Source/platform/ruleset/tests/test_recipient.py" timestamp="1445520457458">
-        <mark key="'" line="58" column="23" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/connection.py" timestamp="1430307116938">
         <mark key="'" line="619" column="23" />
@@ -89,6 +86,9 @@
       </file>
       <file name="/" timestamp="1436701703073">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/platform/campaignproxy/campaignproxy.py" timestamp="1446208741707">
+        <mark key="'" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/requests/exceptions.py" timestamp="1445538621245">
         <mark key="'" line="12" column="25" />
@@ -169,8 +169,8 @@
         <mark key="^" line="502" column="19" />
         <mark key="." line="502" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" timestamp="1445888438466">
-        <mark key="'" line="136" column="43" />
+      <file name="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" timestamp="1446208779839">
+        <mark key="'" line="136" column="39" />
       </file>
       <file name="$USER_HOME$/Source/python/sampson/docs/conf.py" timestamp="1419690584296">
         <mark key="'" line="3" column="0" />
@@ -262,6 +262,9 @@
         <mark key="^" line="140" column="16" />
         <mark key="." line="140" column="42" />
       </file>
+      <file name="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/sessions.py" timestamp="1446209102265">
+        <mark key="'" line="575" column="20" />
+      </file>
       <file name="$USER_HOME$/Source/work/test-helpers/docs/http-services.rst" timestamp="1431307514605">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="11" column="15" />
@@ -298,8 +301,8 @@
         <mark key="^" line="179" column="45" />
         <mark key="." line="180" column="74" />
       </file>
-      <file name="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/consumer.py" timestamp="1445888448243">
-        <mark key="'" line="699" column="25" />
+      <file name="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/consumer.py" timestamp="1446208862761">
+        <mark key="'" line="687" column="26" />
       </file>
       <file name="$USER_HOME$/Source/family-tree/tests/integration/source_tests.py" timestamp="1404573970786">
         <mark key="'" line="9" column="30" />
@@ -463,6 +466,9 @@
         <mark key="^" line="86" column="51" />
         <mark key="." line="104" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/adapters.py" timestamp="1446209119474">
+        <mark key="'" line="355" column="22" />
+      </file>
       <file name="$USER_HOME$/Source/python/readit2/env/lib/python3.4/site-packages/pymongo/mongo_client.py" timestamp="1434971316208">
         <mark key="'" line="289" column="40" />
       </file>
@@ -518,13 +524,9 @@
       <file name="$USER_HOME$/Source/python/glinda/env/lib/python3.4/site-packages/ietfparse/headers.py" timestamp="1432339065376">
         <mark key="'" line="57" column="26" />
       </file>
-      <file name="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" timestamp="1446055159249">
-        <mark key="a" line="99" column="43" />
-        <mark key="'" line="95" column="21" />
+      <file name="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" timestamp="1446209262521">
+        <mark key="'" line="50" column="33" />
         <mark key="[" line="13" column="22" />
-        <mark key="]" line="14" column="23" />
-        <mark key="^" line="14" column="23" />
-        <mark key="." line="14" column="23" />
       </file>
       <file name="$USER_HOME$/opt/lib/python3.4/_collections_abc.py" timestamp="1443401220601">
         <mark key="'" line="469" column="15" />
@@ -963,12 +965,6 @@
       <file name="$USER_HOME$/opt/lib/python3.4/asyncore.py" timestamp="1423401242971">
         <mark key="'" line="439" column="17" />
       </file>
-      <file name="$USER_HOME$/Source/platform/ruleset/ruleset/schedule/action.py" timestamp="1445546799925">
-        <mark key="'" line="81" column="22" />
-        <mark key="[" line="103" column="28" />
-        <mark key="]" line="103" column="28" />
-        <mark key="." line="103" column="28" />
-      </file>
       <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/ioloop.py" timestamp="1442402140847">
         <mark key="'" line="800" column="64" />
       </file>
@@ -1110,28 +1106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="15" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="287" column="15" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="290" column="4" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="90" column="17" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="131" column="8" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="94" column="21" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="198" column="34" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="315" column="4" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="213" column="13" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
-      <jump line="142" column="8" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" />
-      <jump line="9" column="15" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="717" column="0" filename="$USER_HOME$/opt/lib/python3.4/os.py" />
-      <jump line="19" column="33" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="6" column="25" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="27" column="31" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="16" column="8" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="35" column="4" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="49" column="7" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="54" column="8" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="63" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="52" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
@@ -1210,6 +1184,28 @@
       <jump line="104" column="9" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
       <jump line="106" column="35" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
       <jump line="119" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Source/platform/campaignproxy/campaignproxy.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Source/platform/campaignproxy/campaignproxy.py" />
+      <jump line="72" column="8" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="30" column="28" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="136" column="39" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/avroconsumer.py" />
+      <jump line="611" column="17" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/consumer.py" />
+      <jump line="134" column="13" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/consumer.py" />
+      <jump line="687" column="26" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/rejected/consumer.py" />
+      <jump line="102" column="21" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="166" column="33" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="520" column="20" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/sessions.py" />
+      <jump line="467" column="23" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/sessions.py" />
+      <jump line="575" column="20" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/sessions.py" />
+      <jump line="355" column="22" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/adapters.py" />
+      <jump line="91" column="22" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/packages/urllib3/util/timeout.py" />
+      <jump line="538" column="0" filename="$USER_HOME$/opt/lib/python2.7/socket.py" />
+      <jump line="50" column="33" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
+      <jump line="328" column="8" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/sessions.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -5021,7 +5017,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>573</text>
       </register>
     </registers>
     <search>
@@ -5057,7 +5053,6 @@
         <entry encoding="base64">XDxFUlJPUl9NQVhfUkVUUllcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>242</entry>
         <entry>60</entry>
         <entry>q</entry>
         <entry>vs</entry>
@@ -5077,6 +5072,7 @@
         <entry>w</entry>
         <entry>156</entry>
         <entry>1</entry>
+        <entry>573</entry>
       </history-cmd>
       <history-expr />
       <history-input />
