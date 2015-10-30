@@ -998,6 +998,9 @@
       <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/locks.py" timestamp="1442157749773">
         <mark key="'" line="227" column="23" />
       </file>
+      <file name="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" timestamp="1446210343989">
+        <mark key="'" line="249" column="12" />
+      </file>
       <file name="$USER_HOME$/Source/python/tokenauth/tokenauth/handlers.py" timestamp="1408967128579">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="106" column="70" />
@@ -1106,7 +1109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="52" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Source/platform/sprockets.http/tests.py" />
@@ -1206,6 +1208,7 @@
       <jump line="538" column="0" filename="$USER_HOME$/opt/lib/python2.7/socket.py" />
       <jump line="50" column="33" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="328" column="8" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/sessions.py" />
+      <jump line="249" column="12" filename="$USER_HOME$/Source/platform/ruleproxy/ruleproxy.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
