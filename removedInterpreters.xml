@@ -42,7 +42,6 @@
         <option value="$USER_HOME$/Source/platform/sprockets.clients.http/env/bin/python" />
         <option value="$USER_HOME$/Source/platform/sprockets.mixins.auth/env/bin/python" />
         <option value="$USER_HOME$/Source/platform/sprockets.mixins.avro/env/bin/python" />
-        <option value="$USER_HOME$/Source/platform/sprockets.mixins.media_type/env/bin/python" />
         <option value="$USER_HOME$/Source/platform/sprockets.mixins.sentry/env/bin/python" />
         <option value="$USER_HOME$/Source/platform/sprockets.mixins.session/env/bin/python" />
         <option value="$USER_HOME$/Source/public/test-helpers/env/bin/python" />
