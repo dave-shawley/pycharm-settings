@@ -50,6 +50,13 @@
         <mark key="^" line="47" column="34" />
         <mark key="." line="47" column="34" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10" timestamp="1446498256583">
+        <mark key="'" line="32" column="4" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="11" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/sprockets/clients/amqp/connection.py" timestamp="1442402427485">
         <mark key="'" line="141" column="0" />
         <mark key="[" line="176" column="0" />
@@ -85,12 +92,10 @@
       <file name="$USER_HOME$/Source/python/messages/env/lib/python3.4/site-packages/dns/rdataclass.py" timestamp="1431000019898">
         <mark key="'" line="52" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9" timestamp="1446496651307">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="^" line="2" column="4" />
-        <mark key="." line="107" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9" timestamp="1446498248628">
+        <mark key="'" line="77" column="37" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="73" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8" timestamp="1446226487569">
         <mark key="'" line="43" column="35" />
@@ -1155,14 +1160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="13" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/process.py" />
-      <jump line="558" column="60" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="556" column="17" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="94" column="0" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="560" column="37" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="104" column="9" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="106" column="35" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
-      <jump line="119" column="4" filename="$USER_HOME$/Source/platform/spoolconsumer/env/lib/python2.7/site-packages/rejected/consumer.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Source/platform/campaignproxy/campaignproxy.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Source/platform/campaignproxy/campaignproxy.py" />
       <jump line="72" column="8" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
@@ -1246,27 +1243,30 @@
       <jump line="38" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Source/platform/sprockets.mixins.media_type/tests.py" />
       <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9" />
-      <jump line="7" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9" />
       <jump line="120" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9" />
       <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9" />
       <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9" />
       <jump line="98" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9" />
       <jump line="35" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9" />
-      <jump line="46" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9" />
       <jump line="47" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9" />
       <jump line="64" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9" />
+      <jump line="7" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_10" />
+      <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_10" />
+      <jump line="55" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9" />
+      <jump line="75" column="37" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9" />
+      <jump line="7" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9" />
+      <jump line="46" column="21" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9" />
+      <jump line="77" column="37" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9" />
+      <jump line="19" column="20" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_10" />
+      <jump line="30" column="20" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_10" />
+      <jump line="32" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_10" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgcmV2ZXJzZV91cmwoc2VsZiwgbmFtZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB1cmwgPSBzdXBlcihSZWFkaW5ncywgc2VsZikucmV2ZXJzZV91cmwobmFtZSwgKmFyZ3MpCiAgICAgICAgaWYga3dhcmdzLmdldCgnYWJzb2x1dGUnKToKICAgICAgICAgICAgdXJsID0gJ3swfTovL3sxfXsyfScuZm9ybWF0KHNlbGYucmVxdWVzdC5wcm90b2NvbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdC5ob3N0LCB1cmwpCiAgICAgICAgcmV0dXJuIHVybAoKICAgIGRlZiBnZXRfbG9naW5fdXJsKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJldmVyc2VfdXJsKCdsb2dpbicsIGFic29sdXRlPVRydWUpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgYmluX3VzZXJfaWQgPSBzZWxmLmdldF9zZWN1cmVfY29va2llKCd1c2VyaWQnKQogICAgICAgIGlmIGJpbl91c2VyX2lkIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gYmluX3VzZXJfaWQuZGVjb2RlKCd1dGYtOCcpCg==</text>
       </register>
-      <register name="&quot;" type="8">
-        <text>    
-    
-    
-    
-    
-    </text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3392,76 +3392,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text> </text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwpXD4=</text>
+        <text>events</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CgpkZWYgX3ByaW1pdGl2ZV90b191bmljb2RlKG9iaik6CiAgICBpZiBpc2luc3RhbmNlKG9iaiwgYnl0ZXMpOgogICAgICAgIHJldHVybiBvYmouZGVjb2RlKCd1dGYtOCcpCiAgICByZXR1cm4gb2JqCgoKZGVmIHRvX3VuaWNvZGUob2JqKToKICAgIGQgPSB7J3Jvb3QnOiBvYmp9CiAgICBkZWYgc3RvcmVfcm9vdCh2KToKICAgICAgICBkWydyb290J10gPSB2CgogICAgd29ya19xdWV1ZSA9IFsob2JqLCBOb25lKV0KICAgIHdoaWxlIHdvcmtfcXVldWU6CiAgICAgICAgYWN0aXZlLCBhY3Rpb24gPSB3b3JrX3F1ZXVlLnBvcCgwKQogICAgICAgIGlmIGlzaW5zdGFuY2UoYWN0aXZlLCBkaWN0KToKICAgICAgICAgICAgZm9yIGssIHYgaW4gYWN0aXZlLml0ZW1zKCk6CiAgICAgICAgICAgICAgICBkZWYgZihuZXdfdik6CiAgICAgICAgICAgICAgICAgICAgYWN0aXZlW19wcmltaXRpdmVfdG9fdW5pY29kZShrKV0gPSBuZXdfdgogICAgICAgICAgICAgICAgd29ya19xdWV1ZS5hcHBlbmQoKHYsIGYpKQogICAgICAgIGVsaWYgaXNpbnN0YW5jZShhY3RpdmUsIGxpc3QpOgogICAgICAgICAgICBmb3IgaWR4LCB2YWx1ZSBpbiBlbnVtZXJhdGUoYWN0aXZlKToKICAgICAgICAgICAgICAgIGRlZiBmKG5ld192KToKICAgICAgICAgICAgICAgICAgICBvYmpbaWR4XSA9IG5ld192CiAgICAgICAgICAgICAgICB3b3JrX3F1ZXVlLmFwcGVuZCgodmFsdWUsIGYpKQogICAgICAgIGVsaWYgYWN0aW9uIGlzIG5vdCBOb25lOgogICAgICAgICAgICBhY3Rpb24oX3ByaW1pdGl2ZV90b191bmljb2RlKGFjdGl2ZSkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc3RvcmVfcm9vdChhY3RpdmUpCgogICAgcmV0dXJuIGRbJ3Jvb3QnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJpZCI6ICIzNzJhMGJmNy0xMGJmLTRjNGYtYWRlNi1jYzcyMDFkYTYwMWIiLAo=</text>
       </register>
-      <register name="1" type="8">
-        <text>    
-    
-    
-    
-    
-    </text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>    
-    
-    
-    
-    
-    
-    
-    
-    </text>
+      <register name="2" type="4">
+        <text>,</text>
       </register>
-      <register name="3" type="8">
-        <text>    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    </text>
+      <register name="3" type="4">
+        <text>: {</text>
       </register>
-      <register name="4" type="8">
-        <text>    
-    
-    
-    </text>
+      <register name="4" type="4">
+        <text>,</text>
       </register>
-      <register name="5" type="8">
-        <text>    
-    
-    
-    
-    
-    
-    
-    </text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImZ1bmN0aW9uIjogCg==</text>
       </register>
-      <register name="6" type="8">
-        <text>    
-    
-    
-    
-    
-    
-    
-    
-    
-    </text>
+      <register name="6" type="4">
+        <text>,</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5103,23 +5061,23 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text> </text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="4">
-        <text> </text>
+        <text encoding="base64">Ijog</text>
       </register>
       <register name="9" type="4">
-        <text> </text>
+        <text>id</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwpXD4=</last-search>
+      <last-search>events</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
+      <last-pattern>events</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -5127,7 +5085,6 @@
     </search>
     <history>
       <history-search>
-        <entry>server</entry>
         <entry>log_exception</entry>
         <entry>sentr</entry>
         <entry>sentry</entry>
@@ -5147,6 +5104,7 @@
         <entry encoding="base64">XDxtYXhfZXJyb3JfY291bnRcPg==</entry>
         <entry encoding="base64">XDxFUlJPUl9NQVhfUkVUUllcPg==</entry>
         <entry encoding="base64">XDwpXD4=</entry>
+        <entry>events</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -5165,9 +5123,9 @@
         <entry>1415</entry>
         <entry>156</entry>
         <entry>573</entry>
-        <entry>vsp</entry>
         <entry>w</entry>
         <entry>set paste</entry>
+        <entry>vsp</entry>
         <entry>1</entry>
       </history-cmd>
       <history-expr />
