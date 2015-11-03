@@ -40,15 +40,21 @@
       <file name="$USER_HOME$/Source/python/haregel/haregel/application.py" timestamp="1424434445035">
         <mark key="'" line="30" column="38" />
       </file>
+      <file name="$USER_HOME$/Source/platform/ruleset/tests/test_recipient.py" timestamp="1445520457458">
+        <mark key="'" line="58" column="23" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/python/haregel/env/lib/python2.7/site-packages/pika/connection.py" timestamp="1430307116938">
         <mark key="'" line="619" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11" timestamp="1446564551879">
-        <mark key="'" line="9" column="29" />
-        <mark key="[" line="18" column="58" />
-        <mark key="]" line="18" column="64" />
-        <mark key="^" line="18" column="64" />
-        <mark key="." line="18" column="64" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11" timestamp="1446569315273">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12" timestamp="1446565072909">
         <mark key="'" line="1637" column="27" />
@@ -723,7 +729,8 @@
       <file name="$USER_HOME$/opt/lib/python3.4/distutils/cmd.py" timestamp="1416188567247">
         <mark key="'" line="93" column="43" />
       </file>
-      <file name="/private/tmp/new.json" timestamp="1446564446921">
+      <file name="/private/tmp/new.json" timestamp="1446569354324">
+        <mark key="'" line="59" column="9" />
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
@@ -997,6 +1004,12 @@
       <file name="$USER_HOME$/opt/lib/python3.4/asyncore.py" timestamp="1423401242971">
         <mark key="'" line="439" column="17" />
       </file>
+      <file name="$USER_HOME$/Source/platform/ruleset/ruleset/schedule/action.py" timestamp="1445546799925">
+        <mark key="'" line="81" column="22" />
+        <mark key="[" line="103" column="28" />
+        <mark key="]" line="103" column="28" />
+        <mark key="." line="103" column="28" />
+      </file>
       <file name="$USER_HOME$/Source/work/sprockets.clients.amqp/env/lib/python3.4/site-packages/tornado/ioloop.py" timestamp="1442402140847">
         <mark key="'" line="800" column="64" />
       </file>
@@ -1142,9 +1155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="575" column="20" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/sessions.py" />
-      <jump line="355" column="22" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/adapters.py" />
-      <jump line="91" column="22" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/packages/urllib3/util/timeout.py" />
       <jump line="538" column="0" filename="$USER_HOME$/opt/lib/python2.7/socket.py" />
       <jump line="50" column="33" filename="$USER_HOME$/Source/platform/recipient_synchronization/recipient_synchronization.py" />
       <jump line="328" column="8" filename="$USER_HOME$/Source/platform/recipient_synchronization/env/lib/python2.7/site-packages/requests/sessions.py" />
@@ -1242,13 +1252,16 @@
       <jump line="962" column="27" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_12" />
       <jump line="1635" column="24" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_12" />
       <jump line="1637" column="27" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_12" />
+      <jump line="23" column="33" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_11" />
+      <jump line="27" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_11" />
+      <jump line="59" column="9" filename="/private/tmp/new.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CiAgICBkZWYgcmV2ZXJzZV91cmwoc2VsZiwgbmFtZSwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB1cmwgPSBzdXBlcihSZWFkaW5ncywgc2VsZikucmV2ZXJzZV91cmwobmFtZSwgKmFyZ3MpCiAgICAgICAgaWYga3dhcmdzLmdldCgnYWJzb2x1dGUnKToKICAgICAgICAgICAgdXJsID0gJ3swfTovL3sxfXsyfScuZm9ybWF0KHNlbGYucmVxdWVzdC5wcm90b2NvbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVxdWVzdC5ob3N0LCB1cmwpCiAgICAgICAgcmV0dXJuIHVybAoKICAgIGRlZiBnZXRfbG9naW5fdXJsKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnJldmVyc2VfdXJsKCdsb2dpbicsIGFic29sdXRlPVRydWUpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgYmluX3VzZXJfaWQgPSBzZWxmLmdldF9zZWN1cmVfY29va2llKCd1c2VyaWQnKQogICAgICAgIGlmIGJpbl91c2VyX2lkIGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gYmluX3VzZXJfaWQuZGVjb2RlKCd1dGYtOCcpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ruleset['events'][event_id],</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="j" type="4">
         <text>jkz}kkkkk</text>
@@ -3374,34 +3387,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ruleset['events'][event_id],</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
-        <text>recipient.subscribed</text>
+        <text encoding="base64">XDw1ZWY5NDEzNVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiOGY5Nzc4ZTMtZmE3ZC00Y2RlLWExNjUtZDA4NWU1N2M1ZGRjIjogewo=</text>
+        <text encoding="base64">ICAgICAgICBhY3RfaW5mbyA9IHJ1bGVzZXRbJ2FjdGlvbnMnXVthY3Rpb25faWRdLmNvcHkoKQogICAgICAgIGFjdF9pbmZvWydpZCddID0gYWN0aW9uX2lkCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>ruleset['events'][event_id],</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>{},</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb24gPSB7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>[</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>s</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2lkJzogYWN0aW9uX2lkLAo=</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>pass</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5043,31 +5056,30 @@
           <key char="122" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgXQo=</text>
+      <register name="7" type="4">
+        <text>ruleset['events'][event_id],</text>
       </register>
       <register name="8" type="4">
-        <text>[</text>
+        <text>{},</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgXQo=</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>recipient.subscribed</last-search>
+      <last-search encoding="base64">XDw1ZWY5NDEzNVw+</last-search>
       <last-offset />
-      <last-pattern>recipient.subscribed</last-pattern>
+      <last-pattern encoding="base64">XDw1ZWY5NDEzNVw+</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>-</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sentry</entry>
         <entry>DropMessage</entry>
         <entry encoding="base64">XDxfY2FsbF9odHRwX3NlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxSdWxlc2V0U2VhcmNoSGFuZGxlclw+</entry>
@@ -5087,9 +5099,9 @@
         <entry>events</entry>
         <entry>recipient.subscriber</entry>
         <entry>recipient.subscribed</entry>
+        <entry encoding="base64">XDw1ZWY5NDEzNVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>vs</entry>
         <entry>2</entry>
         <entry>22</entry>
         <entry>174</entry>
@@ -5109,6 +5121,7 @@
         <entry>sp</entry>
         <entry>w</entry>
         <entry>1</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
